@@ -1,3 +1,12 @@
+! Removes suggested videos
+facebook.com##[id^=hyperfeed_story_] > div:nth-of-type(2)
+! Circumvents people trying to hide their anti-adblock message, so let's dish out some punishment
+fotpforums.com
+! Remove share button
+www.youtube.com###top-level-buttons > ytd-button-renderer:nth-of-type(1)
+! Remove the button to remove a video from a playlist from video watch pages
+youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.dropdown-trigger)
+
 .instagram
 .main-single-slider-container
 .site-social-networks
@@ -443,11 +452,7 @@ express.co.uk
 extremereach.io
 facebook.com facebook.com * noop
 facebook.com facebook.net * noop
-! Removes suggested videos
-facebook.com##[id^=hyperfeed_story_] > div:nth-of-type(2)
 feministfrequency.com##.footer-support
-! Circumvents people trying to hide their anti-adblock message, so let's dish out some punishment
-fotpforums.com
 fotpforums.com###adblock-message
 futuramerlin.com##.btn-group-sm > .pull-left:nth-of-type(2)
 futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(2) > .button-small
@@ -1093,8 +1098,6 @@ www.youtube.com###-guide-item > .spf-nolink
 www.youtube.com###autoplay
 www.youtube.com###comment-section-renderer
 www.youtube.com###feed-main-what_to_watch
-! Remove share button
-www.youtube.com###top-level-buttons > ytd-button-renderer:nth-of-type(1)
 www.youtube.com###unlimited-guide-item
 www.youtube.com###watch-discussion
 www.youtube.com###watch-related
@@ -1102,8 +1105,6 @@ www.youtube.com##a[href^="http://naturebox.com/"]
 www7.soul-anime.us###googleplay
 yourfriendshouse.com##.footer-left
 yourfriendshouse.com###text-3 > .widget-title
-! Remove the button to remove a video from a playlist from video watch pages
-youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.dropdown-trigger)
 youtube.com###comments
 youtube.com###content > .ytd-metadata-row-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
 youtube.com###related
