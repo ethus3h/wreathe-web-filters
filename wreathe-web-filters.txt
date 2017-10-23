@@ -314,10 +314,6 @@ about.me##.upgrade-button
 adblockplus.me###download-layer
 addons.mozilla.org###contribute-button
 addons.mozilla.org###contribution
-addons.mozilla.org###contribution > .aux > .continue
-addons.mozilla.org###contribution > .aux > .suggestion
-addons.mozilla.org###contribution > .show-install
-addons.mozilla.org###contribution > h3
 allrecipes.com##.lo-smu-container
 amazon.com##[href^="http://aax-us-east.amazon-adsystem.com/"]
 amazon.com###amsSparkleAdBrandContainer
@@ -375,8 +371,6 @@ clientsfromhell.net###post-139416493558
 clientsfromhell.net###youtube_iframe
 clientsfromhell.net##a[href^="http://t.umblr.com/redirect"]
 clientsfromhell.net##iframe
-clientsfromhell.net##iframe[src^="http://www.clientsfromhellmail.net/"]
-clientsfromhell.net##iframe[src^="https://player.vimeo.com/"]
 clientsfromhell.net##img
 codeclimate.com##.ext_cta
 codeclimate.com##.new_private_repo
@@ -436,7 +430,6 @@ docs.google.com###punch-explore-widget
 duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result
 duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result:nth-of-type(2)
 easypxy.com###include
-elliotchandlernmd100.wordpress.com##.resource-upgrades
 ello.co##.Footer
 ello.co##.isSignUp
 ello.co##.Modal
@@ -444,8 +437,6 @@ ello.co##.NavbarLink:nth-of-type(1)
 emkei.cz##.sbold.tacenter.support
 emkei.cz###panel
 en.bookfi.net###vimsg
-en.wikipedia.org###frbanner-main
-en.wikipedia.org###frbanner-nag
 express.co.uk
 extremereach.io
 facebook.com facebook.com * noop
@@ -547,6 +538,8 @@ opensource.org##.region-header.region
 opensource.org###popup-announcement-overlay
 opensource.org###popup-announcement-wrap
 pastebin.com###abrpm > div
+photobucket.com##.modal-backdrop
+photobucket.com###myModal
 pinterest.com##.FullPageModal__scroller
 pinterest.com##.navPopout
 pinterest.com##div[style*="z-index: 1000;"]
@@ -560,8 +553,6 @@ readwrite.com##.rw-related-posts
 readwrite.com##.scroll.sidebar-cat > .columns
 readwrite.com##.single-loop-archive-grid-ajax
 readwrite.com###featured-hero-sidebar
-s73.photobucket.com##.modal-backdrop
-s73.photobucket.com###myModal
 scotch.io##.sign-up
 scotch.io##.sppre_ticker
 screenrant.com##.article:not(:nth-of-type(1))
@@ -682,7 +673,6 @@ us.macmillan.com###cboxOverlay
 us.macmillan.com###colorbox
 userscloud.com##[href^="https://userscloud.com/"]
 userscloud.com##[href^="https://userscloud.com/unlimited.htm"]
-ux.stackexchange.com###sidebar > .ad-container
 uxdesign.cc##.button--follow
 uxdesign.cc##.js-postFooterPlacements
 uxdesign.cc##.js-relationshipButton
@@ -697,8 +687,11 @@ w3schools.com
 webcache.googleusercontent.com###funbar
 weequizz.com
 who.is###name_purchase
+wikipedia.org###frbanner-main
+wikipedia.org###frbanner-nag
 wordpress.com##.guided-tours
 wordpress.com##.plan-features__table-item:not(:nth-of-type(1))
+wordpress.com##.resource-upgrades
 wordpress.com##.upgrade-nudge
 wordpress.com##.upgrades-nudge
 wordpress.com##.web-preview__seo-button
