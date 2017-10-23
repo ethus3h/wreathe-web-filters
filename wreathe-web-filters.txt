@@ -300,8 +300,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 
 500px.com##.signup_teaser_region
 500px.com###hellobar
-deviantart.com##.dev-meta-producttabs
-deviantart.com###oh-menu-upgrade
 80000hours.org##[id^=toggler]
 80000hours.org###header.slideDown
 80000hours.org##iframe
@@ -399,11 +397,18 @@ developer.mozilla.org##.notification-tray > .question.info.notification
 deviantart.com##.dev-meta-producttabs
 deviantart.com##.dev-right-bar-title
 deviantart.com##.deviation-mlt-preview-b
+deviantart.com##.gmbutton2 > div:nth-of-type(2)
+deviantart.com##.grf-indent > .text
 deviantart.com##.group_featured_list
 deviantart.com##.more-from-collection-preview
+deviantart.com##.new-set-button
 deviantart.com##.premium.user-symbol
+deviantart.com##.smbutton-textonly.smbutton:nth-of-type(2)
+deviantart.com##.stash-create
+deviantart.com##.submit-help-bubble
 deviantart.com###oh-menu-shop
 deviantart.com###oh-menu-upgrade
+deviantart.com###submit_as_print
 discordapp.com##.callout-backdrop
 discordapp.com##[class^=modal]
 distractify.com##.distractMe
@@ -431,13 +436,6 @@ docs.google.com###punch-explore-widget
 duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result
 duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result:nth-of-type(2)
 easypxy.com###include
-deviantart.com##.gmbutton2 > div:nth-of-type(2)
-deviantart.com##.grf-indent > .text
-deviantart.com##.new-set-button
-deviantart.com##.smbutton-textonly.smbutton:nth-of-type(2)
-deviantart.com##.stash-create
-deviantart.com##.submit-help-bubble
-deviantart.com###submit_as_print
 elliotchandlernmd100.wordpress.com##.resource-upgrades
 ello.co##.Footer
 ello.co##.isSignUp
