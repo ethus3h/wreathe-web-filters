@@ -238,8 +238,6 @@
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
-#2016-Nov-10: they're blocking the adblocker, so I guess I've just got to block their whole site
-#last.fm
 ||a.konachan.net$subdocument
 ||assets.time.com/images/*-900x50.png$image
 ||assets.time.com/images/*-promo-*.jpg$image
@@ -280,19 +278,21 @@
 ||www.philamuseum.org/images/spacer.gif$image
 ||www.useragents.com/root/app_common/img/top_logo_ua.png$image
 ||www.xbiz.com/images/controls2.png$image
+
+! ======== Whitelist entries to un-break sites ========
 ~github.com##[class^=social]
 ~intel.com##[class$="-cta"].btn
 ~library.umaine.edu##.slick-slider
 ~mac-torrent-download.net##.ad-box
 ~myanimelist.net##div[style][data-height]
 ~reddit.com##[class^=subscribe]
-! Breaks the site
 ~safaribooksonline.com##.subscribe-panel
 ~thedailywtf.com###article-feed
+
 500px.com##.signup_teaser_region
 500px.com###hellobar
-50an6xy06r6n.deviantart.com##.dev-meta-producttabs
-50an6xy06r6n.deviantart.com###oh-menu-upgrade
+deviantart.com##.dev-meta-producttabs
+deviantart.com###oh-menu-upgrade
 80000hours.org##[id^=toggler]
 80000hours.org###header.slideDown
 80000hours.org##iframe
