@@ -1,9 +1,3 @@
-! www.realmeye.com###e
-! www.realmeye.com###f
-!~youtube.com/*##.ytd-browse:nth-of-type(1)
-!2015dec27a28
-!libgen.pw##td:nth-of-type(1)
-!youtube.com/##.ytd-browse:nth-of-type(1)
 .instagram
 .main-single-slider-container
 .site-social-networks
