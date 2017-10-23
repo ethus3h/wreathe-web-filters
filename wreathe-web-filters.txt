@@ -1,13 +1,19 @@
+! ======== Complicated entries with comments ========
 ! Removes suggested videos
 facebook.com##[id^=hyperfeed_story_] > div:nth-of-type(2)
-! Circumvents people trying to hide their anti-adblock message, so let's dish out some punishment
-fotpforums.com
 ! Remove share button
 www.youtube.com###top-level-buttons > ytd-button-renderer:nth-of-type(1)
 ! Remove the button to remove a video from a playlist from video watch pages
 youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.dropdown-trigger)
 
+! ======== Web sites to block fully ========
+fotpforums.com
+
 ! ======== Whitelist entries to un-break sites ========
+@@|https:$other
+@@bb.courses.maine.edu/branding/*.css$first-party
+@@bb.courses.maine.edu/branding/*.js$first-party
+@@js.stripe.com$script,domain=appear.in
 ~github.com##[class^=social]
 ~intel.com##[class$="-cta"].btn
 ~library.umaine.edu##.slick-slider
@@ -16,21 +22,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ~reddit.com##[class^=subscribe]
 ~safaribooksonline.com##.subscribe-panel
 ~thedailywtf.com###article-feed
-@@|https:$other
-@@bb.courses.maine.edu/branding/*.css$first-party
-@@bb.courses.maine.edu/branding/*.js$first-party
-@@js.stripe.com$script,domain=appear.in
-
-! ======== Special rules ========
-* facebook.com * block
-* facebook.net * block
-* googletagservices.com * block
-* taboola.com * block
-* twitter.com * block
-*.twitter.com###stream-item-who_to_follow_entry-*
-*$media,domain=ign.com
-*$script,domain=last.fm
-*$script,domain=theatlantic.com
 
 ! ======== Global cosmetic filters ========
 .instagram
@@ -249,6 +240,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##a[href^="http://adtrack"]
 ##a[href^="http://w3schools.com"]
 ##a[href^="http://www.w3schools.com"]
+##a[href^="https://contribute.publicradio.org/contribute.php"]
 ##a[href^="https://www.patreon.com"]
 ##a[href^="https://www.w3schools.com"]
 ##a[href$="paypal.me/ameub"]
@@ -260,7 +252,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
-a[href^="https://contribute.publicradio.org/contribute.php"]
 
 ! ======== Network filters ========
 ||a.konachan.net$subdocument
@@ -304,6 +295,15 @@ a[href^="https://contribute.publicradio.org/contribute.php"]
 ||www.xbiz.com/images/controls2.png$image
 
 ! ======== Entries for specific sites ========
+* facebook.com * block
+* facebook.net * block
+* googletagservices.com * block
+* taboola.com * block
+* twitter.com * block
+*.twitter.com###stream-item-who_to_follow_entry-*
+*$media,domain=ign.com
+*$script,domain=last.fm
+*$script,domain=theatlantic.com
 500px.com##.signup_teaser_region
 500px.com###hellobar
 80000hours.org##[id^=toggler]
@@ -571,6 +571,7 @@ simpleprogrammer.com###tt-related-container
 simpleprogrammer.com###widget_thrive_tabs-2
 sometimes-interesting.com##.td_block_related_posts
 sometimes-interesting.com##footer
+soul-anime.us###googleplay
 sourceforge.net##.top3-widget
 sourceforge.net###nav-site
 sourceforge.net###scanned_by
@@ -1096,7 +1097,6 @@ www.youtube.com###unlimited-guide-item
 www.youtube.com###watch-discussion
 www.youtube.com###watch-related
 www.youtube.com##a[href^="http://naturebox.com/"]
-www7.soul-anime.us###googleplay
 yourfriendshouse.com##.footer-left
 yourfriendshouse.com###text-3 > .widget-title
 youtube.com###comments
