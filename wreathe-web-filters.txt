@@ -1,0 +1,3209 @@
+! 12/8/2015, 1:34:53 AM http://www.last.fm/user/forestflight
+||s.yimg.com/uq/syndication/
+
+! 12/10/2015, 3:21:38 AM https://www.groupon.com/coupons/stores/namecheap.com
+||img.grouponcdn.com/coupons/5qyF7GMAUywkUrcVBY2W/p7-200x200.jpg
+||img.grouponcdn.com/coupons/*
+
+! 12/10/2015, 8:19:10 PM http://pastebin.com/kjL4X6yT
+pastebin.com###abrpm > div
+
+! 12/11/2015, 11:11:48 PM https://en.wikipedia.org/wiki/Moore%27s_law
+en.wikipedia.org###frbanner-nag
+
+! 12/11/2015, 11:12:01 PM https://en.wikipedia.org/wiki/Moore%27s_law
+en.wikipedia.org###frbanner-main
+
+! 12/16/2015, 3:39:06 PM https://www.quora.com/What-is-the-story-behind-the-gregor-Facebook-Chat-emoticon
+www.quora.com###__w2_bhNgakl_background_wrapper > .vertical_alignment_wrapper
+
+! 12/19/2015, 3:49:21 AM https://www.paperrater.com/free_paper_grader
+||www.paperrater.com/images/grammarly/
+
+! 12/21/2015, 8:55:25 PM https://cse.google.com/cse/publicurl?cx=011108989229322380951:niu9fhcfr4q
+cse.google.com###gbq2
+
+! 2015dec27 Twitter who to follow
+twitter.com###stream-item-who_to_follow_entry-*
+www.twitter.com###stream-item-who_to_follow_entry-*
+*.twitter.com###stream-item-who_to_follow_entry-*
+
+!2015dec27a28
+twitter.com##[id^="stream-item-who_to_follow_entry-"]
+twitter.com##.wtf-module
+twitter.com##.Trends
+
+! 12/28/2015, 1:41:18 AM http://ux.stackexchange.com/questions/52898/is-it-recommended-to-play-a-sound-for-warning-and-error-messages?rq=1
+stackexchange.com###sidebar > .ad-container
+ux.stackexchange.com###sidebar > .ad-container
+
+! 12/30/2015, 9:18:45 PM https://twitter.com/
+twitter.com###stream-items-id > .after-expanded.js-prompt-layout-container.js-stream-item.PromptbirdPrompt-streamItem > .js-prompt-layout-content > .PromptbirdPrompt--inline.PromptbirdPrompt
+
+! 12/31/2015, 4:09:33 PM https://twitter.com/
+twitter.com###stream-items-id > .js-prompt-layout-container.js-stream-item.PromptbirdPrompt-streamItem
+
+! 1/5/2016, 1:23:56 AM https://www.quora.com/Which-piece-of-media-is-better-to-consume-while-stoned-out-of-ones-gourd-the-song-Friday-by-Rebecca-Black-or-the-film-Friday-featuring-Ice-Cube
+www.quora.com###__w2_khEVus5_contents > .signup_modal_content
+quora.com##[^id="_background_wrapper"]
+
+! 1/5/2016, 3:59:30 PM https://twitter.com/
+twitter.com###dashboard-profile-prompt
+
+! 1/6/2016, 5:22:02 PM https://torrentfreak.com/
+torrentfreak.com###sidebar > .widget_text.widg:nth-of-type(1)
+
+! 1/9/2016, 2:20:50 PM https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fen.glyphwiki.org%2Fwiki%2FGlyphWiki%3A%25E5%2589%258A%25E9%2599%25A4%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6&edit-text=
+translate.google.com###gb > .gb_g.gb_rc.gb_sc
+
+! 1/9/2016, 2:36:58 PM https://server55.web-hosting.com:2083/cpsess7543008672/frontend/x3/index.html
+server55.web-hosting.com###noticeboard > div:nth-of-type(2)
+
+! 1/12/2016, 8:41:58 PM https://jsfiddle.net/p2wpxg5h/1/
+jsfiddle.net###panel_html > .warningTooltip
+
+! 1/12/2016, 8:42:14 PM https://jsfiddle.net/p2wpxg5h/1/
+jsfiddle.net###panel_html > .warningTooltip
+
+! 1/15/2016, 8:25:27 PM http://www.ratemyprofessors.com/ShowRatings.jsp?tid=590666
+www.ratemyprofessors.com##.promotion
+
+! 1/19/2016, 1:10:09 AM https://who.is/whois/futuramerlin.com
+who.is###name_purchase
+
+! 1/23/2016, 10:57:39 PM https://webcache.googleusercontent.com/search?q=cache:c17MiVBI0d8J:https://www.wattpad.com/196312183-in-love-with-a-skeleton-undertale-chapter-two+&cd=2&hl=en&ct=clnk&gl=us&source=1
+webcache.googleusercontent.com###funbar
+
+! 1/25/2016, 3:10:45 AM http://stackoverflow.com/questions/21661398/how-is-table-cell-height-calculated
+stackoverflow.com###post-form
+
+! 1/28/2016, 3:23:18 AM https://twitter.com/NocturnalOwlie
+twitter.com##.WhoToFollow
+
+! 2/10/2016, 4:22:37 PM http://www.pornhub.com/
+www.pornhub.com###abAlert
+
+! 2/10/2016, 4:49:40 PM http://www.xvideos.com/video7852033/nylon_pantyhose_sensual_babe_strips_on_the_couch
+www.xvideos.com###mobilesquare
+
+! 2/13/2016, 4:06:42 PM http://abcnews.go.com/Business/nutrition-bottle-startup-soylent/story?id=36869934
+abcnews.go.com###abcn-videoplayer
+
+! 2/15/2016, 7:24:05 PM https://jsfiddle.net/nworypwc/1/
+jsfiddle.net###sidebar
+
+! 2/15/2016, 7:47:36 PM https://www.facebook.com/
+www.facebook.com###rightCol > *
+
+! 2/18/2016, 2:31:57 AM http://screenrant.com/hansel-and-gretel-witch-hunters-3d-reviews/
+screenrant.com##.site-header > .site-header-content > .nav-mob
+
+! 2/19/2016, 12:17:29 AM http://www.wired.com/2015/12/kevin-owocki-adblock-to-bitcoin/
+www.wired.com###prefooter
+
+! 2/19/2016, 12:17:42 AM http://www.wired.com/2015/12/kevin-owocki-adblock-to-bitcoin/
+www.wired.com###global-footer > .link-underline-micro.mob-pad-b-med.site-container.caption
+
+! 2/19/2016, 12:53:32 AM https://archive.org/details/OHM2013-Partyvan
+archive.org###also-found
+
+! 2/20/2016, 8:07:07 AM http://mp3clan.audio/mp3/fresh_earthquake.html
+mp3clan.audio###ad-track-title
+
+! 2/25/2016, 6:13:02 PM http://www.pixiv.net/member.php?id=212801
+www.pixiv.net###register-introduction-modal
+
+! 2/25/2016, 6:13:38 PM http://www.pixiv.net/member.php?id=212801
+www.pixiv.net###wrapper > .newindex > .introduction-container > .introduction > .newindex-message
+
+! 2/25/2016, 6:13:50 PM http://www.pixiv.net/member.php?id=212801
+www.pixiv.net###wrapper > .newindex > .introduction-container > .introduction > .newindex-signup
+
+! 3/5/2016, 10:49:56 PM http://futuramerlin.com/c/wp-admin/post.php?post=2773&action=edit
+futuramerlin.com###delete-action
+
+! 3/9/2016, 6:51:22 PM http://imslp.org/wiki/File:PMLP381967-Mirror_of_the_Soul_-_%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D1%82%D1%83%D1%80%D0%B0.pdf
+imslp.org###p-inassoc
+
+! 3/11/2016, 9:47:45 PM https://www.spotify.com/ca-en/account/overview/?utm_campaign=your_account&utm_medium=menu&utm_source=spotify
+www.spotify.com##.wrap > .content-wrapper > .container-jumbotron.container
+
+! 3/12/2016, 7:15:41 PM http://prairiehome.org/listen/live-broadcast/
+prairiehome.org##.site-container > .site-inner > .content-sidebar-wrap > .widget-area.sidebar-primary.sidebar
+
+! 3/12/2016, 7:17:07 PM http://prairiehome.org/listen/live-broadcast/
+a[href^="https://contribute.publicradio.org/contribute.php"]
+
+! 3/12/2016, 11:25:06 PM http://www.deleted.io/app
+www.deleted.io###donate-bar
+
+! 3/13/2016, 1:02:22 AM https://www.facebook.com/?ref=tn_tnmn
+www.facebook.com###wdmJewel
+
+! 3/13/2016, 3:24:53 PM http://stackoverflow.com/questions/33902844/how-to-fix-if-playback-doesnt-begin-shortly-try-restarting-your-device-using
+stackoverflow.com###noscript-warning
+
+! 3/13/2016, 6:48:17 PM https://twitter.com/
+twitter.com###page-container > .dashboard-left.dashboard
+
+! 3/14/2016, 12:49:49 PM http://binsearch.info/
+binsearch.info##.mt > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2)
+
+! 3/14/2016, 6:15:57 PM https://duckduckgo.com/html/
+duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result:nth-of-type(2)
+
+! 3/14/2016, 6:16:18 PM https://duckduckgo.com/html/
+duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result
+
+! 3/14/2016, 10:07:57 PM http://clientsfromhell.net/page/7
+clientsfromhell.net###post-139416493558
+
+! 3/15/2016, 11:52:56 AM http://thedailywtf.com/articles/encryption-by-analogy
+thedailywtf.com###articlePage > .articleWrapper.columns.twelve > .content > .row > .container > .article-body > div:nth-of-type(1)
+
+! 3/17/2016, 6:33:12 PM https://translate.google.com/
+translate.google.com###gb > .gb_g.gb_vc.gb_wc
+
+! 3/17/2016, 6:33:30 PM https://www.google.com/search?num=100&q=google+redirecting+to+google.ca&oq=google+redirecting+to+google.ca&gs_l=serp.3...0.0.0.1725.0.0.0.0.0.0.0.0..0.0....0...1c..64.serp..0.0.0.QJ1_aTlVLLE
+www.google.com###gbw > div > .gb_T.gb_5e.gb_R.gb_6e.gb_bb > .gb_R.gb_6e.gb_cc > .gb_g.gb_vc.gb_Od.gb_4c > .gb_g.gb_ga
+
+! 3/27/2016, 6:45:20 PM https://notalwaysright.com/thick-pea-soup-2/51978?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NotAlwaysRight+%28Not+Always+Right%29
+notalwaysright.com###main_content > .row > .span8 > .container_content > .featured_wrapper
+
+! 3/27/2016, 6:45:34 PM https://notalwaysright.com/thick-pea-soup-2/51978?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NotAlwaysRight+%28Not+Always+Right%29
+notalwaysright.com###meta_comments_wrapper
+
+! 3/30/2016, 8:50:30 PM https://www.freelancer.com/dashboard/
+www.freelancer.com###membership-launch-banner[href^="https://www.freelancer.com/membership/"]
+
+! 3/30/2016, 8:50:51 PM https://www.freelancer.com/dashboard/
+www.freelancer.com###newsfeed-invite-banner
+
+! 3/30/2016, 8:51:09 PM https://www.freelancer.com/dashboard/
+www.freelancer.com###dashboard-trial-upsell
+
+! 3/30/2016, 8:51:33 PM https://www.freelancer.com/dashboard/
+www.freelancer.com###right > .newsfeed-promotions-content > .user-details-wrap > .user-details.well > .welcome-note > .user-details-upgrade-btn.btn-small.btn-success.btn[href^="/payments/verify.php"]
+
+! 4/5/2016, 5:04:02 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+###hot-network-questions
+
+! 4/5/2016, 5:04:16 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+stackexchange.com###herobox
+askubuntu.com###herobox
+stackoverflow.com###herobox
+
+! 4/5/2016, 5:04:29 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+stackexchange.com##.topbar
+askubuntu.com##.topbar
+stackoverflow.com##.topbar
+
+! 4/5/2016, 5:05:28 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+stackexchange.com##.vote-down-off
+askubuntu.com##.vote-down-off
+stackoverflow.com##.vote-down-off
+
+! 4/5/2016, 5:05:38 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+stackexchange.com##.vote-up-off
+askubuntu.com##.vote-up-off
+stackoverflow.com##.vote-up-off
+
+! 4/5/2016, 5:06:51 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+stackexchange.com##.post-menu
+askubuntu.com##.post-menu
+stackoverflow.com##.post-menu
+
+! 4/5/2016, 5:07:38 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+stackexchange.com##.comments-link.js-add-link
+askubuntu.com##.comments-link.js-add-link
+stackoverflow.com##.comments-link.js-add-link
+
+! 4/5/2016, 5:08:34 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+stackexchange.com###post-form
+askubuntu.com###post-form
+stackoverflow.com###post-form
+
+! 4/5/2016, 5:08:47 PM http://puzzling.stackexchange.com/questions/30311/half-an-awful-haiku
+stackexchange.com###answers > .bottom-notice
+askubuntu.com###answers > .bottom-notice
+stackoverflow.com###answers > .bottom-notice
+
+! 4/5/2016, 5:09:38 PM http://worldbuilding.stackexchange.com/questions/39469/teaching-people-not-to-ask-gods-for-help
+###noscript-warning
+
+! 4/5/2016, 7:24:24 PM https://www.tracfone.com/direct/Purchase?payGo=true&app=TRACFONE&lang=en
+www.tracfone.com###colorbox
+
+! 4/5/2016, 7:27:44 PM http://www.retailmenot.com/view/tracfone.com
+www.retailmenot.com###modal-overlay
+
+! 4/5/2016, 7:27:54 PM http://www.retailmenot.com/view/tracfone.com
+www.retailmenot.com##.modal-content
+
+! 4/5/2016, 7:28:10 PM http://www.retailmenot.com/view/tracfone.com
+www.retailmenot.com###quick-feedback
+
+! 4/5/2016, 11:30:57 PM http://easypxy.com/browse.php?u=H8Sl4dXsx5725ws4HyeV9GUDR2h%2BNTQTlR7lWIajeaz9gg%3D%3D&b=2
+easypxy.com###include
+
+! 4/8/2016, 7:57:34 PM http://bitsnoop.com/tracksift-1-2-3-intel-k-q57551806.html
+bitsnoop.com###pages
+
+! 4/11/2016, 2:59:36 PM http://www.makeuseof.com/tag/really-need-eject-flash-drive-device-removing/
+www.makeuseof.com###sidebar
+
+! 4/11/2016, 2:59:59 PM http://www.makeuseof.com/tag/really-need-eject-flash-drive-device-removing/
+www.makeuseof.com###wrapper > .container > .nolinks.rightcol
+
+! 4/11/2016, 3:05:22 PM http://www.theverge.com/2014/10/5/6910791/least-useful-hack-ever-puts-windows-95-on-your-smartwatch
+www.theverge.com##.l-container > .l-page > .p-entry-nav
+
+! 4/11/2016, 3:05:37 PM http://www.theverge.com/2014/10/5/6910791/least-useful-hack-ever-puts-windows-95-on-your-smartwatch
+www.theverge.com###header > .m-big-stories
+
+! 4/11/2016, 3:05:49 PM http://www.theverge.com/2014/10/5/6910791/least-useful-hack-ever-puts-windows-95-on-your-smartwatch
+www.theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__sidebar
+
+! 4/11/2016, 3:06:11 PM http://www.theverge.com/2014/10/5/6910791/least-useful-hack-ever-puts-windows-95-on-your-smartwatch
+www.theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__content > .-has-border.breaker.product.basic.m-carousel
+
+! 4/11/2016, 3:06:22 PM http://www.theverge.com/2014/10/5/6910791/least-useful-hack-ever-puts-windows-95-on-your-smartwatch
+www.theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__content > .m-linkset-list.m-linkset
+
+! 4/11/2016, 3:06:35 PM http://www.theverge.com/2014/10/5/6910791/least-useful-hack-ever-puts-windows-95-on-your-smartwatch
+www.theverge.com##.l-container > .l-page > .m-article.m-entry > .m-linkset
+
+! 4/12/2016, 1:34:18 AM https://www.git-tower.com/blog/history-of-osx/
+www.git-tower.com##.wrap-header-branding
+
+! 5/8/2016, 1:16:58 PM http://www.smarty.net/
+www.smarty.net###wrapper > .colAdditional.col
+
+! 5/14/2016, 10:54:20 PM https://www.google.com/search?q=drake+over&ie=utf-8&oe=utf-8
+www.google.com###gbw > div > .gb_T.gb_gf.gb_R.gb_hf.gb_cb > .gb_R.gb_hf.gb_dc > .gb_g.gb_wc.gb_yc.gb_xc > .gb_g.gb_ga
+
+! 5/20/2016, 8:35:38 PM http://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=neotame&_sacat=0
+www.ebay.com##.nojs
+
+! 5/22/2016, 11:01:14 PM https://simpleprogrammer.com/2013/12/09/wrong-javascript-responsive-design/
+simpleprogrammer.com##.flex-cnt > .p-s.cnt.wrp > .bSeCont > .left.bSe > .scbg
+
+! 5/22/2016, 11:08:36 PM https://simpleprogrammer.com/2013/12/09/wrong-javascript-responsive-design/
+simpleprogrammer.com###tt-related-container
+
+! 5/22/2016, 11:08:52 PM https://simpleprogrammer.com/2013/12/09/wrong-javascript-responsive-design/
+simpleprogrammer.com###widget_thrive_tabs-2
+
+! 6/20/2016, 6:20:42 PM http://linuxreviews.org/gentoo/ebuilds/
+linuxreviews.org##table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > table:nth-of-type(4)
+
+! 6/26/2016, 3:07:07 AM https://www.pinterest.com/pin/497577458808566811/?from_navigate=true
+www.pinterest.com##.showingCloseup.unauth.full.Module.AppBase.App > .Module.ModalManager
+
+! 6/28/2016, 7:38:44 PM https://bitsnoop.com/search/all/yamborghini/c/d/1/
+bitsnoop.com###vpnBar
+
+! 6/28/2016, 7:38:51 PM https://bitsnoop.com/search/all/yamborghini/c/d/1/
+bitsnoop.com###sidebar > .small.rounded
+
+! 6/30/2016, 2:17:21 AM http://myanimelist.net/anime/10611/R-15
+myanimelist.net###headerSmall > .banner-header-anime-straming
+
+! 7/2/2016, 6:26:33 AM http://www.snopes.com/photos/automobiles/syriatruck.asp#report-ad
+www.snopes.com###main-content-well > .content-wrapper > article > .article-body > .article-text > .article-text > .body-ad-wrapper
+
+! 7/2/2016, 6:33:59 AM http://youtubeloop.net/#donation
+youtubeloop.net###contytPlayer1 > .center-block > .center-block.ytContaner > .btn-group-wrap
+
+! 7/2/2016, 6:34:10 AM http://youtubeloop.net/#donation
+youtubeloop.net##.white.container-fluid > .container
+
+! 7/2/2016, 6:34:19 AM http://youtubeloop.net/#donation
+youtubeloop.net###floatingSocialShare > .top-left > .pop-upper.tumblr
+
+! 7/2/2016, 6:34:36 AM http://youtubeloop.net/#donation
+youtubeloop.net###contytPlayer1 > .center-block > .self-link-cont.center-block > .s-icon.amazon-icon
+
+! 7/2/2016, 6:35:02 AM http://youtubeloop.net/#donation
+youtubeloop.net###dvPlayerBar > .btn-group:nth-of-type(6)
+
+! 7/4/2016, 2:46:39 AM https://www.amazon.com/gp/cart/view.html/ref=nav_cart
+www.amazon.com###sc-new-upsell
+
+! 7/4/2016, 3:40:12 AM https://www.amazon.com/dp/B00IHCJY5A
+www.amazon.com###addServices_feature_div
+
+! 7/4/2016, 4:49:59 AM http://techniciandiary.com/get-free-edu-email-address/
+techniciandiary.com###ltr-bottom-pop > .optin-floatin.optin-3
+
+! 7/8/2016, 11:19:40 AM https://translate.google.com/#auto/en/Oey%20Yong%20sambar%20tiamsim%20itu.%20%22Aku%20bisa%20makan!%22%20katanya.%20%0A%22Aku%20doyan!%22%20%0A%0ASelagi%20si%20bocah%20tercengang%2C%20Oey%20Yong%20sudah%20menggayem%20%0Atiamsim%20itu.%20%0A%0AKwee%20Ceng%20mengawasi%2C%20sampai%20ia%20mendadak%20menjadi%20%0Aheran%20sekali.%20Oey%20Yong%20dahar%20tiamsim%20itu%2C%20lantas%20perlahan-%20%0Alahan%20matanya%20menjadi%20merah%2C%20lalu%20air%20matanya%20perlahan-%20%0Alahan%20mengalir%20turun...%20%0A%0A%22Begitu%20aku%20dilahirkan%2C%20aku%20sudah%20tidak%20punya%20ibu%2C%22%20berkata%20%0AOey%20Yong%20yang%20dapat%20membade%20pikirannya%20sahabatnya.%20%0A%22Seumurku%2C%20belum%20pernah%20ada%20orang%20yang%20ingat%20aku%20seperti%20%0Akau%20ini...%22%20%0A%0AAir%20matanya%20mengalir%20deras%2C%20ia%20keluarkan%20sapu%20tangannya%20%0Aang%20putih%20bersih.%20%0A%0AKwee%20Ceng%20menyangka%20orang%20hendak%20menyusuti%20air%20%0Amatanya%2C%20tak%20tahunya%20dengan%20cara%20hati-hati%20nona%20itu%20bungkus%20%0Asisa%20tiamsim%20yang%20kemudian%20ia%20masuki%20ke%20dalam%20sakunya.%20%0A%22Aku%20akan%20dahar%20ini%20perlahan-lahan...%22%20katanya%2C%20dan%20kali%20ini%20ia%20%0Atertawa.%20%0A%0ABenar-benar%20aneh%20kelakuan%20bocah%20wanita%20ini%2C%20Kwee%20Ceng%20%0Aasing%20betul%20dengan%20tingkah%20lakunya%20ini%20%22Oey%20Hiantee%22.%20%0A%0A%22Bilangnya%20ada%20urusan%20penting%20yang%20kau%20hendak%20bicarakan%20%0Adengan%20aku%2C%20urusan%20apakah%20itu%3F%22%20kemudian%20ia%20tanya.%20la%20sudah%20%0Alantas%20ingat%20surat%20si%20nona%20dan%20untuk%20apa%20ia%20datang%20ke%20telaga%20%0Aini.
+translate.google.com###gt-ft-res
+
+! 7/13/2016, 1:23:03 PM https://www.youtube.com/
+www.youtube.com##.generic-promo-impression-logging
+
+! 7/13/2016, 8:32:41 PM http://prairiehome.org/shows/july-2-2016/
+prairiehome.org###menu-item-87
+
+! 7/16/2016, 10:43:08 AM https://addons.mozilla.org/en-US/firefox/addon/tab-popup/contribute/roadblock/?src=userprofile&version=1.2.3.1-signed.1-signed
+addons.mozilla.org###contribute-button
+
+! 7/16/2016, 10:43:17 AM https://addons.mozilla.org/en-US/firefox/addon/tab-popup/contribute/roadblock/?src=userprofile&version=1.2.3.1-signed.1-signed
+addons.mozilla.org###contribution > .aux > .suggestion
+
+! 7/16/2016, 10:43:26 AM https://addons.mozilla.org/en-US/firefox/addon/tab-popup/contribute/roadblock/?src=userprofile&version=1.2.3.1-signed.1-signed
+addons.mozilla.org###contribution > .aux > .continue
+
+! 7/16/2016, 10:43:40 AM https://addons.mozilla.org/en-US/firefox/addon/tab-popup/contribute/roadblock/?src=userprofile&version=1.2.3.1-signed.1-signed
+addons.mozilla.org###contribution > h3
+
+! 7/16/2016, 10:43:48 AM https://addons.mozilla.org/en-US/firefox/addon/tab-popup/contribute/roadblock/?src=userprofile&version=1.2.3.1-signed.1-signed
+addons.mozilla.org###contribution > .show-install
+
+! 7/18/2016, 2:06:48 AM http://minetest.com/items-list/
+minetest.com###leftcontainerBox
+
+! 7/18/2016, 2:36:57 PM http://us.macmillan.com/americantranscendentalism/philipfgura
+||us.macmillan.com/static/popovers/his/index.html$subdocument
+
+! 7/18/2016, 2:37:06 PM http://us.macmillan.com/americantranscendentalism/philipfgura
+us.macmillan.com###cboxLoadedContent
+
+! 7/18/2016, 2:37:19 PM http://us.macmillan.com/americantranscendentalism/philipfgura
+us.macmillan.com###colorbox
+
+! 7/18/2016, 2:37:28 PM http://us.macmillan.com/americantranscendentalism/philipfgura
+us.macmillan.com###cboxOverlay
+
+! 7/22/2016, 11:37:15 AM http://libgen.io/ads.php?md5=97A470F722ABAEAEA71E7CBB430A57A0
+libgen.io###message
+
+! 7/22/2016, 1:37:07 PM https://distrowatch.com/
+distrowatch.com##.Logo > tbody > tr > td:nth-of-type(3) > table:nth-of-type(1) > tbody
+
+! 7/22/2016, 1:37:19 PM https://distrowatch.com/
+distrowatch.com##.Logo > tbody > tr > td:nth-of-type(1) > table:nth-of-type(1)
+
+! 7/22/2016, 1:38:28 PM https://distrowatch.com/
+||distrowatch.com/images/k/*$image
+
+! 22/07/2016, 22:52:22 https://distrowatch.com/table.php?distribution=estrellaroja
+||distrowatch.com/images/cpxtu/ucs4.png$image
+
+! 22/07/2016, 22:56:13 https://distrowatch.com/dwres.php?resource=submit
+distrowatch.com##.NavLogo > tbody > tr > td:nth-of-type(2)
+
+! 22/07/2016, 22:56:39 https://distrowatch.com/
+distrowatch.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table:nth-of-type(3)
+
+! 22/07/2016, 22:56:59 https://distrowatch.com/
+distrowatch.com##.Logo > tbody > tr > td:nth-of-type(1) > .News:nth-of-type(4)
+
+! 22/07/2016, 22:57:15 https://distrowatch.com/
+distrowatch.com##.Logo > tbody > tr > td:nth-of-type(1)
+
+! 22/07/2016, 22:57:29 https://distrowatch.com/
+distrowatch.com##.Logo > tbody > tr > td:nth-of-type(3)
+
+! 22/07/2016, 22:57:44 https://distrowatch.com/
+distrowatch.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > .NavMenu:nth-of-type(3)
+
+! 22/07/2016, 22:58:14 https://distrowatch.com/
+distrowatch.com##a[href="http://www.excel-easy.com/introduction/formulas-functions.html"]
+
+! 22/07/2016, 22:58:26 https://distrowatch.com/
+distrowatch.com##font
+
+! 22/07/2016, 22:58:38 https://distrowatch.com/
+distrowatch.com##a[href="http://www.excel-easy.com/data-analysis/analysis-toolpak.html"]
+
+! 22/07/2016, 22:58:46 https://distrowatch.com/
+distrowatch.com##a[href="http://www.excel-easy.com/data-analysis/charts.html"]
+
+! 22/07/2016, 22:58:53 https://distrowatch.com/
+distrowatch.com##a[href="http://www.excel-easy.com/"]
+
+! 22/07/2016, 22:59:38 https://distrowatch.com/dwres.php?resource=links#new
+distrowatch.com##.NavLogo > tbody > tr > td:nth-of-type(2)
+
+! 22/07/2016, 23:01:40 https://distrowatch.com/dwres.php?resource=links#new
+distrowatch.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table:nth-of-type(3)
+
+! 22/07/2016, 23:01:58 https://distrowatch.com/dwres.php?resource=links#new
+distrowatch.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > .NavMenu:nth-of-type(3)
+
+! 23/07/2016, 12:09:50 http://goldendict.org/
+goldendict.org###x_help
+
+! 23/07/2016, 12:10:06 http://goldendict.org/
+goldendict.org###content > .post:nth-of-type(3)
+
+! 7/27/2016, 8:31:18 PM http://www.tecmint.com/linux-terminal-emulators/
+www.tecmint.com###dgd_scrollbox-11027
+
+! 7/27/2016, 8:34:33 PM http://www.tecmint.com/linux-terminal-emulators/
+www.tecmint.com###page > .container-inner > .main > .group.main-inner > .content > .group.pad:nth-of-type(2) > .after-post-box
+
+! 7/28/2016, 7:02:32 PM http://www.mediafire.com/download/2cazj7gbd3p9hju/compiz_crash-6391.out.7z
+||cdnssl.mediafire.com/images/icons/ajax-loader-sm-round.gif$image
+
+! 7/28/2016, 7:02:47 PM http://www.mediafire.com/download/2cazj7gbd3p9hju/compiz_crash-6391.out.7z
+||cdnssl.mediafire.com/images/icons/ajax-loader-sm-round.gif$image
+
+! 29/07/2016, 09:13:57 https://maine-csm.symplicity.com/students/index.php?s=home
+maine-csm.symplicity.com###optinmsg_c
+
+! 29/07/2016, 09:14:12 https://maine-csm.symplicity.com/students/index.php?s=home
+maine-csm.symplicity.com###optinmsg_mask
+
+! 29/07/2016, 16:28:16 https://github.com/postcss/postcss#usage
+github.com###readme > a[href^="https://evilmartians.com/"]
+
+* facebook.com * block
+* facebook.net * block
+* googletagservices.com * block
+* taboola.com * block
+* twitter.com * block
+facebook.com facebook.com * noop
+facebook.com facebook.net * noop
+twitter.com twitter.com * noop
+||tiles.services.mozilla.com^$domain=behind-the-scene
+##div.serp-adv-item
+
+! 31/07/2016, 09:04:09 http://time.com/4431176/jay-z-dj-khaled-major-key/
+##ad-blocker-modal
+
+! 31/07/2016, 09:04:23 http://time.com/4431176/jay-z-dj-khaled-major-key/
+time.com##.site-footer
+
+! 31/07/2016, 10:45:03 http://bookriot.com/2014/08/13/35-harry-potter-covers-including-new-ones/
+bookriot.com###top-alt-content\ random_content_pro_widget-3 > .random-content-pro-wrapper
+
+! 01/08/2016, 19:03:23 http://meetfranz.com/#download
+meetfranz.com##.newsletter-floating.newsletter-container.section.container
+
+! 8/2/2016, 9:17:51 PM https://bitbucket.org/nikratio/s3ql/overview
+bitbucket.org###signup-banner
+
+! 8/5/2016, 8:38:16 AM https://imgur.com/gallery/xDHOS
+imgur.com###inside > .post-pad.left > .post-container > .animation-finished.animate.fixed.post-header
+
+! 05/08/2016, 14:54:38 https://www.amazon.com/Monitors-Computers-Accessories/b/ref=sn_gfs_co_Monitors_VS_1292115011_1?ie=UTF8&node=1292115011&pf_rd_p=743c1707-1304-4120-b16c-428cd8fbbb08&pf_rd_r=DF7EKW24P8NT2MTJFRFF&pf_rd_s=pc-subnav-flyout-content-4&pf_rd_t=SubnavFlyout
+||images-na.ssl-images-amazon.com/images/G/01/acs/amazon-designer/2016/07/21/DURM-258E98058681EEU8._CB283315694_.png$image
+
+! 05/08/2016, 14:57:16 https://www.amazon.com/gp/search/other/ref=lp_1292115011_sa_p_n_feature_keywords?rh=n%3A172282%2Cn%3A%21493964%2Cn%3A541966%2Cn%3A1292115011&bbn=1292115011&pickerToList=feature_keywords_browse-bin&ie=UTF8&qid=1470423192#nav-top
+www.amazon.com###nav-link-prime
+
+! 07/08/2016, 14:05:54 https://developer.mozilla.org/en-US/Firefox/Developer_Edition
+developer.mozilla.org##.notification-tray > .question.info.notification
+
+! 07/08/2016, 14:42:42 https://gist.github.com/
+gist.github.com###new_gist > .container.edit > .form-actions > .tooltipped-s.tooltipped.js-gist-create.btn-secret.btn
+
+! 8/8/2016, 4:24:15 PM http://money.cnn.com/2013/12/10/news/companies/bernard-madoff-ponzi/
+money.cnn.com###smartassetcontainer
+
+! 8/8/2016, 9:12:57 PM https://addons.mozilla.org/en-US/firefox/addon/all-in-one-sidebar/?src=collection&collection_id=cca22a9a-ffab-e660-defa-d302cc263a37
+addons.mozilla.org###contribution
+
+! 8/9/2016, 12:34:02 PM http://www.linux.org/threads/the-linux-kernel-configuring-the-kernel-part-1.4274/
+www.linux.org###content > .pageWidth > .pageContent > div:nth-of-type(2) > a[href="https://m.do.co/c/10b82948a627"]
+
+! 8/9/2016, 4:13:48 PM http://www.acmeportable.com/
+www.acmeportable.com###cover
+
+! 8/9/2016, 4:58:49 PM http://www.bbc.com/news/election-us-2016-37029170
+www.bbc.com###media-player-1 > div > div
+
+amazon.com##a[href^='/gp/slredirect/picassoRedirect.html']
+amazon.com##[href^="http://aax-us-east.amazon-adsystem.com/"]
+amazon.com###amsSparkleAdBrandContainer
+amazon.com###amsSparkleAdWrapper
+
+! 8/10/2016, 6:14:56 PM http://www.globalspec.com/MyGlobalSpec/NewProfile?forcetok=1&GoToUrl=http%3A%2F%2Fwww%2Eglobalspec%2Ecom%2Fspecsearch%2Fpartspecs%3FpartId%3D%7BEE8F910C%2D720B%2D464A%2D86E9%2D4B6897442CB7%7D%26vid%3D364941%26comp%3D2813&areaId=2813
+www.globalspec.com###registrationPopUpContainer
+
+! 8/10/2016, 6:15:14 PM http://www.globalspec.com/MyGlobalSpec/NewProfile?forcetok=1&GoToUrl=http%3A%2F%2Fwww%2Eglobalspec%2Ecom%2Fspecsearch%2Fpartspecs%3FpartId%3D%7BEE8F910C%2D720B%2D464A%2D86E9%2D4B6897442CB7%7D%26vid%3D364941%26comp%3D2813&areaId=2813
+www.globalspec.com###main-content > .reg-wallpaper-container > .registrationWrapper
+
+! 8/10/2016, 6:16:46 PM http://www.globalspec.com/productfinder/electrical_electronic_components
+www.globalspec.com###overlay
+
+! 8/10/2016, 6:16:56 PM http://www.globalspec.com/productfinder/electrical_electronic_components
+www.globalspec.com###newsletter-cta
+
+! 8/10/2016, 10:42:00 PM http://www.ebags.com/category/backpacks/o/most-durable/f/rolling
+www.ebags.com##.in.fade.modal-backdrop
+
+! 8/13/2016, 8:19:40 AM https://www.youtube.com/watch?v=fRh_vgS2dFE&index=5&list=PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj
+www.youtube.com##.videoblocker
+
+! 13/08/2016, 21:46:06 https://support.mozilla.org/en-US/kb/accessibility-features-firefox-make-firefox-and-we
+support.mozilla.org###tabzilla-infobar
+
+! 13/08/2016, 21:46:14 https://support.mozilla.org/en-US/kb/accessibility-features-firefox-make-firefox-and-we
+support.mozilla.org###tabzilla-panel
+
+! 13/08/2016, 21:46:42 https://www.mozilla.org/en-US/firefox/new/
+www.mozilla.org###masthead > .version-message-container
+
+! 8/17/2016, 11:29:12 AM http://libgen.io/ads.php?md5=516906FFD5D5A8A0C6FDF0404766ADCC
+libgen.io/ads.php##table > tbody > tr > td:nth-of-type(2)
+
+! 8/17/2016, 11:29:20 AM http://libgen.io/ads.php?md5=516906FFD5D5A8A0C6FDF0404766ADCC
+libgen.io/ads.php##table > tbody > tr > td:nth-of-type(1)
+
+! 8/17/2016, 6:16:46 PM https://freenode.net/news/registering-a-channel-on-freenode
+||freenode.net/static/img/logos/PIALogo_white.svg$image
+
+! 8/18/2016, 9:24:14 PM https://youtube.adblockplus.me/
+adblockplus.me###download-layer
+
+! 8/19/2016, 6:17:25 PM http://imslp.org/wiki/18_Chorale_Preludes,_BWV_651-668_(Bach,_Johann_Sebastian)
+imslp.org##.imslpd_purchase
+
+! 8/19/2016, 7:10:42 PM http://imslp.org/wiki/18_Chorale_Preludes,_BWV_651-668_%28Bach,_Johann_Sebastian%29
+imslp.org###mw-panel > .collapsed.portal:nth-of-type(7) > .donate_button
+
+! 8/19/2016, 7:10:54 PM http://imslp.org/wiki/18_Chorale_Preludes,_BWV_651-668_%28Bach,_Johann_Sebastian%29
+imslp.org###p-sidebar-iapp
+
+! 8/19/2016, 7:11:03 PM http://imslp.org/wiki/18_Chorale_Preludes,_BWV_651-668_%28Bach,_Johann_Sebastian%29
+imslp.org###p-sidebar-purchase
+
+! 8/19/2016, 7:11:23 PM http://imslp.org/wiki/18_Chorale_Preludes,_BWV_651-668_%28Bach,_Johann_Sebastian%29
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=$domain=imslp.org,image
+
+! 8/19/2016, 9:15:41 PM http://www.experts123.com/q/what-does-it-mean-when-i-see-notice-ts-for-channel-changed-from-1300123123-to-1255123123.html
+www.experts123.com##.ui-front.ui-widget-overlay
+
+! 8/19/2016, 9:15:51 PM http://www.experts123.com/q/what-does-it-mean-when-i-see-notice-ts-for-channel-changed-from-1300123123-to-1255123123.html
+www.experts123.com###new-marketing-signup-dialog
+
+! 8/19/2016, 9:16:13 PM http://www.experts123.com/q/what-does-it-mean-when-i-see-notice-ts-for-channel-changed-from-1300123123-to-1255123123.html
+www.experts123.com###question-feedback-container
+
+! 8/20/2016, 12:31:52 PM https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=57562
+www.dmt-nexus.me##.Ad_DivContainer
+
+! 8/21/2016, 7:01:46 PM http://stackshare.io/stackups/slack-vs-gitter
+stackshare.io###signingoogleModal
+
+! 8/21/2016, 7:01:56 PM http://stackshare.io/stackups/slack-vs-gitter
+stackshare.io##.in.modal-backdrop
+
+! 8/21/2016, 7:02:14 PM http://stackshare.io/stackups/slack-vs-gitter
+stackshare.io###stackup-sponsor-rollbar
+
+! 8/23/2016, 8:06:10 AM http://www.huffingtonpost.com/entry/trump-campaign-rent_us_57bba424e4b03d51368a82b9
+www.huffingtonpost.com###us_57bba424e4b03d51368a82b9 > .entry__container > .js-entry-content.entry__content > .js-entry-body.entry__body > .js-highlight.share-bar-highlight
+
+! 8/23/2016, 8:18:36 AM http://www.newsweek.com/donald-trump-god-christianity-evangelicals-492385
+www.newsweek.com##.trial-link
+
+! 8/24/2016, 6:32:25 PM http://www.recipetips.com/glossary-term/t--38843/name-yam.asp
+www.recipetips.com##.rtJqibox
+
+! 8/25/2016, 10:49:59 AM http://www.bookstore.umaine.edu/
+www.bookstore.umaine.edu###carouseljek
+
+! 8/25/2016, 10:50:28 AM http://www.bookstore.umaine.edu/
+www.bookstore.umaine.edu###CatContent-home > font > table > tbody > tr > td:nth-of-type(2) > a[href="https://www.facebook.com/UMaineBookstore/"]
+
+! 8/25/2016, 10:51:38 AM http://www.bookstore.umaine.edu/ePOS?form=shared3/gm/merch.html&cat=266&store=411&design=411
+www.bookstore.umaine.edu##img[src="/webitemimages/411/Images/textbook_shopping_header_944x177.jpg"]
+
+! 8/25/2016, 10:55:15 AM http://www.bookstore.umaine.edu/ePOS
+www.bookstore.umaine.edu##a[href="https://www.facebook.com/UMaineBookstore/"]
+
+! 8/25/2016, 3:54:24 PM https://commons.wikimedia.org/wiki/Commons:Bad_sources
+commons.wikimedia.org###centralNotice
+
+! 8/26/2016, 10:10:09 AM https://hollywoodlife.com/2015/05/15/selena-gomez-reaction-zedd-new-song-beautiful-now-about-her-truth/
+hollywoodlife.com##.jw-rightclick
+
+! 8/26/2016, 12:49:31 PM https://www.dropbox.com/s/fbox05qrjho22bf/Go%20to%20DaBoss%20Channel%20for%20help.zip?dl=0
+www.dropbox.com##.register-form-component
+
+! 8/26/2016, 12:49:50 PM https://www.dropbox.com/s/fbox05qrjho22bf/Go%20to%20DaBoss%20Channel%20for%20help.zip?dl=0
+www.dropbox.com##.bright-modal-logo
+
+! 8/26/2016, 12:51:34 PM https://www.dropbox.com/s/fbox05qrjho22bf/Go%20to%20DaBoss%20Channel%20for%20help.zip?dl=0
+||cfl.dropboxstatic.com/static/images/header/header_logo_shmodel-vflsZ7QsE.png$image
+
+! 8/26/2016, 12:52:22 PM https://www.dropbox.com/s/fbox05qrjho22bf/Go%20to%20DaBoss%20Channel%20for%20help.zip?dl=0
+www.dropbox.com##.react-title-bar__title-wrap
+
+! 8/26/2016, 12:52:46 PM https://www.dropbox.com/s/fbox05qrjho22bf/Go%20to%20DaBoss%20Channel%20for%20help.zip?dl=0
+www.dropbox.com##.sign-in-link
+
+! 8/26/2016, 12:53:12 PM https://www.dropbox.com/s/fbox05qrjho22bf/Go%20to%20DaBoss%20Channel%20for%20help.zip?dl=0
+www.dropbox.com##.bubble-menu-item-wrapper:nth-of-type(2)
+
+! 8/26/2016, 12:53:53 PM https://www.dropbox.com/
+www.dropbox.com##.header-text
+
+! 8/26/2016, 12:54:15 PM https://www.dropbox.com/
+www.dropbox.com##.sign-up--responsive
+
+! 8/26/2016, 12:54:39 PM https://www.dropbox.com/
+www.dropbox.com##.features-container
+
+! 8/26/2016, 12:54:51 PM https://www.dropbox.com/
+www.dropbox.com##.try-dropbox-cta
+
+! 8/28/2016, 11:18:39 AM https://www.youtube.com/watch?v=CvBvfZw-9uE
+###movie_player > .ytp-show-tiles
+
+! 8/28/2016, 11:52:36 AM http://claynewsnetwork.com/2009/03/glaad-for-clay-aiken/
+claynewsnetwork.com###itro_opaco
+
+! 8/28/2016, 11:52:46 AM http://claynewsnetwork.com/2009/03/glaad-for-clay-aiken/
+claynewsnetwork.com###itro_popup
+
+! 8/28/2016, 11:53:17 AM http://claynewsnetwork.com/2009/03/glaad-for-clay-aiken/
+claynewsnetwork.com##.boom_bar
+
+! 8/28/2016, 3:13:30 PM http://www.perfectdailygrind.com/2015/01/why-you-shouldnt-drink-instantand-why-i-hate-it/
+##.midbar-ad
+
+! 8/28/2016, 3:29:25 PM https://noisey.vice.com/blog/black-eyed-peas-commit-hip-hop-blasphemy-with-their-video-for-yesterday
+##.recommended-articles
+
+! 8/28/2016, 3:30:31 PM http://www.rollingstone.com/music/news/black-eyed-peas-go-retro-in-hip-hop-celebrating-yesterday-video-20150718
+##.module-related
+
+! 8/28/2016, 3:31:01 PM http://www.rollingstone.com/music/news/black-eyed-peas-go-retro-in-hip-hop-celebrating-yesterday-video-20150718
+##.social-icon
+
+! 8/28/2016, 3:31:30 PM http://www.rollingstone.com/music/news/black-eyed-peas-go-retro-in-hip-hop-celebrating-yesterday-video-20150718
+###module-more-news
+
+! 8/28/2016, 3:32:47 PM https://noisey.vice.com/blog/black-eyed-peas-commit-hip-hop-blasphemy-with-their-video-for-yesterday
+noisey.vice.com##.recommended-articles-wrap
+
+! 8/29/2016, 7:35:44 AM http://www.dailynews.com/article/ZZ/20120902/NEWS/120909949
+###most-popular-rotator
+
+dnsrsearch.com
+
+! 8/30/2016, 3:48:33 PM http://community.lenovo.com/us/en?menu-id=community
+community.lenovo.com##.tile-content
+
+! 8/30/2016, 7:37:03 PM http://www.cracked.com/personal-experiences-1646-7-things-you-learn-as-straight-guy-whos-crossdresser.html
+www.cracked.com##a[href^="http://society6.com"]
+
+! 8/30/2016, 7:57:04 PM http://www.experienceproject.com/stories/Was-Caught-Crossdressing/3334775
+www.experienceproject.com###adultpopup
+
+! 8/30/2016, 7:57:22 PM http://www.experienceproject.com/stories/Was-Caught-Crossdressing/3334775
+www.experienceproject.com##body > .cover
+
+##.videowall-endscreen
+
+! 9/4/2016, 12:20:03 PM http://pfiffel.com/dps/
+###donateButton
+
+! 9/8/2016, 3:50:17 PM https://github.com/new
+github.com###new_repository > .with-permission-fields > .form-checkbox:nth-of-type(2)
+
+! 9/8/2016, 11:44:08 PM https://www.cpubenchmark.net/cpu_list.php
+www.cpubenchmark.net###specialsCornerPromo
+
+! 9/9/2016, 11:13:52 AM https://wordpress.com/design/elliotchandlernmd100.wordpress.com
+wordpress.com##.upgrade-nudge
+
+! 9/9/2016, 11:15:03 AM https://wordpress.com/design/elliotchandlernmd100.wordpress.com
+wordpress.com##.upgrade-nudge
+
+! 9/9/2016, 11:16:47 AM https://wordpress.com/design/elliotchandlernmd100.wordpress.com
+wordpress.com##.upgrades-nudge
+
+! 9/9/2016, 11:18:34 AM https://wordpress.com/plans/elliotchandlernmd100.wordpress.com
+wordpress.com###plans
+
+! 9/9/2016, 11:18:47 AM https://wordpress.com/plans/elliotchandlernmd100.wordpress.com
+wordpress.com##.upgrades-nudge
+
+! 9/9/2016, 5:09:55 PM https://www.realmeye.com/wiki/phoenix-lord
+! www.realmeye.com###f
+
+! 9/10/2016, 8:08:52 PM https://developer.android.com/studio/index.html#latest
+developer.android.com##.dac-footer-social
+
+! 9/11/2016, 3:44:21 PM https://stackoverflow.com/questions/26855026/convert-pdf-text-into-outlines
+stackoverflow.com##.hero-box
+
+! 9/17/2016, 1:22:40 PM http://www.networkworld.com/article/2226367/opensource-subnet/making-sense-of-the-ubuntu-licensing-fiasco.html
+www.networkworld.com##.promo
+
+trutv.com
+
+! 9/18/2016, 11:02:52 PM https://elliotchandlernmd100.wordpress.com/wp-admin/
+elliotchandlernmd100.wordpress.com##.resource-upgrades
+
+! 9/18/2016, 11:16:01 PM http://www.philamuseum.org/collections/permanent/57405.html
+||www.philamuseum.org/images/spacer.gif$image
+
+! 9/26/2016, 1:22:50 AM https://www.reddit.com/r/linuxmint/comments/4s7jwf/hidpi_in_linux_mint_18_mate/
+www.reddit.com##.commentarea .spacer #siteTable
+www.reddit.com##.seo-comments
+
+! 9/28/2016, 2:19:08 PM https://www.reddit.com/r/AskReddit/comments/54tsv0/whats_a_personal_rule_that_youll_never_break/
+www.reddit.com##.read-next-container
+
+www.*$script,domain=last.fm
+
+! 10/9/2016, 10:39:13 PM https://www.realmeye.com/player/CuteFairy
+! www.realmeye.com###e
+
+! 10/10/2016, 8:07:23 AM https://monova.org/torrent/38798454/gentoo-linux.html
+monova.org##.warning-message
+
+! 10/10/2016, 8:07:53 AM https://monova.org/torrent/38798454/gentoo-linux.html
+monova.org##.container-other.torrent-page.container-bt > .row > .col-md-8 > .background-block.z-depth-1.col-md-12 > .row:nth-of-type(1) > .col-md-12 > .general-table > tbody > tr:nth-of-type(7) > td:nth-of-type(2)
+
+! 10/24/2016, 3:41:09 PM https://www.google.com/search?ncr=1&q=app-dev%2Fpycharm-community
+www.google.com###fbar > .fbar
+
+! 10/24/2016, 3:41:23 PM https://www.google.com/search?ncr=1&q=app-dev%2Fpycharm-community
+||www.google.com/images/nav_logo242.png$image
+
+! 10/24/2016, 3:41:52 PM https://www.google.com/search?ncr=1&q=app-dev%2Fpycharm-community
+www.google.com###logocont
+
+! 11/6/2016, 7:36:38 PM http://www.edmsauce.com/2016/11/05/marshmello-uploads-new-music-video-apparent-cease-desist/
+www.edmsauce.com##.cp-info-bar-body-overlay
+
+! 11/6/2016, 7:36:51 PM http://www.edmsauce.com/2016/11/05/marshmello-uploads-new-music-video-apparent-cease-desist/
+www.edmsauce.com##.cp-clear.cp-info-bar-wrapper
+
+extremereach.io
+
+#2016-Nov-10: they're blocking the adblocker, so I guess I've just got to block their whole site
+#last.fm
+
+! 11/10/2016, 9:24:30 PM https://www.youtube.com/watch?v=FvqgvWx_l8g
+www.youtube.com##.ytp-ce-covering-overlay
+
+! 11/10/2016, 9:24:39 PM https://www.youtube.com/watch?v=FvqgvWx_l8g
+www.youtube.com##.ytp-ce-element-shadow
+
+! 11/10/2016, 9:25:00 PM https://www.youtube.com/watch?v=FvqgvWx_l8g
+www.youtube.com##.ytp-ce-element
+
+! 11/15/2016, 10:09:42 AM http://www.huffingtonpost.com/entry/dear-white-people-your-safety-pins-are-embarassing_us_58278b9de4b02b1f5257a36a
+www.huffingtonpost.com##.bottom-trending
+
+! 11/15/2016, 10:09:55 AM http://www.huffingtonpost.com/entry/dear-white-people-your-safety-pins-are-embarassing_us_58278b9de4b02b1f5257a36a
+www.huffingtonpost.com###bottom-most-shared
+
+! 11/15/2016, 10:10:03 AM http://www.huffingtonpost.com/entry/dear-white-people-your-safety-pins-are-embarassing_us_58278b9de4b02b1f5257a36a
+www.huffingtonpost.com###curated-gravity-container
+
+! 11/18/2016, 11:19:37 PM http://www.imore.com/macbook-pro
+||www.imore.com/sites/imore.com/files/images/getadmiral/imore-background.jpg$image
+
+! 11/18/2016, 11:19:51 PM http://www.imore.com/macbook-pro
+www.imore.com##.attributed.msg-container
+
+! 11/18/2016, 11:20:01 PM http://www.imore.com/macbook-pro
+www.imore.com##.adm-attribution
+
+! 11/18/2016, 11:20:09 PM http://www.imore.com/macbook-pro
+www.imore.com##.gated-container
+
+! 11/19/2016, 6:55:22 PM https://www.reddit.com/
+www.reddit.com##.hide-button
+
+! 11/19/2016, 6:55:43 PM https://www.reddit.com/
+www.reddit.com##.hohoho.sidebox
+
+! 11/19/2016, 6:55:56 PM https://www.reddit.com/
+www.reddit.com##.create.sidebox > .spacer
+
+! 11/21/2016, 9:43:05 PM https://hackernoon.com/win3mu-part-5-windows-3-executable-files-c2affeec0e5#.nekwfdz51
+hackernoon.com##.u-boxShadowTop
+
+! 11/22/2016, 5:31:06 PM http://www.wix.com/blog/2016/10/dear-matt-mullenweg-an-open-letter-from-wix-coms-ceo-avishai-abrahami/
+www.wix.com##.pup_container
+
+! 11/22/2016, 5:31:14 PM http://www.wix.com/blog/2016/10/dear-matt-mullenweg-an-open-letter-from-wix-coms-ceo-avishai-abrahami/
+www.wix.com###opacityBack
+
+! 11/22/2016, 5:31:29 PM http://www.wix.com/blog/2016/10/dear-matt-mullenweg-an-open-letter-from-wix-coms-ceo-avishai-abrahami/
+www.wix.com###subscribe-floater
+
+! 11/23/2016, 6:41:31 PM https://lwn.net/Articles/650411/
+lwn.net##.Form
+
+||theatlantic.com^$inline-script
+*$script,domain=theatlantic.com
+||last.fm^$inline-script
+*$script,domain=last.fm
+
+! 11/24/2016, 5:00:16 PM http://abovethelaw.com/2013/01/student-sends-open-letter-to-classmates-explaining-in-detail-why-he-hates-them/
+##.sponsored-mobile
+
+! 11/24/2016, 6:57:21 PM http://libgen.io/scimag/ads.php?doi=10.1017%2Fs0140525x00080341&downloadname=
+libgen.io/scimag/ads.php##table > tbody > tr > td:nth-of-type(1)
+libgen.io/scimag/ads.php##table > tbody > tr > td:nth-of-type(2)
+
+! 11/26/2016, 2:54:46 PM http://ekelen.deviantart.com/art/Wallpaper-1007-png-328184637
+ekelen.deviantart.com##.stash-create
+
+! 11/26/2016, 2:55:01 PM http://ekelen.deviantart.com/art/Wallpaper-1007-png-328184637
+ekelen.deviantart.com##.submit-help-bubble
+
+! 11/26/2016, 2:55:07 PM http://ekelen.deviantart.com/art/Wallpaper-1007-png-328184637
+ekelen.deviantart.com###submit_as_print
+
+! 11/26/2016, 2:55:49 PM http://ekelen.deviantart.com/art/Another-boat-328185182
+ekelen.deviantart.com##.smbutton-textonly.smbutton:nth-of-type(2)
+
+! 11/26/2016, 2:57:59 PM http://ekelen.deviantart.com/gallery/
+ekelen.deviantart.com##.new-set-button
+
+! 11/26/2016, 2:58:09 PM http://ekelen.deviantart.com/gallery/
+ekelen.deviantart.com##.grf-indent > .text
+
+! 11/26/2016, 2:58:49 PM http://ekelen.deviantart.com/
+ekelen.deviantart.com##.gmbutton2 > div:nth-of-type(2)
+
+! 11/26/2016, 3:01:59 PM http://ekelen.deviantart.com/
+###elnino-modal
+
+! 11/26/2016, 3:02:04 PM http://ekelen.deviantart.com/
+###modalfade
+
+! 11/26/2016, 3:04:12 PM http://distractify.com/trending/2016/10/07/police-response-terrified-black-teenager
+###ad-mobile-anchored-bottom
+
+! 11/26/2016, 3:05:05 PM http://distractify.com/trending/2016/10/07/police-response-terrified-black-teenager
+distractify.com##.distractMe
+
+! 11/26/2016, 5:54:02 PM https://www.google.com/search?ncr=1&q=web+workers
+##a[href^="http://www.w3schools.com"]
+##a[href^="http://w3schools.com"]
+w3schools.com
+
+! 12/1/2016, 8:00:44 PM https://www.youtube.com/watch?v=hhSA9H9Iaqw&index=731&list=WL
+www.youtube.com###unlimited-guide-item
+
+! 12/2/2016, 6:28:46 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com###remove_ads_button2
+
+! 12/2/2016, 6:28:57 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com###remove_ads_button1
+
+! 12/2/2016, 6:29:04 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com###remove_ads_button4
+
+! 12/2/2016, 6:29:22 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com##.application_octet-stream.audio.mp3.dl-file-icon.dlInfo-Intro
+
+! 12/2/2016, 6:29:34 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com##.dlInfo-Sidebar
+
+! 12/2/2016, 6:29:51 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+||cdn.mediafire.com/images/backgrounds/download/dl_promo_logo.png$image
+
+! 12/2/2016, 6:30:11 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com##.dlPromoContent.dlPromo1Content
+
+! 12/2/2016, 6:30:20 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com##.dlInfo-Body
+
+! 12/2/2016, 6:30:27 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com###header
+
+! 12/2/2016, 6:30:44 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com##.bottomAdLeaderboard
+
+! 12/2/2016, 6:30:57 PM http://www.mediafire.com/file/62vhkjvir4e70j3/2016+MashUp+Don%27t+let+me+Love+you+-+year-end+mashup+%28%2B90+pop+songs%29.mp3
+www.mediafire.com###footer
+
+! 12/3/2016, 1:43:23 PM https://appear.in/kolu
+appear.in##favorite-room-upsell
+
+@@js.stripe.com$script,domain=appear.in
+
+! 12/5/2016, 1:34:41 PM https://www.learnvest.com/2012/06/25-real-life-cheats-from-reddit-users/
+www.learnvest.com##.ui-widget-overlay
+
+! 12/5/2016, 1:34:55 PM https://www.learnvest.com/2012/06/25-real-life-cheats-from-reddit-users/
+www.learnvest.com##.dsp_box.pop_box_horizontal
+
+kenduktur.com
+
+! 12/5/2016, 8:22:47 PM https://wordpress.com/post/elliotchandlernmd100.wordpress.com/520
+wordpress.com##.web-preview__seo-button
+
+! 12/6/2016, 8:00:06 PM http://www.nytimes.com/2016/10/22/arts/music/kesha-dr-luke-lawsuit.html
+www.nytimes.com###whats-next
+
+! 12/7/2016, 1:58:04 PM http://www.bbc.com/news/technology-38236644
+www.bbc.com###comp-pattern-library
+
+
+@@|https:$other
+
+! 12/8/2016, 1:22:41 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk###mini-carousel-wrapper
+
+! 12/8/2016, 1:23:59 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk##.rotator
+
+! 12/8/2016, 1:24:31 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk##.item.femail
+
+! 12/8/2016, 1:24:45 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk##.item.tvshowbiz
+
+! 12/8/2016, 1:25:02 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk##.automated_tabbed_headlines_thumbs_wrapper.item
+
+! 12/8/2016, 1:27:03 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk###most-watched-videos
+
+! 12/8/2016, 1:27:26 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk##.shareArticles
+
+! 12/8/2016, 1:27:34 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk###most-read-news-wrapper
+
+! 12/8/2016, 1:27:44 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk###wideCommentAdvert
+
+! 12/8/2016, 1:27:55 PM http://www.dailymail.co.uk/news/article-2306449/It-prank-Sister-Reddit-user-apparently-confessed-murder-meth-addict-boyfriend-MEME-says-shes-furious-lying-scrawny-gamer-brother-hoax-post.html
+www.dailymail.co.uk###most-watched-videos-wrapper
+
+! 12/9/2016, 1:43:38 PM https://www.degruyter.com/dg/error404
+www.degruyter.com##.european-union-cookies-agreement
+
+! 12/10/2016, 6:50:48 PM https://appear.in/kolu
+appear.in##.topbar-signup-button
+thankswrite.com
+
+! 12/15/2016, 3:12:41 AM http://konachan.net/post/show/153853/angel_beats-fumichi-hug-nakamura_yuri-noda-tears
+||a.konachan.net$subdocument
+
+! 12/15/2016, 6:11:25 PM http://www.slate.com/articles/business/moneybox/2010/09/americas_hidden_welfare_program.html
+www.slate.com###su-banner
+
+! 12/15/2016, 6:11:43 PM http://www.slate.com/articles/business/moneybox/2010/09/americas_hidden_welfare_program.html
+www.slate.com##.highlighter-container
+
+! 12/15/2016, 6:11:57 PM http://www.slate.com/articles/business/moneybox/2010/09/americas_hidden_welfare_program.html
+www.slate.com##.highlighter-container
+
+! 12/15/2016, 6:15:51 PM https://www.madinamerica.com/2012/03/poverty-mental-illness-you-cant-have-one-without-the-other/
+www.madinamerica.com##.td-main-sidebar
+
+! 12/15/2016, 6:20:12 PM http://blog.ssa.gov/if-you-have-a-disability-social-security-can-help/
+blog.ssa.gov##body > div:nth-of-type(3)
+
+! 12/15/2016, 6:20:28 PM http://blog.ssa.gov/if-you-have-a-disability-social-security-can-help/
+blog.ssa.gov###prefix-overlay-outer
+
+! 12/16/2016, 12:24:58 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com##.topics-wrap
+
+! 12/16/2016, 12:25:08 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com##.insider-signin
+
+! 12/16/2016, 12:25:36 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com##.apart.promo
+
+! 12/16/2016, 12:25:49 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com##.article-intercept
+
+! 12/16/2016, 12:26:08 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com###amazon-bottom-widget
+
+! 12/16/2016, 12:26:25 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com##.clearfix.comments-hed
+
+! 12/16/2016, 12:26:35 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com###content-recommender
+
+! 12/16/2016, 12:26:48 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com###funnel
+
+! 12/16/2016, 12:27:02 AM http://www.computerworld.com/article/2595480/enterprise-resource-planning/the-invisible-workforce.html
+www.computerworld.com##.follow
+
+##.insider-signin
+##.promo
+##.article-intercept
+###amazon-bottom-widget
+###content-recommender
+###funnel
+
+! 12/16/2016, 2:03:07 AM http://sometimes-interesting.com/2013/12/20/abandoned-industrial-icon-armour-meat-packing-plant/
+sometimes-interesting.com##footer
+
+! 12/16/2016, 2:03:27 AM http://sometimes-interesting.com/2013/12/20/abandoned-industrial-icon-armour-meat-packing-plant/
+sometimes-interesting.com##.td_block_related_posts
+
+! 12/16/2016, 12:01:48 PM https://uxdesign.cc/design-philosophy-ee40bbcecc67#.d29cukob8
+uxdesign.cc##.u-zIndexMetabar
+
+! 12/16/2016, 12:02:25 PM https://uxdesign.cc/design-philosophy-ee40bbcecc67#.d29cukob8
+uxdesign.cc##.js-relationshipButton
+
+! 12/16/2016, 12:02:43 PM https://uxdesign.cc/design-philosophy-ee40bbcecc67#.d29cukob8
+uxdesign.cc##.button--follow
+
+! 12/16/2016, 12:03:18 PM https://uxdesign.cc/design-philosophy-ee40bbcecc67#.d29cukob8
+uxdesign.cc##.js-postFooterPlacements
+
+! 12/16/2016, 11:19:49 PM http://www.sporttechie.com/2015/01/01/sports/nfl/the-5-most-important-ways-technology-forever-changed-sports-in-2014/
+www.sporttechie.com##.related-post
+
+! 12/16/2016, 11:20:10 PM http://www.sporttechie.com/2015/01/01/sports/nfl/the-5-most-important-ways-technology-forever-changed-sports-in-2014/
+www.sporttechie.com###text-27 > .textwidget strong
+
+! 12/19/2016, 12:19:13 AM http://www.imdb.com/
+www.imdb.com##.heroWidget
+
+! 12/19/2016, 12:19:57 AM http://www.imdb.com/
+www.imdb.com##.showtimesMessagingWidget
+
+! 12/19/2016, 12:20:15 AM http://www.imdb.com/
+www.imdb.com##.ab_facebook
+
+! 12/19/2016, 12:20:30 AM http://www.imdb.com/
+www.imdb.com##.ab_twitter
+
+! 12/21/2016, 3:43:51 PM http://allrecipes.com/recipe/9870/easy-sugar-cookies/
+allrecipes.com##.lo-smu-container
+
+! 12/22/2016, 3:54:22 PM http://www.viva64.com/en/b/0226/
+www.viva64.com##.search-banner.row
+
+! 12/22/2016, 8:34:15 PM https://www.realmeye.com/forum/t/i-just-got-a-dreidel-pet-out-of-an-uncommon-egg/3762
+##.cookie-consent-alert
+
+! 12/23/2016, 12:49:48 PM https://wiki.lxde.org/en/PCManFM
+##.mw-cookiewarning-container
+
+! 12/23/2016, 6:18:28 PM http://svnbook.red-bean.com/
+svnbook.red-bean.com###rightcolumn a
+
+! 12/23/2016, 7:48:20 PM https://opensource.org/licenses/MS-PL
+opensource.org###popup-announcement-overlay
+
+! 12/23/2016, 7:48:27 PM https://opensource.org/licenses/MS-PL
+opensource.org###popup-announcement-wrap
+
+! 12/23/2016, 7:49:21 PM https://opensource.org/licenses/MS-PL
+opensource.org##.region-header.region
+
+! 12/23/2016, 7:49:48 PM https://opensource.org/licenses/MS-PL
+||opensource.org/files/google.png$image
+
+! 12/23/2016, 7:49:57 PM https://opensource.org/licenses/MS-PL
+||opensource.org/files/xwikilogo.png$image
+
+! 12/23/2016, 7:50:04 PM https://opensource.org/licenses/MS-PL
+||opensource.org/files/twitterlogo.png$image
+
+! 12/23/2016, 9:15:44 PM http://s73.photobucket.com/user/Monnkees/media/Animated/LizardGirlDanceGreen.gif.html
+s73.photobucket.com###myModal
+
+! 12/23/2016, 9:15:59 PM http://s73.photobucket.com/user/Monnkees/media/Animated/LizardGirlDanceGreen.gif.html
+s73.photobucket.com##.modal-backdrop
+
+! 12/27/2016, 1:43:59 PM https://www.amazon.com/English-German-Medical-Dictionary-Phrasebook-Zemback/dp/1482794764
+www.amazon.com###hero-quick-promo
+
+! 12/27/2016, 7:30:52 PM http://futuramerlin.com/news/wp-admin/admin.php?page=pmxe-admin-export
+futuramerlin.com##.closed.wpallexport-collapsed.rad4.wpallexport-upload-resource-step-two > .wpallexport-content-section
+
+! 12/27/2016, 8:32:17 PM http://futuramerlin.com/news/wp-admin/admin.php?page=simply-static
+futuramerlin.com###sistSidebar
+
+! 12/27/2016, 8:32:31 PM http://futuramerlin.com/news/wp-admin/admin.php?page=simply-static
+futuramerlin.com###footer-left
+
+! 12/28/2016, 2:51:54 PM https://myanimelist.net/anime/4975/Ch%C3%A4oS_HEAd
+myanimelist.net##.btn-mal-service
+
+! 12/28/2016, 3:13:44 PM http://www.anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world/videos/178180
+||www.anime-planet.com/images/crbanner.png$image
+
+! 12/28/2016, 11:15:30 PM http://www7.soul-anime.us/watch/kono-subarashii-sekai-ni-shukufuku-wo-episode-2/
+www7.soul-anime.us###googleplay
+
+! 12/29/2016, 9:50:18 AM https://imslp.org/wiki/Special:IMSLPImageHandler/246049
+imslp.org###subs_mainacc
+
+! 12/29/2016, 9:50:52 AM https://imslp.org/wiki/Special:IMSLPImageHandler/246049
+imslp.org###sm_dl_login
+
+! 12/30/2016, 12:49:02 AM http://futuramerlin.com/issue-tracker/view.php?id=415#bugnotes
+futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(2) > .button-small
+
+! 12/30/2016, 12:49:26 AM http://futuramerlin.com/issue-tracker/view.php?id=415#bugnotes
+futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(3) > .button-small
+
+express.co.uk
+
+! 1/2/2017, 1:26:52 AM https://myanimelist.net/
+myanimelist.net##.index-watch-description
+
+! 1/4/2017, 1:57:47 PM http://www.seamonkey-project.org/
+www.seamonkey-project.org##a[href="https://www.privateinternetaccess.com/"]
+
+! 1/7/2017, 3:40:01 PM https://sfconservancy.org/copyleft-compliance/vmware-lawsuit-faq.html#combined-and-derivative-works
+sfconservancy.org##.donate-sidebar
+
+! 1/8/2017, 2:07:46 PM https://www.quora.com/What-are-some-alternatives-to-library-nu
+www.quora.com##.PromptsList
+
+! 1/8/2017, 2:08:58 PM http://btdb.in/
+btdb.in##.friend-links
+
+! 1/11/2017, 1:49:59 PM https://www.amazon.com/
+www.amazon.com##.a-carousel
+
+! 1/11/2017, 1:50:08 PM https://www.amazon.com/
+www.amazon.com###gw-desktop-herotator
+
+! 1/11/2017, 1:51:08 PM https://www.amazon.com/
+www.amazon.com###gw-hud-sidekick
+
+! 1/11/2017, 1:51:28 PM https://www.amazon.com/
+www.amazon.com###sidebar
+
+! 1/11/2017, 4:13:36 PM http://50an6xy06r6n.deviantart.com/art/Rearing-Origami-Unicorn-263851059#comments
+50an6xy06r6n.deviantart.com##.dev-meta-producttabs
+
+! 1/11/2017, 4:13:44 PM http://50an6xy06r6n.deviantart.com/art/Rearing-Origami-Unicorn-263851059#comments
+50an6xy06r6n.deviantart.com###oh-menu-upgrade
+
+! 1/12/2017, 1:25:15 AM http://www.youredm.com/2016/03/09/who-is-jane-xo/
+www.youredm.com###gladly-container
+
+! 1/18/2017, 3:38:11 PM https://medium.com/@chrisjbatts/actually-slack-really-sucks-625802f1420a#.a5v47bes3
+medium.com##.u-bottom0.u-fixed
+
+! 1/19/2017, 1:53:44 PM http://www.unixtimestamp.com/index.php
+www.unixtimestamp.com##.col-md-6:nth-of-type(1) > .box:nth-of-type(1)
+
+! 1/19/2017, 1:56:17 PM http://www.unixtimestamp.com/
+www.unixtimestamp.com##div:nth-of-type(4)
+
+! 1/19/2017, 1:56:35 PM http://www.unixtimestamp.com/index.php
+###ShareModal
+
+! 1/19/2017, 1:56:50 PM http://www.unixtimestamp.com/index.php
+##.modal-backdrop
+
+! 1/19/2017, 9:39:01 PM http://www.yellowpages.com/old-town-me/taxis
+www.yellowpages.com##.sg-b-bar.sg-b-f
+
+! 1/20/2017, 3:09:37 PM https://talky.io/kolu#
+talky.io##.text-centered.message.page-flag
+
+! 2017 Jan. 20: For jit.si
+##watermark leftwatermark
+
+! 1/23/2017, 7:08:27 PM https://www.sitepoint.com/community/t/simple-if-or-in-c/3320
+www.sitepoint.com##.SpHelloBar
+
+! 1/23/2017, 7:08:45 PM https://www.sitepoint.com/community/t/simple-if-or-in-c/3320
+www.sitepoint.com##a[href^="https://www.sitepoint.com/premium/sitepoint-wordpress-themes-bundle/"]
+
+! 1/24/2017, 9:39:31 PM https://www.aol.com/article/news/2017/01/24/video-of-melania-trump-looking-petrified-sparks-freemelania/21661658/
+##.you-might-like
+
+! 1/24/2017, 9:39:51 PM https://www.aol.com/article/news/2017/01/24/video-of-melania-trump-looking-petrified-sparks-freemelania/21661658/
+##.m-gravity-below-article
+
+! 1/24/2017, 9:40:07 PM https://www.aol.com/article/news/2017/01/24/video-of-melania-trump-looking-petrified-sparks-freemelania/21661658/
+##.bon-embedded-cw
+
+! 1/24/2017, 9:40:51 PM https://www.aol.com/article/news/2017/01/24/video-of-melania-trump-looking-petrified-sparks-freemelania/21661658/
+###floatingvid-anchor
+
+! 1/24/2017, 9:41:12 PM https://www.aol.com/article/news/2017/01/24/video-of-melania-trump-looking-petrified-sparks-freemelania/21661658/
+###m-inline-newsletter
+
+! 1/24/2017, 9:42:03 PM https://www.aol.com/article/news/2017/01/24/video-of-melania-trump-looking-petrified-sparks-freemelania/21661658/
+##iframe[src^="https://w.graphiq.com/"]
+
+! 1/24/2017, 9:42:33 PM https://www.aol.com/article/news/2017/01/24/video-of-melania-trump-looking-petrified-sparks-freemelania/21661658/
+www.aol.com##.slideshow-preview
+
+! 1/24/2017, 9:42:47 PM https://www.aol.com/article/news/2017/01/24/video-of-melania-trump-looking-petrified-sparks-freemelania/21661658/
+www.aol.com##.m-article-slideshow
+
+! 1/26/2017, 1:19:59 PM https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/01/26/daily-202-is-president-trump-surrendering-america-s-moral-high-ground/588967e9e9b69b432bc7e08e/
+www.washingtonpost.com##.daily202-newsletter
+
+! 1/26/2017, 1:29:20 PM https://www.wired.com/2017/01/2017-year-twitter-learns-thrive-dies/
+www.wired.com###related
+
+! 1/26/2017, 5:47:52 PM https://emkei.cz/
+emkei.cz##.sbold.tacenter.support
+
+! 1/26/2017, 5:48:03 PM https://emkei.cz/
+emkei.cz###panel
+
+! 1/27/2017, 12:45:07 AM https://www.imdb.com/registration/signin
+www.imdb.com###facebook-signin-link
+
+! 1/27/2017, 9:52:22 AM http://clientsfromhell.net/post/156442566889/do-you-think-you-could-so-something-a-little-more
+clientsfromhell.net##.wf2-bg-dark
+
+! 1/27/2017, 9:52:47 AM http://clientsfromhell.net/post/156442566889/do-you-think-you-could-so-something-a-little-more
+clientsfromhell.net##iframe[src^="http://www.clientsfromhellmail.net/"]
+
+! 1/27/2017, 1:15:31 PM http://geekfeminism.wikia.com/wiki/Feminist_Software_Foundation
+##.wds-global-navigation-wrapper
+
+! 1/27/2017, 1:15:43 PM http://geekfeminism.wikia.com/wiki/Feminist_Software_Foundation
+##.wds-global-footer
+
+! 1/27/2017, 1:15:56 PM http://geekfeminism.wikia.com/wiki/Feminist_Software_Foundation
+###WikiaBar
+
+! 1/27/2017, 1:19:26 PM http://www.themarysue.com/julie-ann-horvarth-github-investigation/
+###featured-posts
+
+! 1/27/2017, 1:19:36 PM http://www.themarysue.com/julie-ann-horvarth-github-investigation/
+###popular-posts
+
+! 1/27/2017, 1:19:49 PM http://www.themarysue.com/julie-ann-horvarth-github-investigation/
+www.themarysue.com###sidebar
+
+! 1/27/2017, 1:26:31 PM http://www.themarysue.com/julie-ann-horvarth-github-investigation/
+www.themarysue.com###post-body p:last-child em
+
+! 1/27/2017, 3:45:28 PM https://thereisonlyr.com/dumb-widdle-girls-in-tech-c73647238dc4#.8lru90nsf
+##.u-sizeFullWidth.u-fixed
+
+! 1/28/2017, 7:16:20 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com##.mfp-ready
+
+! 1/28/2017, 7:16:48 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com##.bg-header__subinfo
+
+! 1/28/2017, 7:17:05 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com###smartbar
+
+! 1/28/2017, 7:17:39 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com##.primary-tools > .email
+
+! 1/28/2017, 7:19:01 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com##.meter-modal-block
+
+! 1/28/2017, 7:19:23 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com##.new-articles
+
+! 1/28/2017, 7:19:39 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com###continue-reading-waypoint
+
+! 1/28/2017, 7:20:03 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com##.continue-gradient
+
+! 1/28/2017, 7:20:24 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com###section-nav
+
+! 1/28/2017, 7:20:56 PM https://www.bostonglobe.com/metro/2017/01/27/ethical-dilemmas-trump-era/efPRjK8AOx1YZq8TlC9qFJ/story.html
+www.bostonglobe.com##.bg-footer .lead
+
+! 1/28/2017, 7:24:52 PM http://www.independent.co.uk/news/world/europe/pope-francis-declares-evolution-and-big-bang-theory-are-right-and-god-isnt-a-magician-with-a-magic-9822514.html
+www.independent.co.uk##.video-playlist
+
+! 1/28/2017, 10:02:54 PM https://myanimelist.net/animelist/nikkiwebsterrulz
+||myanimelist.cdn-dena.com/s/common/uploaded_files/1455540405-b2e2bf20e11b68631e8439b44d9a51c7.png$image
+
+! 1/30/2017, 9:54:52 AM https://codeclimate.com/dashboard
+codeclimate.com##.new_private_repo
+
+! 1/30/2017, 10:05:59 AM https://codeclimate.com/github/ethus3h/crystallize/builds/1
+codeclimate.com##.remodal-wrapper
+
+! 1/30/2017, 10:06:24 AM https://codeclimate.com/github/ethus3h/crystallize/builds/1
+codeclimate.com##.remodal-is-opened.remodal-overlay
+
+! 1/30/2017, 10:09:02 AM https://codeclimate.com/github/ethus3h/crystallize/builds/1
+codeclimate.com##.ext_cta
+
+! 1/30/2017, 8:03:53 PM https://meet.jit.si/kolu
+meet.jit.si##.leftwatermark
+
+! 1/31/2017, 3:09:39 PM https://www.buzzfeed.com/tamerragriffin/loaded-words-coded-meanings-black-people?utm_term=.blEBOyboA#.chYL5dvG9
+www.buzzfeed.com##.Column2
+
+! 1/31/2017, 3:09:52 PM https://www.buzzfeed.com/tamerragriffin/loaded-words-coded-meanings-black-people?utm_term=.blEBOyboA#.chYL5dvG9
+www.buzzfeed.com###hothead
+
+! 1/31/2017, 3:11:26 PM https://www.buzzfeed.com/tamerragriffin/loaded-words-coded-meanings-black-people?utm_term=.blEBOyboA#.chYL5dvG9
+www.buzzfeed.com###next_on
+
+! 2/2/2017, 10:56:44 PM https://www.sendspace.com/file/2o4mfy
+www.sendspace.com##.text:nth-of-type(2) > .tac
+
+! 2/2/2017, 10:57:09 PM https://www.sendspace.com/file/2o4mfy
+www.sendspace.com##.save_to_account_button
+
+! 2/2/2017, 10:57:21 PM https://www.sendspace.com/file/2o4mfy
+www.sendspace.com##.tooltip
+
+! 2/3/2017, 5:20:41 PM http://www.theonion.com/article/fearful-americans-stockpiling-facts-federal-govern-55219
+www.theonion.com##.end-of-article-video
+
+! 2/4/2017, 12:13:39 AM http://bgr.com/2016/02/04/deadpool-tj-miller-reveals-dirtiest-jokes/
+bgr.com##.sidebar-section-top-track
+
+! 2/5/2017, 5:15:23 PM http://www.billboard.com/charts/hot-100
+www.billboard.com##.pushdown-promo
+
+! 2/6/2017, 3:51:23 AM http://www.j-14.com/posts/little-mix-give-their-opinion-on-camila-cabello-leaving-fifth-harmony-124749
+www.j-14.com###age-gate-form
+
+! 2/6/2017, 5:14:28 PM https://hackernoon.com/the-madness-of-parsing-real-world-javascript-regexps-d9ee336df983#.kvqlubdgr
+||cdn-images-1.medium.com/fit/c/1636/196/1*Nl0yo8AjNfEomfUJ2-ChDg.png?source=logoAvatar-lo_91f972d6c3bc---3a8144eabfe3$image
+
+! 2/8/2017, 1:03:43 AM http://www.lifehacker.com.au/2017/02/microsoft-creates-git-virtual-file-system-for-its-270gb-windows-repo/
+##.meta__social
+
+! 2/8/2017, 3:15:21 PM https://www.thesun.co.uk/news/2800271/man-who-kicked-pregnant-muslim-woman-in-the-stomach-causing-her-to-lose-unborn-twins-is-charged-as-we-picture-him-for-the-first-time/
+##.rail--trending
+
+! 2/8/2017, 3:16:20 PM https://www.thesun.co.uk/news/2800271/man-who-kicked-pregnant-muslim-woman-in-the-stomach-causing-her-to-lose-unborn-twins-is-charged-as-we-picture-him-for-the-first-time/
+##.teaser
+
+! 2/9/2017, 4:41:02 PM http://www.motherjones.com/politics/2017/02/russia-trump-putin-scandal-media
+www.motherjones.com###bottom_adhesion
+
+! 2/10/2017, 8:47:06 PM http://www.imdb.com/user/ur35511274/watchlist?ref_=wt_nv_wl_all_1
+www.imdb.com###navProMenu
+
+! 2/11/2017, 6:09:00 PM http://ew.com/article/2015/08/05/dr-dre-concept-album-planets/
+##.article-body__show-full
+
+! 2/11/2017, 6:09:23 PM http://ew.com/article/2015/08/05/dr-dre-concept-album-planets/
+##.articles-recirculation
+
+! 2/11/2017, 6:09:41 PM http://ew.com/article/2015/08/05/dr-dre-concept-album-planets/
+##.section-more-articles
+
+! 2/11/2017, 10:21:41 PM https://mega.nz/#!xRNy3JIB!ua5MycnMS_YPjIGjHLcdn4UAPqYjBWYYe_LZNzuNRNo
+##.ads-left-block
+
+! 2/11/2017, 11:22:07 PM http://www.dedoimedo.com/computers/fedora-25-wayland-vs-xorg.html
+www.dedoimedo.com##.post_article_box
+
+! 2/12/2017, 3:27:09 PM http://nypost.com/2017/02/11/im-a-gay-new-yorker-and-im-coming-out-as-a-conservative/
+###hamilton-module-container
+
+! 2/12/2017, 3:27:23 PM http://nypost.com/2017/02/11/im-a-gay-new-yorker-and-im-coming-out-as-a-conservative/
+##.read-next-wrapper
+
+! 2/12/2017, 3:28:08 PM http://nypost.com/2017/02/11/im-a-gay-new-yorker-and-im-coming-out-as-a-conservative/
+##.widget-more-stories
+
+! 2/12/2017, 5:56:26 PM http://bleacherreport.com/articles/2691540-history-will-never-forget-new-england-patriots-5th-championship-in-super-bowl-li
+##.videoPlaylist.carousel
+
+! 2/12/2017, 5:56:39 PM http://bleacherreport.com/articles/2691540-history-will-never-forget-new-england-patriots-5th-championship-in-super-bowl-li
+bleacherreport.com##header > .button.atom
+
+! 2/12/2017, 5:56:49 PM http://bleacherreport.com/articles/2691540-history-will-never-forget-new-england-patriots-5th-championship-in-super-bowl-li
+##.privacy_notice
+
+! 2/12/2017, 5:57:30 PM http://bleacherreport.com/articles/2691540-history-will-never-forget-new-england-patriots-5th-championship-in-super-bowl-li
+##.flyin
+
+! 2/12/2017, 5:57:46 PM http://bleacherreport.com/articles/2691540-history-will-never-forget-new-england-patriots-5th-championship-in-super-bowl-li
+##.share.atom
+
+! 2/12/2017, 11:41:55 PM http://www.marketwatch.com/story/movie-watch-disney-is-up-against-great-expectations-as-rogue-one-hits-theaters-2016-12-15
+www.marketwatch.com##.bulletin.notification
+
+! 2/13/2017, 3:12:11 PM http://www.xbiz.com/news/216959
+||www.xbiz.com/images/controls2.png$image
+
+! 2/13/2017, 7:22:55 PM https://www.wired.com/2013/01/jonathan-coulton-glee-song/
+###subscribe-button
+
+! 2/13/2017, 7:23:42 PM https://www.jonathancoulton.com/2013/01/18/baby-got-back-and-glee/
+###mailingListPrompt
+
+! 2/13/2017, 8:43:16 PM https://medium.com/project-tofino/browsers-innovators-dilemma-and-project-tofino-ef634c6164f0#.6u8mhsh0w
+##.highlightMenu
+
+! 2/14/2017, 3:20:02 AM http://stylecaster.com/beauty/designer-beauty-brands-guide/#slide-1
+stylecaster.com##.sp_button-wrap
+
+! 2/14/2017, 3:21:05 AM http://stylecaster.com/beauty/designer-beauty-brands-guide/#slide-1
+##.pretty_social
+
+! 2/14/2017, 3:24:06 AM http://stylecaster.com/beauty/designer-beauty-brands-guide/#slide-1
+###single-social-header
+
+! 2/14/2017, 3:25:20 AM http://stylecaster.com/beauty/designer-beauty-brands-guide/#slide-1
+stylecaster.com##.sp_right
+
+! 2/14/2017, 3:26:34 AM http://stylecaster.com/beauty/designer-beauty-brands-guide/#slide-3
+stylecaster.com##.scpin-wrapper
+
+! 2/14/2017, 3:33:37 AM http://www.cosmopolitan.com/entertainment/music/a8775477/adele-black-friends-at-the-grammys/
+##.recirculation-module
+
+! 2/14/2017, 3:34:43 AM http://www.cosmopolitan.com/entertainment/music/a8775477/adele-black-friends-at-the-grammys/
+##.article-breaker-ad
+
+! 2/14/2017, 3:37:56 AM http://www.cosmopolitan.com/entertainment/music/a8775477/adele-black-friends-at-the-grammys/
+##.site-content .transporter
+
+! 2/14/2017, 3:48:44 AM https://motherboard.vice.com/en_us/article/ubers-phantom-cabs
+||motherboard-images.vice.com/content-images/contentimage/24018/1438015016815407.png$image
+
+! 2/14/2017, 3:54:15 AM https://motherboard.vice.com/en_us/article/ubers-phantom-cabs
+##.mobile-social-tray
+
+! 2/14/2017, 2:22:09 PM https://www.nytimes.com/2017/02/14/business/pewdiepie-youtube-disney.html
+###related-combined-coverage
+
+! 2/14/2017, 2:23:59 PM http://www.nytimes.com/2010/07/31/business/media/31miramax.html
+www.nytimes.com###login-modal
+
+! 2/14/2017, 2:24:15 PM http://www.nytimes.com/2010/07/31/business/media/31miramax.html
+##.sharetools-menu
+
+! 2/14/2017, 2:24:28 PM http://www.nytimes.com/2010/07/31/business/media/31miramax.html
+www.nytimes.com##.login-modal-trigger
+
+! 2/14/2017, 2:26:15 PM https://techcrunch.com/2017/02/13/disney-pewdiepie-makerstudios/
+##.read-full-article
+
+! 2/14/2017, 2:26:39 PM https://techcrunch.com/2017/02/13/disney-pewdiepie-makerstudios/
+##.collapse.crunchbase-cluster
+
+! 2/14/2017, 2:27:03 PM https://techcrunch.com/2017/02/13/disney-pewdiepie-makerstudios/
+techcrunch.com##.footer
+
+! 2/14/2017, 2:27:19 PM https://techcrunch.com/2017/02/13/disney-pewdiepie-makerstudios/
+##.comment-moderation-message
+
+! 2/14/2017, 2:27:56 PM https://techcrunch.com/2017/02/13/disney-pewdiepie-makerstudios/
+techcrunch.com##.announcement
+
+! 2/14/2017, 2:28:06 PM https://techcrunch.com/2017/02/13/disney-pewdiepie-makerstudios/
+##.article-extra
+
+! 2/15/2017, 4:11:40 AM https://myanimelist.net/anime/15315/Mondaiji-tachi_ga_Isekai_kara_Kuru_Sou_Desu_yo
+##.js-shop-selecter-dialog
+
+! 2/15/2017, 4:12:11 AM https://myanimelist.net/anime/15315/Mondaiji-tachi_ga_Isekai_kara_Kuru_Sou_Desu_yo
+##.btn-affiliate
+
+! 2/15/2017, 4:26:29 AM http://images.dawn.com/news/1177100/burberry-accidentally-congratulated-riz-ahmed-for-dev-patels-bafta-award
+##.slick-slider
+
+! 2/15/2017, 4:27:45 AM http://images.dawn.com/news/1177100/burberry-accidentally-congratulated-riz-ahmed-for-dev-patels-bafta-award
+##.related-stories__container
+
+! 2/15/2017, 10:35:12 PM http://www.avclub.com/article/walmart-being-sued-inventing-fake-craft-brewery-250375
+##.header-most-read
+
+! 2/15/2017, 10:49:09 PM http://www.avclub.com/article/kesha-releases-emails-make-dr-luke-look-real-assho-250396
+www.avclub.com##.pager
+
+! 2/15/2017, 10:49:22 PM http://www.avclub.com/article/kesha-releases-emails-make-dr-luke-look-real-assho-250396
+##.end-of-article-video
+
+! 2/17/2017, 2:46:23 PM http://www.businessinsider.com/representation-of-women-in-tech-is-getting-worse-2017-2
+##.bottom-recommended
+
+! 2/17/2017, 2:46:50 PM http://www.businessinsider.com/representation-of-women-in-tech-is-getting-worse-2017-2
+##.popular-video
+
+! 2/17/2017, 2:47:00 PM http://www.businessinsider.com/representation-of-women-in-tech-is-getting-worse-2017-2
+###see-also-links
+
+! 2/17/2017, 2:48:11 PM http://www.businessinsider.com/representation-of-women-in-tech-is-getting-worse-2017-2
+##.fa-google-plus
+##.fa-twitter
+
+! 2/18/2017, 8:13:43 PM https://yourfriendshouse.com/opinion/the-can-i-speak-to-the-manager-haircut-is-a-very-real-phenomenon/
+##.post-navigation .wp-post-image
+
+! 2/18/2017, 8:13:52 PM https://yourfriendshouse.com/opinion/the-can-i-speak-to-the-manager-haircut-is-a-very-real-phenomenon/
+###jp-relatedposts
+
+! 2/18/2017, 8:13:59 PM https://yourfriendshouse.com/opinion/the-can-i-speak-to-the-manager-haircut-is-a-very-real-phenomenon/
+###wpp-2
+
+! 2/18/2017, 8:14:13 PM https://yourfriendshouse.com/opinion/the-can-i-speak-to-the-manager-haircut-is-a-very-real-phenomenon/
+yourfriendshouse.com###text-3 > .widget-title
+
+! 2/18/2017, 8:14:35 PM https://yourfriendshouse.com/opinion/the-can-i-speak-to-the-manager-haircut-is-a-very-real-phenomenon/
+yourfriendshouse.com##.footer-left
+
+! 2/18/2017, 10:14:26 PM https://mobile.nytimes.com/2017/02/17/business/media/trump-era-media-censorship.html?smid=fb-nytimes&smtyp=cur&_r=0&referer=http%3A%2F%2Fm.facebook.com
+##.related-articles
+
+! 2/18/2017, 10:14:38 PM https://mobile.nytimes.com/2017/02/17/business/media/trump-era-media-censorship.html?smid=fb-nytimes&smtyp=cur&_r=0&referer=http%3A%2F%2Fm.facebook.com
+##.app-links
+
+! 2/18/2017, 10:15:14 PM https://mobile.nytimes.com/2017/02/17/business/media/trump-era-media-censorship.html?smid=fb-nytimes&smtyp=cur&_r=0&referer=http%3A%2F%2Fm.facebook.com
+##.subscribe
+
+! 2/19/2017, 2:15:16 AM http://www.newslogue.com/debate/346/CaitlinJohnstone
+##.grumber
+
+! 2/19/2017, 2:16:10 AM http://www.newslogue.com/debate/346/CaitlinJohnstone
+##.grumberBtn
+
+! 2/19/2017, 2:16:46 AM http://www.newslogue.com/debate/346/CaitlinJohnstone
+##.publisher .btn-following
+
+! 2/20/2017, 4:53:08 PM http://watchanimesonline.io/watch-episode/el-cazador-de-la-bruja-ep-2.html
+##.popover-favorites
+
+! 2/20/2017, 4:53:35 PM http://watchanimesonline.io/watch-episode/el-cazador-de-la-bruja-ep-2.html
+##.fa-facebook-f
+
+! 2/21/2017, 3:19:52 PM http://thedailywtf.com/articles/a-date-with-a-parser
+thedailywtf.com##.article-body > div:nth-of-type(1)
+
+! 2/22/2017, 3:17:09 AM http://screenrant.com/coolest-lgbt-couples-in-anime/?view=all
+screenrant.com##.sidebar
+
+! 2/22/2017, 3:17:47 AM http://screenrant.com/coolest-lgbt-couples-in-anime/?view=all
+##.injected-video-by-load
+
+! 2/22/2017, 3:19:57 AM http://screenrant.com/coolest-lgbt-couples-in-anime/
+##.read-next
+
+! 2/22/2017, 3:21:07 AM http://screenrant.com/coolest-lgbt-couples-in-anime/
+screenrant.com##.article:not(:nth-of-type(1))
+
+! 2/22/2017, 3:09:43 PM https://medium.com/@emmalindsay/why-does-dating-men-make-me-feel-like-shit-12c25e539021#.ufjnn5316
+medium.com##.is-inSiteNavBar.u-accentColor--buttonNormal.button--chromeless.button--primary.button
+
+! 2/22/2017, 3:16:02 PM https://medium.com/@emmalindsay/why-does-dating-men-make-me-feel-like-shit-12c25e539021#.ufjnn5316
+##.js-postFooterPlacements
+
+! 2/22/2017, 4:19:44 PM https://www.facebook.com/
+! Removes suggested videos
+facebook.com##[id^=hyperfeed_story_] > div:nth-of-type(2)
+
+! 2/23/2017, 1:56:42 PM http://www.latimes.com/opinion/editorials/la-ed-internment-anniversary-20170219-story.html
+##.trb_bnn
+
+! 2/23/2017, 1:57:56 PM http://www.latimes.com/opinion/editorials/la-ed-internment-anniversary-20170219-story.html
+##.trb_em_b_if
+
+! 2/23/2017, 1:58:56 PM http://www.latimes.com/opinion/editorials/la-ed-internment-anniversary-20170219-story.html
+##.trb_filmstrip
+
+! 2/23/2017, 1:59:49 PM http://www.latimes.com/opinion/editorials/la-ed-internment-anniversary-20170219-story.html
+##.trb_eg
+
+! 2/23/2017, 1:59:59 PM http://www.latimes.com/opinion/editorials/la-ed-internment-anniversary-20170219-story.html
+##.trb_ar_sum_l
+
+! 2/23/2017, 2:00:06 PM http://www.latimes.com/opinion/editorials/la-ed-internment-anniversary-20170219-story.html
+##.trb_ar_summary_wrapper
+
+demicmedia.com
+
+! 2/23/2017, 9:56:07 PM https://www.theatlantic.com/politics/archive/2017/02/rumana-ahmed-trump/517521/
+www.theatlantic.com##.callout
+
+! 2/23/2017, 9:56:58 PM https://www.theatlantic.com/politics/archive/2017/02/rumana-ahmed-trump/517521/
+###article-most-popular
+
+! 2/23/2017, 10:14:21 PM http://www.theverge.com/2017/2/23/14717506/garmin-engineer-shooting-kansas
+www.theverge.com##.c-related-list
+
+! 2/23/2017, 10:14:32 PM http://www.theverge.com/2017/2/23/14717506/garmin-engineer-shooting-kansas
+www.theverge.com##.tab-bar-fixed
+
+! 2/23/2017, 10:14:59 PM http://www.theverge.com/2017/2/23/14717506/garmin-engineer-shooting-kansas
+www.theverge.com##.l-segment.l-sidebar-fixed:nth-of-type(4)
+
+! 2/24/2017, 12:08:00 AM http://www.pocket-lint.com/news/139777-you-can-make-facebook-posts-colourful-now-here-s-how
+www.pocket-lint.com###article > .extras
+
+! 2/24/2017, 12:56:27 PM http://www.newstatesman.com/technology/2010/08/unblockable-system-site-users
+##.article-footer-promotion
+
+! 2/24/2017, 12:56:40 PM http://www.newstatesman.com/technology/2010/08/unblockable-system-site-users
+##.mobile-banner
+
+! 2/24/2017, 6:29:32 PM http://politicalhumor.about.com/od/politicalgaffes/tp/most-embarrassing-moments-of-decade.01.htm
+##.circ-list
+
+! 2/24/2017, 6:30:44 PM http://politicalhumor.about.com/od/politicalgaffes/tp/most-embarrassing-moments-of-decade.01.htm
+##[id^=inArticleVideo]
+
+! 2/24/2017, 6:32:54 PM http://politicalhumor.about.com/od/politicalgaffes/tp/most-embarrassing-moments-of-decade.01.htm
+##.append-content
+
+! 2/24/2017, 6:33:10 PM http://politicalhumor.about.com/od/politicalgaffes/tp/most-embarrassing-moments-of-decade.01.htm
+##.carousel
+
+! 2/24/2017, 6:33:34 PM http://politicalhumor.about.com/od/politicalgaffes/tp/most-embarrassing-moments-of-decade.01.htm
+about.com##[id^=featuredTopicsTemplate]
+
+! 2/24/2017, 6:33:52 PM http://politicalhumor.about.com/od/politicalgaffes/tp/most-embarrassing-moments-of-decade.01.htm
+about.com##[id^=exploreChannels]
+
+! 2/24/2017, 6:44:52 PM http://content.time.com/time/specials/packages/completelist/0,29569,1859513,00.html
+###mobile-subscribe-link
+
+! 2/25/2017, 3:51:14 PM http://www.elle.com/culture/career-politics/a43259/milo-yiannopolous-cancelled-book-deal/
+###share-sticky-bar
+
+! 2/25/2017, 3:57:21 PM http://www.elle.com/culture/career-politics/a43259/milo-yiannopolous-cancelled-book-deal/
+www.elle.com###transporter
+
+! 2/25/2017, 4:05:36 PM https://www.pri.org/programs/whose-century-it/badass-librarians-internet-archive
+##.donate
+
+! 2/27/2017, 2:31:59 PM http://www.refinery29.com/2017/02/142348/sexist-billboard-north-carolina-real-men?utm_source=facebook.com&utm_medium=post&unique_id=entry_142348
+##.email-acquisition
+
+! 2/28/2017, 6:29:34 PM https://www.youtube.com/watch?v=9hmTjjOAgjQ
+##.watch-info-tag-list .yt-uix-sessionlink
+
+! 2/28/2017, 9:55:20 PM https://www.facebook.com/
+##a[href^="https://www.patreon.com"]
+
+weequizz.com
+
+! 3/2/2017, 5:06:40 PM http://booksandjournals.brillonline.com/content/books/9789004316256
+booksandjournals.brillonline.com##.cornerPolicyTab
+
+! 3/2/2017, 6:53:28 PM https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html
+###newsletter-promo
+
+! 3/2/2017, 6:58:32 PM https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html
+##.bundle-payflow
+
+! 3/2/2017, 6:59:13 PM https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html
+##.sharetools-menu
+
+! 3/3/2017, 1:42:34 AM http://thoughtcatalog.com/charles-j-shields/2014/07/5-reasons-why-paul-george-and-ringo-hated-yoko-ono/
+##.article-readthis
+
+! 3/3/2017, 1:42:53 AM http://thoughtcatalog.com/charles-j-shields/2014/07/5-reasons-why-paul-george-and-ringo-hated-yoko-ono/
+thoughtcatalog.com##.related
+
+! 3/3/2017, 1:48:24 AM https://www.theguardian.com/music/musicblog/2009/jul/10/yoko-ono-beatles
+www.theguardian.com###onward
+
+! 3/3/2017, 1:48:48 AM https://www.theguardian.com/music/musicblog/2009/jul/10/yoko-ono-beatles
+##.js-most-popular-footer
+
+! 3/3/2017, 1:50:06 AM https://www.theguardian.com/music/musicblog/2009/jul/10/yoko-ono-beatles
+##.popular-trails
+
+! 3/5/2017, 7:25:01 PM https://www.lawfareblog.com/what-happens-when-we-dont-believe-presidents-oath
+www.lawfareblog.com##.field-item > table
+
+! 3/5/2017, 7:32:10 PM https://lawfareblog.com/bullshit-and-oath-office-lol-nothing-matters-presidency
+lawfareblog.com##.field-item > table
+
+! 3/6/2017, 8:51:45 AM https://www.bustle.com/articles/145549-5-signs-youre-being-concern-trolled-by-your-date
+##.post-page__related
+
+! 3/6/2017, 8:55:29 AM https://feministfrequency.com/video/reflecting-on-the-brilliance-of-ada-lovelace/#
+##.relatedPosts
+
+! 3/6/2017, 8:55:42 AM https://feministfrequency.com/video/reflecting-on-the-brilliance-of-ada-lovelace/#
+feministfrequency.com##.footer-support
+
+! 3/9/2017, 12:25:09 AM https://www.technologyreview.com/s/520446/the-decline-of-wikipedia/
+##.l-magazine-promo
+
+! 3/9/2017, 12:41:04 AM https://www.technologyreview.com/s/520446/the-decline-of-wikipedia/
+##.callout--tagged-event-promo
+
+! 3/9/2017, 2:33:12 PM http://nymag.com/selectall/2017/03/dramatic-history-ride-hailing-app-uber-and-ceo-kalanick.html?curator=TechREDEF
+##.most-popular
+
+! 3/9/2017, 2:33:22 PM http://nymag.com/selectall/2017/03/dramatic-history-ride-hailing-app-uber-and-ceo-kalanick.html?curator=TechREDEF
+nymag.com##.latest-news
+
+! 3/9/2017, 4:46:16 PM https://goatcloud.com/2013/07/01/website-and-online-presence-developer-code-of-conduct-and-ethics/
+##[class^=et_social_]
+
+! 3/9/2017, 5:47:39 PM http://gazettereview.com/2015/07/what-happened-to-lmfao-see-where-lmfao-is-now/
+##.td-post-next-prev
+
+! 3/9/2017, 6:57:16 PM http://www.omgubuntu.co.uk/2016/05/emoji-one-font-linux-ppa-easy-install
+##.related_post_wrapper
+
+! 3/10/2017, 1:58:13 AM http://clientsfromhell.net/page/3
+clientsfromhell.net##img
+
+! 3/10/2017, 1:58:39 AM http://clientsfromhell.net/page/3
+clientsfromhell.net##a[href^="http://t.umblr.com/redirect"]
+
+! 3/11/2017, 11:56:51 AM http://www.csmonitor.com/USA/Justice/2017/0311/Trump-fires-46-Obama-era-Justice-Dept.-attorneys.-How-normal-is-that
+##.injection
+
+! 3/13/2017, 1:26:36 AM https://vimeo.com/141471624
+##.share-button
+
+! 3/13/2017, 1:27:24 AM https://vimeo.com/141471624
+vimeo.com##.topnav_is_ondemand
+
+! 3/13/2017, 1:27:40 AM https://vimeo.com/141471624
+vimeo.com##.iris_badge--plus
+
+! 3/13/2017, 3:21:39 AM https://genius.com/436833
+##.recirculated_content
+
+! 3/13/2017, 3:21:50 AM https://genius.com/436833
+##recirculated-content
+###recirculated-content
+
+! 3/15/2017, 8:46:18 AM http://fusion.net/story/391391/woke-misogynist/
+##.speed-bump-wrapper
+
+! 3/18/2017, 7:04:48 PM http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds?mbid=social_facebook_aud_dev_kw_marchsub-why-facts-dont-change-our-minds&kwp_0=357042
+###recirc-pos-2
+
+! 3/18/2017, 7:05:46 PM http://timharford.com/2017/03/the-problem-with-facts/#pq=bW27HA
+timharford.com###aside
+
+! 3/18/2017, 7:15:42 PM http://www.rollingstone.com/politics/news/jeff-sessions-goes-full-reefer-madness-on-pot-w472282
+www.rollingstone.com###card-container
+
+! 3/19/2017, 2:29:45 PM http://interestingengineering.com/series-terrible-decisions-made-engineers-flint-michigan/
+##.mail-border
+
+! 3/19/2017, 2:37:09 PM https://www.dezeen.com/2017/03/16/oiio-imagines-big-bend-skyscraper-new-york-longest-building-in-the-world/
+##.related-in-article-wrapper
+
+! 3/19/2017, 3:18:25 PM https://broadly.vice.com/en_us/article/soccer-player-returns-to-sports-after-killing-his-ex-and-feeding-her-to-dogs?utm_source=vicefbus
+vice.com##.read-more
+
+! 3/19/2017, 3:20:09 PM https://broadly.vice.com/en_us/article/soccer-player-returns-to-sports-after-killing-his-ex-and-feeding-her-to-dogs?utm_source=vicefbus
+##.previous-next
+
+! 3/19/2017, 3:20:33 PM https://broadly.vice.com/en_us/article/soccer-player-returns-to-sports-after-killing-his-ex-and-feeding-her-to-dogs?utm_source=vicefbus
+vice.com##.list-view-container
+
+! 3/19/2017, 3:27:12 PM http://postize.com/5-underrated-anime-that-deserves-all-your-attention--?utm_source=z8gbz8&utm_medium=partner
+##.animated.logo
+
+! 3/19/2017, 3:28:05 PM http://postize.com/5-underrated-anime-that-deserves-all-your-attention--?utm_source=z8gbz8&utm_medium=partner
+postize.com##.sidebar
+
+! 3/19/2017, 11:20:42 PM https://vimeo.com/140550544
+##.share-button
+
+! 3/20/2017, 12:23:25 AM https://vimeo.com/150495251
+##.iris_modal
+
+! 3/20/2017, 12:23:48 AM https://vimeo.com/150495251
+###lightbox_overlay
+
+! 3/20/2017, 12:23:58 AM https://vimeo.com/150495251
+###share_popup
+
+! 3/20/2017, 12:24:30 AM https://vimeo.com/150495251
+##[id^=lightbox_container]
+
+##a[href^="http://adtrack"]
+
+gloomwrite.com
+
+! 3/21/2017, 1:18:55 AM http://www.ign.com/articles/2015/03/10/cities-skylines-review
+www.ign.com###spine-container
+
+! 3/21/2017, 3:40:06 AM http://www.ign.com/articles/2015/03/10/cities-skylines-review
+##.recirc-module
+
+! 3/21/2017, 3:45:19 AM http://www.ign.com/articles/2015/03/10/cities-skylines-review
+www.ign.com##.hero-unit-container
+
+*$media,domain=ign.com
+
+! 3/21/2017, 3:59:49 AM http://www.ign.com/articles/2015/03/10/cities-skylines-review
+www.ign.com###ign-recommends
+
+! 3/21/2017, 4:21:59 AM https://codeclimate.com/github/ethus3h/crystallize
+##[class$="-cta"]:not(.btn)
+##[class$="-cta"].btn
+~intel.com##[class$="-cta"].btn
+
+! 3/23/2017, 4:09:09 AM http://www.hollywoodreporter.com/thr-esq/kesha-fails-bid-bring-amended-lawsuit-dr-luke-987739
+www.hollywoodreporter.com##.blog-post:not(:first-of-type)
+
+! 3/23/2017, 11:59:41 AM https://genius.com/Galantis-firebird-lyrics
+##relevant-videos
+
+! 3/23/2017, 12:42:53 PM http://www.slate.com/blogs/browbeat/2017/03/10/the_legacy_of_buffy_the_vampire_slayer_20_years_later.html
+www.slate.com##[id^=story-]:not(#story-0)
+
+! 3/23/2017, 2:16:55 PM http://www.edmtunes.com/2015/01/galantis-continues-seafox-story-runaway-u-video/
+##.td_block_related_posts
+
+! 3/23/2017, 2:18:26 PM http://www.edmtunes.com/2015/01/galantis-continues-seafox-story-runaway-u-video/
+www.edmtunes.com##.td-main-sidebar
+
+! 3/23/2017, 3:00:54 PM https://library.umaine.edu/
+##.social-link-icon
+
+! 3/23/2017, 3:05:41 PM https://library.umaine.edu/
+~library.umaine.edu##.slick-slider
+
+! 3/23/2017, 5:12:47 PM http://youtubeloop.net/#donation
+youtubeloop.net##.btnAdProfile
+
+! 3/23/2017, 5:12:59 PM http://youtubeloop.net/#donation
+##.btnSubscribe
+
+! 3/23/2017, 5:13:40 PM http://youtubeloop.net/#donation
+##.fa-amazon
+
+! 3/28/2017, 2:55:12 PM http://www.irishmirror.ie/showbiz/irish-showbiz/ed-sheerans-galway-girl-admits-9988809
+www.irishmirror.ie##.channel-showbiz .tab-triggers
+
+! 3/28/2017, 2:55:40 PM http://www.irishmirror.ie/showbiz/irish-showbiz/ed-sheerans-galway-girl-admits-9988809
+#.top-stories
+
+! 3/28/2017, 3:09:47 PM https://www.cnet.com/news/chrome-updated-so-tomorrows-quantum-computers-cant-crack-todays-encryption/
+www.cnet.com###featuredVideo > .popOnScroll
+
+! 3/28/2017, 3:11:02 PM https://www.cnet.com/news/samsung-galaxy-s8-launch-date-rumors-phone-fatigue-note-7/
+www.cnet.com##[id^=page-]:not(:first-of-type)
+
+! 3/28/2017, 3:11:36 PM https://www.cnet.com/news/s-town-podcast-serial-productions-brian-reed-julie-snyder/
+www.cnet.com###page-chrome-updated-so-tomorrows-quantum-computers-cant-crack-todays-encryption > .container > .row > .row:nth-of-type(2) > .col-12 > .upNextBottomWrapper
+
+! 3/31/2017, 3:32:01 PM https://about.gitlab.com/2017/03/02/why-we-are-not-leaving-the-cloud/
+##.sticky-banner
+
+! 3/31/2017, 3:48:20 PM https://about.gitlab.com/2017/03/02/why-we-are-not-leaving-the-cloud/
+##.newsletter
+
+##.signup.wrapper
+
+~mac-torrent-download.net##.ad-box
+
+! 4/2/2017, 1:30:04 AM http://rapidgator.net/download/captcha
+rapidgator.net##a[href="https://datadownloader.net"]
+
+! 4/2/2017, 6:28:33 PM http://www.javadecompilers.com/result
+www.javadecompilers.com##div:nth-of-type(2) > .action-buttons
+
+! 4/3/2017, 2:59:18 PM http://tuxradar.com/content/how-it-works-linux-audio-explained
+tuxradar.com##a[href="http://identi.ca/tuxradar"]
+
+! 4/3/2017, 2:59:28 PM http://tuxradar.com/content/how-it-works-linux-audio-explained
+tuxradar.com##a[href="http://twitter.com/tuxradar"]
+
+! 4/3/2017, 3:26:38 PM https://globfone.com/call-for-free/
+##.wpex-social-share-wrap
+
+! 4/6/2017, 1:45:12 AM http://newatlas.com/free-universal-construction-kit/21909/
+###PlusSubscribeAd
+
+! 4/6/2017, 1:45:37 AM http://newatlas.com/free-universal-construction-kit/21909/
+newatlas.com##.js-liftigniter-column
+
+! 4/6/2017, 1:45:45 AM http://newatlas.com/free-universal-construction-kit/21909/
+newatlas.com##.header__login
+
+! 4/6/2017, 1:46:18 AM http://newatlas.com/free-universal-construction-kit/21909/
+newatlas.com##.slab:not(:first-of-type)
+
+! 4/6/2017, 1:46:56 AM http://newatlas.com/free-universal-construction-kit/21909/
+newatlas.com##a[href="http://newatlas.com/advertise/"]
+
+! 4/6/2017, 1:47:05 AM http://newatlas.com/free-universal-construction-kit/21909/
+newatlas.com##.rebrand-link
+
+! 4/8/2017, 5:01:56 PM https://gyazo.com/abb65107149d9ac00c49b9606335bfca
+gyazo.com##.btn-download
+
+! 4/9/2017, 7:56:05 PM https://www.youtube.com/playlist?list=PLz8JsiLUtVnBcJ3NopNPeEVhjUay6sRj7
+www.youtube.com###-guide-item > .spf-nolink
+
+! 4/11/2017, 2:47:36 AM http://www.chicagotribune.com/business/columnists/ct-united-passenger-dragging-disaster-0411-biz-20170410-column.html
+www.chicagotribune.com##.trb_eg_b.trb_eg
+
+! 4/11/2017, 2:47:50 AM http://www.chicagotribune.com/business/columnists/ct-united-passenger-dragging-disaster-0411-biz-20170410-column.html
+www.chicagotribune.com##.trb_ar_summary_wrapper
+
+https://cnetmedia-a.akamaihd.net/*.m3u8
+
+! 4/12/2017, 11:04:26 PM https://www.buzzfeed.com/kateaurthur/tila-tequilas-descent-into-nazism-is-a-long-time-coming?utm_term=.wo9yY37q5#.xjzpwnbZz
+##[class^="promo-app"]
+
+! 4/14/2017, 6:47:48 PM http://jalopnik.com/ex-employees-say-hennessey-is-a-bigger-mess-than-you-ev-1778134112
+jalopnik.com##.lazyloaded
+
+! 4/14/2017, 6:48:39 PM http://autoweek.com/article/car-news/viper-specialist-john-hennessey-his-cylinder-heads-problems
+autoweek.com##.sp_right
+
+! 4/14/2017, 6:53:51 PM http://autoweek.com/article/car-news/viper-specialist-john-hennessey-his-cylinder-heads-problems
+##[class*=recirculation]
+
+! 4/14/2017, 6:54:09 PM http://autoweek.com/article/car-news/viper-specialist-john-hennessey-his-cylinder-heads-problems
+##.related-stories
+
+! 4/14/2017, 8:38:23 PM http://bgr.com/2016/05/02/youtube-material-design-how-to-switch/
+bgr.com##.bgr-recommended
+
+! 4/14/2017, 9:28:16 PM https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Retina+Display+Mid+2012+Teardown/9462#s36209
+www.ifixit.com##a[href^="http://www.dozuki.com"]
+
+! 4/14/2017, 9:28:31 PM https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Retina+Display+Mid+2012+Teardown/9462#s36209
+||d3nevzfk7ii3be.cloudfront.net/igi/DDW5erfAmFiGWGqM.medium$image
+
+! 4/14/2017, 9:32:06 PM https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Retina+Display+Mid+2012+Teardown/9462#s36209
+www.ifixit.com##a[href^="http://www.ifixit.com/Tools"]
+
+! 4/14/2017, 9:32:20 PM https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Retina+Display+Mid+2012+Teardown/9462#s36209
+www.ifixit.com##a[href^="http://www.ifixit.com/iPhone-Parts"]
+
+! 4/14/2017, 9:32:32 PM https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Retina+Display+Mid+2012+Teardown/9462#s36209
+www.ifixit.com##a[href^="http://www.ifixit.com/Mac-Parts"]
+
+! 4/14/2017, 9:32:55 PM https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Retina+Display+Mid+2012+Teardown/9462#s36209
+www.ifixit.com##a[href^="/Store"]
+
+! 4/14/2017, 9:33:09 PM https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Retina+Display+Mid+2012+Teardown/9462#s36209
+www.ifixit.com##a[href^="http://www.ifixit.com/Parts-Store"]
+
+! 4/16/2017, 12:11:49 AM https://anime.thehylia.com/soundtracks/album/re-zero-kara-hajimeru-isekai-seikatsu-original-soundtrack/07%2520-%2520Fue%2520to%2520Souzou%2520no%2520Sanpomichi.mp3
+anime.thehylia.com##a[href="https://anime.thehylia.com/forums/payments.php"]
+
+! 4/16/2017, 4:33:43 PM http://www.foxnews.com/world/2017/04/16/pope-francis-on-easter-cling-to-faith-amid-wars-and-hatred.html
+www.foxnews.com##ul
+
+! 4/16/2017, 7:19:22 PM http://www.medicinenet.com/e_coli__0157h7/article.htm
+www.medicinenet.com##.avgrund-overlay
+
+! 4/16/2017, 7:20:10 PM http://www.medicinenet.com/e_coli__0157h7/article.htm
+www.medicinenet.com##.owl-carousel
+
+! 4/17/2017, 10:48:42 PM https://the-artifice.com/anime-fake-romance/
+the-artifice.com##.write-for-us-cont
+
+! 4/17/2017, 10:48:54 PM https://the-artifice.com/anime-fake-romance/
+the-artifice.com##.subscribe-cont
+
+! 4/17/2017, 10:49:05 PM https://the-artifice.com/anime-fake-romance/
+the-artifice.com##.radar-cont
+
+! 4/17/2017, 10:49:35 PM https://the-artifice.com/anime-fake-romance/
+the-artifice.com##.btn-squared.btn-main-filled.btn-main.btn
+
+! 4/19/2017, 8:50:27 PM https://www.last.fm/user/forestflight/library/tracks
+##.join-cta
+
+! 4/20/2017, 10:36:00 PM https://www.youtube.com/watch?v=fZlpqRpXBLg
+www.youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
+
+! 4/20/2017, 10:36:11 PM https://www.youtube.com/watch?v=fZlpqRpXBLg
+www.youtube.com###autoplay
+
+! 4/20/2017, 11:31:46 PM https://myanimelist.net/anime/31173/Akagami_no_Shirayuki-hime_2nd_Season
+myanimelist.net##.footer-recommended
+
+! 2017 Apr. 20a21
+! Remove the button to remove a video from a playlist from video watch pages
+youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.dropdown-trigger)
+
+! 4/21/2017, 8:06:05 PM http://www.latimes.com/entertainment/music/la-et-ms-lo-moon-20170130-story.html
+www.latimes.com##.trb_bnn
+
+! 4/23/2017, 12:25:47 AM https://www.wsj.com/news/article_email/SB10001424052702303417104579542140235850578-lMyQjAxMTA0MDAwNTEwNDUyWj
+www.wsj.com##.evernote-clip-button
+
+! 4/23/2017, 12:26:19 AM https://www.wsj.com/news/article_email/SB10001424052702303417104579542140235850578-lMyQjAxMTA0MDAwNTEwNDUyWj
+www.wsj.com##a[href^="https://subscribe.wsj.com/"]
+
+! 4/23/2017, 12:26:44 AM https://www.wsj.com/news/article_email/SB10001424052702303417104579542140235850578-lMyQjAxMTA0MDAwNTEwNDUyWj
+www.wsj.com##.wsj-snippet-login
+
+! 4/23/2017, 12:27:04 AM https://www.wsj.com/news/article_email/SB10001424052702303417104579542140235850578-lMyQjAxMTA0MDAwNTEwNDUyWj
+##.top-stories-strap
+
+! 4/23/2017, 12:27:25 AM https://www.wsj.com/news/article_email/SB10001424052702303417104579542140235850578-lMyQjAxMTA0MDAwNTEwNDUyWj
+###trending_now
+
+! 4/23/2017, 1:51:42 AM https://www.mozilla.org/en-US/firefox/organizations/faq/
+###survey-message
+
+! 4/23/2017, 1:57:02 AM http://futuramerlin.com/issue-tracker/bug_update_page.php
+futuramerlin.com##a[href="http://www.mantisbt.org"]
+
+! 4/23/2017, 4:02:18 AM https://www.youtube.com/watch?v=mnArCFSrkg8&index=238&list=PLMWfZxj1nTkQBy4AeRGG4xH5d2IIApNPj
+www.youtube.com##a[href^="http://naturebox.com/"]
+
+! 4/24/2017, 3:29:46 PM https://www.facebook.com/
+www.facebook.com##[id^=topnews_main_stream_]
+
+! 4/27/2017, 6:57:34 PM https://docs.google.com/presentation/d/10E34m79EpB77yrQr9zzRltqjgi4ZbmyhMR4vBeg0iAw/edit#slide=id.p
+docs.google.com###punch-explore-widget
+
+! 4/28/2017, 7:36:35 PM http://mattgemmell.com/confessions-of-an-ex-developer/
+mattgemmell.com##.patronage
+
+! 5/6/2017, 7:59:21 AM https://www.rapgeek.ru/search?utf8=%E2%9C%93&query=%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0
+www.rapgeek.ru###scroller
+
+! 5/6/2017, 7:59:35 AM https://www.rapgeek.ru/search?utf8=%E2%9C%93&query=%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0
+www.rapgeek.ru###mask
+
+! 5/6/2017, 5:41:11 PM https://vimeo.com/149246057
+vimeo.com##.iris_modal-underlay
+
+! 5/6/2017, 5:41:18 PM https://vimeo.com/149246057
+vimeo.com##.iris_modal
+
+! 5/8/2017, 1:06:02 PM https://www.pixiv.net/member.php?id=1521307
+www.pixiv.net##._pixivision-item-container
+
+! 5/8/2017, 1:08:24 PM https://www.pixiv.net/member_illust.php?mode=medium&illust_id=21488999
+www.pixiv.net##.newindex-service
+
+! 5/8/2017, 4:24:45 PM https://www.youtube.com/watch?v=WIXjHt8KmUc
+www.youtube.com##[id$="-sidebar-contents"]
+
+! 5/8/2017, 4:25:15 PM https://www.youtube.com/watch?v=WIXjHt8KmUc
+www.youtube.com###watch-discussion
+
+! 5/8/2017, 5:07:51 PM https://www.youtube.com/watch?v=-AfjBifqK_E
+www.youtube.com##[id^=watch][id$=sidebar]
+
+! 5/8/2017, 5:08:08 PM https://www.youtube.com/watch?v=-AfjBifqK_E
+www.youtube.com###watch-discussion
+
+! 5/8/2017, 5:45:52 PM https://www.youtube.com/watch?v=rxSlMp8jneM&list=PLSlOy7dj0gMPs7XKoRpGQvymE4E_85Hpb&index=131
+www.youtube.com##.watch-sidebar
+
+! 5/8/2017, 5:46:45 PM https://www.youtube.com/watch?v=MgeherqSkVU&index=132&list=PLSlOy7dj0gMPs7XKoRpGQvymE4E_85Hpb
+www.youtube.com###comment-section-renderer
+
+! 5/8/2017, 5:50:45 PM https://www.youtube.com/watch?v=MgeherqSkVU&index=132&list=PLSlOy7dj0gMPs7XKoRpGQvymE4E_85Hpb
+www.youtube.com###watch-related
+
+! 5/9/2017, 6:52:45 PM https://musescore.com/logout
+musescore.com##.badges
+
+! 5/9/2017, 6:53:13 PM https://musescore.com/logout
+##[class^="icon-tumblr"]
+
+! 5/9/2017, 6:53:19 PM https://musescore.com/logout
+##[class^="icon-gplus"]
+
+! 5/9/2017, 6:53:25 PM https://musescore.com/logout
+##[class^="icon-linkedin"]
+
+! 5/9/2017, 6:55:38 PM https://musescore.com/user/278711/scores/3871256
+musescore.com##.button-wrapper:nth-of-type(2) > .secondary.button
+
+! 5/9/2017, 6:56:55 PM https://www.youtube.com/
+www.youtube.com###feed-main-what_to_watch
+
+! 5/9/2017, 6:57:59 PM https://musescore.com/user/278711/scores/3871256
+musescore.com##.login
+
+! 5/9/2017, 7:06:01 PM https://musescore.com/score/3871256/download
+musescore.com##a[href^="/user/login"]
+
+! 5/9/2017, 8:14:04 PM https://www.google.com/search?ncr=1&q=javascript+array
+##a[href^="https://www.w3schools.com"]
+##a[href^="http://www.w3schools.com"]
+
+! 5/10/2017, 12:33:19 AM https://devcentral.f5.com/articles/4-reasons-not-to-use-mod_security
+devcentral.f5.com##.externalLink
+
+! 5/10/2017, 8:41:07 AM http://www.laptopmag.com/reviews/laptops/hp-spectre-x360-13-inch
+###stickyShare
+
+! 5/10/2017, 1:46:10 PM http://www.useragents.com/
+||www.useragents.com/root/app_common/img/top_logo_ua.png$image
+
+! 5/10/2017, 2:33:25 PM http://futuramerlin.com/issue-tracker/view.php?id=615
+futuramerlin.com##.btn-group-sm > .pull-left:nth-of-type(2)
+
+! 5/11/2017, 5:05:38 PM https://www.theregister.co.uk/2017/05/11/verizon_steals_straight_path_from_att/
+www.theregister.co.uk###spotlight
+
+! 5/11/2017, 5:05:53 PM https://www.theregister.co.uk/2017/05/11/verizon_steals_straight_path_from_att/
+##.related_stories
+
+! 5/11/2017, 5:06:05 PM https://www.theregister.co.uk/2017/05/11/verizon_steals_straight_path_from_att/
+###article_newsletter_signup
+
+! 5/13/2017, 4:04:11 PM http://www.pcworld.com/article/3004654/government/a-tale-of-two-women-same-birthday-same-social-security-number-same-big-data-mess.html
+www.pcworld.com###network
+
+! 5/14/2017, 11:31:00 AM https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/
+www.smashingmagazine.com###further-reading-on-smashingmag
+
+! 5/14/2017, 11:31:49 AM https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/
+www.smashingmagazine.com##.hentry ul
+
+! 5/14/2017, 2:49:51 PM https://www.last.fm/user/forestflight/library/tracks
+www.last.fm##.lazy-recs-bar-full-width-wrapper
+
+! 5/14/2017, 2:50:02 PM https://www.last.fm/user/forestflight/library/tracks
+www.last.fm##.chartlist-break
+
+! 5/14/2017, 2:50:35 PM https://www.last.fm/user/forestflight/library/tracks
+www.last.fm##.video-player-embed
+
+! 5/14/2017, 2:50:45 PM https://www.last.fm/user/forestflight/library/tracks
+www.last.fm##.features-footer
+
+! 5/15/2017, 12:27:35 AM http://blog.discmakers.com/2009/12/seven-effective-strategies-to-get-your-music-noticed/
+blog.discmakers.com##a[href="http://www.discmakers.com/BLOGREQEFF"]
+
+! 5/15/2017, 7:44:01 AM https://cultivatedculture.com/how-to-get-a-job-anywhere-no-connections/
+cultivatedculture.com##blockquote
+
+! 5/16/2017, 8:31:21 PM https://www.bitchmedia.org/article/5-books-about-women-who-work-those-who-arent
+www.bitchmedia.org###cboxOverlay
+
+! 5/16/2017, 8:31:30 PM https://www.bitchmedia.org/article/5-books-about-women-who-work-those-who-arent
+www.bitchmedia.org###cboxContent
+
+! 5/16/2017, 8:34:27 PM https://www.bitchmedia.org/article/5-books-about-women-who-work-those-who-arent
+www.bitchmedia.org##.region-prefooter
+
+! 5/16/2017, 8:36:14 PM https://www.bitchmedia.org/article/5-books-about-women-who-work-those-who-arent
+www.bitchmedia.org##.sidebar
+
+! 5/17/2017, 1:56:07 PM https://80000hours.org/career-guide/how-to-get-a-job/
+80000hours.org##iframe
+
+! 5/17/2017, 1:57:07 PM https://80000hours.org/career-guide/how-to-get-a-job/
+80000hours.org###header.slideDown
+
+! 5/17/2017, 1:59:30 PM https://80000hours.org/career-guide/how-to-get-a-job/
+80000hours.org##[id^=toggler]
+
+! 5/17/2017, 5:49:03 PM http://aristake.com/?post=92
+aristake.com###footer
+
+! 5/17/2017, 5:49:30 PM http://aristake.com/?post=92
+aristake.com###cboxOverlay
+
+! 5/17/2017, 5:49:38 PM http://aristake.com/?post=92
+###colorbox
+
+! 5/17/2017, 6:11:06 PM http://aristake.com/?post=92
+aristake.com##a[href^="http://smarturl.it"]
+
+! 5/17/2017, 6:11:21 PM http://aristake.com/?post=92
+aristake.com##a[href^="http://bit.ly/"]
+
+! 5/17/2017, 6:14:50 PM http://aristake.com/?post=92
+aristake.com###ariChair
+
+! 5/17/2017, 6:22:32 PM http://www.digitalmusicnews.com/2014/02/10/withholding-from-spotify-hurts-you/
+www.digitalmusicnews.com###cb-ticker
+
+! 5/17/2017, 7:43:57 PM http://www.hypebot.com/hypebot/2016/11/cd-baby-acquires-showco-soundrop-to-expand-artist-services-pledges-new-distribution-approach-that-fa.html
+www.hypebot.com##img[src="http://www.hypebot.com/160x400Hypebot.jpg"]
+
+! 5/17/2017, 7:44:26 PM http://www.hypebot.com/hypebot/2016/11/cd-baby-acquires-showco-soundrop-to-expand-artist-services-pledges-new-distribution-approach-that-fa.html
+www.hypebot.com###beta
+
+! 5/17/2017, 7:44:40 PM http://www.hypebot.com/hypebot/2016/11/cd-baby-acquires-showco-soundrop-to-expand-artist-services-pledges-new-distribution-approach-that-fa.html
+www.hypebot.com###gamma
+
+! 5/24/2017, 5:37:43 PM http://libgen.me/download.php?id=1288131
+libgen.me##td:nth-of-type(1)
+
+! 5/25/2017, 3:37:03 PM https://www.youtube.com/channel/UCPtiXdv7RoU8IkrJeNY73qw
+www.youtube.com##.branded-page-related-channels-list
+
+! 5/25/2017, 3:37:39 PM https://www.youtube.com/channel/UCPtiXdv7RoU8IkrJeNY73qw
+www.youtube.com##.branded-page-related-channels
+
+! 6/5/2017, 4:37:41 AM http://www.hongkiat.com/blog/php7/
+www.hongkiat.com##.is-sticky--pinned
+
+! 6/5/2017, 4:40:44 AM http://www.hongkiat.com/blog/php7/
+www.hongkiat.com##[id^=single-post]:not(:first-of-type)
+
+! 6/7/2017, 12:07:29 PM https://libgen.pw/download.php?id=1619578
+!libgen.pw##td:nth-of-type(1)
+
+! 6/9/2017, 9:46:52 PM http://www.thecarconnection.com/news/1110896_hyundai-recalls-600000-u-s-vehicles-genesis-sonata-santa-fe-santa-fe-sport
+##.ui-widget-overlay
+
+! 6/9/2017, 9:47:00 PM http://www.thecarconnection.com/news/1110896_hyundai-recalls-600000-u-s-vehicles-genesis-sonata-santa-fe-santa-fe-sport
+###popup-newsletter-header
+
+! 6/9/2017, 9:47:07 PM http://www.thecarconnection.com/news/1110896_hyundai-recalls-600000-u-s-vehicles-genesis-sonata-santa-fe-santa-fe-sport
+###popup-email-subscribe
+
+! 6/9/2017, 9:47:27 PM http://www.thecarconnection.com/news/1110896_hyundai-recalls-600000-u-s-vehicles-genesis-sonata-santa-fe-santa-fe-sport
+##.mail-chimp-popup
+
+! 6/10/2017, 7:56:54 PM https://www.wired.com/2016/06/meet-ourmine-security-group-hacking-ceos-celebs/
+##.cards-component
+
+! 6/10/2017, 7:57:22 PM https://www.wired.com/2016/06/meet-ourmine-security-group-hacking-ceos-celebs/
+##[class^=subscribe]
+
+! 6/10/2017, 7:57:43 PM https://www.wired.com/2016/06/meet-ourmine-security-group-hacking-ceos-celebs/
+##[class^=social]
+##[class^=sponsored]
+! 6/10/2017, 7:58:01 PM https://www.wired.com/2016/06/meet-ourmine-security-group-hacking-ceos-celebs/
+##[class$=subscribe]
+
+! 6/11/2017, 4:09:36 PM https://www.youtube.com/watch?v=Sqz7xEIfZC4
+youtube.com###related
+
+~reddit.com##[class^=subscribe]
+
+! 6/11/2017, 6:20:22 PM https://www.youtube.com/watch?v=vpIAWkGaE_s
+youtube.com###content > .ytd-metadata-row-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
+
+! 6/15/2017, 3:58:07 AM https://www.gizmodo.com.au/2017/01/firefox-57-could-break-add-ons-so-much-developers-wont-bother-fixing-them/
+##.top-stories
+
+! 6/15/2017, 10:15:16 PM https://www.infoq.com/news/2016/09/mozilla-discontinue-firefoxhello
+##.adblockermessage
+
+! 6/17/2017, 8:19:00 AM https://ww1.gogoanime.io/magi-kingdom-magic-episode-17
+###disqus_thread
+
+~github.com##[class^=social]
+
+~myanimelist.net##div[style][data-height]
+myanimelist.net##div[style][data-height]:not(.btn-truncate)
+
+! 6/18/2017, 3:39:08 PM https://www.youtube.com/watch?v=u_h7mbkOjeQ
+youtube.com###comments
+
+! 6/18/2017, 3:42:44 PM https://www.youtube.com/
+!youtube.com/##.ytd-browse:nth-of-type(1)
+!~youtube.com/*##.ytd-browse:nth-of-type(1)
+
+! 6/21/2017, 3:46:48 PM http://libgen.io/ads.php?md5=CC9A8D54C142176331B2B0F2A9D1A19C
+libgen.io##td:nth-of-type(2)
+
+! 6/24/2017, 9:34:32 AM https://www.codementor.io/mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
+##.article__engager
+
+! 6/24/2017, 9:34:47 AM https://www.codementor.io/mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
+www.codementor.io##.article__menu__sign-in
+
+! 6/24/2017, 9:35:03 AM https://www.codementor.io/mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
+www.codementor.io##.author__action
+
+! 6/24/2017, 9:35:11 AM https://www.codementor.io/mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
+www.codementor.io##.write-a-post
+
+! 6/25/2017, 6:45:19 PM https://userscloud.com/jnrddugon1gb
+userscloud.com##[href^="https://userscloud.com/unlimited.htm"]
+
+! 6/25/2017, 6:45:40 PM https://userscloud.com/jnrddugon1gb
+userscloud.com##[href^="https://userscloud.com/"]
+
+! 6/25/2017, 6:46:12 PM http://www.mirrorcreator.com/showurl.php?uid=0MDUCYZW&hostid=86&sess_id=99398d78092dbb78c73c6b3b028ac813
+www.mirrorcreator.com##.wrap_txt
+
+! 6/25/2017, 7:37:04 PM http://www.spyware-techie.com/kuaizip-removal-guide
+##.head-secure-badge
+
+! 6/26/2017, 10:48:22 PM http://chromecastbg.alexmeub.com/downloads.html
+##a[href$="saythanks.html"]
+##a[href$="saythanks/"]
+##a[href$="paypal.me/ameub"]
+
+! 6/27/2017, 11:29:29 PM http://www.complex.com/style/2016/08/young-thug-jeffery-dress-story
+###article-feed
+
+! 6/28/2017, 8:33:17 PM http://www.oregonlive.com/pacific-northwest-news/index.ssf/2013/07/coming_to_va_cemetery_headston.html
+##[id^="newsletter"]
+##[id$="promo"]
+##[id$="newsletter"]
+##[id^="promo"]
+
+! 6/28/2017, 8:36:33 PM http://www.oregonlive.com/pacific-northwest-news/index.ssf/2013/07/coming_to_va_cemetery_headston.html
+www.oregonlive.com###newsletter_promo
+
+! 6/29/2017, 1:51:12 AM http://bangordailynews.com/2017/06/27/living/kesha-and-seinfelds-hug-boys-have-boundaries-too/
+bangordailynews.com###bottomRefers
+
+itn.blinkx.com
+
+! 7/2/2017, 4:16:09 PM https://krugman.blogs.nytimes.com/2010/08/02/why-is-deflation-bad/
+###whats-next
+
+! 7/2/2017, 4:16:32 PM https://krugman.blogs.nytimes.com/2010/08/02/why-is-deflation-bad/
+nytimes.com##.login-button
+
+noscript.net
+informaction.com
+secure.informaction.com
+
+! 7/3/2017, 7:05:40 PM https://ello.co/dredmorbius/post/lhw2eq4qmnnwxijlcrfyba
+ello.co##.Modal
+
+! 7/3/2017, 7:05:56 PM https://ello.co/dredmorbius/post/lhw2eq4qmnnwxijlcrfyba
+ello.co##.isSignUp
+
+! 7/3/2017, 7:06:27 PM https://ello.co/dredmorbius/post/lhw2eq4qmnnwxijlcrfyba
+ello.co##.Footer
+
+! 7/3/2017, 7:06:41 PM https://ello.co/dredmorbius/post/lhw2eq4qmnnwxijlcrfyba
+ello.co##.NavbarLink:nth-of-type(1)
+
+! 7/3/2017, 7:11:14 PM http://www.omgubuntu.co.uk/2017/03/force-enable-firefox-52-npapi-support
+www.omgubuntu.co.uk##.banner-slideshow
+
+! 7/4/2017, 2:04:18 AM http://www.ign.com/articles/2015/06/30/e3-2015-why-you-cant-play-as-a-woman-in-zelda-tri-force-heroes
+##[class^=article-share]
+
+! 7/4/2017, 1:31:05 PM https://sourceforge.net/projects/iopriority/
+sourceforge.net###sidebar
+
+! 7/4/2017, 1:31:18 PM https://sourceforge.net/projects/iopriority/
+sourceforge.net###nav-site
+
+! 7/4/2017, 1:31:33 PM https://sourceforge.net/projects/iopriority/
+sourceforge.net##a[href="https://sourceforge.net/user/registration"]
+
+! 7/4/2017, 3:08:56 PM https://twitter.com/
+twitter.com##.dashboard
+
+! 7/4/2017, 8:31:22 PM http://www.justjared.com/2017/07/03/kesha-might-be-releasing-new-music-this-week/
+www.justjared.com##.scrollContainer
+
+! 7/4/2017, 8:31:33 PM http://www.justjared.com/2017/07/03/kesha-might-be-releasing-new-music-this-week/
+www.justjared.com###sidebar
+
+! 7/6/2017, 12:04:52 AM http://www.tomshardware.com/reviews/airvpn-vpn-service,4265.html#p3
+www.tomshardware.com##a[href^="http://www.tomshardware.com"]
+
+! 7/6/2017, 12:13:04 AM http://www.tomshardware.com/reviews/airvpn-vpn-service,4265.html#p6
+www.tomshardware.com###in_article
+
+! 7/6/2017, 12:15:34 AM https://gyazo.com/d90b8bc011df7aea85b74051bbb2c5f4
+gyazo.com##.header-block
+
+! 7/6/2017, 1:08:25 AM https://www.torlock.com/torrent/5154287/izotope-rx-5-advanced-audio-editor-v5-01-osx.html
+##a[href*="europeantorrents.download/"]
+
+! 7/6/2017, 3:16:18 PM https://newretrowave.com/album-reviews/2016/8/29/the-midnight-endless-summer
+##.Mobile-bar--bottom
+
+! 7/6/2017, 3:21:44 PM https://newretrowave.com/album-reviews/2016/8/29/the-midnight-endless-summer
+##[class^=Share]
+
+! 7/6/2017, 4:05:33 PM http://theybf.com/2009/02/18/ybf-exclusive-dj-kid-capri-found-guilty-domestic-dispute
+###popupBox
+
+! 7/6/2017, 4:05:41 PM http://theybf.com/2009/02/18/ybf-exclusive-dj-kid-capri-found-guilty-domestic-dispute
+###overlay
+
+! 7/6/2017, 4:56:24 PM http://www.lennyletter.com/culture/a904/kesha-is-back-with-a-new-single-praying/
+www.lennyletter.com###transporter
+
+! 7/7/2017, 1:37:11 AM https://www.youtube.com/watch?v=v-Dur3uXXCQ
+! Remove share button
+www.youtube.com###top-level-buttons > ytd-button-renderer:nth-of-type(1)
+
+! 7/7/2017, 10:05:20 PM http://time.com/4849438/kesha-seinfeld-hug-bob-dylan/
+||assets.time.com/images/*-promo-*.jpg$image
+
+! 7/8/2017, 11:39:57 PM http://www.deathandtaxesmag.com/222302/the-beastie-boys-almost-named-their-first-album-dont-be-a-faggot/
+##.footer-recommended
+
+! 7/8/2017, 11:40:15 PM http://www.deathandtaxesmag.com/222302/the-beastie-boys-almost-named-their-first-album-dont-be-a-faggot/
+##.recommended-module
+
+! 7/8/2017, 11:40:41 PM http://www.deathandtaxesmag.com/222302/the-beastie-boys-almost-named-their-first-album-dont-be-a-faggot/
+##[class*=most-popular]:not(.type-post)
+
+! 7/8/2017, 11:41:52 PM https://www.thestranger.com/lineout/archives/2012/05/11/13629680-the-original-title-of-the-beastie-boys-debut-album
+##.related-content
+
+! 7/8/2017, 11:42:00 PM https://www.thestranger.com/lineout/archives/2012/05/11/13629680-the-original-title-of-the-beastie-boys-debut-album
+##[id*=social-links]
+
+||deadspin.com^$inline-script
+
+! 7/11/2017, 4:37:10 PM https://deadspin.com/the-story-behind-the-masked-horror-of-the-munich-olympi-1792823912
+deadspin.com##.sidebar
+
+! 7/11/2017, 4:42:51 PM https://deadspin.com/the-story-behind-the-masked-horror-of-the-munich-olympi-1792823912
+##.js_inset
+
+! 7/11/2017, 4:59:17 PM https://deadspin.com/the-story-behind-the-masked-horror-of-the-munich-olympi-1792823912
+##.related-module
+
+! 7/11/2017, 5:09:13 PM http://articles.latimes.com/1996-07-28/news/ss-29026_1_munich-massacre-forever
+articles.latimes.com###mod-hp-article-list
+
+! 7/11/2017, 5:39:53 PM http://www.dailymail.co.uk/news/article-4667098/Vatican-police-break-gay-orgy-apartment.html
+www.dailymail.co.uk##.facebook-like-static
+
+! 7/11/2017, 5:47:02 PM http://time.com/4849438/kesha-seinfeld-hug-bob-dylan/
+||assets.time.com/images/*-900x50.png$image
+
+! 7/12/2017, 4:28:45 AM https://www.gamedev.net/forums/topic/648412-gaussian-blur-with-large-radius/
+www.gamedev.net###elGuestTerms
+
+! 7/12/2017, 4:29:27 AM https://www.gamedev.net/forums/topic/648412-gaussian-blur-with-large-radius/
+www.gamedev.net##.ipsPad.ipsType_center
+
+! 7/13/2017, 10:29:11 PM http://www.washingtontimes.com/news/2017/jan/19/rick-perry-al-franken-i-hope-youre-much-fun-dais-y/
+www.washingtontimes.com###secondary
+
+! 7/13/2017, 10:29:28 PM http://www.washingtontimes.com/news/2017/jan/19/rick-perry-al-franken-i-hope-youre-much-fun-dais-y/
+www.washingtontimes.com##.breaking-news
+
+! 7/13/2017, 10:29:36 PM http://www.washingtontimes.com/news/2017/jan/19/rick-perry-al-franken-i-hope-youre-much-fun-dais-y/
+www.washingtontimes.com##.jcarousel
+
+! 7/13/2017, 10:29:46 PM http://www.washingtontimes.com/news/2017/jan/19/rick-perry-al-franken-i-hope-youre-much-fun-dais-y/
+www.washingtontimes.com##.expand
+
+! 7/13/2017, 10:29:59 PM http://www.washingtontimes.com/news/2017/jan/19/rick-perry-al-franken-i-hope-youre-much-fun-dais-y/
+www.washingtontimes.com###contact-links
+
+! 7/14/2017, 1:30:04 AM https://www.safaribooksonline.com/library/view/grep-pocket-reference/9780596157005/ch01s07.html
+##.cta-link
+
+! 7/14/2017, 1:30:54 AM https://www.safaribooksonline.com/library/view/grep-pocket-reference/9780596157005/ch01s07.html
+www.safaribooksonline.com##[class*=cta]
+
+! 7/15/2017, 3:22:31 AM https://sourceforge.net/projects/catacombae/files/HFSExplorer/0.23.1/hfsexplorer-0.23.1-bin.zip/download?use_mirror=newcontinuum&use_mirror=
+sourceforge.net###scanned_by
+
+! 7/15/2017, 3:22:42 AM https://sourceforge.net/projects/catacombae/files/HFSExplorer/0.23.1/hfsexplorer-0.23.1-bin.zip/download?use_mirror=newcontinuum&use_mirror=
+sourceforge.net##.top3-widget
+
+! 7/17/2017, 2:18:21 PM https://www.youtube.com/watch?v=y-58oJy_Uq8
+www.youtube.com##.ytd-single-option-survey-renderer
+
+! 7/18/2017, 11:20:11 PM https://stackoverflow.com/questions/161813/how-to-resolve-merge-conflicts-in-git
+##.hero-container
+
+! 7/22/2017, 8:54:48 PM http://en.bookfi.net/md5/95587F1069693D521496202A9423ABDF
+en.bookfi.net###vimsg
+
+! 7/24/2017, 3:49:56 PM https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them
+scotch.io##.sign-up
+
+! 7/24/2017, 3:50:23 PM https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them
+scotch.io##.sppre_ticker
+
+! 7/25/2017, 9:35:24 PM https://www.cyberciti.biz/faq/sed-remove-m-and-line-feeds-under-unix-linux-bsd-appleosx/
+www.cyberciti.biz##.cfapps-welcome-bar
+
+! 7/27/2017, 2:14:07 PM https://smile.amazon.com/gp/buy/spc/handlers/display.html?hasWorkingJavascript=1
+##.adStripe2
+
+! 7/27/2017, 7:37:48 PM https://www.hilti.com/diamond-coring-&-sawing#nav/close
+##.o-cookielayer
+
+! 7/27/2017, 7:38:25 PM https://www.hilti.com/diamond-coring-%26-sawing/diamond-drilling-consumables/r3016099
+##.js-sidebar-nav-tutorial-bg
+
+! 7/27/2017, 7:39:17 PM https://www.hilti.com/diamond-coring-%26-sawing/diamond-drilling-consumables/r3016099
+##.js-product-sharing
+
+! 7/27/2017, 7:40:36 PM https://www.amazon.com/Mini-4-inch-TORX-Star-7-pack/dp/B003IXG618/ref=sr_1_cc_4?s=aps&ie=UTF8&qid=1501198580&sr=1-4-catcorr&keywords=t4+bit
+www.amazon.com###detail-ilm_div
+
+! 8/3/2017, 12:07:40 PM https://krebsonsecurity.com/2017/08/flash-player-is-dead-long-live-flash-player/
+krebsonsecurity.com##a[href="https://krebsonsecurity.com/cpm/"]
+
+! 8/4/2017, 11:36:21 PM https://www.quora.com/What-are-the-downsides-of-cranial-electrotherapy-stimulation
+##.inline_related
+
+! 8/5/2017, 12:07:17 AM http://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep-aids/art-20047860
+##[id^=adsmobile]
+
+! 8/5/2017, 12:07:29 AM http://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep-aids/art-20047860
+##.internalads
+
+! 8/6/2017, 12:57:41 AM https://fotpforums.com/topic/17449-sweetersongs-1st-edition/
+fotpforums.com###adblock-message
+###adblock-message
+
+! 8/8/2017, 3:01:23 PM http://www.bbc.com/news/science-environment-40669449
+##.sharetools
+
+! 8/8/2017, 3:03:55 PM http://www.bbc.com/news/technology-40859004
+www.bbc.com##.sharetools
+
+! 8/9/2017, 2:49:34 AM http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries
+www.atlasobscura.com##.site-top-notification-container
+
+! 8/9/2017, 2:49:53 AM http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries
+www.atlasobscura.com###js-item-social-adhesive
+
+! 8/9/2017, 2:50:11 AM http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries
+www.atlasobscura.com##.js-social-action-tracked
+
+! 8/11/2017, 7:52:05 PM http://imslp.org/wiki/10_Pi%C3%A8ces_pour_orgue_(Gigout,_Eug%C3%A8ne)
+imslp.org##a[href="#tabNaxos"]
+
+! 8/11/2017, 7:52:18 PM http://imslp.org/wiki/10_Pi%C3%A8ces_pour_orgue_(Gigout,_Eug%C3%A8ne)
+imslp.org###pc-dd > .toclevel-1:nth-of-type(1) > ul > .toclevel-2:nth-of-type(2) > a[href="#Naxos"]
+
+! 8/12/2017, 6:00:50 PM https://www.sweetwater.com/store/checkout/index.php
+www.sweetwater.com##.swf-offers
+
+! 8/12/2017, 6:01:18 PM https://www.sweetwater.com/store/checkout/index.php
+www.sweetwater.com##.ad
+
+! 8/13/2017, 1:29:43 AM http://www.trustmeimascientist.com/2011/10/03/are-readers-abandoning-pitchfork-and-gearslutz/
+www.trustmeimascientist.com###text-2
+
+! 8/13/2017, 1:30:28 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/
+www.gearslutz.com###mobileLoginButton
+
+! 8/13/2017, 1:30:43 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/
+www.gearslutz.com##.mob-facebook-connect
+
+! 8/13/2017, 1:31:46 AM https://www.dropbox.com/s/0n96o30nl7ghdjk/Guess%20the%20Compressor%21.mp3?dl=0
+www.dropbox.com##.db-modal
+
+! 8/13/2017, 1:31:55 AM https://www.dropbox.com/s/0n96o30nl7ghdjk/Guess%20the%20Compressor%21.mp3?dl=0
+www.dropbox.com##.db-modal-overlay
+
+! 8/13/2017, 1:32:05 AM https://www.dropbox.com/s/0n96o30nl7ghdjk/Guess%20the%20Compressor%21.mp3?dl=0
+www.dropbox.com###shared-link-immediate-signup-modal
+
+! 8/13/2017, 1:32:15 AM https://www.dropbox.com/s/0n96o30nl7ghdjk/Guess%20the%20Compressor%21.mp3?dl=0
+www.dropbox.com##.comments-and-feedback
+
+! 8/13/2017, 1:33:01 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com##.engagement-drawer
+
+! 8/13/2017, 1:33:31 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com##.supportside
+
+! 8/13/2017, 1:33:44 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com###discussed_products
+
+! 8/13/2017, 1:33:51 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com###SupportUsBottom
+
+! 8/13/2017, 1:34:10 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com##.footer-nav
+
+! 8/13/2017, 1:34:25 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com##.userbar
+
+! 8/13/2017, 1:34:36 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com##.gold-btn
+
+! 8/13/2017, 1:34:44 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com##.forum-nav
+
+! 8/13/2017, 1:36:13 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com###crawler
+
+! 8/13/2017, 1:36:21 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com###footer_credits
+
+! 8/13/2017, 1:36:34 AM https://www.gearslutz.com/board/so-much-gear-so-little-time/1167715-guess-compressors.html
+www.gearslutz.com###supportUsTop
+
+! 8/13/2017, 2:38:21 AM http://www.autoexpress.co.uk/car-news/87772/chinese-copycat-cars
+www.autoexpress.co.uk###sidebar-second
+
+! 8/13/2017, 2:38:32 AM http://www.autoexpress.co.uk/car-news/87772/chinese-copycat-cars
+www.autoexpress.co.uk###sidebar-first
+
+! 8/13/2017, 2:38:46 AM http://www.autoexpress.co.uk/car-news/87772/chinese-copycat-cars
+www.autoexpress.co.uk###preface-top
+
+! 8/13/2017, 2:39:00 AM http://www.autoexpress.co.uk/car-news/87772/chinese-copycat-cars
+www.autoexpress.co.uk###header-group
+
+! 8/13/2017, 2:49:10 AM http://www.autoexpress.co.uk/car-news/87772/chinese-copycat-cars
+www.autoexpress.co.uk##.subscription-content-copy
+
+! 8/13/2017, 2:52:13 AM http://www.businessinsider.com/photos-of-fake-world-landmarks-in-china-2017-3?r=UK&IR=T/#a-double-sized-replica-of-londons-tower-bridge-exists-over-yuanhe-pond-in-suzhou-jiangsu-province-it-was-built-in-2012-but-only-attracted-global-attention-when-new-photos-were-released-last-month-1
+www.businessinsider.com##.slide-share-button
+##.slide-share-button
+! 8/13/2017, 2:52:22 AM http://www.businessinsider.com/photos-of-fake-world-landmarks-in-china-2017-3?r=UK&IR=T/#a-double-sized-replica-of-londons-tower-bridge-exists-over-yuanhe-pond-in-suzhou-jiangsu-province-it-was-built-in-2012-but-only-attracted-global-attention-when-new-photos-were-released-last-month-1
+www.businessinsider.com##.main-rail
+
+! 8/16/2017, 2:50:21 AM https://sakimichan.deviantart.com/art/Red-Haired-Samurai-294024881
+deviantart.com##.dev-meta-producttabs
+
+! 8/16/2017, 2:50:48 AM https://sakimichan.deviantart.com/art/Red-Haired-Samurai-294024881
+deviantart.com##.premium.user-symbol
+
+! 8/16/2017, 2:50:58 AM https://sakimichan.deviantart.com/art/Red-Haired-Samurai-294024881
+deviantart.com###oh-menu-upgrade
+
+! 8/16/2017, 2:51:26 AM https://sakimichan.deviantart.com/art/Red-Haired-Samurai-294024881
+deviantart.com##.deviation-mlt-preview-b
+
+! 8/16/2017, 2:51:40 AM https://sakimichan.deviantart.com/art/Red-Haired-Samurai-294024881
+deviantart.com##.group_featured_list
+
+! 8/16/2017, 2:51:53 AM https://sakimichan.deviantart.com/art/Red-Haired-Samurai-294024881
+deviantart.com##.more-from-collection-preview
+
+! 8/16/2017, 2:52:06 AM https://sakimichan.deviantart.com/art/Red-Haired-Samurai-294024881
+deviantart.com##.dev-right-bar-title
+
+! 8/16/2017, 2:52:23 AM https://sakimichan.deviantart.com/art/Red-Haired-Samurai-294024881
+deviantart.com###oh-menu-shop
+
+! 8/16/2017, 12:37:25 PM https://www.linkedin.com/pulse/i-purchased-domain-googlecom-via-google-domains-sanmay-ved
+www.linkedin.com##.guest-view
+
+! 8/25/2017, 10:08:17 PM http://www.huffingtonpost.com/entry/look-what-she-made-me-do-why-im-listening-to-taylor_us_59a0c5c4e4b0d0ef9f1c13ea
+www.huffingtonpost.com##.recirc
+##.recirc
+
+! 8/27/2017, 7:21:28 PM https://github.com/ethus3h
+github.com##[href="/marketplace"]
+
+! 8/28/2017, 9:10:03 AM https://www.buzzfeed.com/kevincollier/beset-by-fraud-wannacry-heros-legal-fund-refunds-all?utm_term=.mlvlp6JKB#.oew5YNWnw
+www.buzzfeed.com###mod-thumbstrip-1
+
+! 8/28/2017, 4:37:43 PM http://community.runnersworld.com/topic/tights-and-penis
+community.runnersworld.com##.share-bar
+
+! 8/28/2017, 4:37:57 PM http://community.runnersworld.com/topic/tights-and-penis
+community.runnersworld.com##.interest-row
+
+! 8/28/2017, 4:59:35 PM https://answers.yahoo.com/question/index?qid=20111218172105AAy0y2W
+answers.yahoo.com##a[href^="https://search.yahoo.com"]
+
+! Breaks the site
+~safaribooksonline.com##.subscribe-panel
+
+! 8/28/2017, 8:10:37 PM https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+readwrite.com##.rw-related-posts
+
+! 8/28/2017, 8:10:49 PM https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+readwrite.com##.hot
+
+! 8/28/2017, 8:11:14 PM https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+readwrite.com##.single-loop-archive-grid-ajax
+
+! 8/28/2017, 8:11:26 PM https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+readwrite.com###featured-hero-sidebar
+
+! 8/28/2017, 8:11:46 PM https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+readwrite.com##.scroll.sidebar-cat > .columns
+
+! 8/29/2017, 7:22:58 PM https://stackoverflow.blog/2017/08/16/5-things-personal-website/
+stackoverflow.blog##[href*=utm_campaign]
+##[href*=utm_campaign]
+
+! 8/30/2017, 12:42:04 PM https://discordapp.com/channels/352492088539086868/352492088539086869
+discordapp.com##[class^=modal]
+
+! 8/30/2017, 12:42:13 PM https://discordapp.com/channels/352492088539086868/352492088539086869
+discordapp.com##.callout-backdrop
+
+! 8/31/2017, 1:08:20 AM http://www.slate.com/articles/news_and_politics/metropolis/2017/08/houston_doesn_t_showcase_america_at_its_best.html
+www.slate.com##[class^=slateplus]
+
+! 9/1/2017, 12:31:33 PM https://imanetwork.org/hot-topics/081811-stick-google-plus-buttons-on-your-pages-or-your-search-traffic-suffers/
+imanetwork.org##.member-navigation
+
+! Circumvents people trying to hide their anti-adblock message, so let's dish out some punishment
+fotpforums.com
+
+! 9/1/2017, 8:49:30 PM http://www.breatheheavy.com/fergie-filmed-music-videos-for-new-songs-a-little-work-just-like-you-and-nothin/
+www.breatheheavy.com##.main-single-slider-container
+.main-single-slider-container
+
+! 9/1/2017, 8:49:40 PM http://www.breatheheavy.com/fergie-filmed-music-videos-for-new-songs-a-little-work-just-like-you-and-nothin/
+www.breatheheavy.com##.instagram
+.instagram
+
+! 9/1/2017, 8:49:50 PM http://www.breatheheavy.com/fergie-filmed-music-videos-for-new-songs-a-little-work-just-like-you-and-nothin/
+www.breatheheavy.com##.site-social-networks
+.site-social-networks
+
+! 9/1/2017, 8:50:54 PM http://www.breatheheavy.com/fergie-filmed-music-videos-for-new-songs-a-little-work-just-like-you-and-nothin/
+www.breatheheavy.com##.-is-single.feature
+
+marketing.dropbox.com
+
+! 9/2/2017, 6:39:49 PM http://www.telegraph.co.uk/technology/2016/02/02/scientific-journal-retracts-research-copied-from-wikipedia-entry/
+www.telegraph.co.uk##.article__related
+
+! 9/3/2017, 1:08:15 AM https://www.dailydot.com/debug/wikimedia-global-bans-2-users/
+www.dailydot.com##.dd-continuous-article
+
+! 9/3/2017, 1:09:05 AM https://www.dailydot.com/debug/wikimedia-global-bans-2-users/
+www.dailydot.com##.dd-group:not(:nth-of-type(1)):not(:nth-of-type(2))
+
+@@bb.courses.maine.edu/branding/*.js$first-party
+@@bb.courses.maine.edu/branding/*.css$first-party
+
+! 9/3/2017, 2:35:30 PM https://www.evanmiller.org/a-review-of-perl-6.html
+www.evanmiller.org##a[href="http://www.wizardmac.com/"]
+
+! 9/3/2017, 10:50:42 PM https://wordpress.com/start/plans
+wordpress.com##.plan-features__table-item:not(:nth-of-type(1))
+
+! 9/3/2017, 10:52:04 PM https://wordpress.com/start/plans
+wordpress.com##[class$=upgrade-nudge]
+##[class$=upgrade-nudge]
+
+~thedailywtf.com###article-feed
+
+! 9/5/2017, 8:50:20 AM https://wordpress.com/post/elliotchandlernmd442.wordpress.com
+wordpress.com##.guided-tours
+
+! 9/5/2017, 1:43:46 PM http://www.stereogum.com/1795321/alice-glass-responds-to-ethan-kaths-manipulative-statements-about-crystal-castles/wheres-the-beef/
+www.stereogum.com##.recommended-module
+
+! 9/5/2017, 2:14:40 PM https://www.youtube.com/red
+www.youtube.com##[href^="/red"]
+
+! 9/5/2017, 3:54:31 PM https://www.tecmint.com/gtkdialog-create-graphical-interfaces-and-dialog-boxes/
+www.tecmint.com##.author-bio > p:last-of-type
+
+! 9/5/2017, 3:54:51 PM https://www.tecmint.com/gtkdialog-create-graphical-interfaces-and-dialog-boxes/
+www.tecmint.com##.one-fourth.grid
+
+! 9/5/2017, 5:16:35 PM https://distrowatch.org/
+distrowatch.org##a[href="http://www.excel-easy.com/"]
+
+! 9/5/2017, 5:16:56 PM https://distrowatch.org/
+distrowatch.org##a[href^="http://www.excel-easy.com/"]
+
+! 9/5/2017, 5:17:20 PM https://distrowatch.org/
+distrowatch.org##[href^="http://downloads.3cx.com/"]
+
+! 9/5/2017, 5:18:57 PM https://distrowatch.org/
+distrowatch.org##a[href^="https://"]
+
+! 9/5/2017, 5:19:31 PM https://distrowatch.org/
+distrowatch.org##a[href^="http://"]
+
+! 9/5/2017, 5:20:57 PM https://distrowatch.org/
+distrowatch.org##[href$="advertise"]
+
+! 9/6/2017, 1:20:21 PM https://www.tecmint.com/gtkdialog-create-graphical-interfaces-and-dialog-boxes/
+www.tecmint.com###quickiebarpro
+
+! 9/6/2017, 11:35:40 PM https://medium.com/cuepoint/how-jay-z-destroyed-my-soundcloud-account-b438cb963893
+medium.com##.postActions
+
+! 9/6/2017, 11:36:31 PM https://medium.com/cuepoint/how-jay-z-destroyed-my-soundcloud-account-b438cb963893
+medium.com##.postArticle > .u-paddingTop10
+
+! 9/10/2017, 11:52:40 PM https://www.fossmint.com/learn-about-canonicals-micheal-hall-exploration-of-unity-8-and-mir/
+www.fossmint.com##[class$=ad-container]
+
+! 9/10/2017, 11:53:36 PM https://www.fossmint.com/learn-about-canonicals-micheal-hall-exploration-of-unity-8-and-mir/
+www.fossmint.com##[href="http://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/"]
+
+! 9/11/2017, 9:47:22 AM http://www.bbc.com/news/world-us-canada-41226596
+www.bbc.com##.share
+
+! 9/11/2017, 9:47:40 AM http://www.bbc.com/news/world-us-canada-41226596
+www.bbc.com###comp-pattern-library
+
+! 9/12/2017, 8:31:54 PM https://www.macrumors.com/2017/06/06/apple-to-phase-out-32-bit-mac-apps/
+www.macrumors.com###right
+
+! 9/13/2017, 11:45:06 AM https://www.nngroup.com/articles/no-validate-in-ux/
+www.nngroup.com##.share
+
+! 9/13/2017, 11:45:30 AM https://www.nngroup.com/articles/no-validate-in-ux/
+www.nngroup.com##.related-videos
+
+! 9/13/2017, 11:45:58 AM https://www.nngroup.com/
+www.nngroup.com##.hero
+
+! 9/13/2017, 11:46:39 AM https://www.nngroup.com/videos/does-agile-destroy-ux/
+www.nngroup.com##.l-subsection.columns.small-12
+
+! 9/15/2017, 11:49:19 PM https://arstechnica.com/gaming/2017/09/bungie-apologizes-for-destiny-2-item-that-resembles-neo-nazi-flag/
+arstechnica.com###recommendations-footer
+
+! 9/16/2017, 3:23:38 AM https://arstechnica.co.uk/gadgets/2017/09/apples-macos-high-sierra-golden-master-is-available-to-devs-today/
+arstechnica.co.uk###article-footer-wrap
+
+! 9/16/2017, 3:31:04 AM http://www.news.com.au/technology/gadgets/cuba-mystery-grows-new-details-on-what-befell-us-diplomats/news-story/474338e66cb601e1ed22a1a86c6713c2
+www.news.com.au##.rhc-stick
+
+! 9/16/2017, 3:32:52 AM http://www.news.com.au/technology/gadgets/cuba-mystery-grows-new-details-on-what-befell-us-diplomats/news-story/474338e66cb601e1ed22a1a86c6713c2
+www.news.com.au##.sticky-show
+
+! 9/16/2017, 3:33:05 AM http://www.news.com.au/technology/gadgets/cuba-mystery-grows-new-details-on-what-befell-us-diplomats/news-story/474338e66cb601e1ed22a1a86c6713c2
+www.news.com.au###sticky-module-2
+
+! 9/16/2017, 3:34:52 AM http://www.news.com.au/technology/gadgets/cuba-mystery-grows-new-details-on-what-befell-us-diplomats/news-story/474338e66cb601e1ed22a1a86c6713c2
+www.news.com.au###footer
+
+! 9/16/2017, 3:48:43 AM https://news.google.com/news/?ned=us&hl=en
+||ssl.gstatic.com/news-static/apple_badge_1x.png$image
+
+! 9/16/2017, 4:34:38 AM https://news.google.com/news/?ned=us&hl=en
+||ssl.gstatic.com/news-static/playstore_badge_1x.png$image
+
+! 9/16/2017, 4:42:07 AM http://www.sfgate.com/news/article/UC-Berkeley-professors-urge-campus-boycott-during-12202096.php
+www.sfgate.com##.asset_zone
+
+! 9/16/2017, 2:19:26 PM http://www.mercurynews.com/2017/08/27/police-detain-demonstrators-as-chaotic-berkeley-protests-get-underway/
+www.mercurynews.com##.related
+
+! 9/16/2017, 2:19:39 PM http://www.mercurynews.com/2017/08/27/police-detain-demonstrators-as-chaotic-berkeley-protests-get-underway/
+www.mercurynews.com##aside
+
+! 2017 Sept. 16 https://web.archive.org/web/20170917034810/https://torrentfreak.com/the-pirate-bay-website-runs-a-cryptocurrency-miner-170916/
+||coin-hive.com$script
+
+! 9/17/2017, 12:10:34 AM https://bangordailynews.com/2017/09/15/business/political-tensions-financial-worries-drive-doomsday-bunker-sales-in-maine/
+bangordailynews.com##.sidebar-widget
+
+! 9/17/2017, 12:10:45 AM https://bangordailynews.com/2017/09/15/business/political-tensions-financial-worries-drive-doomsday-bunker-sales-in-maine/
+bangordailynews.com###recirculator
+
+! 9/17/2017, 12:24:41 AM http://www.bbc.com/future/story/20170907-the-mystery-of-the-lost-roman-herb
+www.bbc.com###share-tools-top
+
+! 9/18/2017, 9:15:48 PM http://www.thedailybeast.com/jeweler-forged-judges-signature-to-force-google-to-kill-negative-reviews
+www.thedailybeast.com##.RelatedArticles
+
+! 9/18/2017, 9:18:20 PM http://www.thedailybeast.com/jeweler-forged-judges-signature-to-force-google-to-kill-negative-reviews
+www.thedailybeast.com##.ArticleSidebarWrapper:not(:nth-of-type(1))
+
+! 9/18/2017, 9:22:38 PM https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/
+www.smashingmagazine.com##.side
+
+! 9/20/2017, 1:34:08 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com###post-form
+
+! 9/20/2017, 1:34:43 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.community-bulletin
+
+! 9/20/2017, 1:35:04 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.sidebar-linked
+
+! 9/20/2017, 1:35:22 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.sidebar-related
+
+! 9/20/2017, 1:35:44 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.vote-up-off
+
+! 9/20/2017, 1:36:02 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.vote-down-off
+
+! 9/20/2017, 1:36:18 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.star-off
+
+! 9/20/2017, 1:36:38 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.nav
+
+! 9/20/2017, 1:37:02 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.js-add-link
+
+! 9/20/2017, 1:37:20 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.topbar
+
+! 9/20/2017, 1:37:46 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com##.bottom-notice
+
+! 9/20/2017, 1:38:16 AM https://superuser.com/questions/1193575/how-can-i-disable-xul-xpcom-extension-support-in-firefox-52
+superuser.com###footer
+
+! 9/20/2017, 4:34:02 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com##[id^=free]
+
+! 9/20/2017, 4:34:30 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+||tv-rls.com/templates/tvrls/images/*$image
+
+! 9/20/2017, 4:34:45 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com##.mainblock > .center > .quote
+
+! 9/20/2017, 4:35:09 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com##a[href^="/support.php"]
+
+! 9/20/2017, 4:35:25 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com##.berrors
+
+! 9/20/2017, 4:35:33 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com###dle-content > .related
+
+! 9/20/2017, 4:35:43 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com###dle-content > .center > .quote
+
+! 9/20/2017, 4:35:54 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com###footer
+
+! 9/20/2017, 4:36:13 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com##.sidebar
+
+! 9/20/2017, 4:36:21 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com###header
+
+! 9/20/2017, 4:36:32 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com###dle-speedbar
+
+! 9/20/2017, 4:36:41 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com###topmenu
+
+! 9/20/2017, 4:36:50 PM http://tv-rls.com/1826918-think-perl-6-how-to-think-like-a-computer-scientist-epubpdf.html
+tv-rls.com###topbar
+
+! 9/20/2017, 5:08:49 PM https://nitroflare.com/view/094AA585A13EABD/Think_Perl_6.pdf/free
+nitroflare.com##[href^="https://www.facebook.com/Nitroflarecom-1301087170011408/"]
+
+! 9/22/2017, 7:46:52 AM http://www.npr.org/sections/thetwo-way/2017/09/19/552124551/equifax-confirms-another-security-incident
+www.npr.org##.bucketwrap
+
+! 9/23/2017, 4:30:37 PM https://member.usfencing.org/give
+member.usfencing.org###make-impact
+
+! 9/23/2017, 4:31:08 PM https://member.usfencing.org/give
+member.usfencing.org##a[href^="http://www.usafencing.org/donate"]
+
+! 9/23/2017, 4:31:26 PM https://member.usfencing.org/give
+member.usfencing.org##a[href^="mailto:gifts@USAFencing.org"]
+
+! 9/23/2017, 4:32:03 PM https://member.usfencing.org/cart
+member.usfencing.org##[href^="https://member.usfencing.org/give"]
+
+! 9/23/2017, 8:20:24 PM http://www.huffingtonpost.com/2014/01/14/marijuana-prohibition-racist_n_4590190.html
+www.huffingtonpost.com##.extra-content
+
+! 9/24/2017, 4:39:35 PM http://auto.howstuffworks.com/auto-racing/motorsports/gymkhana.htm
+auto.howstuffworks.com###relatedLinksModule
+
+! 9/25/2017, 12:31:19 PM https://www.cnet.com/news/what-is-the-soap-opera-effect/
+www.cnet.com##.videoPlayer
+
+! 9/25/2017, 12:31:51 PM https://www.cnet.com/news/baseball-apple-pitches-augmented-reality-to-catch-fans-mlb-apple/
+www.cnet.com##.related
+
+! 9/25/2017, 12:32:16 PM https://www.cnet.com/news/baseball-apple-pitches-augmented-reality-to-catch-fans-mlb-apple/
+www.cnet.com###article-body > .col-4
+
+! 9/25/2017, 12:33:08 PM https://www.cnet.com/news/baseball-apple-pitches-augmented-reality-to-catch-fans-mlb-apple/
+www.cnet.com##.video
+
+! 9/25/2017, 7:49:41 PM http://www.imdb.com/
+www.imdb.com##.ab_ninja
+
+! 9/26/2017, 1:49:09 PM http://www.stuff.co.nz/national/politics/9871410/Dotcom-owns-copy-of-Hitlers-Mein-Kampf
+www.stuff.co.nz##[class^="sir-component__-sharebar"]
+
+! 9/26/2017, 1:49:32 PM http://www.stuff.co.nz/national/politics/9871410/Dotcom-owns-copy-of-Hitlers-Mein-Kampf
+www.stuff.co.nz##[class^="sir-component__ad-space"]
+
+! 9/28/2017, 10:33:36 AM https://www.pcsteps.com/2157-mac-os-x-virtual-machine-vmware-player/
+www.pcsteps.com##.wp-embedded-content
+
+! 9/29/2017, 6:36:57 PM http://www.yifysubtitles.com/subtitles/hot-fuzz-2007-1080p-english-yify-12357
+www.yifysubtitles.com##[href^="http://www.open-fonts.com/"]
+
+! 9/30/2017, 5:20:40 PM https://techcrunch.com/2017/09/29/its-time-to-give-firefox-another-chance/
+techcrunch.com##.aside-related-articles
+
+! 10/2/2017, 11:25:12 AM https://www.cnet.com/special-reports/mozilla-firefox-fights-back-against-google-chrome/
+www.cnet.com##[id^=section]
+
+! 10/2/2017, 11:55:30 AM https://blog.filippo.io/captive-browser/
+blog.filippo.io##.share
+
+! 10/2/2017, 12:23:17 PM https://www.wired.com/2016/03/https-adoption-google-report/
+www.wired.com##.social-share-sidebar-component__content
+
+! 10/3/2017, 5:06:13 PM https://www.xul.fr/en/css/blockquote.php
+www.xul.fr##.cc-banner
+
+! 10/3/2017, 5:29:09 PM https://stackoverflow.com/questions/5335976/how-can-i-position-nested-divs-at-the-bottom-and-float-right
+stackoverflow.com##.community-bulletin
+
+! 10/3/2017, 5:29:20 PM https://stackoverflow.com/questions/5335976/how-can-i-position-nested-divs-at-the-bottom-and-float-right
+stackoverflow.com###chat-feature
+
+||pcsteps.com^$inline-script
+
+! 10/4/2017, 1:32:27 PM https://www.gq.com/story/the-uber-killer
+www.gq.com##.cm-mobile-header-text-failsafe
+
+! 10/4/2017, 1:32:50 PM https://www.gq.com/story/the-uber-killer
+www.gq.com##.component-logo
+
+! 10/9/2017, 8:40:35 PM https://www.youtube.com/watch?v=B2-sU-Hbda8&list=PLSlOy7dj0gMPs7XKoRpGQvymE4E_85Hpb&index=156
+www.youtube.com##.ytp-cards-button
+
+! 10/9/2017, 8:44:20 PM https://www.youtube.com/watch?v=CcCw1ggftuQ&index=157&list=PLSlOy7dj0gMPs7XKoRpGQvymE4E_85Hpb
+www.youtube.com##.ytp-chrome-top-buttons
+
+! 10/10/2017, 5:49:38 PM https://about.me/signup/upgrade
+about.me##.domain-container
+
+! 10/10/2017, 5:50:06 PM https://about.me/signup/upgrade
+about.me##.signup2 .title
+
+! 10/10/2017, 5:51:29 PM https://about.me/elliot.chandler
+about.me##.ledge
+
+! 10/10/2017, 5:51:58 PM https://about.me/elliot.chandler
+about.me##.upgrade-button
+
+! 10/11/2017, 8:33:59 AM https://www.wired.com/story/the-napa-fire-is-a-perfectly-normal-apocalypse/
+www.wired.com##.inset-left-component
+
+! 10/11/2017, 8:34:42 AM https://www.wired.com/story/the-napa-fire-is-a-perfectly-normal-apocalypse/
+www.wired.com##.related-cne-video-component
+
+! 10/11/2017, 8:34:55 AM https://www.wired.com/story/the-napa-fire-is-a-perfectly-normal-apocalypse/
+www.wired.com##.wrapper-prefooter
+
+! 10/11/2017, 8:35:09 AM https://www.wired.com/story/the-napa-fire-is-a-perfectly-normal-apocalypse/
+www.wired.com##.cm-subscribe-link-wrapper
+
+! 10/11/2017, 8:36:31 AM https://www.wsj.com/articles/alibaba-sizes-up-facebook-amazon-with-r-d-funding-surge-1507707466
+www.wsj.com##a[href^="https://accounts.wsj.com/login"]
+
+! 10/11/2017, 8:36:43 AM https://www.wsj.com/articles/alibaba-sizes-up-facebook-amazon-with-r-d-funding-surge-1507707466
+www.wsj.com##.carousel-container
+
+! 10/11/2017, 8:36:59 AM https://www.wsj.com/articles/alibaba-sizes-up-facebook-amazon-with-r-d-funding-surge-1507707466
+www.wsj.com###cx-snippetad
+
+! 10/11/2017, 8:39:55 AM https://www.wsj.com/articles/alibaba-sizes-up-facebook-amazon-with-r-d-funding-surge-1507707466
+www.wsj.com##[class^=style__share]
+
+! 10/11/2017, 8:44:50 AM https://www.usatoday.com/story/news/politics/2017/10/10/army-accepting-more-low-quality-recruits-giving-waivers-marijuana-hit-targets/750844001/
+www.usatoday.com##.site-masthead-subscribe-wrap
+
+! 10/11/2017, 8:45:05 AM https://www.usatoday.com/story/news/politics/2017/10/10/army-accepting-more-low-quality-recruits-giving-waivers-marijuana-hit-targets/750844001/
+www.usatoday.com##.story-right-rail
+
+! 10/12/2017, 12:01:05 AM https://tex.stackexchange.com/questions/27663/using-bold-italic-text-inside-listings
+stackexchange.com##.top-bar
+
+! 10/13/2017, 12:33:24 PM http://www.techradar.com/news/top-6-best-linux-terminal-emulators-of-2017
+techradar.com##.gallery-text > div
+
+! 10/13/2017, 12:33:55 PM http://www.techradar.com/news/top-6-best-linux-terminal-emulators-of-2017
+techradar.com##.media-list
+
+! 10/13/2017, 12:41:15 PM http://www.techradar.com/news/top-6-best-linux-terminal-emulators-of-2017
+techradar.com###sidebar
+
+! 10/13/2017, 1:14:26 PM http://www.techradar.com/news/top-6-best-linux-terminal-emulators-of-2017
+techradar.com##a[href^="http://www.techradar.com/"]
+
+! 10/13/2017, 1:15:00 PM http://www.techradar.com/news/top-6-best-linux-terminal-emulators-of-2017
+techradar.com##a[href^="https://www.myfavouritemagazines.co.uk/"]
+
+techradar.com##.gallery-image:style(display: block !important)
+
+! 10/13/2017, 1:30:47 PM https://www.enlightenment.org/?p=about/terminology
+www.enlightenment.org###plugin_include__start-shortcuts
+
+! 10/13/2017, 1:31:13 PM https://www.enlightenment.org/?p=about/terminology
+||www.enlightenment.org/_media/thanks-*.svg$image
+
+! 10/14/2017, 5:58:35 PM http://time.com/4979326/can-donald-trump-take-away-nbc-licenses/
+time.com##.dont-print
+
+! 10/14/2017, 8:32:25 PM http://www.my-ip.club/info-ip/100.64.32.1
+www.my-ip.club###adb
+
+! 10/17/2017, 4:54:41 PM https://arstechnica.com/gadgets/2017/09/macos-10-13-high-sierra-the-ars-technica-review/
+arstechnica.com##.story-sidebar
+
+! 10/17/2017, 5:12:42 PM https://support.apple.com/en-us/HT201999
+support.apple.com##.accsoffer-wrapper
+
+! 10/17/2017, 9:35:49 PM https://anitay.kinja.com/grexs-ouran-high-school-host-club-review-1792908211
+anitay.kinja.com###sharingfooter
+
+! 10/18/2017, 8:54:36 AM https://www.wsj.com/articles/china-congress-rules-airbnb-ironman-and-profile-picture-updates-must-wait-1508328583
+www.wsj.com##.wsj-snippet-related-video-wrap
+
+! 10/18/2017, 9:10:30 AM https://www.reuters.com/article/us-ual-passenger-shares/united-airlines-faces-mounting-pressure-over-hospitalized-passenger-idUSKBN17D1L7
+www.reuters.com##[class^=BreakingNews]
+
+! 10/18/2017, 9:17:51 AM https://www.artsy.net/article/artsy-editorial-trans-artists-challenging-popular-notions-strength
+www.artsy.net###modal-container
+
+! 10/18/2017, 11:07:46 AM https://www.hackintosh.zone/file/516-chameleon-wizard-441/
+www.hackintosh.zone###ipsLayout_sidebar
+
+! 10/18/2017, 11:07:58 AM https://www.hackintosh.zone/file/516-chameleon-wizard-441/
+www.hackintosh.zone###elGuestTerms
+
+! 10/18/2017, 11:08:13 AM https://www.hackintosh.zone/file/516-chameleon-wizard-441/
+www.hackintosh.zone###ipsLayout_footer
+
+! 10/18/2017, 11:08:42 AM https://www.hackintosh.zone/file/516-chameleon-wizard-441/
+www.hackintosh.zone##.cShareLink
+
+! 10/18/2017, 11:09:14 AM https://www.hackintosh.zone/file/516-chameleon-wizard-441/
+www.hackintosh.zone##.ipsCarousel
+
+! 10/18/2017, 11:09:30 AM https://www.hackintosh.zone/file/516-chameleon-wizard-441/
+www.hackintosh.zone##.ipsfocus_social
+
+! 10/19/2017, 1:06:26 PM https://motherboard.vice.com/en_us/article/d7y9yz/the-excel-challenge
+motherboard.vice.com##.up-next
+
+! 10/19/2017, 1:07:04 PM https://motherboard.vice.com/en_us/article/d7y9yz/the-excel-challenge
+motherboard.vice.com###article_5886b7654e4993458da7506b > .short-form-article > .short-form-article__bounding-box > .short-form-article__body > .short-form-article__body__content > .gutter > .gutter__content
+
+! 10/19/2017, 1:08:15 PM https://motherboard.vice.com/en_us/article/d7y9yz/the-excel-challenge
+motherboard.vice.com##.article-wrapper:not(:nth-of-type(2))
+
+! 10/19/2017, 1:08:25 PM https://motherboard.vice.com/en_us/article/d7y9yz/the-excel-challenge
+motherboard.vice.com##.ribbon
+
+! 10/19/2017, 3:24:59 PM https://clientsfromhell.net/page/3
+||static.tumblr.com/7bljswk/yHQm2pths/logo.png$image
+
+! 10/19/2017, 3:25:10 PM https://clientsfromhell.net/page/3
+clientsfromhell.net##.myhead
+
+! 10/19/2017, 3:40:29 PM https://clientsfromhell.net/page/6
+clientsfromhell.net###youtube_iframe
+
+! 10/19/2017, 7:04:42 PM https://clientsfromhell.net/page/10
+clientsfromhell.net##iframe[src^="https://player.vimeo.com/"]
+
+! 10/19/2017, 11:27:27 PM https://clientsfromhell.net/page/11
+clientsfromhell.net##iframe
+
+! 10/22/2017, 8:59:30 PM https://www.fastcodesign.com/90146215/kids-design-the-house-of-the-future-and-its-chilling
+www.fastcodesign.com##.post-page > div:not(:nth-of-type(1))
+
+! 10/22/2017, 9:08:33 PM https://uxstudioteam.com/ux-blog/dark-pattern/
+||uxstudioteam.com/ebooks/files/ebook_banner.png$image
+
+! 10/23/2017, 1:20:08 PM https://in.pinterest.com/pin/193584483958972743
+pinterest.com##.navPopout
+
+! 10/23/2017, 1:21:56 PM https://in.pinterest.com/pin/193584483958972743
+pinterest.com##.FullPageModal__scroller
+
+! 10/23/2017, 1:29:06 PM https://in.pinterest.com/pin/193584483958972743
+pinterest.com##div[style*="z-index: 1000;"]
+
+! 10/23/2017, 1:30:32 PM https://500px.com/photo/89011771/tree-fog-by-derek-kind?utm_campaign=nativeshare&utm_content=web&utm_medium=pinterest&utm_source=500px
+500px.com###hellobar
+
+! 10/23/2017, 1:30:52 PM https://500px.com/photo/89011771/tree-fog-by-derek-kind?utm_campaign=nativeshare&utm_content=web&utm_medium=pinterest&utm_source=500px
+500px.com##.signup_teaser_region
