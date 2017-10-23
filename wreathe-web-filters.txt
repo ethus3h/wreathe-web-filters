@@ -431,13 +431,13 @@ docs.google.com###punch-explore-widget
 duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result
 duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result:nth-of-type(2)
 easypxy.com###include
-ekelen.deviantart.com##.gmbutton2 > div:nth-of-type(2)
-ekelen.deviantart.com##.grf-indent > .text
-ekelen.deviantart.com##.new-set-button
-ekelen.deviantart.com##.smbutton-textonly.smbutton:nth-of-type(2)
-ekelen.deviantart.com##.stash-create
-ekelen.deviantart.com##.submit-help-bubble
-ekelen.deviantart.com###submit_as_print
+deviantart.com##.gmbutton2 > div:nth-of-type(2)
+deviantart.com##.grf-indent > .text
+deviantart.com##.new-set-button
+deviantart.com##.smbutton-textonly.smbutton:nth-of-type(2)
+deviantart.com##.stash-create
+deviantart.com##.submit-help-bubble
+deviantart.com###submit_as_print
 elliotchandlernmd100.wordpress.com##.resource-upgrades
 ello.co##.Footer
 ello.co##.isSignUp
@@ -457,7 +457,6 @@ fotpforums.com###adblock-message
 futuramerlin.com##.btn-group-sm > .pull-left:nth-of-type(2)
 futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(2) > .button-small
 futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(3) > .button-small
-futuramerlin.com##.closed.wpallexport-collapsed.rad4.wpallexport-upload-resource-step-two > .wpallexport-content-section
 futuramerlin.com###delete-action
 futuramerlin.com###footer-left
 futuramerlin.com###sistSidebar
@@ -741,7 +740,6 @@ www.bitchmedia.org##.sidebar
 www.bitchmedia.org###cboxContent
 www.bitchmedia.org###cboxOverlay
 www.bookstore.umaine.edu###carouseljek
-www.bookstore.umaine.edu###CatContent-home > font > table > tbody > tr > td:nth-of-type(2) > a[href="https://www.facebook.com/UMaineBookstore/"]
 www.bookstore.umaine.edu##a[href="https://www.facebook.com/UMaineBookstore/"]
 www.bookstore.umaine.edu##img[src="/webitemimages/411/Images/textbook_shopping_header_944x177.jpg"]
 www.bostonglobe.com##.bg-footer .lead
