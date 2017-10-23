@@ -7,13 +7,21 @@ www.youtube.com###top-level-buttons > ytd-button-renderer:nth-of-type(1)
 ! Remove the button to remove a video from a playlist from video watch pages
 youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.dropdown-trigger)
 
-.instagram
-.main-single-slider-container
-.site-social-networks
+! ======== Whitelist entries to un-break sites ========
+~github.com##[class^=social]
+~intel.com##[class$="-cta"].btn
+~library.umaine.edu##.slick-slider
+~mac-torrent-download.net##.ad-box
+~myanimelist.net##div[style][data-height]
+~reddit.com##[class^=subscribe]
+~safaribooksonline.com##.subscribe-panel
+~thedailywtf.com###article-feed
 @@|https:$other
 @@bb.courses.maine.edu/branding/*.css$first-party
 @@bb.courses.maine.edu/branding/*.js$first-party
 @@js.stripe.com$script,domain=appear.in
+
+! ======== Special rules ========
 * facebook.com * block
 * facebook.net * block
 * googletagservices.com * block
@@ -23,6 +31,11 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 *$media,domain=ign.com
 *$script,domain=last.fm
 *$script,domain=theatlantic.com
+
+! ======== Global cosmetic filters ========
+.instagram
+.main-single-slider-container
+.site-social-networks
 #.top-stories
 ##.adblockermessage
 ##.ads-left-block
@@ -247,6 +260,9 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
+a[href^="https://contribute.publicradio.org/contribute.php"]
+
+! ======== Network filters ========
 ||a.konachan.net$subdocument
 ||assets.time.com/images/*-900x50.png$image
 ||assets.time.com/images/*-promo-*.jpg$image
@@ -262,7 +278,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ||freenode.net/static/img/logos/PIALogo_white.svg$image
 ||images-na.ssl-images-amazon.com/images/G/01/acs/amazon-designer/2016/07/21/DURM-258E98058681EEU8._CB283315694_.png$image
 ||img.grouponcdn.com/coupons/*
-||img.grouponcdn.com/coupons/5qyF7GMAUywkUrcVBY2W/p7-200x200.jpg
 ||last.fm^$inline-script
 ||motherboard-images.vice.com/content-images/contentimage/24018/1438015016815407.png$image
 ||myanimelist.cdn-dena.com/s/common/uploaded_files/1455540405-b2e2bf20e11b68631e8439b44d9a51c7.png$image
@@ -288,22 +303,12 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ||www.useragents.com/root/app_common/img/top_logo_ua.png$image
 ||www.xbiz.com/images/controls2.png$image
 
-! ======== Whitelist entries to un-break sites ========
-~github.com##[class^=social]
-~intel.com##[class$="-cta"].btn
-~library.umaine.edu##.slick-slider
-~mac-torrent-download.net##.ad-box
-~myanimelist.net##div[style][data-height]
-~reddit.com##[class^=subscribe]
-~safaribooksonline.com##.subscribe-panel
-~thedailywtf.com###article-feed
-
+! ======== Entries for specific sites ========
 500px.com##.signup_teaser_region
 500px.com###hellobar
 80000hours.org##[id^=toggler]
 80000hours.org###header.slideDown
 80000hours.org##iframe
-a[href^="https://contribute.publicradio.org/contribute.php"]
 abcnews.go.com###abcn-videoplayer
 about.com##[id^=exploreChannels]
 about.com##[id^=featuredTopicsTemplate]
