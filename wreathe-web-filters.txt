@@ -7,7 +7,21 @@ www.youtube.com###top-level-buttons > ytd-button-renderer:nth-of-type(1)
 youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.dropdown-trigger)
 
 ! ======== Web sites to block fully ========
+demicmedia.com
+dnsrsearch.com
+express.co.uk
+extremereach.io
 fotpforums.com
+gloomwrite.com
+informaction.com
+itn.blinkx.com
+kenduktur.com
+marketing.dropbox.com
+noscript.net
+thankswrite.com
+trutv.com
+w3schools.com
+weequizz.com
 
 ! ======== Whitelist entries to un-break sites ========
 @@|https:$other
@@ -389,7 +403,6 @@ cse.google.com###gbq2
 cultivatedculture.com##blockquote
 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=$domain=imslp.org,image
 deadspin.com##.sidebar
-demicmedia.com
 devcentral.f5.com##.externalLink
 developer.android.com##.dac-footer-social
 developer.mozilla.org##.notification-tray > .question.info.notification
@@ -429,8 +442,6 @@ distrowatch.org##[href$="advertise"]
 distrowatch.org##a[href^="http://"]
 distrowatch.org##a[href^="http://www.excel-easy.com/"]
 distrowatch.org##a[href^="https://"]
-distrowatch.org##a[href="http://www.excel-easy.com/"]
-dnsrsearch.com
 docs.google.com###punch-explore-widget
 duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result
 duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.results_links.result:nth-of-type(2)
@@ -442,8 +453,6 @@ ello.co##.NavbarLink:nth-of-type(1)
 emkei.cz##.sbold.tacenter.support
 emkei.cz###panel
 en.bookfi.net###vimsg
-express.co.uk
-extremereach.io
 facebook.com facebook.com * noop
 facebook.com facebook.net * noop
 feministfrequency.com##.footer-support
@@ -459,7 +468,6 @@ gist.github.com###new_gist > .container.edit > .form-actions > .tooltipped-s.too
 github.com##[href="/marketplace"]
 github.com###new_repository > .with-permission-fields > .form-checkbox:nth-of-type(2)
 github.com###readme > a[href^="https://evilmartians.com/"]
-gloomwrite.com
 goldendict.org###content > .post:nth-of-type(3)
 goldendict.org###x_help
 gyazo.com##.btn-download
@@ -478,12 +486,9 @@ imslp.org###pc-dd > .toclevel-1:nth-of-type(1) > ul > .toclevel-2:nth-of-type(2)
 imslp.org###sm_dl_login
 imslp.org###subs_mainacc
 imslp.org##a[href="#tabNaxos"]
-informaction.com
-itn.blinkx.com
 jalopnik.com##.lazyloaded
 jsfiddle.net###panel_html > .warningTooltip
 jsfiddle.net###sidebar
-kenduktur.com
 krebsonsecurity.com##a[href="https://krebsonsecurity.com/cpm/"]
 lawfareblog.com##.field-item > table
 libgen.io/ads.php##table > tbody > tr > td:nth-of-type(1)
@@ -497,7 +502,6 @@ linuxreviews.org##table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > table:
 lwn.net##.Form
 maine-csm.symplicity.com###optinmsg_c
 maine-csm.symplicity.com###optinmsg_mask
-marketing.dropbox.com
 mattgemmell.com##.patronage
 medium.com##.is-inSiteNavBar.u-accentColor--buttonNormal.button--chromeless.button--primary.button
 medium.com##.postActions
@@ -534,7 +538,6 @@ newatlas.com##.slab:not(:first-of-type)
 newatlas.com##a[href="http://newatlas.com/advertise/"]
 nitroflare.com##[href^="https://www.facebook.com/Nitroflarecom-1301087170011408/"]
 noisey.vice.com##.recommended-articles-wrap
-noscript.net
 notalwaysright.com###main_content > .row > .span8 > .container_content > .featured_wrapper
 notalwaysright.com###meta_comments_wrapper
 nymag.com##.latest-news
@@ -633,7 +636,6 @@ techradar.com##.media-list
 techradar.com###sidebar
 techradar.com##a[href^="http://www.techradar.com/"]
 techradar.com##a[href^="https://www.myfavouritemagazines.co.uk/"]
-thankswrite.com
 the-artifice.com##.btn-squared.btn-main-filled.btn-main.btn
 the-artifice.com##.radar-cont
 the-artifice.com##.subscribe-cont
@@ -648,7 +650,6 @@ torrentfreak.com###sidebar > .widget_text.widg:nth-of-type(1)
 translate.google.com###gb > .gb_g.gb_rc.gb_sc
 translate.google.com###gb > .gb_g.gb_vc.gb_wc
 translate.google.com###gt-ft-res
-trutv.com
 tuxradar.com##a[href="http://identi.ca/tuxradar"]
 tuxradar.com##a[href="http://twitter.com/tuxradar"]
 tv-rls.com##.berrors
@@ -689,9 +690,7 @@ vimeo.com##.iris_badge--plus
 vimeo.com##.iris_modal
 vimeo.com##.iris_modal-underlay
 vimeo.com##.topnav_is_ondemand
-w3schools.com
 webcache.googleusercontent.com###funbar
-weequizz.com
 who.is###name_purchase
 wikipedia.org###frbanner-main
 wikipedia.org###frbanner-nag
