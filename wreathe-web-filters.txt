@@ -1,3 +1,9 @@
+! Title: Wreathe Web Filters
+! Version: 2017102301
+! Expires: 3 days (update frequency)
+! Homepage: https://futuramerlin.com/
+! Licence: https://github.com/ethus3h/wreathe-web-filters/blob/master/LICENSE.md
+
 ! ======== Complicated entries with comments ========
 ! Removes suggested videos
 facebook.com##[id^=hyperfeed_story_] > div:nth-of-type(2)
