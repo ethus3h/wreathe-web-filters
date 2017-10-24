@@ -389,6 +389,7 @@ blog.ssa.gov##body > div:nth-of-type(3)
 bookriot.com###top-alt-content\ random_content_pro_widget-3 > .random-content-pro-wrapper
 booksandjournals.brillonline.com##.cornerPolicyTab
 btdb.in##.friend-links
+bustle.com##article ~ div
 claynewsnetwork.com##.boom_bar
 claynewsnetwork.com###itro_opaco
 claynewsnetwork.com###itro_popup
@@ -409,6 +410,10 @@ community.runnersworld.com##.interest-row
 community.runnersworld.com##.share-bar
 cse.google.com###gbq2
 cultivatedculture.com##blockquote
+darkpatterns.org##.action-link
+darkpatterns.org##.footer-bottom
+darkpatterns.org##a[href="/hall-of-shame"]
+darkpatterns.org##a[href="/participate-now"]
 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=$domain=imslp.org,image
 deadspin.com##.sidebar
 devcentral.f5.com##.externalLink
@@ -476,6 +481,8 @@ gist.github.com###new_gist > .container.edit > .form-actions > .tooltipped-s.too
 github.com##[href="/marketplace"]
 github.com###new_repository > .with-permission-fields > .form-checkbox:nth-of-type(2)
 github.com###readme > a[href^="https://evilmartians.com/"]
+gizmodo.com##.author-bio__twitter
+gizmodo.com##.related-module
 goldendict.org###content > .post:nth-of-type(3)
 goldendict.org###x_help
 gyazo.com##.btn-download
@@ -688,6 +695,8 @@ us.macmillan.com###cboxOverlay
 us.macmillan.com###colorbox
 userscloud.com##[href^="https://userscloud.com/"]
 userscloud.com##[href^="https://userscloud.com/unlimited.htm"]
+usertesting.com##.related-blog-posts
+usertesting.com###blog-post-footer-standard
 uxdesign.cc##.button--follow
 uxdesign.cc##.js-postFooterPlacements
 uxdesign.cc##.js-relationshipButton
