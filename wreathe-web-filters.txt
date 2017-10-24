@@ -297,8 +297,8 @@ weequizz.com
 ||opensource.org/files/xwikilogo.png$image
 ||pcsteps.com^$inline-script
 ||s.yimg.com/uq/syndication/
-||ssl.gstatic.com/news-static/apple_badge_1x.png$image
-||ssl.gstatic.com/news-static/playstore_badge_1x.png$image
+||ssl.gstatic.com/news-static/apple_badge_*.png$image
+||ssl.gstatic.com/news-static/playstore_badge_*.png$image
 ||static.tumblr.com/7bljswk/yHQm2pths/logo.png$image
 ||theatlantic.com^$inline-script
 ||tiles.services.mozilla.com^$domain=behind-the-scene
@@ -308,13 +308,13 @@ weequizz.com
 ||www.anime-planet.com/images/crbanner.png$image
 ||www.enlightenment.org/_media/thanks-*.svg$image
 ||www.google.com/images/nav_logo242.png$image
-||www.imore.com/sites/imore.com/files/images/getadmiral/imore-background.jpg$image
+||www.imore.com/sites/imore.com/files/images/getadmiral/*
 ||www.paperrater.com/images/grammarly/
 ||www.philamuseum.org/images/spacer.gif$image
 ||www.useragents.com/root/app_common/img/top_logo_ua.png$image
 ||www.xbiz.com/images/controls2.png$image
 
-! ======== Entries for specific sites ========
+! ======== Special rules ========
 * facebook.com * block
 * facebook.net * block
 * googletagservices.com * block
@@ -324,6 +324,8 @@ weequizz.com
 *$media,domain=ign.com
 *$script,domain=last.fm
 *$script,domain=theatlantic.com
+
+! ======== Site-specific cosmetic filter rules ========
 500px.com##.signup_teaser_region
 500px.com###hellobar
 80000hours.org##[id^=toggler]
