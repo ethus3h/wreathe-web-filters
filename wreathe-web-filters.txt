@@ -44,12 +44,6 @@ weequizz.com
 ~thedailywtf.com###article-feed
 
 ! ======== Global cosmetic filters ========
-##.instagram
-##.main-single-slider-container
-##.site-social-networks
-##.top-stories
-##.top-stories
-##a[href^="//"]
 ##.adblockermessage
 ##.ads-left-block
 ##.adStripe2
@@ -96,6 +90,7 @@ weequizz.com
 ##.injection
 ##.inline_related
 ##.insider-signin
+##.instagram
 ##.internalads
 ##.iris_modal
 ##.join-cta
@@ -109,6 +104,7 @@ weequizz.com
 ##.m-gravity-below-article
 ##.mail-border
 ##.mail-chimp-popup
+##.main-single-slider-container
 ##.meta__social
 ##.midbar-ad
 ##.mobile-banner
@@ -156,6 +152,7 @@ weequizz.com
 ##.sharetools-menu
 ##.signup.wrapper
 ##.site-content .transporter
+##.site-social-networks
 ##.slick-slider
 ##.slide-share-button
 ##.social-icon
@@ -259,6 +256,7 @@ weequizz.com
 ###WikiaBar
 ###wpp-2
 ##a[href*="europeantorrents.download/"]
+##a[href^="//"]
 ##a[href^="http://adtrack"]
 ##a[href^="http://w3schools.com"]
 ##a[href^="http://www.w3schools.com"]
