@@ -148,6 +148,7 @@ weequizz.com
 ##.section-more-articles
 ##.share-button
 ##.share.atom
+##.sharedaddy
 ##.sharetools
 ##.sharetools-menu
 ##.signup.wrapper
@@ -243,6 +244,7 @@ weequizz.com
 ###recirc-pos-2
 ###recirculated-content
 ###related-combined-coverage
+###relevant-videos
 ###see-also-links
 ###share_popup
 ###share-sticky-bar
@@ -252,6 +254,7 @@ weequizz.com
 ###subscribe-button
 ###survey-message
 ###trending_now
+###watermark leftwatermark
 ###whats-next
 ###WikiaBar
 ###wpp-2
