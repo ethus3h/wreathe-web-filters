@@ -44,10 +44,12 @@ weequizz.com
 ~thedailywtf.com###article-feed
 
 ! ======== Global cosmetic filters ========
-.instagram
-.main-single-slider-container
-.site-social-networks
-#.top-stories
+##.instagram
+##.main-single-slider-container
+##.site-social-networks
+##.top-stories
+##.top-stories
+##a[href^="//"]
 ##.adblockermessage
 ##.ads-left-block
 ##.adStripe2
