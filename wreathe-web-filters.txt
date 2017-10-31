@@ -261,7 +261,6 @@ weequizz.com
 ###WikiaBar
 ###wpp-2
 ##a[href*="europeantorrents.download/"]
-##a[href^="//"]
 ##a[href^="http://adtrack"]
 ##a[href^="http://w3schools.com"]
 ##a[href^="http://www.w3schools.com"]
@@ -286,6 +285,7 @@ weequizz.com
 ||cdn.mediafire.com/images/backgrounds/download/dl_promo_logo.png$image
 ||cdnssl.mediafire.com/images/icons/ajax-loader-sm-round.gif$image
 ||cfl.dropboxstatic.com/static/images/header/header_logo_shmodel-vflsZ7QsE.png$image
+||cnetmedia-a.akamaihd.net/*.m3u8
 ||coin-hive.com$script
 ||d3nevzfk7ii3be.cloudfront.net/igi/DDW5erfAmFiGWGqM.medium$image
 ||deadspin.com^$inline-script
@@ -673,7 +673,6 @@ hollywoodlife.com##.jw-rightclick
 hollywoodreporter.com##.blog-post:not(:first-of-type)
 hongkiat.com##.is-sticky--pinned
 hongkiat.com##[id^=single-post]:not(:first-of-type)
-https://cnetmedia-a.akamaihd.net/*.m3u8
 huffingtonpost.com##.bottom-trending
 huffingtonpost.com##.extra-content
 huffingtonpost.com##.recirc
@@ -723,6 +722,8 @@ jsfiddle.net###panel_html > .warningTooltip
 jsfiddle.net###sidebar
 justjared.com##.scrollContainer
 justjared.com###sidebar
+kissanime.me##a[href^="//"]
+kissanime.ru##a[href^="//"]
 krebsonsecurity.com##a[href="https://krebsonsecurity.com/cpm/"]
 last.fm##.chartlist-break
 last.fm##.features-footer
@@ -740,6 +741,8 @@ libgen.io/scimag/ads.php##table > tbody > tr > td:nth-of-type(2)
 libgen.io###message
 libgen.io##td:nth-of-type(2)
 libgen.me##td:nth-of-type(1)
+lifewire.com##[id^=footer]
+lifewire.com##[id^=prefooter]
 linkedin.com##.guest-view
 linux.org##[href="https://m.do.co/c/10b82948a627"]
 linux.org###content > .pageWidth > .pageContent > div:nth-of-type(2) > a[href="https://m.do.co/c/10b82948a627"]
@@ -786,6 +789,8 @@ motherboard.vice.com##.article-wrapper:not(:nth-of-type(2))
 motherboard.vice.com##.ribbon
 motherboard.vice.com##.up-next
 motherboard.vice.com###article_5886b7654e4993458da7506b > .short-form-article > .short-form-article__bounding-box > .short-form-article__body > .short-form-article__body__content > .gutter > .gutter__content
+motherjones.com##.donate-link
+motherjones.com##.ticker-content
 motherjones.com###bottom_adhesion
 mozilla.org###masthead > .version-message-container
 mp3clan.audio###ad-track-title
@@ -993,7 +998,9 @@ the-artifice.com##.btn-squared.btn-main-filled.btn-main.btn
 the-artifice.com##.radar-cont
 the-artifice.com##.subscribe-cont
 the-artifice.com##.write-for-us-cont
+theatlantic.com##.c-breaking_news
 theatlantic.com##.callout
+theatlantic.com###article-most-popular
 thedailybeast.com##.ArticleSidebarWrapper:not(:nth-of-type(1))
 thedailybeast.com##.RelatedArticles
 thedailywtf.com##.article-body > div:nth-of-type(1)
