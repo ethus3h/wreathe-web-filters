@@ -60,10 +60,12 @@ weequizz.com
 ##.article-readthis
 ##.articles-recirculation
 ##.bon-embedded-cw
+##.bonus-video-card
 ##.bottom-recommended
 ##.btn-affiliate
 ##.btnSubscribe
 ##.bundle-payflow
+##.c-recirc-module
 ##.callout--tagged-event-promo
 ##.cards-component
 ##.carousel
@@ -71,6 +73,7 @@ weequizz.com
 ##.collapse.crunchbase-cluster
 ##.comment-moderation-message
 ##.cookie-consent-alert
+##.cta_text
 ##.cta-link
 ##.donate
 ##.email-acquisition
@@ -96,11 +99,14 @@ weequizz.com
 ##.iris_modal
 ##.join-cta
 ##.js_inset
+##.js-metabar
 ##.js-most-popular-footer
 ##.js-postFooterPlacements
 ##.js-product-sharing
+##.js-responsesWrapper
 ##.js-shop-selecter-dialog
 ##.js-sidebar-nav-tutorial-bg
+##.js-signUpButton
 ##.l-magazine-promo
 ##.m-gravity-below-article
 ##.mail-border
@@ -122,10 +128,12 @@ weequizz.com
 ##.popular-video
 ##.post-navigation .wp-post-image
 ##.post-page__related
+##.postActions
 ##.pretty_social
 ##.previous-next
 ##.privacy_notice
 ##.promo
+##.promo-bar
 ##.publisher .btn-following
 ##.rail--trending
 ##.read-full-article
@@ -137,6 +145,7 @@ weequizz.com
 ##.recirculation-module
 ##.recommended-articles
 ##.recommended-module
+##.related__video
 ##.related_post_wrapper
 ##.related_stories
 ##.related-articles
@@ -160,6 +169,7 @@ weequizz.com
 ##.social-icon
 ##.social-link-icon
 ##.speed-bump-wrapper
+##.sponsored
 ##.sponsored-mobile
 ##.sticky-banner
 ##.subscribe
@@ -176,6 +186,7 @@ weequizz.com
 ##.trb_filmstrip
 ##.u-sizeFullWidth.u-fixed
 ##.ui-widget-overlay
+##.uiScale-caption--regular.uiScale-ui--small
 ##.videoPlaylist.carousel
 ##.videowall-endscreen
 ##.watch-info-tag-list .yt-uix-sessionlink
@@ -201,11 +212,13 @@ weequizz.com
 ##[class$=subscribe]
 ##[class$=upgrade-nudge]
 ##[href*=utm_campaign]
+##[href^="//1298bab69bbc4.com/"]
 ##[href="https://www.privateinternetaccess.com/"]
 ##[id*=social-links]
 ##[id^="newsletter"]
 ##[id^="promo"]
 ##[id^=adsmobile]
+##[id^=circularhub]
 ##[id^=inArticleVideo]
 ##[id^=lightbox_container]
 ##[id$="newsletter"]
@@ -231,8 +244,10 @@ weequizz.com
 ###m-inline-newsletter
 ###mailingListPrompt
 ###mobile-subscribe-link
+###mobileDismissCookies
 ###modalfade
 ###module-more-news
+###most-popular-mobile
 ###most-popular-rotator
 ###movie_player > .ytp-show-tiles
 ###newsletter-promo
@@ -246,6 +261,7 @@ weequizz.com
 ###recirc-pos-2
 ###recirculated-content
 ###related-combined-coverage
+###related-coverage
 ###relevant-videos
 ###see-also-links
 ###share_popup
@@ -276,22 +292,6 @@ weequizz.com
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
-##.bonus-video-card
-##.c-recirc-module
-##.cta_text
-##.js-metabar
-##.js-responsesWrapper
-##.js-signUpButton
-##.postActions
-##.promo-bar
-##.related__video
-##.sponsored
-##.uiScale-caption--regular.uiScale-ui--small
-##[href^="//1298bab69bbc4.com/"]
-##[id^=circularhub]
-###mobileDismissCookies
-###most-popular-mobile
-###related-coverage
 
 ! ======== Network filters ========
 ||a.konachan.net$subdocument
