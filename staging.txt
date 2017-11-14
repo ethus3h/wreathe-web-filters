@@ -1,107 +1,37 @@
-! 10/31/2017, 1:19:55 PM https://github.com/MrAlex94/Waterfox
-||raw.githubusercontent.com/MaxCDN/media/master/Screen/maxcdn-logo-*.png$image
-
-! 10/31/2017, 3:23:22 PM http://www.wabi.tv/content/news/University-of-Maine-Students-Evacuated-During-Storm-454178193.html
-www.wabi.tv##[id^=circularhub]
-
-! 11/2/2017, 11:36:25 AM https://www.theverge.com/2017/7/6/15924120/amazon-echo-look-review-camera-clothes-style
-www.theverge.com##.c-recirc-module
-
-! 11/2/2017, 3:00:52 PM https://thedailywtf.com/articles/re-authenticated
-thedailywtf.com##.article-body > div
-
-! 11/2/2017, 6:58:11 PM https://mainecampus.com/2017/10/cultural-appropriation-and-costumes/
-mainecampus.com##.newsmag-blog-sidebar
-
-! 11/2/2017, 10:31:23 PM https://www.nytimes.com/interactive/2017/11/01/opinion/How-Fox-News-Covered-the-Manafort-Indictment.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region&_r=0
-www.nytimes.com###related-coverage
-
-! 11/2/2017, 11:59:45 PM https://www.newsy.com/sections/scitech/
-www.newsy.com##.sponsored
-
-! 11/3/2017, 11:23:32 AM https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5
-medium.com##.js-signUpButton
-
-! 11/3/2017, 11:25:48 AM https://techbeacon.com/why-perl-6-game-thrones-programming-languages
-techbeacon.com##.cta_text
-
-! 11/3/2017, 9:04:12 PM http://www.primewire.as/play/67933.html
-www.primewire.as##.tcc_mb > div:nth-of-type(1)
-
-kissanime.me##a[href^="//"]
-
-! 11/4/2017, 5:46:32 PM http://mashable.com/2017/07/26/twitter-useless-notifications/#FeGCgi1utPqi
-mashable.com##.bonus-video-card
-
-! 11/4/2017, 5:46:56 PM http://mashable.com/2017/07/26/twitter-useless-notifications/#FeGCgi1utPqi
-mashable.com##.video-post-main
-
-! 11/4/2017, 5:47:33 PM http://mashable.com/2017/07/26/twitter-useless-notifications/#FeGCgi1utPqi
-mashable.com##.video-hub
-
-! 11/6/2017, 9:22:07 AM https://www.theguardian.com/commentisfree/2017/oct/26/no-one-use-libraries-any-more-rubbish-sanctuaries--enrich-communities?CMP=share_btn_tw
-www.theguardian.com##.element-rich-link
-
-! 11/6/2017, 9:49:18 AM https://www.independent.co.uk/life-style/gadgets-and-tech/news/iphone-bug-letter-i-apple-keyboard-ios-update-software-people-unable-write-type-text-a8039706.html
-www.independent.co.uk###most-popular-mobile
-
-! 11/7/2017, 9:16:27 AM https://www.recode.net/2017/6/27/15875436/facebook-mark-zuckerberg-growth-newsfeed-video-instant-articles-ad-revenue
-www.recode.net##.tab-bar-fixed
-
-! 11/7/2017, 11:02:26 AM http://success.hindsitesoftware.com/field-service-software-blog/bid/286801/4-Traits-of-a-Great-Snow-Removal-Business
-success.hindsitesoftware.com###drift-widget-container
-
-! 11/7/2017, 12:00:09 PM https://myanimelist.net/forum/?topicid=1677587
-myanimelist.net##[class^=banner-header]
-
-! 11/12/2017, 2:31:39 PM https://library.gv.com/change-aversion-why-users-hate-what-you-launched-and-what-to-do-about-it-2fb94ce65766
-library.gv.com##.js-metabar
-
-! 11/12/2017, 2:36:12 PM https://library.gv.com/change-aversion-why-users-hate-what-you-launched-and-what-to-do-about-it-2fb94ce65766
-library.gv.com##.postActions
-
-! 11/12/2017, 2:36:55 PM https://library.gv.com/change-aversion-why-users-hate-what-you-launched-and-what-to-do-about-it-2fb94ce65766
-library.gv.com##.uiScale-caption--regular.uiScale-ui--small
-
-! 11/12/2017, 2:40:04 PM https://library.gv.com/change-aversion-why-users-hate-what-you-launched-and-what-to-do-about-it-2fb94ce65766
-library.gv.com##.js-responsesWrapper
-
-! 11/12/2017, 2:44:28 PM https://media.netflix.com/en/company-blog
-media.netflix.com###mobileDismissCookies
-
-! 11/12/2017, 3:36:42 PM https://www.uie.com/brainsparks/2012/07/16/googles-take-on-change-aversion-misses-the-point/
-www.uie.com###sidebar
-
-! 11/13/2017, 9:19:27 AM https://clientsfromhell.net/
-clientsfromhell.net##img
-
-! 11/13/2017, 9:19:50 AM https://clientsfromhell.net/
-clientsfromhell.net##[href^="http://t.umblr.com/"]
-
 ##[href^="//1298bab69bbc4.com/"]
-
-! 11/14/2017, 7:48:15 AM https://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html?rref=collection%2Fbyline%2Fmike-isaac&action=click&contentCollection=undefined%C2%AEion=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection
-nytimes.com###site-index
-
-vp.nyt.com
-
-! 11/14/2017, 8:12:36 AM https://nypost.com/2017/06/04/uber-slammed-for-surge-pricing-during-london-attacks/
-nypost.com###nav-wrapper
-
-! 11/14/2017, 8:12:54 AM https://nypost.com/2017/06/04/uber-slammed-for-surge-pricing-during-london-attacks/
-nypost.com##.alignleft
-
-! 11/14/2017, 8:15:49 AM https://www.designmom.com/an-interview-with-an-uber-driver/
-www.designmom.com##.column2
-
-! 11/14/2017, 8:24:17 AM https://motherboard.vice.com/en_us/article/mgbz5a/ubers-phantom-cabs
-motherboard.vice.com##.related__video
-
-! 11/14/2017, 11:44:12 AM https://economictimes.indiatimes.com/news/politics-and-nation/12-lakh-new-notes-infused-in-the-market-arun-jaitley/articleshow/57574858.cms
+||raw.githubusercontent.com/MaxCDN/media/master/Screen/maxcdn-logo-*.png$image
+clientsfromhell.net##[href^="http://t.umblr.com/"]
+clientsfromhell.net##img
 economictimes.indiatimes.com###pushSec
-
-! 11/14/2017, 12:36:23 PM https://pastebin.com/DmsPpYFE
-pastebin.com###notice
-
-! 11/14/2017, 12:36:47 PM https://pastebin.com/DmsPpYFE
+kissanime.me##a[href^="//"]
+library.gv.com##.js-metabar
+library.gv.com##.js-responsesWrapper
+library.gv.com##.postActions
+library.gv.com##.uiScale-caption--regular.uiScale-ui--small
+mainecampus.com##.newsmag-blog-sidebar
+mashable.com##.bonus-video-card
+mashable.com##.video-hub
+mashable.com##.video-post-main
+media.netflix.com###mobileDismissCookies
+medium.com##.js-signUpButton
+motherboard.vice.com##.related__video
+myanimelist.net##[class^=banner-header]
+nypost.com##.alignleft
+nypost.com###nav-wrapper
+nytimes.com###site-index
 pastebin.com##.promo-bar
+pastebin.com###notice
+success.hindsitesoftware.com###drift-widget-container
+techbeacon.com##.cta_text
+thedailywtf.com##.article-body > div
+vp.nyt.com
+www.designmom.com##.column2
+www.independent.co.uk###most-popular-mobile
+www.newsy.com##.sponsored
+www.nytimes.com###related-coverage
+www.primewire.as##.tcc_mb > div:nth-of-type(1)
+www.recode.net##.tab-bar-fixed
+www.theguardian.com##.element-rich-link
+www.theverge.com##.c-recirc-module
+www.uie.com###sidebar
+www.wabi.tv##[id^=circularhub]
