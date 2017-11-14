@@ -235,6 +235,7 @@ weequizz.com
 ###donateButton
 ###elnino-modal
 ###featured-posts
+###floating_subscribe
 ###floatingvid-anchor
 ###funnel
 ###hamilton-module-container
@@ -664,6 +665,7 @@ gearslutz.com###supportUsTop
 gist.github.com###new_gist > .container.edit > .form-actions > .tooltipped-s.tooltipped.js-gist-create.btn-secret.btn
 git-tower.com##.wrap-header-branding
 github.com##[href="/marketplace"]
+github.com##.octofication .message
 github.com###new_repository > .with-permission-fields > .form-checkbox:nth-of-type(2)
 github.com###readme > a[href^="https://evilmartians.com/"]
 gizmodo.com##.author-bio__twitter
@@ -1081,6 +1083,8 @@ tracfone.com###colorbox
 translate.google.com###gb > .gb_g.gb_rc.gb_sc
 translate.google.com###gb > .gb_g.gb_vc.gb_wc
 translate.google.com###gt-ft-res
+troyhunt.com###floating_subscribe
+troyhunt.com##[href^="https://www.troyhunt.com/sponsorship/"]
 trustmeimascientist.com###text-2
 tuxradar.com##a[href="http://identi.ca/tuxradar"]
 tuxradar.com##a[href="http://twitter.com/tuxradar"]
