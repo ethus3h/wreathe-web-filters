@@ -317,6 +317,7 @@ weequizz.com
 ||opensource.org/files/twitterlogo.png$image
 ||opensource.org/files/xwikilogo.png$image
 ||pcsteps.com^$inline-script
+||raw.githubusercontent.com/MaxCDN/media/master/Screen/maxcdn-logo-*.png$image
 ||s.yimg.com/uq/syndication/
 ||ssl.gstatic.com/news-static/apple_badge_*.png$image
 ||ssl.gstatic.com/news-static/playstore_badge_*.png$image
