@@ -478,10 +478,12 @@ claynewsnetwork.com###itro_popup
 cleveland.com###article__commentBubble-socialShare
 clientsfromhell.net##.myhead
 clientsfromhell.net##.wf2-bg-dark
+clientsfromhell.net##[href^="http://t.umblr.com/"]
 clientsfromhell.net###post-139416493558
 clientsfromhell.net###youtube_iframe
 clientsfromhell.net##a[href^="http://t.umblr.com/redirect"]
 clientsfromhell.net##iframe
+clientsfromhell.net##img
 clientsfromhell.net##img
 cnet.com##.related
 cnet.com##.video
@@ -536,46 +538,12 @@ darkpatterns.org##.action-link
 darkpatterns.org##.footer-bottom
 darkpatterns.org##a[href="/hall-of-shame"]
 darkpatterns.org##a[href="/participate-now"]
-clientsfromhell.net##[href^="http://t.umblr.com/"]
-clientsfromhell.net##img
-designmom.com##.column2
-economictimes.indiatimes.com###pushSec
-hindsitesoftware.com###drift-widget-container
-independent.co.uk###most-popular-mobile
-kissanime.me##a[href^="//"]
-library.gv.com##.js-metabar
-library.gv.com##.js-responsesWrapper
-library.gv.com##.postActions
-library.gv.com##.uiScale-caption--regular.uiScale-ui--small
-mainecampus.com##.newsmag-blog-sidebar
-mashable.com##.bonus-video-card
-mashable.com##.video-hub
-mashable.com##.video-post-main
-media.netflix.com###mobileDismissCookies
-medium.com##.js-signUpButton
-motherboard.vice.com##.related__video
-myanimelist.net##[class^=banner-header]
-newsy.com##.sponsored
-nypost.com##.alignleft
-nypost.com###nav-wrapper
-nytimes.com###related-coverage
-nytimes.com###site-index
-pastebin.com##.promo-bar
-pastebin.com###notice
-primewire.as##.tcc_mb > div:nth-of-type(1)
-recode.net##.tab-bar-fixed
-techbeacon.com##.cta_text
-thedailywtf.com##.article-body > div
-theguardian.com##.element-rich-link
-theverge.com##.c-recirc-module
-uie.com###sidebar
-vp.nyt.com
-wabi.tv##[id^=circularhub]
 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=$domain=imslp.org,image
 deadspin.com##.sidebar
 dedoimedo.com##.post_article_box
 degruyter.com##.european-union-cookies-agreement
 deleted.io###donate-bar
+designmom.com##.column2
 devcentral.f5.com##.externalLink
 developer.android.com##.dac-footer-social
 developer.mozilla.org##.notification-tray > .question.info.notification
@@ -636,6 +604,7 @@ duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.resul
 easypxy.com###include
 ebags.com##.in.fade.modal-backdrop
 ebay.com##.nojs
+economictimes.indiatimes.com###pushSec
 edmsauce.com##.cp-clear.cp-info-bar-wrapper
 edmsauce.com##.cp-info-bar-body-overlay
 edmtunes.com##.td-main-sidebar
@@ -721,6 +690,7 @@ hackintosh.zone##.ipsfocus_social
 hackintosh.zone###elGuestTerms
 hackintosh.zone###ipsLayout_footer
 hackintosh.zone###ipsLayout_sidebar
+hindsitesoftware.com###drift-widget-container
 hollywoodlife.com##.jw-rightclick
 hollywoodreporter.com##.blog-post:not(:first-of-type)
 hongkiat.com##.is-sticky--pinned
@@ -766,6 +736,7 @@ imslp.org###sm_dl_login
 imslp.org###subs_mainacc
 imslp.org##a[href="#tabNaxos"]
 independent.co.uk##.video-playlist
+independent.co.uk###most-popular-mobile
 irishmirror.ie##.channel-showbiz .tab-triggers
 j-14.com###age-gate-form
 jalopnik.com##.lazyloaded
@@ -774,6 +745,7 @@ jsfiddle.net###panel_html > .warningTooltip
 jsfiddle.net###sidebar
 justjared.com##.scrollContainer
 justjared.com###sidebar
+kissanime.me##a[href^="//"]
 kissanime.me##a[href^="//"]
 kissanime.ru##a[href^="//"]
 krebsonsecurity.com##a[href="https://krebsonsecurity.com/cpm/"]
@@ -793,6 +765,10 @@ libgen.io/scimag/ads.php##table > tbody > tr > td:nth-of-type(2)
 libgen.io###message
 libgen.io##td:nth-of-type(2)
 libgen.me##td:nth-of-type(1)
+library.gv.com##.js-metabar
+library.gv.com##.js-responsesWrapper
+library.gv.com##.postActions
+library.gv.com##.uiScale-caption--regular.uiScale-ui--small
 lifewire.com##[id^=footer]
 lifewire.com##[id^=prefooter]
 linkedin.com##.guest-view
@@ -804,10 +780,15 @@ macrumors.com###right
 madinamerica.com##.td-main-sidebar
 maine-csm.symplicity.com###optinmsg_c
 maine-csm.symplicity.com###optinmsg_mask
+mainecampus.com##.newsmag-blog-sidebar
 makeuseof.com###sidebar
 makeuseof.com###wrapper > .container > .nolinks.rightcol
 marketwatch.com##.bulletin.notification
+mashable.com##.bonus-video-card
+mashable.com##.video-hub
+mashable.com##.video-post-main
 mattgemmell.com##.patronage
+media.netflix.com###mobileDismissCookies
 mediafire.com##.application_octet-stream.audio.mp3.dl-file-icon.dlInfo-Intro
 mediafire.com##.bottomAdLeaderboard
 mediafire.com##.dlInfo-Body
@@ -821,6 +802,7 @@ mediafire.com###remove_ads_button4
 medicinenet.com##.avgrund-overlay
 medicinenet.com##.owl-carousel
 medium.com##.is-inSiteNavBar.u-accentColor--buttonNormal.button--chromeless.button--primary.button
+medium.com##.js-signUpButton
 medium.com##.postActions
 medium.com##.postArticle > .u-paddingTop10
 medium.com##.u-bottom0.u-fixed
@@ -838,6 +820,7 @@ money.cnn.com###smartassetcontainer
 monova.org##.container-other.torrent-page.container-bt > .row > .col-md-8 > .background-block.z-depth-1.col-md-12 > .row:nth-of-type(1) > .col-md-12 > .general-table > tbody > tr:nth-of-type(7) > td:nth-of-type(2)
 monova.org##.warning-message
 motherboard.vice.com##.article-wrapper:not(:nth-of-type(2))
+motherboard.vice.com##.related__video
 motherboard.vice.com##.ribbon
 motherboard.vice.com##.up-next
 motherboard.vice.com###article_5886b7654e4993458da7506b > .short-form-article > .short-form-article__bounding-box > .short-form-article__body > .short-form-article__body__content > .gutter > .gutter__content
@@ -854,6 +837,7 @@ my-ip.club###adb
 myanimelist.net##.btn-mal-service
 myanimelist.net##.footer-recommended
 myanimelist.net##.index-watch-description
+myanimelist.net##[class^=banner-header]
 myanimelist.net###headerSmall > .banner-header-anime-straming
 myanimelist.net##div[style][data-height]:not(.btn-truncate)
 networkworld.com##.promo
@@ -867,6 +851,7 @@ news.com.au##.sticky-show
 news.com.au###footer
 news.com.au###sticky-module-2
 newsweek.com##.trial-link
+newsy.com##.sponsored
 newyorker.com##[class^=Callout__inset]
 nitroflare.com##[href^="https://www.facebook.com/Nitroflarecom-1301087170011408/"]
 nngroup.com##.hero
@@ -878,16 +863,22 @@ notalwaysright.com###main_content > .row > .span8 > .container_content > .featur
 notalwaysright.com###meta_comments_wrapper
 npr.org##.bucketwrap
 nymag.com##.latest-news
+nypost.com##.alignleft
+nypost.com###nav-wrapper
 nytimes.com##.login-button
 nytimes.com##.login-modal-trigger
 nytimes.com###login-modal
+nytimes.com###related-coverage
+nytimes.com###site-index
 nytimes.com###whats-next
 omgubuntu.co.uk##.banner-slideshow
 opensource.org##.region-header.region
 opensource.org###popup-announcement-overlay
 opensource.org###popup-announcement-wrap
 oregonlive.com###newsletter_promo
+pastebin.com##.promo-bar
 pastebin.com###abrpm > div
+pastebin.com###notice
 pcsteps.com##.wp-embedded-content
 pcworld.com###network
 photobucket.com##.modal-backdrop
@@ -906,6 +897,7 @@ pornhub.com###abAlert
 postize.com##.sidebar
 prairiehome.org##.site-container > .site-inner > .content-sidebar-wrap > .widget-area.sidebar-primary.sidebar
 prairiehome.org###menu-item-87
+primewire.as##.tcc_mb > div:nth-of-type(1)
 quora.com##.PromptsList
 quora.com##.signup_modal_content
 quora.com##[^id="_background_wrapper"]
@@ -923,6 +915,7 @@ readwrite.com##.scroll.sidebar-cat > .columns
 readwrite.com##.single-loop-archive-grid-ajax
 readwrite.com###featured-hero-sidebar
 recipetips.com##.rtJqibox
+recode.net##.tab-bar-fixed
 reddit.com##.commentarea .spacer #siteTable
 reddit.com##.create.sidebox > .spacer
 reddit.com##.hide-button
@@ -1029,6 +1022,7 @@ svnbook.red-bean.com###rightcolumn a
 sweetwater.com##.ad
 sweetwater.com##.swf-offers
 talky.io##.text-centered.message.page-flag
+techbeacon.com##.cta_text
 techcrunch.com##.announcement
 techcrunch.com##.aside-related-articles
 techcrunch.com##.footer
@@ -1055,13 +1049,16 @@ theatlantic.com##.callout
 theatlantic.com###article-most-popular
 thedailybeast.com##.ArticleSidebarWrapper:not(:nth-of-type(1))
 thedailybeast.com##.RelatedArticles
+thedailywtf.com##.article-body > div
 thedailywtf.com##.article-body > div:nth-of-type(1)
 thedailywtf.com###articlePage > .articleWrapper.columns.twelve > .content > .row > .container > .article-body > div:nth-of-type(1)
+theguardian.com##.element-rich-link
 theguardian.com###onward
 themarysue.com###post-body p:last-child em
 themarysue.com###sidebar
 theonion.com##.end-of-article-video
 theregister.co.uk###spotlight
+theverge.com##.c-recirc-module
 theverge.com##.c-related-list
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__content > .-has-border.breaker.product.basic.m-carousel
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__content > .m-linkset-list.m-linkset
@@ -1112,6 +1109,7 @@ twitter.com###page-container > .dashboard-left.dashboard
 twitter.com###stream-item-who_to_follow_entry-*
 twitter.com###stream-items-id > .after-expanded.js-prompt-layout-container.js-stream-item.PromptbirdPrompt-streamItem > .js-prompt-layout-content > .PromptbirdPrompt--inline.PromptbirdPrompt
 twitter.com###stream-items-id > .js-prompt-layout-container.js-stream-item.PromptbirdPrompt-streamItem
+uie.com###sidebar
 unixtimestamp.com##.col-md-6:nth-of-type(1) > .box:nth-of-type(1)
 unixtimestamp.com##div:nth-of-type(4)
 us.macmillan.com###cboxLoadedContent
@@ -1134,6 +1132,8 @@ vimeo.com##.iris_modal
 vimeo.com##.iris_modal-underlay
 vimeo.com##.topnav_is_ondemand
 viva64.com##.search-banner.row
+vp.nyt.com
+wabi.tv##[id^=circularhub]
 wabi.tv###prevNext
 wabi.tv###socialIcons
 wabi.tv##article > div > aside
