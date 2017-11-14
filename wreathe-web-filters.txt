@@ -484,7 +484,6 @@ clientsfromhell.net###youtube_iframe
 clientsfromhell.net##a[href^="http://t.umblr.com/redirect"]
 clientsfromhell.net##iframe
 clientsfromhell.net##img
-clientsfromhell.net##img
 cnet.com##.related
 cnet.com##.video
 cnet.com##.videoPlayer
@@ -745,7 +744,6 @@ jsfiddle.net###panel_html > .warningTooltip
 jsfiddle.net###sidebar
 justjared.com##.scrollContainer
 justjared.com###sidebar
-kissanime.me##a[href^="//"]
 kissanime.me##a[href^="//"]
 kissanime.ru##a[href^="//"]
 krebsonsecurity.com##a[href="https://krebsonsecurity.com/cpm/"]
