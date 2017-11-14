@@ -1,5 +1,5 @@
 ! Title: Wreathe Web Filters
-! Version: 20171031
+! Version: 20171114
 ! Expires: 3 days (update frequency)
 ! Homepage: https://futuramerlin.com/
 ! Licence: https://github.com/ethus3h/wreathe-web-filters/blob/master/LICENSE.md
