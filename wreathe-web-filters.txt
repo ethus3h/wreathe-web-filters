@@ -276,6 +276,22 @@ weequizz.com
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
+##.bonus-video-card
+##.c-recirc-module
+##.cta_text
+##.js-metabar
+##.js-responsesWrapper
+##.js-signUpButton
+##.postActions
+##.promo-bar
+##.related__video
+##.sponsored
+##.uiScale-caption--regular.uiScale-ui--small
+##[href^="//1298bab69bbc4.com/"]
+##[id^=circularhub]
+###mobileDismissCookies
+###most-popular-mobile
+###related-coverage
 
 ! ======== Network filters ========
 ||a.konachan.net$subdocument
