@@ -228,7 +228,6 @@ weequizz.com
 ##[class$="-cta"].btn
 ##[class$=subscribe]
 ##[class$=upgrade-nudge]
-##[class$=upgrade-nudge]
 ##[href*=utm_campaign]
 ##[href^="//1298bab69bbc4.com/"]
 ##[href^="http://identi.ca/"]
