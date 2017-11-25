@@ -52,6 +52,7 @@ weequizz.com
 ##.app-links
 ##.append-content
 ##.article__engager
+##.article__ftr
 ##.article-body__show-full
 ##.article-breaker-ad
 ##.article-extra
@@ -69,6 +70,8 @@ weequizz.com
 ##.callout--tagged-event-promo
 ##.cards-component
 ##.carousel
+##.catfish
+##.chimpy_popup_content
 ##.circ-list
 ##.collapse.crunchbase-cluster
 ##.comment-moderation-message
@@ -77,6 +80,7 @@ weequizz.com
 ##.cta-link
 ##.donate
 ##.email-acquisition
+##.emailWidget
 ##.end-of-article-video
 ##.fa-amazon
 ##.fa-facebook-f
@@ -96,6 +100,7 @@ weequizz.com
 ##.insider-signin
 ##.instagram
 ##.internalads
+##.iph-spotlight-bg
 ##.iris_modal
 ##.join-cta
 ##.js_inset
@@ -163,14 +168,18 @@ weequizz.com
 ##.sharetools-menu
 ##.signup.wrapper
 ##.site-content .transporter
+##.site-ftr__signup
+##.site-ftr__social
 ##.site-social-networks
 ##.slick-slider
 ##.slide-share-button
 ##.social-icon
 ##.social-link-icon
 ##.speed-bump-wrapper
+##.spnf_ticker
 ##.sponsored
 ##.sponsored-mobile
+##.spot-im-conversation-module
 ##.sticky-banner
 ##.subscribe
 ##.td_block_related_posts
@@ -185,6 +194,7 @@ weequizz.com
 ##.trb_em_b_if
 ##.trb_filmstrip
 ##.u-sizeFullWidth.u-fixed
+##.ui-small-carousel
 ##.ui-widget-overlay
 ##.uiScale-caption--regular.uiScale-ui--small
 ##.videoPlaylist.carousel
@@ -202,6 +212,7 @@ weequizz.com
 ##[class^="icon-tumblr"]
 ##[class^="promo-app"]
 ##[class^=article-share]
+##[class^=chimpy]
 ##[class^=et_social_]
 ##[class^=Share]
 ##[class^=social]
@@ -213,6 +224,8 @@ weequizz.com
 ##[class$=upgrade-nudge]
 ##[href*=utm_campaign]
 ##[href^="//1298bab69bbc4.com/"]
+##[href^="http://identi.ca/"]
+##[href^="https://plus.google.com/"]
 ##[href="https://www.privateinternetaccess.com/"]
 ##[id*=social-links]
 ##[id^="newsletter"]
@@ -239,7 +252,9 @@ weequizz.com
 ###floatingvid-anchor
 ###funnel
 ###hamilton-module-container
+###hot
 ###hot-network-questions
+###inproduct-guide-modal
 ###jp-relatedposts
 ###lightbox_overlay
 ###m-inline-newsletter
@@ -264,11 +279,13 @@ weequizz.com
 ###related-combined-coverage
 ###related-coverage
 ###relevant-videos
+###secondary
 ###see-also-links
 ###share_popup
 ###share-sticky-bar
 ###ShareModal
 ###single-social-header
+###social-sharing-wrapper
 ###stickyShare
 ###subscribe-button
 ###survey-message
