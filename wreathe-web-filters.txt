@@ -494,6 +494,10 @@ claynewsnetwork.com##.boom_bar
 claynewsnetwork.com###itro_opaco
 claynewsnetwork.com###itro_popup
 cleveland.com###article__commentBubble-socialShare
+click2houston.com##.emailWidget
+click2houston.com##.ui-small-carousel
+click2houston.com###footer
+click2houston.com###sidebar-wrap
 clientsfromhell.net##.myhead
 clientsfromhell.net##.wf2-bg-dark
 clientsfromhell.net##[href^="http://t.umblr.com/"]
@@ -603,6 +607,8 @@ distrowatch.org##a[href^="http://www.excel-easy.com/"]
 distrowatch.org##a[href^="https://"]
 dmt-nexus.me##.Ad_DivContainer
 docs.google.com###punch-explore-widget
+drive.google.com##.iph-spotlight-bg
+drive.google.com###inproduct-guide-modal
 dropbox.com##.bright-modal-logo
 dropbox.com##.bubble-menu-item-wrapper:nth-of-type(2)
 dropbox.com##.comments-and-feedback
@@ -681,8 +687,8 @@ gearslutz.com###SupportUsBottom
 gearslutz.com###supportUsTop
 gist.github.com###new_gist > .container.edit > .form-actions > .tooltipped-s.tooltipped.js-gist-create.btn-secret.btn
 git-tower.com##.wrap-header-branding
-github.com##[href="/marketplace"]
 github.com##.octofication .message
+github.com##[href="/marketplace"]
 github.com###new_repository > .with-permission-fields > .form-checkbox:nth-of-type(2)
 github.com###readme > a[href^="https://evilmartians.com/"]
 gizmodo.com##.author-bio__twitter
@@ -693,6 +699,7 @@ globalspec.com###overlay
 globalspec.com###registrationPopUpContainer
 goldendict.org###content > .post:nth-of-type(3)
 goldendict.org###x_help
+google.com##.gb_Uc
 google.com###fbar > .fbar
 google.com###gbw > div > .gb_T.gb_5e.gb_R.gb_6e.gb_bb > .gb_R.gb_6e.gb_cc > .gb_g.gb_vc.gb_Od.gb_4c > .gb_g.gb_ga
 google.com###gbw > div > .gb_T.gb_gf.gb_R.gb_hf.gb_cb > .gb_R.gb_hf.gb_dc > .gb_g.gb_wc.gb_yc.gb_xc > .gb_g.gb_ga
@@ -793,6 +800,7 @@ linux.org##[href="https://m.do.co/c/10b82948a627"]
 linux.org###content > .pageWidth > .pageContent > div:nth-of-type(2) > a[href="https://m.do.co/c/10b82948a627"]
 linuxreviews.org##table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > table:nth-of-type(4)
 lwn.net##.Form
+mac-forums.com###sidebar_container
 macrumors.com###right
 madinamerica.com##.td-main-sidebar
 maine-csm.symplicity.com###optinmsg_c
@@ -910,6 +918,8 @@ pixiv.net###register-introduction-modal
 pixiv.net###wrapper > .newindex > .introduction-container > .introduction > .newindex-message
 pixiv.net###wrapper > .newindex > .introduction-container > .introduction > .newindex-signup
 pocket-lint.com###article > .extras
+politico.com##.story-continued
+politico.com##.story-tools
 pornhub.com###abAlert
 postize.com##.sidebar
 prairiehome.org##.site-container > .site-inner > .content-sidebar-wrap > .widget-area.sidebar-primary.sidebar
@@ -943,6 +953,7 @@ retailmenot.com##.modal-content
 retailmenot.com###modal-overlay
 retailmenot.com###quick-feedback
 reuters.com##[class^=BreakingNews]
+robocommunity.com##.block
 rollingstone.com###card-container
 safaribooksonline.com##[class*=cta]
 scotch.io##.sign-up
@@ -1043,19 +1054,6 @@ techbeacon.com##.cta_text
 techcrunch.com##.announcement
 techcrunch.com##.aside-related-articles
 techcrunch.com##.footer
-techniciandiary.com###ltr-bottom-pop > .optin-floatin.optin-3
-techradar.com##.gallery-image:style(display: block !important)
-click2houston.com##.emailWidget
-click2houston.com##.ui-small-carousel
-click2houston.com###footer
-click2houston.com###sidebar-wrap
-drive.google.com##.iph-spotlight-bg
-drive.google.com###inproduct-guide-modal
-google.com##.gb_Uc
-mac-forums.com###sidebar_container
-politico.com##.story-continued
-politico.com##.story-tools
-robocommunity.com##.block
 techdirt.com##.comments
 techdirt.com##.maincolumn_head
 techdirt.com##.relposts
@@ -1070,32 +1068,8 @@ techdirt.com###rightcolumn
 techdirt.com###subnav
 techdirt.com###tabs
 techdirt.com###toptabs
-the13thfloor.tv##.article__ftr
-the13thfloor.tv##.catfish
-the13thfloor.tv##.sb
-the13thfloor.tv##.site-ftr__signup
-the13thfloor.tv##.site-ftr__social
-the13thfloor.tv###mc_embed_signup
-thehardtimes.net
-thehardtimes.net##.chimpy_popup_content
-thehardtimes.net##.entry-content > ul
-thehardtimes.net##.search-form
-thehardtimes.net##.spnf_ticker
-thehardtimes.net##.spot-im-conversation-module
-thehardtimes.net##[id^=product-component]
-thehardtimes.net###masthead
-thehardtimes.net###secondary
-thehardtimes.net###sky-form-modal-overlay
-thehardtimes.net###social-sharing-wrapper
-thehardtimes.net###toolbar
-thehardtimes.net###toolbar-buttons
-thehardtimes.net##p > em > strong
-theregister.co.uk###hot
-translate.google.com##.gb_Uc
-google.com##.gb_Uc
-youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
-youtube.com##.ytd-watch-next-secondary-results-renderer
-youtube.com###related
+techniciandiary.com###ltr-bottom-pop > .optin-floatin.optin-3
+techradar.com##.gallery-image:style(display: block !important)
 techradar.com##.gallery-text > div
 techradar.com##.media-list
 techradar.com###sidebar
@@ -1112,6 +1086,12 @@ the-artifice.com##.btn-squared.btn-main-filled.btn-main.btn
 the-artifice.com##.radar-cont
 the-artifice.com##.subscribe-cont
 the-artifice.com##.write-for-us-cont
+the13thfloor.tv##.article__ftr
+the13thfloor.tv##.catfish
+the13thfloor.tv##.sb
+the13thfloor.tv##.site-ftr__signup
+the13thfloor.tv##.site-ftr__social
+the13thfloor.tv###mc_embed_signup
 theatlantic.com##.c-breaking_news
 theatlantic.com##.callout
 theatlantic.com###article-most-popular
@@ -1122,9 +1102,24 @@ thedailywtf.com##.article-body > div:nth-of-type(1)
 thedailywtf.com###articlePage > .articleWrapper.columns.twelve > .content > .row > .container > .article-body > div:nth-of-type(1)
 theguardian.com##.element-rich-link
 theguardian.com###onward
+thehardtimes.net
+thehardtimes.net##.chimpy_popup_content
+thehardtimes.net##.entry-content > ul
+thehardtimes.net##.search-form
+thehardtimes.net##.spnf_ticker
+thehardtimes.net##.spot-im-conversation-module
+thehardtimes.net##[id^=product-component]
+thehardtimes.net###masthead
+thehardtimes.net###secondary
+thehardtimes.net###sky-form-modal-overlay
+thehardtimes.net###social-sharing-wrapper
+thehardtimes.net###toolbar
+thehardtimes.net###toolbar-buttons
+thehardtimes.net##p > em > strong
 themarysue.com###post-body p:last-child em
 themarysue.com###sidebar
 theonion.com##.end-of-article-video
+theregister.co.uk###hot
 theregister.co.uk###spotlight
 theverge.com##.c-recirc-module
 theverge.com##.c-related-list
@@ -1148,11 +1143,12 @@ tomshardware.com###in_article
 tomshardware.com##a[href^="http://www.tomshardware.com"]
 torrentfreak.com###sidebar > .widget_text.widg:nth-of-type(1)
 tracfone.com###colorbox
+translate.google.com##.gb_Uc
 translate.google.com###gb > .gb_g.gb_rc.gb_sc
 translate.google.com###gb > .gb_g.gb_vc.gb_wc
 translate.google.com###gt-ft-res
-troyhunt.com###floating_subscribe
 troyhunt.com##[href^="https://www.troyhunt.com/sponsorship/"]
+troyhunt.com###floating_subscribe
 trustmeimascientist.com###text-2
 tuxradar.com##a[href="http://identi.ca/tuxradar"]
 tuxradar.com##a[href="http://twitter.com/tuxradar"]
@@ -1260,6 +1256,7 @@ youtube.com##.generic-promo-impression-logging
 youtube.com##.videoblocker
 youtube.com##.watch-sidebar
 youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
+youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-single-option-survey-renderer
 youtube.com##.ytd-watch-next-secondary-results-renderer
 youtube.com##.ytp-cards-button
