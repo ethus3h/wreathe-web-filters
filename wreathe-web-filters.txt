@@ -1045,6 +1045,57 @@ techcrunch.com##.aside-related-articles
 techcrunch.com##.footer
 techniciandiary.com###ltr-bottom-pop > .optin-floatin.optin-3
 techradar.com##.gallery-image:style(display: block !important)
+click2houston.com##.emailWidget
+click2houston.com##.ui-small-carousel
+click2houston.com###footer
+click2houston.com###sidebar-wrap
+drive.google.com##.iph-spotlight-bg
+drive.google.com###inproduct-guide-modal
+google.com##.gb_Uc
+mac-forums.com###sidebar_container
+politico.com##.story-continued
+politico.com##.story-tools
+robocommunity.com##.block
+techdirt.com##.comments
+techdirt.com##.maincolumn_head
+techdirt.com##.relposts
+techdirt.com##.storyfooter
+techdirt.com##.storynav
+techdirt.com##[href^="http://identi.ca/"]
+techdirt.com##[href^="http://twitter.com/"]
+techdirt.com##[href^="https://plus.google.com/"]
+techdirt.com###bottom
+techdirt.com###maincol_top
+techdirt.com###rightcolumn
+techdirt.com###subnav
+techdirt.com###tabs
+techdirt.com###toptabs
+the13thfloor.tv##.article__ftr
+the13thfloor.tv##.catfish
+the13thfloor.tv##.sb
+the13thfloor.tv##.site-ftr__signup
+the13thfloor.tv##.site-ftr__social
+the13thfloor.tv###mc_embed_signup
+thehardtimes.net
+thehardtimes.net##.chimpy_popup_content
+thehardtimes.net##.entry-content > ul
+thehardtimes.net##.search-form
+thehardtimes.net##.spnf_ticker
+thehardtimes.net##.spot-im-conversation-module
+thehardtimes.net##[id^=product-component]
+thehardtimes.net###masthead
+thehardtimes.net###secondary
+thehardtimes.net###sky-form-modal-overlay
+thehardtimes.net###social-sharing-wrapper
+thehardtimes.net###toolbar
+thehardtimes.net###toolbar-buttons
+thehardtimes.net##p > em > strong
+theregister.co.uk###hot
+translate.google.com##.gb_Uc
+google.com##.gb_Uc
+youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+youtube.com##.ytd-watch-next-secondary-results-renderer
+youtube.com###related
 techradar.com##.gallery-text > div
 techradar.com##.media-list
 techradar.com###sidebar
