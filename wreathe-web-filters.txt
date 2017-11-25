@@ -211,6 +211,7 @@ weequizz.com
 ##[class*=most-popular]:not(.type-post)
 ##[class*=nudge]
 ##[class*=promo]
+##[class*=recirc]
 ##[class*=recirculation]
 ##[class^="icon-gplus"]
 ##[class^="icon-linkedin"]
@@ -229,6 +230,7 @@ weequizz.com
 ##[class$=subscribe]
 ##[class$=upgrade-nudge]
 ##[href*=utm_campaign]
+##[href*=donate]
 ##[href^="//1298bab69bbc4.com/"]
 ##[href^="http://identi.ca/"]
 ##[href^="https://plus.google.com/"]
@@ -282,6 +284,7 @@ weequizz.com
 ###popupBox
 ###recirc-pos-2
 ###recirculated-content
+###related
 ###related-combined-coverage
 ###related-coverage
 ###relevant-videos
