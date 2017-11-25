@@ -1,145 +1,49 @@
-! 11/15/2017, 12:28:35 AM https://www.youtube.com/watch?v=5zPKw0apTUo
-www.youtube.com##.ytd-watch-next-secondary-results-renderer
-
-! 11/15/2017, 12:36:03 AM https://www.youtube.com/watch?v=WoCfFoQeWoU
-www.youtube.com###related
-
-! 11/17/2017, 12:15:29 AM https://www.youtube.com/
-www.youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
-
-! 11/17/2017, 3:09:07 PM https://www.click2houston.com/news/woman-with-controversial-anti-trump-sticker-on-truck-arrested-on-unrelated-warrant?google_editors_picks=true
-www.click2houston.com##.emailWidget
-
-! 11/17/2017, 3:10:55 PM https://www.click2houston.com/news/woman-with-controversial-anti-trump-sticker-on-truck-arrested-on-unrelated-warrant?google_editors_picks=true
-www.click2houston.com###sidebar-wrap
-
-! 11/17/2017, 3:11:05 PM https://www.click2houston.com/news/woman-with-controversial-anti-trump-sticker-on-truck-arrested-on-unrelated-warrant?google_editors_picks=true
-www.click2houston.com###footer
-
-! 11/17/2017, 3:11:26 PM https://www.click2houston.com/news/woman-with-controversial-anti-trump-sticker-on-truck-arrested-on-unrelated-warrant?google_editors_picks=true
-www.click2houston.com##.ui-small-carousel
-
-thehardtimes.net
-
-! 11/17/2017, 9:43:24 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net###masthead
-
-! 11/17/2017, 9:44:28 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net##.chimpy_popup_content
-
-! 11/17/2017, 9:44:35 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net###sky-form-modal-overlay
-
-! 11/17/2017, 9:44:47 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net###toolbar-buttons
-
-! 11/17/2017, 9:45:01 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net###toolbar
-
-! 11/17/2017, 9:45:12 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net###social-sharing-wrapper
-
-! 11/17/2017, 9:45:31 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net##.spnf_ticker
-
-! 11/17/2017, 9:45:48 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net##.entry-content > ul
-
-! 11/17/2017, 9:46:03 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net##p > em > strong
-
-! 11/17/2017, 9:46:31 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net##[id^=product-component]
-
-! 11/17/2017, 9:46:44 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net##.spot-im-conversation-module
-
-! 11/17/2017, 9:46:59 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net##.search-form
-
-! 11/17/2017, 9:47:13 PM http://thehardtimes.net/harddrive/bethesda-employee-dead-attempting-port-skyrim-onto-body/
-thehardtimes.net###secondary
-
-! 11/18/2017, 11:08:59 AM http://www.the13thfloor.tv/2016/04/12/i-feel-fantastic-the-horrifying-history-of-tara-the-android/
-www.the13thfloor.tv##.sb
-
-! 11/18/2017, 11:09:18 AM http://www.the13thfloor.tv/2016/04/12/i-feel-fantastic-the-horrifying-history-of-tara-the-android/
-www.the13thfloor.tv##.catfish
-
-! 11/18/2017, 11:16:27 AM http://www.the13thfloor.tv/2016/04/12/i-feel-fantastic-the-horrifying-history-of-tara-the-android/
-www.the13thfloor.tv##.article__ftr
-
-! 11/18/2017, 11:16:39 AM http://www.the13thfloor.tv/2016/04/12/i-feel-fantastic-the-horrifying-history-of-tara-the-android/
-www.the13thfloor.tv###mc_embed_signup
-
-! 11/18/2017, 11:16:52 AM http://www.the13thfloor.tv/2016/04/12/i-feel-fantastic-the-horrifying-history-of-tara-the-android/
-www.the13thfloor.tv##.site-ftr__social
-
-! 11/18/2017, 11:17:04 AM http://www.the13thfloor.tv/2016/04/12/i-feel-fantastic-the-horrifying-history-of-tara-the-android/
-www.the13thfloor.tv##.site-ftr__signup
-
-! 11/18/2017, 11:19:52 AM http://www.robocommunity.com/forum/thread/18586/what-happened-to-the-guy-who-made-tara-the-android
-www.robocommunity.com##.block
-
-! 11/20/2017, 3:33:43 PM https://translate.google.com/translate?hl=en&sl=ru&u=https://ru.wikipedia.org/wiki/%25D0%25A0%25D1%2583%25D0%25BA%25D0%25B8_%25D0%2592%25D0%25B2%25D0%25B5%25D1%2580%25D1%2585!&prev=search
-translate.google.com##.gb_Uc
-
-! 11/21/2017, 8:30:51 AM https://drive.google.com/drive/u/2/my-drive
-drive.google.com###inproduct-guide-modal
-
-! 11/21/2017, 8:31:08 AM https://drive.google.com/drive/u/2/my-drive
 drive.google.com##.iph-spotlight-bg
-
-! 11/22/2017, 9:36:11 PM http://www.mac-forums.com/internet-networking-and-wireless/338468-airport-extreme-device-found.html
+drive.google.com###inproduct-guide-modal
+thehardtimes.net
+thehardtimes.net##.chimpy_popup_content
+thehardtimes.net##.entry-content > ul
+thehardtimes.net##.search-form
+thehardtimes.net##.spnf_ticker
+thehardtimes.net##.spot-im-conversation-module
+thehardtimes.net##[id^=product-component]
+thehardtimes.net###masthead
+thehardtimes.net###secondary
+thehardtimes.net###sky-form-modal-overlay
+thehardtimes.net###social-sharing-wrapper
+thehardtimes.net###toolbar
+thehardtimes.net###toolbar-buttons
+thehardtimes.net##p > em > strong
+translate.google.com##.gb_Uc
+www.click2houston.com##.emailWidget
+www.click2houston.com##.ui-small-carousel
+www.click2houston.com###footer
+www.click2houston.com###sidebar-wrap
 www.mac-forums.com###sidebar_container
-
-! 11/23/2017, 7:53:10 PM https://www.politico.com/magazine/story/2017/11/23/how-donald-trump-ruined-thanksgiving-215862
-www.politico.com##.story-tools
-
-! 11/23/2017, 7:53:41 PM https://www.politico.com/magazine/story/2017/11/23/how-donald-trump-ruined-thanksgiving-215862
 www.politico.com##.story-continued
-
-! 11/23/2017, 9:57:08 PM https://www.theregister.co.uk/2017/11/16/head_like_a_memory_hole/
-www.theregister.co.uk###hot
-
-! 11/24/2017, 7:18:22 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com###maincol_top
-
-! 11/24/2017, 7:18:33 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com##.storynav
-
-! 11/24/2017, 7:18:50 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com###rightcolumn
-
-! 11/24/2017, 7:19:03 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com###tabs
-
-! 11/24/2017, 7:19:12 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com###subnav
-
-! 11/24/2017, 7:19:26 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com###toptabs
-
-! 11/24/2017, 7:19:46 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com##.maincolumn_head
-
-! 11/24/2017, 7:20:10 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com##a[href^="http://identi.ca/"]
-
-! 11/24/2017, 7:20:28 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com##[href^="https://plus.google.com/"]
-
-! 11/24/2017, 7:20:45 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com##[href^="http://twitter.com/"]
-
-! 11/24/2017, 7:20:57 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com##.storyfooter
-
-! 11/24/2017, 7:21:06 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
-www.techdirt.com##.relposts
-
-! 11/24/2017, 7:21:22 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
+www.politico.com##.story-tools
+www.robocommunity.com##.block
 www.techdirt.com##.comments
-
-! 11/24/2017, 7:21:31 PM https://www.techdirt.com/articles/20130401/03025722522/is-golden-age-wikipedia-coming-to-end.shtml
+www.techdirt.com##.maincolumn_head
+www.techdirt.com##.relposts
+www.techdirt.com##.storyfooter
+www.techdirt.com##.storynav
+www.techdirt.com##[href^="http://twitter.com/"]
+www.techdirt.com##[href^="https://plus.google.com/"]
 www.techdirt.com###bottom
+www.techdirt.com###maincol_top
+www.techdirt.com###rightcolumn
+www.techdirt.com###subnav
+www.techdirt.com###tabs
+www.techdirt.com###toptabs
+www.techdirt.com##a[href^="http://identi.ca/"]
+www.the13thfloor.tv##.article__ftr
+www.the13thfloor.tv##.catfish
+www.the13thfloor.tv##.sb
+www.the13thfloor.tv##.site-ftr__signup
+www.the13thfloor.tv##.site-ftr__social
+www.the13thfloor.tv###mc_embed_signup
+www.theregister.co.uk###hot
+www.youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+www.youtube.com##.ytd-watch-next-secondary-results-renderer
+www.youtube.com###related
