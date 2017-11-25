@@ -52,7 +52,6 @@ weequizz.com
 ##.app-links
 ##.append-content
 ##.article__engager
-##[class*=donate]
 ##.article__ftr
 ##.article-body__show-full
 ##.article-breaker-ad
@@ -110,12 +109,6 @@ weequizz.com
 ##.js-postFooterPlacements
 ##.js-product-sharing
 ##.js-responsesWrapper
-##[class$=upgrade-nudge]
-##[class^=upgrade-nudge]
-##[class*=nudge]
-##[class*=-cta]
-##[class*=cta-]
-##[class*=promo]
 ##.js-shop-selecter-dialog
 ##.js-sidebar-nav-tutorial-bg
 ##.js-signUpButton
@@ -212,7 +205,12 @@ weequizz.com
 ##.widget-more-stories
 ##.wpex-social-share-wrap
 ##.you-might-like
+##[class*=-cta]
+##[class*=cta-]
+##[class*=donate]
 ##[class*=most-popular]:not(.type-post)
+##[class*=nudge]
+##[class*=promo]
 ##[class*=recirculation]
 ##[class^="icon-gplus"]
 ##[class^="icon-linkedin"]
@@ -225,9 +223,11 @@ weequizz.com
 ##[class^=social]
 ##[class^=sponsored]
 ##[class^=subscribe]
+##[class^=upgrade-nudge]
 ##[class$="-cta"]:not(.btn)
 ##[class$="-cta"].btn
 ##[class$=subscribe]
+##[class$=upgrade-nudge]
 ##[class$=upgrade-nudge]
 ##[href*=utm_campaign]
 ##[href^="//1298bab69bbc4.com/"]
