@@ -52,6 +52,7 @@ weequizz.com
 ##.app-links
 ##.append-content
 ##.article__engager
+##[class*=donate]
 ##.article__ftr
 ##.article-body__show-full
 ##.article-breaker-ad
@@ -109,6 +110,12 @@ weequizz.com
 ##.js-postFooterPlacements
 ##.js-product-sharing
 ##.js-responsesWrapper
+##[class$=upgrade-nudge]
+##[class^=upgrade-nudge]
+##[class*=nudge]
+##[class*=-cta]
+##[class*=cta-]
+##[class*=promo]
 ##.js-shop-selecter-dialog
 ##.js-sidebar-nav-tutorial-bg
 ##.js-signUpButton
