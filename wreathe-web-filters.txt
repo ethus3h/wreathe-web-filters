@@ -414,6 +414,7 @@ addons.mozilla.org###contribution
 aljazeera.com###article-header-wrapper
 allrecipes.com##.lo-smu-container
 amazon.com##.a-carousel
+amazon.com##[href^='/gp/slredirect/picassoRedirect.html']
 amazon.com##[href^="http://aax-us-east.amazon-adsystem.com/"]
 amazon.com###addServices_feature_div
 amazon.com###amsSparkleAdBrandContainer
@@ -425,7 +426,6 @@ amazon.com###hero-quick-promo
 amazon.com###nav-link-prime
 amazon.com###sc-new-upsell
 amazon.com###sidebar
-amazon.com##[href^='/gp/slredirect/picassoRedirect.html']
 anime.thehylia.com##[href="https://anime.thehylia.com/forums/payments.php"]
 anitay.kinja.com###sharingfooter
 answers.yahoo.com##[href^="https://search.yahoo.com"]
@@ -436,11 +436,11 @@ appear.in##.screen-share-message-wrapper
 appear.in##.topbar-signup-button
 appear.in##favorite-room-upsell
 archive.org###also-found
+aristake.com##[href^="http://bit.ly/"]
+aristake.com##[href^="http://smarturl.it"]
 aristake.com###ariChair
 aristake.com###cboxOverlay
 aristake.com###footer
-aristake.com##[href^="http://bit.ly/"]
-aristake.com##[href^="http://smarturl.it"]
 arstechnica.co.uk###article-footer-wrap
 arstechnica.com##.story-sidebar
 arstechnica.com###recommendations-footer
@@ -502,8 +502,8 @@ blog.ssa.gov###prefix-overlay-outer
 blog.ssa.gov##body > div:nth-of-type(3)
 bookriot.com###top-alt-content\ random_content_pro_widget-3 > .random-content-pro-wrapper
 booksandjournals.brillonline.com##.cornerPolicyTab
-bookstore.umaine.edu###carouseljek
 bookstore.umaine.edu##[href="https://www.facebook.com/UMaineBookstore/"]
+bookstore.umaine.edu###carouseljek
 bookstore.umaine.edu##img[src="/webitemimages/411/Images/textbook_shopping_header_944x177.jpg"]
 bostonglobe.com##.bg-footer .lead
 bostonglobe.com##.bg-header__subinfo
@@ -540,9 +540,9 @@ click2houston.com###sidebar-wrap
 clientsfromhell.net##.myhead
 clientsfromhell.net##.wf2-bg-dark
 clientsfromhell.net##[href^="http://t.umblr.com/"]
+clientsfromhell.net##[href^="http://t.umblr.com/redirect"]
 clientsfromhell.net###post-139416493558
 clientsfromhell.net###youtube_iframe
-clientsfromhell.net##[href^="http://t.umblr.com/redirect"]
 clientsfromhell.net##iframe
 clientsfromhell.net##img
 cnet.com##.embeddedVideoContainer
@@ -641,11 +641,11 @@ distrowatch.com##[href="http://www.excel-easy.com/introduction/formulas-function
 distrowatch.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > .NavMenu:nth-of-type(3)
 distrowatch.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table:nth-of-type(3)
 distrowatch.com##font
-distrowatch.org##[href^="http://downloads.3cx.com/"]
-distrowatch.org##[href$="advertise"]
 distrowatch.org##[href^="http://"]
+distrowatch.org##[href^="http://downloads.3cx.com/"]
 distrowatch.org##[href^="http://www.excel-easy.com/"]
 distrowatch.org##[href^="https://"]
+distrowatch.org##[href$="advertise"]
 dmt-nexus.me##.Ad_DivContainer
 docs.google.com###punch-explore-widget
 drive.google.com##.iph-spotlight-bg
@@ -709,10 +709,10 @@ freelancer.com###right > .newsfeed-promotions-content > .user-details-wrap > .us
 futuramerlin.com##.btn-group-sm > .pull-left:nth-of-type(2)
 futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(2) > .button-small
 futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(3) > .button-small
+futuramerlin.com##[href="http://www.mantisbt.org"]
 futuramerlin.com###delete-action
 futuramerlin.com###footer-left
 futuramerlin.com###sistSidebar
-futuramerlin.com##[href="http://www.mantisbt.org"]
 gamedev.net##.ipsPad.ipsType_center
 gamedev.net###elGuestTerms
 gearslutz.com##.engagement-drawer
@@ -764,12 +764,12 @@ hollywoodreporter.com##.blog-post:not(:first-of-type)
 hongkiat.com##.is-sticky--pinned
 hongkiat.com##[id^=single-post]:not(:first-of-type)
 huffingtonpost.com##.bottom-trending
+huffingtonpost.com##.entry__container > .js-entry-content.entry__content > .js-entry-body.entry__body > .js-highlight.share-bar-highlight
 huffingtonpost.com##.extra-content
 huffingtonpost.com##.recirc
 huffingtonpost.com##.share-bar-highlight
 huffingtonpost.com###bottom-most-shared
 huffingtonpost.com###curated-gravity-container
-huffingtonpost.com##.entry__container > .js-entry-content.entry__content > .js-entry-body.entry__body > .js-highlight.share-bar-highlight
 hypebot.com###beta
 hypebot.com###gamma
 hypebot.com##img[src="http://www.hypebot.com/160x400Hypebot.jpg"]
@@ -795,6 +795,7 @@ imore.com##.adm-attribution
 imore.com##.attributed.msg-container
 imore.com##.gated-container
 imslp.org##.imslpd_purchase
+imslp.org##[href="#tabNaxos"]
 imslp.org###mw-panel > .collapsed.portal:nth-of-type(7) > .donate_button
 imslp.org###p-inassoc
 imslp.org###p-sidebar-iapp
@@ -802,7 +803,6 @@ imslp.org###p-sidebar-purchase
 imslp.org###pc-dd > .toclevel-1:nth-of-type(1) > ul > .toclevel-2:nth-of-type(2) > [href="#Naxos"]
 imslp.org###sm_dl_login
 imslp.org###subs_mainacc
-imslp.org##[href="#tabNaxos"]
 independent.co.uk##.video-playlist
 independent.co.uk###most-popular-mobile
 irishmirror.ie##.channel-showbiz .tab-triggers
@@ -884,10 +884,10 @@ mega.nz##.checkbox-bl
 mega.nz##.create-account-button
 mega.nz##.pages-nav
 mega.nz##.to-clouddrive
-member.usfencing.org##[href^="https://member.usfencing.org/give"]
-member.usfencing.org###make-impact
 member.usfencing.org##[href^="http://www.usafencing.org/donate"]
+member.usfencing.org##[href^="https://member.usfencing.org/give"]
 member.usfencing.org##[href^="mailto:gifts@USAFencing.org"]
+member.usfencing.org###make-impact
 mercurynews.com##.related
 mercurynews.com##aside
 minetest.com###leftcontainerBox
@@ -1053,10 +1053,10 @@ sometimes-interesting.com##.td_block_related_posts
 sometimes-interesting.com##footer
 soul-anime.us###googleplay
 sourceforge.net##.top3-widget
+sourceforge.net##[href="https://sourceforge.net/user/registration"]
 sourceforge.net###nav-site
 sourceforge.net###scanned_by
 sourceforge.net###sidebar
-sourceforge.net##[href="https://sourceforge.net/user/registration"]
 sporttechie.com##.related-post
 sporttechie.com##[id^="text-"] > .textwidget strong
 sporttechie.com###text-27 > .textwidget strong
@@ -1139,9 +1139,9 @@ techniciandiary.com###ltr-bottom-pop > .optin-floatin.optin-3
 techradar.com##.gallery-image:style(display: block !important)
 techradar.com##.gallery-text > div
 techradar.com##.media-list
-techradar.com###sidebar
 techradar.com##[href^="http://www.techradar.com/"]
 techradar.com##[href^="https://www.myfavouritemagazines.co.uk/"]
+techradar.com###sidebar
 tecmint.com##.author-bio > p:last-of-type
 tecmint.com##.one-fourth.grid
 tecmint.com##[id^="dgd_scrollbox-"]
@@ -1220,8 +1220,8 @@ thoughtcatalog.com##.related
 time.com##.dont-print
 time.com##.site-footer
 timharford.com###aside
-tomshardware.com###in_article
 tomshardware.com##[href^="http://www.tomshardware.com"]
+tomshardware.com###in_article
 torrentfreak.com###sidebar > .widget_text.widg:nth-of-type(1)
 tracfone.com###colorbox
 translate.google.com##.gb_Uc
@@ -1236,6 +1236,7 @@ tuxradar.com##[href="http://twitter.com/tuxradar"]
 tv-rls.com##.berrors
 tv-rls.com##.mainblock > .center > .quote
 tv-rls.com##.sidebar
+tv-rls.com##[href^="/support.php"]
 tv-rls.com##[id^=free]
 tv-rls.com###dle-content > .center > .quote
 tv-rls.com###dle-content > .related
@@ -1244,7 +1245,6 @@ tv-rls.com###footer
 tv-rls.com###header
 tv-rls.com###topbar
 tv-rls.com###topmenu
-tv-rls.com##[href^="/support.php"]
 twitter.com twitter.com * noop
 twitter.com##.dashboard
 twitter.com##.Trends
@@ -1331,9 +1331,9 @@ wsj.com##.evernote-clip-button
 wsj.com##.wsj-snippet-login
 wsj.com##.wsj-snippet-related-video-wrap
 wsj.com##[class^=style__share]
-wsj.com###cx-snippetad
 wsj.com##[href^="https://accounts.wsj.com/login"]
 wsj.com##[href^="https://subscribe.wsj.com/"]
+wsj.com###cx-snippetad
 xul.fr##.cc-banner
 xvideos.com###mobilesquare
 yellowpages.com##.sg-b-bar.sg-b-f
@@ -1357,6 +1357,7 @@ youtube.com##.ytp-ce-element
 youtube.com##.ytp-ce-element-shadow
 youtube.com##.ytp-chrome-top-buttons
 youtube.com##[href^="/red"]
+youtube.com##[href^="http://naturebox.com/"]
 youtube.com##[id^=watch][id$=sidebar]
 youtube.com##[id$="-sidebar-contents"]
 youtube.com###-guide-item > .spf-nolink
@@ -1370,7 +1371,6 @@ youtube.com###related
 youtube.com###unlimited-guide-item
 youtube.com###watch-discussion
 youtube.com###watch-related
-youtube.com##[href^="http://naturebox.com/"]
 youtubeloop.net##.btnAdProfile
 youtubeloop.net##.white.container-fluid > .container
 youtubeloop.net###contytPlayer1 > .center-block > .center-block.ytContaner > .btn-group-wrap
