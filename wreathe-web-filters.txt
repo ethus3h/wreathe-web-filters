@@ -320,6 +320,18 @@ weequizz.com
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
+##.comments-cta-component
+##.disqus-comments
+##.dont-miss
+##.main-article-author-contact
+##.modal
+##.modal-window-overlay
+##.top-social-wrapper
+##[class*=-cta]
+##[class*=cta-]
+##[href*="//youtube.com/user/rhettandlink"]
+##[href*=donate]
+###comments
 
 ! ======== Network filters ========
 ||a.konachan.net$subdocument

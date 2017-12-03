@@ -1,15 +1,3 @@
-##.comments-cta-component
-##.disqus-comments
-##.dont-miss
-##.main-article-author-contact
-##.modal
-##.modal-window-overlay
-##.top-social-wrapper
-##[class*=-cta]
-##[class*=cta-]
-##[href*="//youtube.com/user/rhettandlink"]
-##[href*=donate]
-###comments
 aljazeera.com###article-header-wrapper
 appear.in##.modal
 appear.in##.screen-share-message-wrapper
