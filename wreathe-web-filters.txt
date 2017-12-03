@@ -350,6 +350,7 @@ weequizz.com
 ||deadspin.com^$inline-script
 ||distrowatch.com/images/cpxtu/ucs4.png$image
 ||distrowatch.com/images/k/*$image
+||hypebot.com/160x400*$image
 ||freenode.net/static/img/logos/PIALogo_white.svg$image
 ||gotoes.org/sales/$image
 ||images-na.ssl-images-amazon.com/images/G/01/acs/amazon-designer/2016/07/21/DURM-258E98058681EEU8._CB283315694_.png$image
@@ -768,7 +769,7 @@ huffingtonpost.com##.recirc
 huffingtonpost.com##.share-bar-highlight
 huffingtonpost.com###bottom-most-shared
 huffingtonpost.com###curated-gravity-container
-huffingtonpost.com###us_57bba424e4b03d51368a82b9 > .entry__container > .js-entry-content.entry__content > .js-entry-body.entry__body > .js-highlight.share-bar-highlight
+huffingtonpost.com##.entry__container > .js-entry-content.entry__content > .js-entry-body.entry__body > .js-highlight.share-bar-highlight
 hypebot.com###beta
 hypebot.com###gamma
 hypebot.com##img[src="http://www.hypebot.com/160x400Hypebot.jpg"]
