@@ -336,6 +336,7 @@ weequizz.com
 ||distrowatch.com/images/cpxtu/ucs4.png$image
 ||distrowatch.com/images/k/*$image
 ||freenode.net/static/img/logos/PIALogo_white.svg$image
+||gotoes.org/sales/$image
 ||images-na.ssl-images-amazon.com/images/G/01/acs/amazon-designer/2016/07/21/DURM-258E98058681EEU8._CB283315694_.png$image
 ||img.grouponcdn.com/coupons/*
 ||last.fm^$inline-script

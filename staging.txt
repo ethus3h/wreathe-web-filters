@@ -1,4 +1,3 @@
-||gotoes.org/sales/$image
 appear.in##.modal
 appear.in##.screen-share-message-wrapper
 bgr.com##.bgr-recommended
