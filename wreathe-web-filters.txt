@@ -214,8 +214,6 @@ weequizz.com
 ##.wpex-social-share-wrap
 ##.you-might-like
 ##[class*=-cta]
-##[class*=-cta]
-##[class*=cta-]
 ##[class*=cta-]
 ##[class*=donate]
 ##[class*=most-popular]:not(.type-post)
@@ -240,7 +238,6 @@ weequizz.com
 ##[class$=subscribe]
 ##[class$=upgrade-nudge]
 ##[href*="//youtube.com/user/rhettandlink"]
-##[href*=donate]
 ##[href*=donate]
 ##[href*=utm_campaign]
 ##[href^="//1298bab69bbc4.com/"]
