@@ -76,10 +76,13 @@ weequizz.com
 ##.circ-list
 ##.collapse.crunchbase-cluster
 ##.comment-moderation-message
+##.comments-cta-component
 ##.cookie-consent-alert
 ##.cta_text
 ##.cta-link
+##.disqus-comments
 ##.donate
+##.dont-miss
 ##.email-acquisition
 ##.emailWidget
 ##.end-of-article-video
@@ -117,13 +120,16 @@ weequizz.com
 ##.m-gravity-below-article
 ##.mail-border
 ##.mail-chimp-popup
+##.main-article-author-contact
 ##.main-single-slider-container
 ##.meta__social
 ##.midbar-ad
 ##.mobile-banner
 ##.Mobile-bar--bottom
 ##.mobile-social-tray
+##.modal
 ##.modal-backdrop
+##.modal-window-overlay
 ##.module-related
 ##.most-popular
 ##.mw-cookiewarning-container
@@ -186,6 +192,7 @@ weequizz.com
 ##.td_block_related_posts
 ##.td-post-next-prev
 ##.teaser
+##.top-social-wrapper
 ##.top-stories
 ##.top-stories-strap
 ##.trb_ar_sum_l
@@ -207,6 +214,8 @@ weequizz.com
 ##.wpex-social-share-wrap
 ##.you-might-like
 ##[class*=-cta]
+##[class*=-cta]
+##[class*=cta-]
 ##[class*=cta-]
 ##[class*=donate]
 ##[class*=most-popular]:not(.type-post)
@@ -230,8 +239,10 @@ weequizz.com
 ##[class$="-cta"].btn
 ##[class$=subscribe]
 ##[class$=upgrade-nudge]
-##[href*=utm_campaign]
+##[href*="//youtube.com/user/rhettandlink"]
 ##[href*=donate]
+##[href*=donate]
+##[href*=utm_campaign]
 ##[href^="//1298bab69bbc4.com/"]
 ##[href^="http://identi.ca/"]
 ##[href^="https://plus.google.com/"]
@@ -252,6 +263,7 @@ weequizz.com
 ###article-feed
 ###article-most-popular
 ###colorbox
+###comments
 ###content-recommender
 ###disqus_thread
 ###donateButton
@@ -320,18 +332,6 @@ weequizz.com
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
-##.comments-cta-component
-##.disqus-comments
-##.dont-miss
-##.main-article-author-contact
-##.modal
-##.modal-window-overlay
-##.top-social-wrapper
-##[class*=-cta]
-##[class*=cta-]
-##[href*="//youtube.com/user/rhettandlink"]
-##[href*=donate]
-###comments
 
 ! ======== Network filters ========
 ||a.konachan.net$subdocument
