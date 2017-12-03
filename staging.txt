@@ -54,7 +54,7 @@ nngroup.com##.video
 nngroup.com##[href^="/books/"]
 nngroup.com##[href^="https://www.nngroup.com/books/"]
 nngroup.com###page-footer
-nngroup.com##a[href^="https://www.nngroup.com/courses/"]
+nngroup.com##[href^="https://www.nngroup.com/courses/"]
 thefidget.org##.footer-wrap
 theverge.com##.c-entry-group-labels
 theverge.com##.c-entry-hero__meta
@@ -79,3 +79,4 @@ wired.com##.toggle--search
 wired.com###comments
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
+##[href*="youtube.com/user/rhettandlink"]
