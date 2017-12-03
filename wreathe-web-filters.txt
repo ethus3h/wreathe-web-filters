@@ -402,6 +402,7 @@ acmeportable.com###cover
 adblockplus.me###download-layer
 addons.mozilla.org###contribute-button
 addons.mozilla.org###contribution
+aljazeera.com###article-header-wrapper
 allrecipes.com##.lo-smu-container
 amazon.com##.a-carousel
 amazon.com##[href^="http://aax-us-east.amazon-adsystem.com/"]
@@ -421,81 +422,13 @@ anitay.kinja.com###sharingfooter
 answers.yahoo.com##a[href^="https://search.yahoo.com"]
 aol.com##.m-article-slideshow
 aol.com##.slideshow-preview
+appear.in##.modal
+appear.in##.screen-share-message-wrapper
 appear.in##.topbar-signup-button
 appear.in##favorite-room-upsell
 archive.org###also-found
 aristake.com###ariChair
 aristake.com###cboxOverlay
-aljazeera.com###article-header-wrapper
-appear.in##.modal
-appear.in##.screen-share-message-wrapper
-bgr.com##.bgr-recommended
-bgr.com##.dont-miss
-bgr.com##.featured-image
-bgr.com##.sidebar-content
-bgr.com##.site-footer
-bgr.com##.site-header
-bgr.com###comments-toggle
-blog.fosketts.net##.crp_related
-blog.fosketts.net##.sidebar
-cnet.com##.embeddedVideoContainer
-cnet.com##.inviewElement
-cnet.com###rbHeader
-foxnews.com##.site-footer
-foxnews.com##.site-header
-lgbtqnation.com##.disqus-comments
-lgbtqnation.com##.lgbtq-header
-lgbtqnation.com###sidebar
-lgbtqnation.com###topnews
-mega.nz##.checkbox-bl
-mega.nz##.create-account-button
-mega.nz##.pages-nav
-mega.nz##.to-clouddrive
-money.cnn.com##.column:nth-of-type(2)
-money.cnn.com##.inStoryHeading
-nngroup.com##.learn-more
-nngroup.com##.video
-nngroup.com##[href^="/books/"]
-nngroup.com##[href^="https://www.nngroup.com/books/"]
-nngroup.com##[href^="https://www.nngroup.com/courses/"]
-nngroup.com###page-footer
-searchsecurity.techtarget.com##.actions-bar
-searchsecurity.techtarget.com##.main-article-author-contact
-searchsecurity.techtarget.com###page-header
-stream.aljazeera.com##.modal-window-overlay
-stream.aljazeera.com##.top-grey-bar
-stream.aljazeera.com##.top-social-wrapper
-stream.aljazeera.com###block-fbcm-slideout-fbcm-slideout-block
-stream.aljazeera.com###site-header
-thefidget.org##.footer-wrap
-thehill.com##.article-tags
-thehill.com##.left-sidebar
-thehill.com##.myPlayerWrapper
-thehill.com##.page-bottom
-thehill.com##.region-content-bottom
-thehill.com##.region-highlighted
-thehill.com##.scrolling-content-item:not(:nth-of-type(1)):not(:nth-of-type(2)):not(:nth-of-type(3))
-thehill.com###header
-theverge.com##.c-entry-group-labels
-theverge.com##.c-entry-hero__meta
-theverge.com##.c-footer
-theverge.com##.c-related-list
-theverge.com##.l-header
-theverge.com##.tab-bar-fixed
-theverge.com###comments
-uxdesign.cc##.metabar
-vulture.com###top
-wired.com##.article-body-component ul
-wired.com##.comments-cta-component
-wired.com##.footer
-wired.com##.header__nav--links
-wired.com##.panel--nav
-wired.com##.tags-component
-wired.com##.toggle--menu
-wired.com##.toggle--search
-wired.com###comments
-youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
-youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 aristake.com###footer
 aristake.com##a[href^="http://bit.ly/"]
 aristake.com##a[href^="http://smarturl.it"]
@@ -532,10 +465,17 @@ bbc.com###comp-pattern-library
 bbc.com###media-player-1 > div > div
 bbc.com###share-tools-top
 bgr.com##.bgr-recommended
+bgr.com##.bgr-recommended
 bgr.com##.contact-links
 bgr.com##.dont-miss
+bgr.com##.dont-miss
+bgr.com##.featured-image
 bgr.com##.share-buttons
+bgr.com##.sidebar-content
 bgr.com##.sidebar-section-top-track
+bgr.com##.site-footer
+bgr.com##.site-header
+bgr.com###comments-toggle
 billboard.com##.pushdown-promo
 binsearch.info##.mt > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2)
 bitbucket.org###signup-banner
@@ -549,6 +489,8 @@ bitsnoop.com###vpnBar
 bleacherreport.com##header > .button.atom
 blog.discmakers.com##a[href="http://www.discmakers.com/BLOGREQEFF"]
 blog.filippo.io##.share
+blog.fosketts.net##.crp_related
+blog.fosketts.net##.sidebar
 blog.ssa.gov###prefix-overlay-outer
 blog.ssa.gov##body > div:nth-of-type(3)
 bookriot.com###top-alt-content\ random_content_pro_widget-3 > .random-content-pro-wrapper
@@ -596,6 +538,8 @@ clientsfromhell.net###youtube_iframe
 clientsfromhell.net##a[href^="http://t.umblr.com/redirect"]
 clientsfromhell.net##iframe
 clientsfromhell.net##img
+cnet.com##.embeddedVideoContainer
+cnet.com##.inviewElement
 cnet.com##.related
 cnet.com##.video
 cnet.com##.videoPlayer
@@ -604,6 +548,7 @@ cnet.com##[id^=section]
 cnet.com###article-body > .col-4
 cnet.com###featuredVideo > .popOnScroll
 cnet.com###page-chrome-updated-so-tomorrows-quantum-computers-cant-crack-todays-encryption > .container > .row > .row:nth-of-type(2) > .col-12 > .upNextBottomWrapper
+cnet.com###rbHeader
 codeclimate.com##.ext_cta
 codeclimate.com##.new_private_repo
 codeclimate.com##.remodal-is-opened.remodal-overlay
@@ -746,6 +691,8 @@ feministfrequency.com##.footer-support
 fossmint.com##[class$=ad-container]
 fossmint.com##[href="http://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/"]
 fotpforums.com###adblock-message
+foxnews.com##.site-footer
+foxnews.com##.site-header
 foxnews.com##ul
 freelancer.com##[href^="/payments/verify.php"]
 freelancer.com##[href^="https://www.freelancer.com/membership/"]
@@ -872,6 +819,10 @@ lawfareblog.com##.field-item > table
 learnvest.com##.dsp_box.pop_box_horizontal
 learnvest.com##.ui-widget-overlay
 lennyletter.com###transporter
+lgbtqnation.com##.disqus-comments
+lgbtqnation.com##.lgbtq-header
+lgbtqnation.com###sidebar
+lgbtqnation.com###topnews
 libgen.io/ads.php##table > tbody > tr > td:nth-of-type(1)
 libgen.io/ads.php##table > tbody > tr > td:nth-of-type(2)
 libgen.io/scimag/ads.php##table > tbody > tr > td:nth-of-type(1)
@@ -923,6 +874,10 @@ medium.com##.postArticle > .u-paddingTop10
 medium.com##.u-bottom0.u-fixed
 meet.jit.si##.leftwatermark
 meetfranz.com##.newsletter-floating.newsletter-container.section.container
+mega.nz##.checkbox-bl
+mega.nz##.create-account-button
+mega.nz##.pages-nav
+mega.nz##.to-clouddrive
 member.usfencing.org##[href^="https://member.usfencing.org/give"]
 member.usfencing.org###make-impact
 member.usfencing.org##a[href^="http://www.usafencing.org/donate"]
@@ -931,6 +886,8 @@ mercurynews.com##.related
 mercurynews.com##aside
 minetest.com###leftcontainerBox
 mirrorcreator.com##.wrap_txt
+money.cnn.com##.column:nth-of-type(2)
+money.cnn.com##.inStoryHeading
 money.cnn.com###smartassetcontainer
 monova.org##.container-other.torrent-page.container-bt > .row > .col-md-8 > .background-block.z-depth-1.col-md-12 > .row:nth-of-type(1) > .col-md-12 > .general-table > tbody > tr:nth-of-type(7) > td:nth-of-type(2)
 monova.org##.warning-message
@@ -971,8 +928,14 @@ newyorker.com##[class^=Callout__inset]
 nitroflare.com##[href^="https://www.facebook.com/Nitroflarecom-1301087170011408/"]
 nngroup.com##.hero
 nngroup.com##.l-subsection.columns.small-12
+nngroup.com##.learn-more
 nngroup.com##.related-videos
 nngroup.com##.share
+nngroup.com##.video
+nngroup.com##[href^="/books/"]
+nngroup.com##[href^="https://www.nngroup.com/books/"]
+nngroup.com##[href^="https://www.nngroup.com/courses/"]
+nngroup.com###page-footer
 noisey.vice.com##.recommended-articles-wrap
 notalwaysright.com###main_content > .row > .span8 > .container_content > .featured_wrapper
 notalwaysright.com###meta_comments_wrapper
@@ -1052,6 +1015,9 @@ screenrant.com##.article:not(:nth-of-type(1))
 screenrant.com##.sidebar
 screenrant.com##.site-header > .site-header-content > .nav-mob
 seamonkey-project.org##[href="https://www.privateinternetaccess.com/"]
+searchsecurity.techtarget.com##.actions-bar
+searchsecurity.techtarget.com##.main-article-author-contact
+searchsecurity.techtarget.com###page-header
 secure.informaction.com
 sendspace.com##.save_to_account_button
 sendspace.com##.text:nth-of-type(2) > .tac
@@ -1116,6 +1082,11 @@ stackshare.io##.in.modal-backdrop
 stackshare.io###signingoogleModal
 stackshare.io###stackup-sponsor-rollbar
 stereogum.com##.recommended-module
+stream.aljazeera.com##.modal-window-overlay
+stream.aljazeera.com##.top-grey-bar
+stream.aljazeera.com##.top-social-wrapper
+stream.aljazeera.com###block-fbcm-slideout-fbcm-slideout-block
+stream.aljazeera.com###site-header
 stuff.co.nz##[class^="sir-component__-sharebar"]
 stuff.co.nz##[class^="sir-component__ad-space"]
 stylecaster.com##.scpin-wrapper
@@ -1190,6 +1161,7 @@ thedailybeast.com##.RelatedArticles
 thedailywtf.com##.article-body > div
 thedailywtf.com##.article-body > div:nth-of-type(1)
 thedailywtf.com###articlePage > .articleWrapper.columns.twelve > .content > .row > .container > .article-body > div:nth-of-type(1)
+thefidget.org##.footer-wrap
 theguardian.com##.element-rich-link
 theguardian.com###onward
 thehardtimes.net
@@ -1206,24 +1178,39 @@ thehardtimes.net###social-sharing-wrapper
 thehardtimes.net###toolbar
 thehardtimes.net###toolbar-buttons
 thehardtimes.net##p > em > strong
+thehill.com##.article-tags
+thehill.com##.left-sidebar
+thehill.com##.myPlayerWrapper
+thehill.com##.page-bottom
+thehill.com##.region-content-bottom
+thehill.com##.region-highlighted
+thehill.com##.scrolling-content-item:not(:nth-of-type(1)):not(:nth-of-type(2)):not(:nth-of-type(3))
+thehill.com###header
 themarysue.com###post-body p:last-child em
 themarysue.com###sidebar
 theonion.com##.end-of-article-video
 theregister.co.uk###hot
 theregister.co.uk###spotlight
+theverge.com##.c-entry-group-labels
+theverge.com##.c-entry-hero__meta
+theverge.com##.c-footer
 theverge.com##.c-recirc-module
+theverge.com##.c-related-list
 theverge.com##.c-related-list
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__content > .-has-border.breaker.product.basic.m-carousel
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__content > .m-linkset-list.m-linkset
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__sidebar
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-linkset
 theverge.com##.l-container > .l-page > .p-entry-nav
+theverge.com##.l-header
 theverge.com##.l-segment.l-sidebar-fixed:nth-of-type(4)
 theverge.com##.m-carousel
 theverge.com##.m-entry__sidebar
 theverge.com##.m-linkset
 theverge.com##.p-entry-nav
 theverge.com##.tab-bar-fixed
+theverge.com##.tab-bar-fixed
+theverge.com###comments
 theverge.com###header > .m-big-stories
 thoughtcatalog.com##.related
 time.com##.dont-print
@@ -1280,6 +1267,7 @@ usertesting.com###blog-post-footer-standard
 uxdesign.cc##.button--follow
 uxdesign.cc##.js-postFooterPlacements
 uxdesign.cc##.js-relationshipButton
+uxdesign.cc##.metabar
 uxdesign.cc##.u-zIndexMetabar
 vice.com##.list-view-container
 vice.com##.read-more
@@ -1289,6 +1277,7 @@ vimeo.com##.iris_modal-underlay
 vimeo.com##.topnav_is_ondemand
 viva64.com##.search-banner.row
 vp.nyt.com
+vulture.com###top
 wabi.tv##[id^=circularhub]
 wabi.tv###prevNext
 wabi.tv###socialIcons
@@ -1305,11 +1294,20 @@ webcache.googleusercontent.com###funbar
 who.is###name_purchase
 wikipedia.org###frbanner-main
 wikipedia.org###frbanner-nag
+wired.com##.article-body-component ul
 wired.com##.cm-subscribe-link-wrapper
+wired.com##.comments-cta-component
+wired.com##.footer
+wired.com##.header__nav--links
 wired.com##.inset-left-component
+wired.com##.panel--nav
 wired.com##.related-cne-video-component
 wired.com##.social-share-sidebar-component__content
+wired.com##.tags-component
+wired.com##.toggle--menu
+wired.com##.toggle--search
 wired.com##.wrapper-prefooter
+wired.com###comments
 wired.com###global-footer > .link-underline-micro.mob-pad-b-med.site-container.caption
 wired.com###prefooter
 wired.com###related
@@ -1347,6 +1345,8 @@ youtube.com##.videoblocker
 youtube.com##.watch-sidebar
 youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-single-option-survey-renderer
 youtube.com##.ytd-watch-next-secondary-results-renderer
 youtube.com##.ytp-cards-button
