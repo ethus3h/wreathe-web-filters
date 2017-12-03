@@ -53,7 +53,6 @@ weequizz.com
 ##.app-links
 ##.append-content
 ##.article__engager
-##[href^="http://downloads.3cx.com/"]
 ##.article__ftr
 ##.article-body__show-full
 ##.article-breaker-ad
@@ -215,6 +214,8 @@ weequizz.com
 ##.wpex-social-share-wrap
 ##.you-might-like
 ##[class*=-cta]
+##[class*="-nudge"]
+##[class*="upgrade"]
 ##[class*=cta-]
 ##[class*=donate]
 ##[class*=most-popular]:not(.type-post)
@@ -239,14 +240,14 @@ weequizz.com
 ##[class$=subscribe]
 ##[class$=upgrade-nudge]
 ##[href*="//youtube.com/user/rhettandlink"]
-##[href*=donate]
-##[href*="upgrade"]
-##[class*="-nudge"]
-##[class*="upgrade"]
 ##[href*="participate-now"]
+##[href*="upgrade"]
+##[href*=donate]
 ##[href*=utm_campaign]
 ##[href^="//1298bab69bbc4.com/"]
+##[href^="http://downloads.3cx.com/"]
 ##[href^="http://identi.ca/"]
+##[href^="http://www.excel-easy.com/"]
 ##[href^="https://plus.google.com/"]
 ##[href="https://www.privateinternetaccess.com/"]
 ##[id*=social-links]
@@ -315,7 +316,6 @@ weequizz.com
 ###survey-message
 ###trending_now
 ###watermark leftwatermark
-##[href^="http://www.excel-easy.com/"]
 ###whats-next
 ###WikiaBar
 ###wpp-2
