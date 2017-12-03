@@ -1,0 +1,218 @@
+! 11/24/2017, 7:36:55 PM https://www.wired.com/2009/12/livingston/
+www.wired.com##.article-body-component ul
+
+! 11/24/2017, 7:37:06 PM https://www.wired.com/2009/12/livingston/
+www.wired.com##.footer
+
+! 11/24/2017, 7:37:17 PM https://www.wired.com/2009/12/livingston/
+www.wired.com##.comments-cta-component
+
+! 11/24/2017, 7:37:23 PM https://www.wired.com/2009/12/livingston/
+www.wired.com###comments
+
+! 11/24/2017, 7:37:37 PM https://www.wired.com/2009/12/livingston/
+www.wired.com##.tags-component
+
+! 11/24/2017, 7:37:51 PM https://www.wired.com/2009/12/livingston/
+www.wired.com##.header__nav--links
+
+! 11/24/2017, 7:38:07 PM https://www.wired.com/2009/12/livingston/
+www.wired.com##.panel--nav
+
+! 11/24/2017, 7:38:18 PM https://www.wired.com/2009/12/livingston/
+www.wired.com##.toggle--search
+
+! 11/24/2017, 7:38:30 PM https://www.wired.com/2009/12/livingston/
+www.wired.com##.toggle--menu
+
+! 11/25/2017, 3:59:50 PM https://www.youtube.com/watch?v=qiF-j14B6UE
+! www.youtube.com###related
+
+! 11/25/2017, 4:08:58 PM https://filterlists.com/
+filterlists.com##[href*=donate]
+
+||gotoes.org/sales/$image
+
+gotoes.org
+
+! 11/26/2017, 9:35:12 PM https://appear.in/kolut
+appear.in##.modal
+
+! 11/26/2017, 9:35:44 PM https://appear.in/kolut
+appear.in##.screen-share-message-wrapper
+
+! 11/27/2017, 12:35:36 AM https://www.youtube.com/
+www.youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+
+youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
+
+! 11/27/2017, 5:55:30 PM http://blog.fosketts.net/2017/07/10/zfs-best-filesystem-now/
+blog.fosketts.net##.crp_related
+
+! 11/27/2017, 5:55:54 PM http://blog.fosketts.net/2017/07/10/zfs-best-filesystem-now/
+blog.fosketts.net##.sidebar
+
+! 11/28/2017, 7:11:07 PM http://searchsecurity.techtarget.com/definition/evil-maid-attack
+searchsecurity.techtarget.com###page-header
+
+! 11/28/2017, 7:11:20 PM http://searchsecurity.techtarget.com/definition/evil-maid-attack
+searchsecurity.techtarget.com##.actions-bar
+
+! 11/28/2017, 7:11:32 PM http://searchsecurity.techtarget.com/definition/evil-maid-attack
+searchsecurity.techtarget.com##.main-article-author-contact
+
+! 11/28/2017, 7:12:55 PM http://www.vulture.com/2015/09/casting-notices-are-so-terrible.html
+www.vulture.com###top
+
+! 11/29/2017, 11:49:24 AM https://mega.nz/#!zEAU1AQL!oWJ63n-D6lCuCQ4AY0Cv_405hX8kn7MEsa1iLH5UjKU
+mega.nz##.create-account-button
+
+! 11/29/2017, 11:49:39 AM https://mega.nz/#!zEAU1AQL!oWJ63n-D6lCuCQ4AY0Cv_405hX8kn7MEsa1iLH5UjKU
+mega.nz##.checkbox-bl
+
+! 11/29/2017, 11:49:57 AM https://mega.nz/#!zEAU1AQL!oWJ63n-D6lCuCQ4AY0Cv_405hX8kn7MEsa1iLH5UjKU
+mega.nz##.to-clouddrive
+
+! 11/29/2017, 11:50:19 AM https://mega.nz/#!zEAU1AQL!oWJ63n-D6lCuCQ4AY0Cv_405hX8kn7MEsa1iLH5UjKU
+mega.nz##.pages-nav
+
+! 11/30/2017, 12:18:42 AM http://money.cnn.com/2017/11/28/investing/bitcoin-hits-10k/index.html
+money.cnn.com##.column:nth-of-type(2)
+
+! 11/30/2017, 12:19:46 AM http://money.cnn.com/2017/11/28/investing/bitcoin-hits-10k/index.html
+money.cnn.com##.inStoryHeading
+
+! 11/30/2017, 11:07:42 AM https://www.nngroup.com/articles/brand-experience-ux/
+www.nngroup.com##.learn-more
+
+! 11/30/2017, 11:07:56 AM https://www.nngroup.com/articles/brand-experience-ux/
+www.nngroup.com##a[href^="https://www.nngroup.com/courses/"]
+
+! 11/30/2017, 11:08:10 AM https://www.nngroup.com/articles/brand-experience-ux/
+www.nngroup.com###page-footer
+
+! 11/30/2017, 11:08:58 AM https://www.nngroup.com/articles/zigzag-page-layout/
+www.nngroup.com##[href^="https://www.nngroup.com/books/"]
+
+! 11/30/2017, 11:11:32 AM https://www.nngroup.com/articles/?page=2
+www.nngroup.com##.video
+
+! 11/30/2017, 11:22:26 AM https://www.nngroup.com/articles/multi-tab-page-parking/
+www.nngroup.com##[href^="/books/"]
+
+! 11/30/2017, 12:09:06 PM https://uxdesign.cc/design-philosophy-ee40bbcecc67
+uxdesign.cc##.metabar
+
+! 11/30/2017, 7:04:28 PM http://stream.aljazeera.com/story/201711301810-0025554
+stream.aljazeera.com##.modal-window-overlay
+
+! 11/30/2017, 7:04:45 PM http://stream.aljazeera.com/story/201711301810-0025554
+stream.aljazeera.com##.top-social-wrapper
+
+! 11/30/2017, 7:04:57 PM http://stream.aljazeera.com/story/201711301810-0025554
+stream.aljazeera.com##.top-grey-bar
+
+! 11/30/2017, 7:05:08 PM http://stream.aljazeera.com/story/201711301810-0025554
+stream.aljazeera.com###site-header
+
+! 11/30/2017, 7:05:45 PM http://stream.aljazeera.com/story/201711301810-0025554
+stream.aljazeera.com###block-fbcm-slideout-fbcm-slideout-block
+
+! 11/30/2017, 7:06:22 PM http://www.aljazeera.com/news/2017/11/rohingya-challenge-pope-francis-silence-myanmar-171130164008316.html
+www.aljazeera.com###article-header-wrapper
+
+! 11/30/2017, 7:07:38 PM https://www.cnet.com/news/man-who-deleted-trumps-twitter-account-reveals-himself/?google_editors_picks=true
+www.cnet.com###rbHeader
+
+! 11/30/2017, 7:07:54 PM https://www.cnet.com/news/man-who-deleted-trumps-twitter-account-reveals-himself/?google_editors_picks=true
+www.cnet.com##.inviewElement
+
+! 11/30/2017, 7:08:28 PM https://www.cnet.com/news/man-who-deleted-trumps-twitter-account-reveals-himself/?google_editors_picks=true
+www.cnet.com###article-body > .row.article-main-body.col-7 > .v2.video.shortcode > .embeddedVideoContainer
+
+! 11/30/2017, 7:12:02 PM http://thehill.com/policy/finance/362679-gop-to-reduce-tax-relief-by-350b-to-win-over-deficit-hawks
+thehill.com##.scrolling-content-item:not(:nth-of-type(1)):not(:nth-of-type(2)):not(:nth-of-type(3))
+
+! 11/30/2017, 7:12:21 PM http://thehill.com/homenews/administration/362648-white-house-trump-did-not-know-about-britain-first-leader-when-he
+thehill.com##.region-content-bottom
+
+! 11/30/2017, 7:12:33 PM http://thehill.com/homenews/administration/362648-white-house-trump-did-not-know-about-britain-first-leader-when-he
+thehill.com##.article-tags
+
+! 11/30/2017, 7:12:43 PM http://thehill.com/homenews/administration/362648-white-house-trump-did-not-know-about-britain-first-leader-when-he
+thehill.com##.page-bottom
+
+! 11/30/2017, 7:12:56 PM http://thehill.com/policy/finance/362679-gop-to-reduce-tax-relief-by-350b-to-win-over-deficit-hawks
+thehill.com###header
+
+! 11/30/2017, 7:13:14 PM http://thehill.com/policy/finance/362679-gop-to-reduce-tax-relief-by-350b-to-win-over-deficit-hawks
+thehill.com##.region-highlighted
+
+! 11/30/2017, 7:13:30 PM http://thehill.com/policy/finance/362679-gop-to-reduce-tax-relief-by-350b-to-win-over-deficit-hawks
+thehill.com##.left-sidebar
+
+! 11/30/2017, 7:13:45 PM http://thehill.com/policy/finance/362679-gop-to-reduce-tax-relief-by-350b-to-win-over-deficit-hawks
+thehill.com##.myPlayerWrapper
+
+! 11/30/2017, 7:14:12 PM https://bgr.com/2017/11/30/google-assistant-local-plumber-locksmith-electrician-wtf/
+bgr.com##.site-header
+
+! 11/30/2017, 7:14:29 PM https://bgr.com/2017/11/30/google-assistant-local-plumber-locksmith-electrician-wtf/
+bgr.com##.sidebar-content
+
+! 11/30/2017, 7:14:50 PM https://bgr.com/2017/11/30/google-assistant-local-plumber-locksmith-electrician-wtf/
+bgr.com##.featured-image
+
+! 11/30/2017, 7:15:02 PM https://bgr.com/2017/11/30/google-assistant-local-plumber-locksmith-electrician-wtf/
+bgr.com##.dont-miss
+
+! 11/30/2017, 7:15:45 PM https://bgr.com/2017/11/30/google-assistant-local-plumber-locksmith-electrician-wtf/
+bgr.com##.bgr-recommended
+
+! 11/30/2017, 7:15:54 PM https://bgr.com/2017/11/30/google-assistant-local-plumber-locksmith-electrician-wtf/
+bgr.com##.site-footer
+
+! 11/30/2017, 7:16:07 PM https://bgr.com/2017/11/30/google-assistant-local-plumber-locksmith-electrician-wtf/
+bgr.com###comments-toggle
+
+! 11/30/2017, 7:17:10 PM https://www.theverge.com/2017/11/14/16648348/youtube-demonetizing-iphone-x-videos
+www.theverge.com##.l-header
+
+! 11/30/2017, 7:17:22 PM https://www.theverge.com/2017/11/14/16648348/youtube-demonetizing-iphone-x-videos
+www.theverge.com##.c-entry-hero__meta
+
+! 11/30/2017, 7:17:36 PM https://www.theverge.com/2017/11/14/16648348/youtube-demonetizing-iphone-x-videos
+www.theverge.com##.c-entry-group-labels
+
+! 11/30/2017, 7:18:04 PM https://www.theverge.com/2017/11/14/16648348/youtube-demonetizing-iphone-x-videos
+www.theverge.com##.tab-bar-fixed
+
+! 11/30/2017, 7:19:26 PM https://www.theverge.com/2017/11/14/16648348/youtube-demonetizing-iphone-x-videos
+www.theverge.com##.c-related-list
+
+! 11/30/2017, 7:19:35 PM https://www.theverge.com/2017/11/14/16648348/youtube-demonetizing-iphone-x-videos
+www.theverge.com###comments
+
+! 11/30/2017, 7:19:43 PM https://www.theverge.com/2017/11/14/16648348/youtube-demonetizing-iphone-x-videos
+www.theverge.com##.c-footer
+
+! 11/30/2017, 7:20:19 PM http://www.foxnews.com/entertainment/2017/11/30/jay-z-admits-cheated-on-beyonce.html
+www.foxnews.com##.site-header
+
+! 11/30/2017, 7:20:56 PM http://www.foxnews.com/entertainment/2017/11/30/jay-z-admits-cheated-on-beyonce.html
+www.foxnews.com##.site-footer
+
+! 11/30/2017, 7:21:20 PM https://www.lgbtqnation.com/2017/11/lingerie-company-response-beautifully-critics-genderqueer-model/
+www.lgbtqnation.com##.lgbtq-header
+
+! 11/30/2017, 7:21:40 PM https://www.lgbtqnation.com/2017/11/lingerie-company-response-beautifully-critics-genderqueer-model/
+www.lgbtqnation.com###topnews
+
+! 11/30/2017, 7:21:57 PM https://www.lgbtqnation.com/2017/11/lingerie-company-response-beautifully-critics-genderqueer-model/
+www.lgbtqnation.com###sidebar
+
+! 11/30/2017, 7:23:35 PM https://www.lgbtqnation.com/2017/11/lingerie-company-response-beautifully-critics-genderqueer-model/
+www.lgbtqnation.com##.disqus-comments
+
+! 11/30/2017, 10:34:48 PM http://www.thefidget.org/directors/peter-price/
+www.thefidget.org##.footer-wrap
