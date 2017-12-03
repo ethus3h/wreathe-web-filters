@@ -425,10 +425,10 @@ amazon.com###hero-quick-promo
 amazon.com###nav-link-prime
 amazon.com###sc-new-upsell
 amazon.com###sidebar
-amazon.com##a[href^='/gp/slredirect/picassoRedirect.html']
-anime.thehylia.com##a[href="https://anime.thehylia.com/forums/payments.php"]
+amazon.com##[href^='/gp/slredirect/picassoRedirect.html']
+anime.thehylia.com##[href="https://anime.thehylia.com/forums/payments.php"]
 anitay.kinja.com###sharingfooter
-answers.yahoo.com##a[href^="https://search.yahoo.com"]
+answers.yahoo.com##[href^="https://search.yahoo.com"]
 aol.com##.m-article-slideshow
 aol.com##.slideshow-preview
 appear.in##.modal
@@ -439,8 +439,8 @@ archive.org###also-found
 aristake.com###ariChair
 aristake.com###cboxOverlay
 aristake.com###footer
-aristake.com##a[href^="http://bit.ly/"]
-aristake.com##a[href^="http://smarturl.it"]
+aristake.com##[href^="http://bit.ly/"]
+aristake.com##[href^="http://smarturl.it"]
 arstechnica.co.uk###article-footer-wrap
 arstechnica.com##.story-sidebar
 arstechnica.com###recommendations-footer
@@ -494,7 +494,7 @@ bitsnoop.com###pages
 bitsnoop.com###sidebar > .small.rounded
 bitsnoop.com###vpnBar
 bleacherreport.com##header > .button.atom
-blog.discmakers.com##a[href="http://www.discmakers.com/BLOGREQEFF"]
+blog.discmakers.com##[href="http://www.discmakers.com/BLOGREQEFF"]
 blog.filippo.io##.share
 blog.fosketts.net##.crp_related
 blog.fosketts.net##.sidebar
@@ -503,7 +503,7 @@ blog.ssa.gov##body > div:nth-of-type(3)
 bookriot.com###top-alt-content\ random_content_pro_widget-3 > .random-content-pro-wrapper
 booksandjournals.brillonline.com##.cornerPolicyTab
 bookstore.umaine.edu###carouseljek
-bookstore.umaine.edu##a[href="https://www.facebook.com/UMaineBookstore/"]
+bookstore.umaine.edu##[href="https://www.facebook.com/UMaineBookstore/"]
 bookstore.umaine.edu##img[src="/webitemimages/411/Images/textbook_shopping_header_944x177.jpg"]
 bostonglobe.com##.bg-footer .lead
 bostonglobe.com##.bg-header__subinfo
@@ -542,7 +542,7 @@ clientsfromhell.net##.wf2-bg-dark
 clientsfromhell.net##[href^="http://t.umblr.com/"]
 clientsfromhell.net###post-139416493558
 clientsfromhell.net###youtube_iframe
-clientsfromhell.net##a[href^="http://t.umblr.com/redirect"]
+clientsfromhell.net##[href^="http://t.umblr.com/redirect"]
 clientsfromhell.net##iframe
 clientsfromhell.net##img
 cnet.com##.embeddedVideoContainer
@@ -577,7 +577,7 @@ computerworld.com###amazon-bottom-widget
 computerworld.com###content-recommender
 computerworld.com###funnel
 cpubenchmark.net###specialsCornerPromo
-cracked.com##a[href^="http://society6.com"]
+cracked.com##[href^="http://society6.com"]
 cse.google.com###gbq2
 cultivatedculture.com##blockquote
 cyberciti.biz##.cfapps-welcome-bar
@@ -599,8 +599,8 @@ dailymail.co.uk###most-watched-videos-wrapper
 dailymail.co.uk###wideCommentAdvert
 darkpatterns.org##.action-link
 darkpatterns.org##.footer-bottom
-darkpatterns.org##a[href="/hall-of-shame"]
-darkpatterns.org##a[href="/participate-now"]
+darkpatterns.org##[href="/hall-of-shame"]
+darkpatterns.org##[href="/participate-now"]
 deadspin.com##.sidebar
 dedoimedo.com##.post_article_box
 degruyter.com##.european-union-cookies-agreement
@@ -634,16 +634,16 @@ distrowatch.com##.Logo > tbody > tr > td:nth-of-type(1) > table:nth-of-type(1)
 distrowatch.com##.Logo > tbody > tr > td:nth-of-type(3)
 distrowatch.com##.Logo > tbody > tr > td:nth-of-type(3) > table:nth-of-type(1) > tbody
 distrowatch.com##.NavLogo > tbody > tr > td:nth-of-type(2)
-distrowatch.com##a[href="http://www.excel-easy.com/"]
-distrowatch.com##a[href="http://www.excel-easy.com/data-analysis/analysis-toolpak.html"]
-distrowatch.com##a[href="http://www.excel-easy.com/data-analysis/charts.html"]
-distrowatch.com##a[href="http://www.excel-easy.com/introduction/formulas-functions.html"]
+distrowatch.com##[href="http://www.excel-easy.com/"]
+distrowatch.com##[href="http://www.excel-easy.com/data-analysis/analysis-toolpak.html"]
+distrowatch.com##[href="http://www.excel-easy.com/data-analysis/charts.html"]
+distrowatch.com##[href="http://www.excel-easy.com/introduction/formulas-functions.html"]
 distrowatch.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > .NavMenu:nth-of-type(3)
 distrowatch.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table:nth-of-type(3)
 distrowatch.com##font
 distrowatch.org##[href^="http://downloads.3cx.com/"]
 distrowatch.org##[href$="advertise"]
-distrowatch.org##a[href^="http://"]
+distrowatch.org##[href^="http://"]
 distrowatch.org##[href^="http://www.excel-easy.com/"]
 distrowatch.org##[href^="https://"]
 dmt-nexus.me##.Ad_DivContainer
@@ -681,7 +681,7 @@ emkei.cz##.sbold.tacenter.support
 emkei.cz###panel
 en.bookfi.net###vimsg
 enlightenment.org###plugin_include__start-shortcuts
-evanmiller.org##a[href="http://www.wizardmac.com/"]
+evanmiller.org##[href="http://www.wizardmac.com/"]
 experienceproject.com###adultpopup
 experienceproject.com##body > .cover
 experts123.com##.ui-front.ui-widget-overlay
@@ -712,7 +712,7 @@ futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(3) 
 futuramerlin.com###delete-action
 futuramerlin.com###footer-left
 futuramerlin.com###sistSidebar
-futuramerlin.com##a[href="http://www.mantisbt.org"]
+futuramerlin.com##[href="http://www.mantisbt.org"]
 gamedev.net##.ipsPad.ipsType_center
 gamedev.net###elGuestTerms
 gearslutz.com##.engagement-drawer
@@ -733,7 +733,7 @@ git-tower.com##.wrap-header-branding
 github.com##.octofication .message
 github.com##[href="/marketplace"]
 github.com###new_repository > .with-permission-fields > .form-checkbox:nth-of-type(2)
-github.com###readme > a[href^="https://evilmartians.com/"]
+github.com###readme > [href^="https://evilmartians.com/"]
 gizmodo.com##.author-bio__twitter
 gizmodo.com##.related-module
 globalspec.com###main-content > .reg-wallpaper-container > .registrationWrapper
@@ -799,10 +799,10 @@ imslp.org###mw-panel > .collapsed.portal:nth-of-type(7) > .donate_button
 imslp.org###p-inassoc
 imslp.org###p-sidebar-iapp
 imslp.org###p-sidebar-purchase
-imslp.org###pc-dd > .toclevel-1:nth-of-type(1) > ul > .toclevel-2:nth-of-type(2) > a[href="#Naxos"]
+imslp.org###pc-dd > .toclevel-1:nth-of-type(1) > ul > .toclevel-2:nth-of-type(2) > [href="#Naxos"]
 imslp.org###sm_dl_login
 imslp.org###subs_mainacc
-imslp.org##a[href="#tabNaxos"]
+imslp.org##[href="#tabNaxos"]
 independent.co.uk##.video-playlist
 independent.co.uk###most-popular-mobile
 irishmirror.ie##.channel-showbiz .tab-triggers
@@ -813,9 +813,9 @@ jsfiddle.net###panel_html > .warningTooltip
 jsfiddle.net###sidebar
 justjared.com##.scrollContainer
 justjared.com###sidebar
-kissanime.me##a[href^="//"]
-kissanime.ru##a[href^="//"]
-krebsonsecurity.com##a[href="https://krebsonsecurity.com/cpm/"]
+kissanime.me##[href^="//"]
+kissanime.ru##[href^="//"]
+krebsonsecurity.com##[href="https://krebsonsecurity.com/cpm/"]
 last.fm##.chartlist-break
 last.fm##.features-footer
 last.fm##.lazy-recs-bar-full-width-wrapper
@@ -844,7 +844,7 @@ lifewire.com##[id^=footer]
 lifewire.com##[id^=prefooter]
 linkedin.com##.guest-view
 linux.org##[href="https://m.do.co/c/10b82948a627"]
-linux.org###content > .pageWidth > .pageContent > div:nth-of-type(2) > a[href="https://m.do.co/c/10b82948a627"]
+linux.org###content > .pageWidth > .pageContent > div:nth-of-type(2) > [href="https://m.do.co/c/10b82948a627"]
 linuxreviews.org##table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > table:nth-of-type(4)
 lwn.net##.Form
 mac-forums.com###sidebar_container
@@ -886,8 +886,8 @@ mega.nz##.pages-nav
 mega.nz##.to-clouddrive
 member.usfencing.org##[href^="https://member.usfencing.org/give"]
 member.usfencing.org###make-impact
-member.usfencing.org##a[href^="http://www.usafencing.org/donate"]
-member.usfencing.org##a[href^="mailto:gifts@USAFencing.org"]
+member.usfencing.org##[href^="http://www.usafencing.org/donate"]
+member.usfencing.org##[href^="mailto:gifts@USAFencing.org"]
 mercurynews.com##.related
 mercurynews.com##aside
 minetest.com###leftcontainerBox
@@ -910,7 +910,7 @@ mp3clan.audio###ad-track-title
 musescore.com##.badges
 musescore.com##.button-wrapper:nth-of-type(2) > .secondary.button
 musescore.com##.login
-musescore.com##a[href^="/user/login"]
+musescore.com##[href^="/user/login"]
 my-ip.club###adb
 myanimelist.net##.btn-mal-service
 myanimelist.net##.footer-recommended
@@ -923,7 +923,7 @@ newatlas.com##.header__login
 newatlas.com##.js-liftigniter-column
 newatlas.com##.rebrand-link
 newatlas.com##.slab:not(:first-of-type)
-newatlas.com##a[href="http://newatlas.com/advertise/"]
+newatlas.com##[href="http://newatlas.com/advertise/"]
 news.com.au##.rhc-stick
 news.com.au##.sticky-show
 news.com.au###footer
@@ -993,7 +993,7 @@ quora.com###__w2_bhNgakl_background_wrapper > .vertical_alignment_wrapper
 quora.com###__w2_khEVus5_contents > .signup_modal_content
 rapgeek.ru###mask
 rapgeek.ru###scroller
-rapidgator.net##a[href="https://datadownloader.net"]
+rapidgator.net##[href="https://datadownloader.net"]
 ratemyprofessors.com##.promotion
 readwrite.com##.hot
 readwrite.com##.rw-related-posts
@@ -1056,7 +1056,7 @@ sourceforge.net##.top3-widget
 sourceforge.net###nav-site
 sourceforge.net###scanned_by
 sourceforge.net###sidebar
-sourceforge.net##a[href="https://sourceforge.net/user/registration"]
+sourceforge.net##[href="https://sourceforge.net/user/registration"]
 sporttechie.com##.related-post
 sporttechie.com##[id^="text-"] > .textwidget strong
 sporttechie.com###text-27 > .textwidget strong
@@ -1140,8 +1140,8 @@ techradar.com##.gallery-image:style(display: block !important)
 techradar.com##.gallery-text > div
 techradar.com##.media-list
 techradar.com###sidebar
-techradar.com##a[href^="http://www.techradar.com/"]
-techradar.com##a[href^="https://www.myfavouritemagazines.co.uk/"]
+techradar.com##[href^="http://www.techradar.com/"]
+techradar.com##[href^="https://www.myfavouritemagazines.co.uk/"]
 tecmint.com##.author-bio > p:last-of-type
 tecmint.com##.one-fourth.grid
 tecmint.com##[id^="dgd_scrollbox-"]
@@ -1221,7 +1221,7 @@ time.com##.dont-print
 time.com##.site-footer
 timharford.com###aside
 tomshardware.com###in_article
-tomshardware.com##a[href^="http://www.tomshardware.com"]
+tomshardware.com##[href^="http://www.tomshardware.com"]
 torrentfreak.com###sidebar > .widget_text.widg:nth-of-type(1)
 tracfone.com###colorbox
 translate.google.com##.gb_Uc
@@ -1231,8 +1231,8 @@ translate.google.com###gt-ft-res
 troyhunt.com##[href^="https://www.troyhunt.com/sponsorship/"]
 troyhunt.com###floating_subscribe
 trustmeimascientist.com###text-2
-tuxradar.com##a[href="http://identi.ca/tuxradar"]
-tuxradar.com##a[href="http://twitter.com/tuxradar"]
+tuxradar.com##[href="http://identi.ca/tuxradar"]
+tuxradar.com##[href="http://twitter.com/tuxradar"]
 tv-rls.com##.berrors
 tv-rls.com##.mainblock > .center > .quote
 tv-rls.com##.sidebar
@@ -1244,7 +1244,7 @@ tv-rls.com###footer
 tv-rls.com###header
 tv-rls.com###topbar
 tv-rls.com###topmenu
-tv-rls.com##a[href^="/support.php"]
+tv-rls.com##[href^="/support.php"]
 twitter.com twitter.com * noop
 twitter.com##.dashboard
 twitter.com##.Trends
@@ -1332,8 +1332,8 @@ wsj.com##.wsj-snippet-login
 wsj.com##.wsj-snippet-related-video-wrap
 wsj.com##[class^=style__share]
 wsj.com###cx-snippetad
-wsj.com##a[href^="https://accounts.wsj.com/login"]
-wsj.com##a[href^="https://subscribe.wsj.com/"]
+wsj.com##[href^="https://accounts.wsj.com/login"]
+wsj.com##[href^="https://subscribe.wsj.com/"]
 xul.fr##.cc-banner
 xvideos.com###mobilesquare
 yellowpages.com##.sg-b-bar.sg-b-f
@@ -1370,7 +1370,7 @@ youtube.com###related
 youtube.com###unlimited-guide-item
 youtube.com###watch-discussion
 youtube.com###watch-related
-youtube.com##a[href^="http://naturebox.com/"]
+youtube.com##[href^="http://naturebox.com/"]
 youtubeloop.net##.btnAdProfile
 youtubeloop.net##.white.container-fluid > .container
 youtubeloop.net###contytPlayer1 > .center-block > .center-block.ytContaner > .btn-group-wrap
