@@ -1,7 +1,9 @@
 appear.in##.modal
+##.modal
 appear.in##.screen-share-message-wrapper
 bgr.com##.bgr-recommended
 bgr.com##.dont-miss
+##.dont-miss
 bgr.com##.featured-image
 bgr.com##.sidebar-content
 bgr.com##.site-footer
@@ -9,8 +11,8 @@ bgr.com##.site-header
 bgr.com###comments-toggle
 blog.fosketts.net##.crp_related
 blog.fosketts.net##.sidebar
-filterlists.com##[href*=donate]
 mega.nz##.checkbox-bl
+##[href*=donate]
 mega.nz##.create-account-button
 mega.nz##.pages-nav
 mega.nz##.to-clouddrive
@@ -22,6 +24,9 @@ searchsecurity.techtarget.com###page-header
 stream.aljazeera.com##.modal-window-overlay
 stream.aljazeera.com##.top-grey-bar
 stream.aljazeera.com##.top-social-wrapper
+##.top-social-wrapper
+##.main-article-author-contact
+##.modal-window-overlay
 stream.aljazeera.com###block-fbcm-slideout-fbcm-slideout-block
 stream.aljazeera.com###site-header
 thehill.com##.article-tags
@@ -42,6 +47,7 @@ foxnews.com##.site-header
 lgbtqnation.com##.disqus-comments
 lgbtqnation.com##.lgbtq-header
 lgbtqnation.com###sidebar
+##.disqus-comments
 lgbtqnation.com###topnews
 nngroup.com##.learn-more
 nngroup.com##.video
@@ -57,9 +63,13 @@ theverge.com##.c-related-list
 theverge.com##.l-header
 theverge.com##.tab-bar-fixed
 theverge.com###comments
+###comments
 vulture.com###top
 wired.com##.article-body-component ul
 wired.com##.comments-cta-component
+##.comments-cta-component
+##[class*=cta-]
+##[class*=-cta]
 wired.com##.footer
 wired.com##.header__nav--links
 wired.com##.panel--nav
