@@ -79,4 +79,4 @@ wired.com##.toggle--search
 wired.com###comments
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
-##[href*="youtube.com/user/rhettandlink"]
+##[href*="//youtube.com/user/rhettandlink"]
