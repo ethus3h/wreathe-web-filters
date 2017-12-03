@@ -239,6 +239,10 @@ weequizz.com
 ##[class$=upgrade-nudge]
 ##[href*="//youtube.com/user/rhettandlink"]
 ##[href*=donate]
+##[href*="upgrade"]
+##[class*="-nudge"]
+##[class*="upgrade"]
+##[href*="participate-now"]
 ##[href*=utm_campaign]
 ##[href^="//1298bab69bbc4.com/"]
 ##[href^="http://identi.ca/"]
@@ -384,6 +388,8 @@ weequizz.com
 *$media,domain=ign.com
 *$script,domain=last.fm
 *$script,domain=theatlantic.com
+www.*$script,domain=last.fm
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=$domain=imslp.org,image
 
 ! ======== Site-specific cosmetic filter rules ========
 500px.com##.signup_teaser_region
@@ -592,7 +598,6 @@ darkpatterns.org##.action-link
 darkpatterns.org##.footer-bottom
 darkpatterns.org##a[href="/hall-of-shame"]
 darkpatterns.org##a[href="/participate-now"]
-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=$domain=imslp.org,image
 deadspin.com##.sidebar
 dedoimedo.com##.post_article_box
 degruyter.com##.european-union-cookies-agreement
@@ -1326,7 +1331,6 @@ wsj.com##[class^=style__share]
 wsj.com###cx-snippetad
 wsj.com##a[href^="https://accounts.wsj.com/login"]
 wsj.com##a[href^="https://subscribe.wsj.com/"]
-www.*$script,domain=last.fm
 xul.fr##.cc-banner
 xvideos.com###mobilesquare
 yellowpages.com##.sg-b-bar.sg-b-f
