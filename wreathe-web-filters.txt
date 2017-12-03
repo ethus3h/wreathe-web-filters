@@ -465,9 +465,7 @@ bbc.com###comp-pattern-library
 bbc.com###media-player-1 > div > div
 bbc.com###share-tools-top
 bgr.com##.bgr-recommended
-bgr.com##.bgr-recommended
 bgr.com##.contact-links
-bgr.com##.dont-miss
 bgr.com##.dont-miss
 bgr.com##.featured-image
 bgr.com##.share-buttons
@@ -1196,7 +1194,6 @@ theverge.com##.c-entry-hero__meta
 theverge.com##.c-footer
 theverge.com##.c-recirc-module
 theverge.com##.c-related-list
-theverge.com##.c-related-list
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__content > .-has-border.breaker.product.basic.m-carousel
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__content > .m-linkset-list.m-linkset
 theverge.com##.l-container > .l-page > .m-article.m-entry > .m-entry__body > .m-entry__sidebar
@@ -1208,7 +1205,6 @@ theverge.com##.m-carousel
 theverge.com##.m-entry__sidebar
 theverge.com##.m-linkset
 theverge.com##.p-entry-nav
-theverge.com##.tab-bar-fixed
 theverge.com##.tab-bar-fixed
 theverge.com###comments
 theverge.com###header > .m-big-stories
@@ -1344,7 +1340,6 @@ youtube.com##.generic-promo-impression-logging
 youtube.com##.videoblocker
 youtube.com##.watch-sidebar
 youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
-youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-single-option-survey-renderer
