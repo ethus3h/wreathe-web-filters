@@ -496,7 +496,6 @@ wired.com##.toggle--search
 wired.com###comments
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
-
 aristake.com###footer
 aristake.com##a[href^="http://bit.ly/"]
 aristake.com##a[href^="http://smarturl.it"]
