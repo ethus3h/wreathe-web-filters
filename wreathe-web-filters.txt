@@ -53,6 +53,7 @@ weequizz.com
 ##.app-links
 ##.append-content
 ##.article__engager
+##[href^="http://downloads.3cx.com/"]
 ##.article__ftr
 ##.article-body__show-full
 ##.article-breaker-ad
@@ -314,6 +315,7 @@ weequizz.com
 ###survey-message
 ###trending_now
 ###watermark leftwatermark
+##[href^="http://www.excel-easy.com/"]
 ###whats-next
 ###WikiaBar
 ###wpp-2
@@ -641,8 +643,8 @@ distrowatch.com##font
 distrowatch.org##[href^="http://downloads.3cx.com/"]
 distrowatch.org##[href$="advertise"]
 distrowatch.org##a[href^="http://"]
-distrowatch.org##a[href^="http://www.excel-easy.com/"]
-distrowatch.org##a[href^="https://"]
+distrowatch.org##[href^="http://www.excel-easy.com/"]
+distrowatch.org##[href^="https://"]
 dmt-nexus.me##.Ad_DivContainer
 docs.google.com###punch-explore-widget
 drive.google.com##.iph-spotlight-bg
