@@ -18,6 +18,7 @@ dnsrsearch.com
 express.co.uk
 extremereach.io
 fotpforums.com
+mydigitallife.net
 freelancer.com
 gloomwrite.com
 gotoes.org
@@ -669,6 +670,8 @@ duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.resul
 easypxy.com###include
 ebags.com##.in.fade.modal-backdrop
 ebay.com##.nojs
+forums.mydigitallife.net##.FloatingContainer
+mydigitallife.net##.FloatingContainer
 economictimes.indiatimes.com###pushSec
 edmsauce.com##.cp-clear.cp-info-bar-wrapper
 edmsauce.com##.cp-info-bar-body-overlay
