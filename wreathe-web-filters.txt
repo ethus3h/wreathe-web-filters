@@ -1351,6 +1351,8 @@ youtube.com##.generic-promo-impression-logging
 youtube.com##.videoblocker
 youtube.com##.watch-sidebar
 youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
+www.youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+www.youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-single-option-survey-renderer
