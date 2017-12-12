@@ -360,7 +360,7 @@ awm.com
 
 
 BadSquad.com
-unknown
+
 
 
 
@@ -435,7 +435,7 @@ bignuggetnews.com
 
 
 bigpzone.com
-unknown
+
 
 
 
@@ -694,7 +694,7 @@ collectivelyconscious.net
 
 
 ComingDepression.com
-unknown
+
 
 
 
@@ -749,12 +749,12 @@ conservativeflashnews.com
 
 
 conservativefrontline.com
-unknown
+
 
 
 
 conservativeheadlines.com
-unknown
+
 
 
 
@@ -956,7 +956,7 @@ dailynewsbin.com
 
 
 dailynewspolitic.com
-unknown
+
 
 
 
@@ -971,7 +971,7 @@ dailyoccupation.com
 
 
 dailypolitics.info
-unknown
+
 
 
 
@@ -1106,7 +1106,7 @@ defenddemocracy.press
 
 
 delectabledietofpics.net
-unknown
+
 
 
 N
@@ -1196,7 +1196,7 @@ downtrend.com
 
 
 DProgram.net
-unknown
+
 
 
 N
@@ -1356,7 +1356,7 @@ enduringvision.com
 
 
 english.ruvr.ru
-unknown
+
 
 
 
@@ -1376,12 +1376,12 @@ eutopia.buzz
 
 
 everydayworldnews.com
-unknown
+
 
 
 
 everythingnewdaily.com
-unknown
+
 
 
 
@@ -1426,7 +1426,7 @@ familysecuritymatters.org
 
 
 fantasticword.com
-unknown
+
 
 
 N
@@ -1476,7 +1476,7 @@ floridasunpost.com
 
 
 flyheight.com
-unknown
+
 
 
 
@@ -1501,7 +1501,7 @@ foreignpolicyjournal.com
 
 
 fort-russ.com
-unknown
+
 
 
 N
@@ -1626,7 +1626,7 @@ glaringhypocrisy.com
 
 
 GlobalEconomicAnalysis.com
-unknown
+
 
 
 N
@@ -1661,7 +1661,7 @@ goneleft.com
 
 
 GonzaloLira.Blogspot.com
-unknown
+
 
 
 
@@ -1796,7 +1796,7 @@ ifyouonlynews.com
 
 
 igrewupinusa.info
-unknown
+
 
 
 N
@@ -1986,17 +1986,17 @@ katehon.com
 
 
 katehon.org
-unknown
+
 
 
 
 kauilapele.wordpress.com
-unknown
+
 
 
 
 kingworldnews.com
-unknown
+
 
 
 
@@ -2046,7 +2046,7 @@ learnprogress.org
 
 
 legorafi.fr
-unknown
+
 
 
 
@@ -2146,7 +2146,7 @@ lifezette.com
 
 
 lightlybraisedturnip.com
-unknown
+
 
 
 
@@ -2156,7 +2156,7 @@ liveactionnews.org
 
 
 livefreelivenatural.com
-unknown
+
 
 
 N
@@ -2316,7 +2316,7 @@ msnbc.website
 
 
 mydailyrelaxation.com
-unknown
+
 
 
 N
@@ -2396,12 +2396,12 @@ nbc.com.co
 
 
 nbcpolitics.org
-unknown
+
 
 
 N
 nbcpoll.com
-unknown
+
 
 
 N
@@ -2441,12 +2441,12 @@ newpoliticstoday.com
 
 
 news-hound.com
-unknown
+
 
 
 N
 news-hound.org
-unknown
+
 
 
 N
@@ -2476,7 +2476,7 @@ newsbreakshere.com
 
 
 NewsBuster.com
-unknown
+
 
 
 
@@ -2486,7 +2486,7 @@ newsbysquad.com
 
 
 newscenterusa.com
-unknown
+
 
 
 
@@ -2546,7 +2546,7 @@ newsninja2012.com
 
 
 newsopening.com
-unknown
+
 
 
 N
@@ -2601,7 +2601,7 @@ NoMoreFakeNews.com
 
 
 nonaiswa.org/wordpress
-unknown
+
 
 
 
@@ -2616,7 +2616,7 @@ notallowedto.com
 
 
 NoTime4Bull.com
-unknown
+
 
 
 
@@ -2649,7 +2649,7 @@ nymeta.co
 
 
 nyuzer.com
-unknown
+
 
 
 
@@ -2666,7 +2666,7 @@ objectiveministries.org
 
 
 observatorial.com
-unknown
+
 
 
 
@@ -2691,7 +2691,7 @@ occupyliberals.com
 
 
 odgossip.com
-unknown
+
 
 
 N
@@ -2726,7 +2726,7 @@ onlineconservativepress.com
 
 
 opednews.com
-unknown
+
 
 
 N
@@ -2771,7 +2771,7 @@ patdollar.com
 
 
 patriotarchives.blogspot.com
-unknown
+
 
 
 
@@ -2821,17 +2821,17 @@ platosguns.com
 
 
 policestateusa.com
-unknown
+
 
 
 
 policyreview.info
-unknown
+
 
 
 
 Politcalpiehole.com
-unknown
+
 
 
 
@@ -2856,7 +2856,7 @@ politicalo.com
 
 
 PoliticalPieHole.com
-unknown
+
 
 
 
@@ -2866,12 +2866,12 @@ politicalsitenews.com
 
 
 politicaltimes.org
-unknown
+
 
 
 
 PoliticalTracker.com
-unknown
+
 
 
 
@@ -2896,17 +2896,17 @@ politicot.com
 
 
 politicsbreaking.com
-unknown
+
 
 
 N
 politicsinformation.com
-unknown
+
 
 
 N
 politicsinfotoday.com
-unknown
+
 
 
 N
@@ -2916,7 +2916,7 @@ politicsintheusa.com
 
 
 politicsinusa.com
-unknown
+
 
 
 N
@@ -2936,7 +2936,7 @@ pollhype.com
 
 
 powerlineblog.com
-unknown
+
 
 
 
@@ -2971,7 +2971,7 @@ presidentialvoting2016.com
 
 
 press24.us
-unknown
+
 
 
 
@@ -3031,7 +3031,7 @@ proudemocrat.com
 
 
 PublicIntelligence.net
-unknown
+
 
 
 
@@ -3041,7 +3041,7 @@ qpolitical.com
 
 
 randpaulreview.com
-unknown
+
 
 
 
@@ -3056,12 +3056,12 @@ rawstory.com
 
 
 rawws.com
-unknown
+
 
 
 
 rbth.com
-unknown
+
 
 
 
@@ -3076,7 +3076,7 @@ readconservatives.news
 
 
 readynutrition.com
-unknown
+
 
 
 
@@ -3101,7 +3101,7 @@ realplanetnews.com
 
 
 realprogress.online
-unknown
+
 
 
 
@@ -3121,7 +3121,7 @@ redflagnews.com
 
 
 RedIceCreations.com
-unknown
+
 
 
 
@@ -3206,12 +3206,12 @@ rightalert.com
 
 
 righton.com
-unknown
+
 
 
 
 RightSideNews.com
-unknown
+
 
 
 
@@ -3261,7 +3261,7 @@ ruptly.tv
 
 
 russia-direct.org
-unknown
+
 
 
 
@@ -3301,17 +3301,17 @@ sentinelblog.com
 
 
 sgtreport.com
-unknown
+
 
 
 
 shadowproof.com
-unknown
+
 
 
 
 ShadowStats.com
-unknown
+
 
 
 
@@ -3326,7 +3326,7 @@ sheepkillers.com
 
 
 shiftfrequency.com
-unknown
+
 
 
 
@@ -3336,12 +3336,12 @@ shoebat.com
 
 
 shtfplan.com
-unknown
+
 
 
 
 silentmajoritypatriots.com
-unknown
+
 
 
 
@@ -3381,7 +3381,7 @@ smag31.com
 
 
 smartknowledgeu.com/blog
-unknown
+
 
 
 
@@ -3391,7 +3391,7 @@ socialeverythings.com
 
 
 solari.com/blog
-unknown
+
 
 
 
@@ -3401,22 +3401,22 @@ sonsoflibertyradio.com
 
 
 sott.net
-unknown
+
 
 
 
 sourceplanet.net
-unknown
+
 
 
 
 southfront.org
-unknown
+
 
 
 
 southweb.org
-unknown
+
 
 
 
@@ -3426,7 +3426,7 @@ SovereignMan.com
 
 
 speciallifeentertainment.com
-unknown
+
 
 
 
@@ -3436,7 +3436,7 @@ speld.nl
 
 
 spinzon.com
-unknown
+
 
 
 
@@ -3451,22 +3451,22 @@ sputniknews.com
 
 
 SRSroccoReport.com
-unknown
+
 
 
 
 statenation.co
-unknown
+
 
 
 
 STAWealth.com
-unknown
+
 
 
 
 SteveQuayle.com
-unknown
+
 
 
 
@@ -3481,7 +3481,7 @@ stormcloudsgathering.com
 
 
 strategic-culture.org
-unknown
+
 
 
 
@@ -3501,12 +3501,12 @@ success-street.com
 
 
 suggesthealthytips.com
-unknown
+
 
 
 
 superstation95.com
-unknown
+
 
 
 
@@ -3516,7 +3516,7 @@ supremepatriot.com
 
 
 surenews.com
-unknown
+
 
 
 
@@ -3526,32 +3526,32 @@ surrealscoop.com
 
 
 SurvivalBlog.com
-unknown
+
 
 
 
 SurvivalKnowHow.net
-unknown
+
 
 
 
 survivopedia.com
-unknown
+
 
 
 
 szandorblestman.com/index.php
-unknown
+
 
 
 
 tap-news.com
-unknown
+
 
 
 
 tdnewswire.com
-unknown
+
 
 
 
@@ -3566,22 +3566,22 @@ teaparty.org
 
 
 teapartyeconomist.com
-unknown
+
 
 
 
 teapartytribune.com
-unknown
+
 
 
 
 tellmenow.com
-unknown
+
 
 
 
 TenthAmendmentCenter.com
-unknown
+
 
 
 
@@ -3596,12 +3596,12 @@ the-insider.co
 
 
 the-newspapers.com
-unknown
+
 
 
 
 theamericancause.org
-unknown
+
 
 
 
@@ -3611,7 +3611,7 @@ theamericanindependent.wordpress.com
 
 
 theamericanmirror.com
-unknown
+
 
 
 
@@ -3621,12 +3621,12 @@ theantimedia.org
 
 
 TheAuReport.com
-unknown
+
 
 
 
 theautogear.com
-unknown
+
 
 
 
@@ -3651,27 +3651,27 @@ thebostontribune.com
 
 
 TheBRICSPost.com
-unknown
+
 
 
 
 TheBrowser.com
-unknown
+
 
 
 
 TheBurningPlatform.com
-unknown
+
 
 
 
 thecarsmagazine.com
-unknown
+
 
 
 
 thecivilian.co.nz
-unknown
+
 
 
 
@@ -3681,7 +3681,7 @@ thecommonsenseshow.com
 
 
 theconservativetreehouse.com
-unknown
+
 
 
 
@@ -3691,7 +3691,7 @@ thecontroversialfiles.net
 
 
 TheCroweHouse.com
-unknown
+
 
 
 
@@ -3701,17 +3701,17 @@ thedailybeast.com
 
 
 thedailybell.com
-unknown
+
 
 
 
 TheDailyCoin.org
-unknown
+
 
 
 
 TheDailyCrux.com
-unknown
+
 
 
 
@@ -3731,7 +3731,7 @@ thedailywtf.com
 
 
 thedemocratic.site
-unknown
+
 
 
 
@@ -3741,7 +3741,7 @@ theduran.com
 
 
 theearthchild.co.za
-unknown
+
 
 
 
@@ -3796,7 +3796,7 @@ thegoldandoilguy.com/articles
 
 
 thegoldwater.com
-unknown
+
 
 
 
@@ -3886,7 +3886,7 @@ thenewamerican.com
 
 
 thenewinquiry.com
-unknown
+
 
 
 
@@ -3896,7 +3896,7 @@ thenewsdoctors.com
 
 
 TheNewsFile.com
-unknown
+
 
 
 
@@ -3916,32 +3916,32 @@ theonion.com
 
 
 theopenscroll.blogspot.com
-unknown
+
 
 
 
 theorganicprepper.ca
-unknown
+
 
 
 
 TheOutsiderClub.com
-unknown
+
 
 
 
 theoxymoron.co.uk
-unknown
+
 
 
 
 thepeoplescube.com
-unknown
+
 
 
 
 ThePeoplesVoice.net
-unknown
+
 
 
 
@@ -3956,7 +3956,7 @@ thepoke.co.uk
 
 
 thepoliticalcesspool.com
-unknown
+
 
 
 
@@ -3966,7 +3966,7 @@ thepoliticalinsider.com
 
 
 thepostemail.com
-unknown
+
 
 
 
@@ -3981,7 +3981,7 @@ therealstrategy.com
 
 
 therebel.media
-unknown
+
 
 
 
@@ -3996,7 +3996,7 @@ therightists.com
 
 
 therightplanet.com
-unknown
+
 
 
 
@@ -4011,17 +4011,17 @@ therightstuff.biz
 
 
 therundownlive.com
-unknown
+
 
 
 
 therussophile.org
-unknown
+
 
 
 
 thesaker.is
-unknown
+
 
 
 
@@ -4041,7 +4041,7 @@ theskunk.org
 
 
 thesleuthjournal.com
-unknown
+
 
 
 
@@ -4106,7 +4106,7 @@ thevalleyreport.com
 
 
 TheVictoryReport.org
-unknown
+
 
 
 
@@ -4121,12 +4121,12 @@ thewatchtowers.com
 
 
 TheWealthWatchman.com
-unknown
+
 
 
 
 theworldstyle.com
-unknown
+
 
 
 
@@ -4136,12 +4136,12 @@ thinkprogress.org
 
 
 thirdworldtraveler.com
-unknown
+
 
 
 
 thisismynewworld.com
-unknown
+
 
 
 
@@ -4151,7 +4151,7 @@ threepercenternation.com
 
 
 thrivemovement.com
-unknown
+
 
 
 
@@ -4181,57 +4181,57 @@ topinfopost.com
 
 
 topnewspolitics.com
-unknown
+
 
 
 
 topratedviral.com
-unknown
+
 
 
 
 toprightnews.com
-unknown
+
 
 
 
 totalworldnews.com
-unknown
+
 
 
 
 traderdan.com
-unknown
+
 
 
 
 tradewithdave.com
-unknown
+
 
 
 
 TragedyandHope.com
-unknown
+
 
 
 
 trendingnewsguide.com
-unknown
+
 
 
 
 trendingnewstoday.net
-unknown
+
 
 
 
 tribuneherald.net
-unknown
+
 
 
 
 tribunist.com
-unknown
+
 
 
 
@@ -4246,7 +4246,7 @@ trueamericans.me
 
 
 trueeconomics.blogspot.com
-unknown
+
 
 
 
@@ -4266,7 +4266,7 @@ trumpvision365.com
 
 
 trunews.com
-unknown
+
 
 
 
@@ -4291,12 +4291,12 @@ truthfrequencyradio.com
 
 
 truthingold.com
-unknown
+
 
 
 
 TruthInMedia.com
-unknown
+
 
 
 
@@ -4306,7 +4306,7 @@ truthkings.com
 
 
 truthnetwork.com
-unknown
+
 
 
 
@@ -4316,17 +4316,17 @@ truthrevolt.org
 
 
 TruthStreamMedia.com
-unknown
+
 
 
 
 tunerspeed.com
-unknown
+
 
 
 
 turnerradionetwork.com
-unknown
+
 
 
 
@@ -4336,7 +4336,7 @@ twitchy.com
 
 
 tyronetribulations.com
-unknown
+
 
 
 
@@ -4356,7 +4356,7 @@ unconfirmedsources.com
 
 
 undergroundhealth.com
-unknown
+
 
 
 
@@ -4371,7 +4371,7 @@ undergroundworldnews.com
 
 
 unionleader.com
-unknown
+
 
 
 
@@ -4486,7 +4486,7 @@ usapolitics24hrs.com
 
 
 usapoliticsdaily.com
-unknown
+
 
 
 
@@ -4506,12 +4506,12 @@ usapoliticszone.com
 
 
 usapoliticus.com
-unknown
+
 
 
 
 usascan.com
-unknown
+
 
 
 
@@ -4701,12 +4701,12 @@ waterfordwhispersnews.com
 
 
 wealthcycles.com
-unknown
+
 
 
 
 wealthwire.com
-unknown
+
 
 
 
@@ -4776,12 +4776,12 @@ whydontyoutrythis.com
 
 
 wideawakeamerica.com
-unknown
+
 
 
 N
 WideAwakeNews.com
-unknown
+
 
 
 N
@@ -4841,17 +4841,17 @@ wonkie.com
 
 
 world24monitor.com
-unknown
+
 
 
 
 worldcallyoutoday.com
-unknown
+
 
 
 
 worlddaily.info
-unknown
+
 
 
 
@@ -4941,7 +4941,7 @@ yournationnews.com
 
 
 YourNewsline.wordpress.com
-unknown
+
 
 
 
@@ -4951,12 +4951,12 @@ yournewswire.com
 
 
 zaytung.com
-unknown
+
 
 
 
 Zengardner.com
-unknown
+
 
 
 
