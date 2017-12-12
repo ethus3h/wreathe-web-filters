@@ -1,4 +1,0 @@
-##.related-guides-container
-##.upgrade
-##[id^=infinite-view]
-##[title^=Donate]

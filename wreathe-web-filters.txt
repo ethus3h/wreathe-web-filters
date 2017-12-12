@@ -272,6 +272,12 @@ weequizz.com
 ##[id^=inArticleVideo]
 ##[id^=lightbox_container]
 ##[id$="newsletter"]
+##.related-guides-container
+##.upgrade
+##[id^=infinite-view]
+##[id*=infinite-view]
+##[class*=infinite-view]
+##[title^=Donate]
 ##[id$="promo"]
 ###ad-mobile-anchored-bottom
 ###adblock-message
