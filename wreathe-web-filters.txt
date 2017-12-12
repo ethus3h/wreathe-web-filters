@@ -116,6 +116,7 @@ noscript.net
 now8news.com
 nowtheendbegins.com
 opposingviews.com
+buzzfeed.com
 pakalertpress.com
 politicalblindspot.com
 politicalears.com
@@ -156,6 +157,7 @@ voat.co
 w3schools.com
 wakingupwisconsin.com
 washsummit.com
+snopes.com
 weequizz.com
 wideawakeamerica.com
 winningdemocrats.com
