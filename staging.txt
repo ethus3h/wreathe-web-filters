@@ -1109,7 +1109,7 @@ delectabledietofpics.net
 
 
 
-N
+
 dennismichaellynch.com
 
 
@@ -1199,7 +1199,7 @@ DProgram.net
 
 
 
-N
+
 drrichswier.com
 
 
@@ -1239,7 +1239,7 @@ EbolaHoax.com
 
 
 
-N
+
 economicnoise.com
 
 
@@ -1429,7 +1429,7 @@ fantasticword.com
 
 
 
-N
+
 FarmWars.info
 
 
@@ -1504,7 +1504,7 @@ fort-russ.com
 
 
 
-N
+
 fourwinds10.net
 
 
@@ -1629,7 +1629,7 @@ GlobalEconomicAnalysis.com
 
 
 
-N
+
 globalpoliticsnow.com
 
 
@@ -1799,7 +1799,7 @@ igrewupinusa.info
 
 
 
-N
+
 ihavethetruth.com
 
 
@@ -2159,7 +2159,7 @@ livefreelivenatural.com
 
 
 
-N
+
 livevote.com
 
 
@@ -2319,7 +2319,7 @@ mydailyrelaxation.com
 
 
 
-N
+
 myfreshnews.com
 
 
@@ -2399,12 +2399,12 @@ nbcpolitics.org
 
 
 
-N
+
 nbcpoll.com
 
 
 
-N
+
 ncscooper.com
 
 
@@ -2444,12 +2444,12 @@ news-hound.com
 
 
 
-N
+
 news-hound.org
 
 
 
-N
+
 news4ktla.com
 
 
@@ -2549,7 +2549,7 @@ newsopening.com
 
 
 
-N
+
 newstarget.com
 
 
@@ -2694,7 +2694,7 @@ odgossip.com
 
 
 
-N
+
 off-guardian.org
 
 
@@ -2729,7 +2729,7 @@ opednews.com
 
 
 
-N
+
 openmagazines.com
 
 
@@ -2899,17 +2899,17 @@ politicsbreaking.com
 
 
 
-N
+
 politicsinformation.com
 
 
 
-N
+
 politicsinfotoday.com
 
 
 
-N
+
 politicsintheusa.com
 
 
@@ -2919,7 +2919,7 @@ politicsinusa.com
 
 
 
-N
+
 politicsusanews.com
 
 
@@ -4529,7 +4529,7 @@ usatoday.com.co
 
 
 
-N
+
 usatodaynews.me
 
 
@@ -4779,12 +4779,12 @@ wideawakeamerica.com
 
 
 
-N
+
 WideAwakeNews.com
 
 
 
-N
+
 wikileaks.com
 
 
