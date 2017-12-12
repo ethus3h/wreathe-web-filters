@@ -314,6 +314,11 @@ yes-my-lord.com
 ###jp-relatedposts
 ###lightbox_overlay
 ###m-inline-newsletter
+##[href^="http://graphicriver.net/"]
+##[href^="http://www.graphicriver.net/"]
+##[href^="https://graphicriver.net/"]
+###pm_featurebox
+##[href^="https://www.graphicriver.net/"]
 ###mailingListPrompt
 ###mobile-subscribe-link
 ###mobileDismissCookies
@@ -1456,11 +1461,6 @@ youtube.com###content > .ytd-metadata-row-renderer.style-scope.content > .yt-for
 andrewmunsell.com##.sidebar
 andrewmunsell.com###pm_featurebox
 andrewmunsell.com##[href^="http://graphicriver.net/"]
-##[href^="http://graphicriver.net/"]
-##[href^="http://www.graphicriver.net/"]
-##[href^="https://graphicriver.net/"]
-###pm_featurebox
-##[href^="https://www.graphicriver.net/"]
 youtube.com###feed-main-what_to_watch
 youtube.com###related
 youtube.com###unlimited-guide-item
