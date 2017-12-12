@@ -2531,7 +2531,7 @@ youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-single-option-survey-renderer
-youtube.com##.ytd-two-column-browse-results-renderer
+youtube.com##ytd-browse[page-subtype="home"] ytd-two-column-browse-results-renderer
 youtube.com##.ytd-watch-next-secondary-results-renderer
 youtube.com##.ytp-cards-button
 youtube.com##.ytp-ce-covering-overlay
