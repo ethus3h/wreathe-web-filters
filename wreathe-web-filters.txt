@@ -221,6 +221,7 @@ weequizz.com
 ##[class*="upgrade"]
 ##[class*=cta-]
 ##[class*=donate]
+##[class*=effector]
 ##[class*=most-popular]:not(.type-post)
 ##[class*=nudge]
 ##[class*=promo]
