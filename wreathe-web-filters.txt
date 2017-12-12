@@ -165,6 +165,7 @@ weequizz.com
 ##.related_stories
 ##.related-articles
 ##.related-content
+##.related-guides-container
 ##.related-in-article-wrapper
 ##.related-module
 ##.related-stories
@@ -208,6 +209,7 @@ weequizz.com
 ##.ui-small-carousel
 ##.ui-widget-overlay
 ##.uiScale-caption--regular.uiScale-ui--small
+##.upgrade
 ##.videoPlaylist.carousel
 ##.videowall-endscreen
 ##.watch-info-tag-list .yt-uix-sessionlink
@@ -222,6 +224,7 @@ weequizz.com
 ##[class*=cta-]
 ##[class*=donate]
 ##[class*=effector]
+##[class*=infinite-view]
 ##[class*=most-popular]:not(.type-post)
 ##[class*=nudge]
 ##[class*=promo]
@@ -264,21 +267,18 @@ weequizz.com
 ##[href$="paypal.me/ameub"]
 ##[href$="saythanks.html"]
 ##[href$="saythanks/"]
+##[id*=infinite-view]
 ##[id*=social-links]
 ##[id^="newsletter"]
 ##[id^="promo"]
 ##[id^=adsmobile]
 ##[id^=circularhub]
 ##[id^=inArticleVideo]
+##[id^=infinite-view]
 ##[id^=lightbox_container]
 ##[id$="newsletter"]
-##.related-guides-container
-##.upgrade
-##[id^=infinite-view]
-##[id*=infinite-view]
-##[class*=infinite-view]
-##[title^=Donate]
 ##[id$="promo"]
+##[title^=Donate]
 ###ad-mobile-anchored-bottom
 ###adblock-message
 ###amazon-bottom-widget
