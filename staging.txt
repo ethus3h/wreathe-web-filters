@@ -13,7 +13,7 @@ buzz.definitelyfilipino.com
 buzz.definitelyfilipino.net
 classifiedtrends.net
 cnn-channel.com
-cnnalive.com (contains malware)
+cnnalive.com
 da1lymail.com
 dai1lymail.co.uk
 definitelyfilipino.com
