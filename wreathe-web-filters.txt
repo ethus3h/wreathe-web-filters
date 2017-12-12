@@ -46,6 +46,7 @@ weequizz.com
 ~reddit.com##[class^=subscribe]
 ~safaribooksonline.com##.subscribe-panel
 ~thedailywtf.com###article-feed
+~youtube.com###secondary
 
 ! ======== Global cosmetic filters ========
 ##.adblockermessage
