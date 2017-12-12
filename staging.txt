@@ -13,12 +13,12 @@ abeldanger.net
 abovetopsecret.com
 abriluno.com
 aceflashman.wordpress.com
-actforamerica.org/news
+actforamerica.org
 Acting-Man.com
 activistpost.com
 actualidadpanamericana.com
 addictinginfo.org
-adflegal.org/media
+adflegal.org
 adobochronicles.com
 aheadoftheherd.com
 ahtribune.com
@@ -47,7 +47,7 @@ amren.com
 amtvmedia.com
 amusmentic.com
 ancient-code.com
-anews24.org/
+anews24.org
 angrypatriotmovement.com
 anonews.co
 anonhq.com
@@ -109,7 +109,7 @@ cap-news.com
 cbsnews.com.co
 celebtricity.com
 centerforsecuritypolicy.org
-centerforsecuritypolicy.org/#articles
+centerforsecuritypolicy.org
 channel-7-news.com
 channel18news.com
 charismanews.com
@@ -169,7 +169,7 @@ counterpunch.com
 counterpunch.org
 cowgernation.com
 creambmp.com
-creativitymovement.net/category/news/
+creativitymovement.net
 cryptogon.com
 crystalair.com
 dailybuzzlive.com
@@ -245,7 +245,7 @@ EbolaHoax.com
 economicnoise.com
 ecowatch.com
 educate-yourself.org
-educateinspirechange.org/health
+educateinspirechange.org
 electionnightgatekeepers.com
 elelephantintheroom.blogspot.com
 elitereaders.com
@@ -968,7 +968,7 @@ worldtruth.tv
 worldwidehealthy.com
 wtoe5news.com
 wundergroundmusic.com
-www.rt.com
+rt.com
 X22Report.com
 yellowhammernews.com
 yesimright.com
