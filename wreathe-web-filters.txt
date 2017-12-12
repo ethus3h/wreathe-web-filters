@@ -223,6 +223,7 @@ dailyinfobox.com
 dailyken.com
 dailykos.com
 dailyleak.org
+dailymail.co.uk
 dailynews10.com
 dailynews5.com
 dailynewsbin.com
@@ -926,6 +927,7 @@ theskunk.org
 thesleuthjournal.com
 thespoof.com
 thestatelyharold.com
+thesun.co.uk
 thet1mes.com
 thetimesoftheworld.com
 thetrumpmedia.com
