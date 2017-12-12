@@ -507,10 +507,9 @@ newswatch28.com
 newswatch33.com
 newswire-24.com
 newswithviews.com
-newyorker.com/humor
 nodisinfo.com
 NoMoreFakeNews.com
-nonaiswa.org/wordpress
+nonaiswa.org
 northcrane.com
 notallowedto.com
 NoTime4Bull.com
@@ -663,9 +662,9 @@ SilverStealers.net
 SJLendman.Blogspot.com
 skeptiko.com
 smag31.com
-smartknowledgeu.com/blog
+smartknowledgeu.com
 socialeverythings.com
-solari.com/blog
+solari.com
 sonsoflibertyradio.com
 sott.net
 sourceplanet.net
@@ -695,7 +694,7 @@ surrealscoop.com
 SurvivalBlog.com
 SurvivalKnowHow.net
 survivopedia.com
-szandorblestman.com/index.php
+szandorblestman.com
 tap-news.com
 tdnewswire.com
 TDTalliance.com
@@ -745,7 +744,7 @@ theforbiddenknowledge.com
 thefreepatriot.org
 thefreethoughtproject.com
 thegatewaypundit.com
-thegoldandoilguy.com/articles
+thegoldandoilguy.com
 thegoldwater.com
 thehardtimes.net
 theineptowl.com
