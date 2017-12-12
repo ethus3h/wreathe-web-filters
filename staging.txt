@@ -3,6 +3,6 @@
 ! 12/12/2017, 1:58:23 AM https://www.andrewmunsell.com/blog/captchas-are-becoming-ridiculous/
 ! 12/12/2017, 1:58:36 AM https://www.andrewmunsell.com/blog/captchas-are-becoming-ridiculous/
 ! 12/12/2017, 1:58:51 AM https://www.andrewmunsell.com/blog/captchas-are-becoming-ridiculous/
-www.andrewmunsell.com##.sidebar
-www.andrewmunsell.com###pm_featurebox
-www.andrewmunsell.com##a[href^="http://graphicriver.net/"]
+andrewmunsell.com##.sidebar
+andrewmunsell.com###pm_featurebox
+andrewmunsell.com##a[href^="http://graphicriver.net/"]
