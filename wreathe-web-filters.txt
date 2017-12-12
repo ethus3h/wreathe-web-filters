@@ -304,6 +304,7 @@ yes-my-lord.com
 ###elnino-modal
 ###featured-posts
 ###floating_subscribe
+###floatingSocialShare
 ###floatingvid-anchor
 ###funnel
 ###hamilton-module-container
@@ -570,6 +571,7 @@ click2houston.com##.emailWidget
 click2houston.com##.ui-small-carousel
 click2houston.com###footer
 click2houston.com###sidebar-wrap
+youtube.com##[href*="/user/rhettandlink"]
 clientsfromhell.net##.myhead
 clientsfromhell.net##.wf2-bg-dark
 clientsfromhell.net##[href^="http://t.umblr.com/"]
@@ -1451,7 +1453,6 @@ youtube.com###autoplay
 youtube.com###comment-section-renderer
 youtube.com###comments
 youtube.com###content > .ytd-metadata-row-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
-youtube.com###endpoint
 youtube.com###feed-main-what_to_watch
 youtube.com###related
 youtube.com###unlimited-guide-item
