@@ -17,12 +17,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 16wmpo.com
 21stcenturywire.com
 24newsflash.com
-rationalwiki.org
-uncyclopedia.wikia.com
-quora.com
-uncyclopedia.co
-uncyc.org
-encyclopediadramatica.rs
 24wpn.com
 365usanews.com
 4chan.org
@@ -322,6 +316,7 @@ empiresports.co
 emptywheel.net
 en-vovle.com
 enabon.com
+encyclopediadramatica.rs
 endingthefed.com
 endoftheamericandream.com
 endtime.com
@@ -712,9 +707,11 @@ publictrending.net
 publictrending.news
 pupamedia.com
 qpolitical.com
+quora.com
 qwazk.blogspot.com
 radiogtv.com
 randpaulreview.com
+rationalwiki.org
 rawforbeauty.com
 rawstory.com
 rawws.com
@@ -1006,6 +1003,9 @@ tyronetribulations.com
 ufoholic.com
 unclesamsmisguidedchildren.com
 unconfirmedsources.com
+uncyc.org
+uncyclopedia.co
+uncyclopedia.wikia.com
 undergroundhealth.com
 undergroundnewsreport.com
 undergroundworldnews.com
