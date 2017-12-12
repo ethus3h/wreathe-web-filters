@@ -1,19 +1,19 @@
+##.related-guides-container
+##.upgrade
+##[id^=infinite-view]
+##[title^=Donate]
 9to5mac.com##.author-gear
 9to5mac.com##.embed-youtube
 9to5mac.com##.news-feed-header
 9to5mac.com##.post-body > [class^=th]
 9to5mac.com##.post-content > [class^=th]
 9to5mac.com##.related-guides-container
-##.related-guides-container
 9to5mac.com##[href^="https://www.youtube.com/c/9to5mac"]
 9to5mac.com##[id^=infinite-view]
 9to5mac.com###infinite-view-1
-##[id^=infinite-view]
 9to5mac.com###js-site-header
 chatbotsmagazine.com##.metabar
 chatbotsmagazine.com##a
-##[title^=Donate]
-##.upgrade
 filterlists.com##[title^=Donate]
 github.com##.signup-prompt-bg
 office-watch.com##.entry-content div
