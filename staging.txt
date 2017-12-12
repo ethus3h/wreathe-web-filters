@@ -1,372 +1,371 @@
+
 16wmpo.com
-fake
+
 
 
 
 21stcenturywire.com
-conspiracy
+
 
 
 
 24newsflash.com
-fake
+
 
 
 
 24wpn.com
-fake
+
 
 
 
 365usanews.com
-bias
-conspiracy
+
+
 
 
 4threvolutionarywar.wordpress.com
-bias
-conspiracy
+
+
 
 
 70news.wordpress.com
-fake
+
 
 
 
 82.221.129.208
-conspiracy
-fake
+
+
 
 
 aanirfan.blogspot.co.uk
-unreliable
+
 
 
 
 abcnews.com.co
-fake
+
 
 
 
 abcnewsgo.co
-fake
+
 
 
 
 abeldanger.net
-conspiracy
+
 
 
 
 abovetopsecret.com
-conspiracy
-rumor
+
+
 
 
 abriluno.com
-satire
-fake
+
+
 
 
 aceflashman.wordpress.com
-satire
+
 
 
 
 actforamerica.org/news
-hate
+
 
 
 
 Acting-Man.com
-unreliable
-conspiracy
+
+
 
 
 activistpost.com
-conspiracy
+
 
 
 
 actualidadpanamericana.com
-satire
+
 
 
 
 addictinginfo.org
-clickbait
-unreliable
+
+
 
 
 adflegal.org/media
-hate
+
 
 
 
 adobochronicles.com
-satire
+
 
 
 
 advocate.com
-political
-reliable
+
+
 
 
 aheadoftheherd.com
-bias
+
 
 
 
 ahtribune.com
-unreliable
-bias
+
+
 
 
 allnewspipeline.com
-unreliable
-conspiracy
+
+
 
 
 Alt-Market.com
-conspiracy
-bias
+
+
 
 
 alternativemediasyndicate.com
-fake
 
 
 
-alternet.org
-political
-reliable
+
+
+
 
 
 americablog.com
-bias
-clickbait
+
+
 
 
 americanborderpatrol.com
-hate
+
 
 
 
 americanfreepress.net
-conspiracy
-bias
+
+
 
 
 AmericanKabuki.blogspot.com
-junksci
+
 
 
 
 americanlookout.com
-bias
-clickbait
+
+
 
 
 americannews.com
-fake
+
 
 
 
 americannewsx.com
-political
-bias
-satire
+
+
+
 
 americanoverlook.com
-fake
+
 
 
 
 americanpatriotdaily.com
-bias
-clickbait
-bias
+
+
+
 
 americanpoliticnews.co
-fake
+
 
 
 
 americanpresident.co
-fake
 
 
 
-americanprogress.org
-political
-reliable
+
+
+
 
 
 americanreviewer.com
-conspiracy
+
 
 
 
 americanthinker.com
-bias
+
 
 
 
 americantoday.news
-rumor
-bias
+
+
 
 
 americasfreedomfighters.com
-bias
-clickbait
+
+
 
 
 AmmoLand.com
-bias
+
 
 
 
 amplifyingglass.com
-clickbait
-satire
+
+
 
 
 Amposts.com
-fake
+
+
+
+
+amren.com
+
 
 
 
 amren.com
-hate
-conspiracy
 
-
-amren.com
-hate
 
 
 
 amtvmedia.com
-rumor
-unreliable
+
+
 
 
 amusmentic.com
-clickbait
-rumor
+
+
 
 
 ancient-code.com
-junksci
-unreliable
+
+
 
 
 anews24.org/
-fake
+
 
 
 
 angrypatriotmovement.com
-conspiracy
-fake
+
+
 
 
 anonews.co
-unreliable
+
 
 
 
 anonhq.com
-unreliable
+
 
 
 
 anonjekloy.tk
-fake
+
 
 
 
 anonnews.co
-unreliable
+
 
 
 
 anotherdayintheempire.com
-bias
-conspiracy
+
+
 
 
 antiwar.com
-bias
-unreliable
+
+
 
 
 antoniusaquinas.wp.com
-bias
-conspiracy
+
+
 
 
 aryannationswordwide1488.org
-hate
+
 
 
 
 asia-pacificresearch.com
-unreliable
-satire
+
+
 
 
 assassinationscience.com
-conspiracy
-junksci
+
+
 
 
 associatedmediacoverage.com
-satire
+
 
 
 
 attn.com
-political
-clickbait
+
+
 
 
 aurora-news.us
-fake
+
 
 
 
 AutomaticEarth.com
-unreliable
+
 
 
 
 automotostar.com
-clickbait
+
 
 
 
 awarenessact.com
-conspiracy
-junksci
+
+
 
 
 awazetribune.com
-satire
+
 
 
 
 awdnews.com
-conspiracy
+
 
 
 
 awm.com
-unreliable
-bias
-clickbait
+
+
+
 
 BadSquad.com
 unknown
@@ -374,73 +373,73 @@ unknown
 
 
 baptistnews.com
-political
+
 
 
 
 barenakedislam.com
-hate
+
 
 
 
 barnesreview.org
-hate
+
 
 
 
 BB4SP.com
-conspiracy
-bias
-fake
+
+
+
 
 beehivebugle.com
-satire
+
 
 
 
 beforeitsnews.com
-fake
-conspiracy
-rumor
+
+
+
 
 betootaadvocate.com
-satire
+
 
 
 
 bients.com
-clickbait
+
 
 
 
 bigamericannews.com
-satire
-fake
+
+
 
 
 bigbluedimension.com
-rumor
-bias
+
+
 
 
 bigbluevision.com
-hate
+
 
 
 
 bigbluevision.org
-clickbait
-bias
+
+
 
 
 bighairynews.com
-fake
-conspiracy
+
+
 
 
 bignuggetnews.com
-bias
-rumor
+
+
 
 
 bigpzone.com
@@ -449,263 +448,262 @@ unknown
 
 
 bipartisanreport.com
-clickbait
-bias
+
+
 
 
 blackagendareport.com
-unreliable
+
 
 
 
 blackgenocide.org
-conspiracy
-bias
-hate
+
+
+
 
 blackinusrancenews.com
-fake
-unreliable
+
+
 
 
 blacklistednews.com
-clickbait
-unreliable
+
+
 
 
 bluenationreview.com
-clickbait
-unreliable
+
+
 
 
 Boilingfrogspost.com
-unreliable
+
 
 
 
 borowitzreport.com
-satire
+
 
 
 
 bostonleader.com
-fake
+
 
 
 
 bostontribune.com
-satire
-fake
+
+
 
 
 breaking911.com
-clickbait
-unreliable
+
+
 
 
 breakpoint.org
-unreliable
+
 
 
 
 breitbart.com
-political
-unreliable
-bias
+
+
+
 
 BrotherJohnF.com
-bias
-conspiracy
+
+
 
 
 BullionBullsCanada.com
-conspiracy
+
 
 
 
 burrardstreetjournal.com
-satire
+
 
 
 
 buzzfeedusa.com
-fake
-rumor
+
+
 
 
 bvanews.com
-unreliable
-bias
-fake
+
+
+
 
 callthecops.net
-satire
+
 
 
 
 canadafreepress.com
-conspiracy
-bias
+
+
 
 
 cannasos.com
-fake
-unreliable
+
+
 
 
 cap-news.com
-fake
+
 
 
 
 cato.org/blog
-political
-reliable
+
+
 
 
 cbsnews.com.co
-fake
+
 
 
 
 celebtricity.com
-satire
+
 
 
 
 centerforsecuritypolicy.org
-bias
-conspiracy
+
+
 
 
 centerforsecuritypolicy.org/#articles
-hate
+
 
 
 
 channel-7-news.com
-fake
+
 
 
 
 channel18news.com
-fake
+
 
 
 
 charismanews.com
-bias
+
 
 
 
 chaser.com.au
-satire
+
 
 
 
 checkoutthehealthyworld.com
-junksci
-clickbait
+
+
 
 
 chicksontheright.com
-clickbait
-bias
+
+
 
 
 christianfightback.com
-hate
-bias
 
 
-christianpost.com
-reliable
-political
+
+
+
+
 
 
 christiantimesnewspaper.com
-rumor
-bias
-fake
+
+
+
 
 christwire.org
-satire
+
 
 
 
 chronicle.su
-satire
+
 
 
 
 chroniclesmagazine.org
-political
+
 
 
 
 citizensunited.org
-bias
+
 
 
 
 city-journal.org
-political
+
 
 
 
 cityworldnews.com
-fake
+
 
 
 
 civictribune.com
-fake
+
 
 
 
 clashdaily.com
-fake
-conspiracy
-bias
+
+
+
 
 clickhole.com
-satire
+
 
 
 
 cnnews3.com
-fake
+
 
 
 
 cnnnext.com
-unreliable
+
 
 
 
 CNSNews.com
-unreliable
-bias
+
+
 
 
 coasttocoastam.com
-unreliable
+
 
 
 
 coed.com
-fake
-unreliable
+
+
 
 
 collective-evolution.com
-junksci
+
 
 
 
 collectivelyconscious.net
-junksci
-conspiracy
+
+
 
 
 ComingDepression.com
@@ -714,52 +712,52 @@ unknown
 
 
 commentarymagazine.com
-political
+
 
 
 
 commondreams.org
-political
-clickbait
+
+
 
 
 concisepolitics.com
-conspiracy
-hate
+
+
 
 
 consciouslifenews.com
-junksci
+
 
 
 
 conservapedia.com
-bias
+
 
 
 
 conservativebyte.com
-fake
-bias
+
+
 
 
 conservativedailypost.com
-fake
-unreliable
+
+
 
 
 conservativefighters.com
-fake
+
 
 
 
 conservativefiringline.com
-bias
-conspiracy
-clickbait
+
+
+
 
 conservativeflashnews.com
-fake
+
 
 
 
@@ -774,203 +772,203 @@ unknown
 
 
 conservativehq.com
-bias
+
 
 
 
 conservativeinfidel.com
-fake
-conspiracy
+
+
 
 
 conservativeoutfitters.com
-unreliable
-clickbait
+
+
 
 
 conservativepapers.com
-bias
+
 
 
 
 conservativerefocus.com
-conspiracy
+
 
 
 
 conservativereview.com
-political
+
 
 
 
 conservativespirit.com
-bias
-fake
+
+
 
 
 conservativestate.com
-bias
+
 
 
 
 conservativetribune.com
-bias
-conspiracy
-unreliable
+
+
+
 
 consortiumnews.com
-reliable
+
 
 
 
 conspiracyplanet.com
-conspiracy
+
 
 
 
 conspiracywire.com
-conspiracy
+
+
+
+
+corbettreport.com
+
 
 
 
 corbettreport.com
-conspiracy
-bias
 
-
-corbettreport.com
-conspiracy
 
 
 
 countdowntozerotime.com
-conspiracy
+
 
 
 
 countercurrentnews.com
-bias
+
 
 
 
 countercurrents.org
-political
-unreliable
+
+
 
 
 counterinformation.wordpress.com
-political
+
 
 
 
 counterjihad.com
-bias
+
 
 
 
 counterpsyops.com
-conspiracy
+
 
 
 
 counterpunch.com
-political
+
 
 
 
 counterpunch.org
-political
+
 
 
 
 cowgernation.com
-bias
-conspiracy
+
+
 
 
 creambmp.com
-satire
-fake
+
+
 
 
 creativitymovement.net/category/news/
-hate
+
 
 
 
 cryptogon.com
-conspiracy
-unreliable
+
+
 
 
 crystalair.com
-satire
+
 
 
 
 dailybuzzlive.com
-fake
+
 
 
 
 dailycaller.com
-political
-clickbait
-bias
+
+
+
 
 dailycurrant.com
-satire
+
 
 
 
 dailydiscord.com
-satire
+
 
 
 
 dailyheadlines.com
-fake
+
 
 
 
 dailyheadlines.net
-fake
+
 
 
 
 dailyinfobox.com
-fake
+
 
 
 
 dailyken.com
-hate
+
 
 
 
 dailykos.com
-political
-clickbait
+
+
 
 
 dailyleak.org
-satire
-fake
+
+
 
 
 dailynews10.com
-fake
+
 
 
 
 dailynews5.com
-fake
+
 
 
 
 dailynewsbin.com
-bias
-clickbait
+
+
 
 
 dailynewspolitic.com
@@ -979,13 +977,13 @@ unknown
 
 
 dailynewsposts.info
-fake
+
 
 
 
 dailyoccupation.com
-conspiracy
-bias
+
+
 
 
 dailypolitics.info
@@ -994,133 +992,133 @@ unknown
 
 
 dailypoliticsusa.com
-bias
+
 
 
 
 dailysignal.com
-bias
+
 
 
 
 dailysnark.com
-satire
+
 
 
 
 dailysquib.co.uk
-satire
+
 
 
 
 dailystormer.com
-hate
-conspiracy
-bias
+
+
+
 
 dailysurge.com
-fake
+
 
 
 
 dailytelegraph.com.au
-bias
-rumor
+
+
 
 
 dailyusaupdate.com
-fake
+
 
 
 
 dailywire.com
-bias
+
 
 
 
 damnleaks.com
-fake
+
 
 
 
 dandygoat.com
-satire
+
 
 
 
 darkmoon.me
-hate
-bias
+
+
 
 
 darkpolitricks.com
-bias
-conspiracy
+
+
 
 
 dataasylum.com
-conspiracy
-junksci
+
+
 
 
 DaveJanda.com
-unreliable
+
 
 
 
 davidduke.com
-hate
+
 
 
 
 davidstockmanscontracorner.com
-political
+
 
 
 
 davidwolfe.com
-conspiracy
+
 
 
 
 dcclothesline.com
-conspiracy
-junksci
+
+
 
 
 dcgazette.com
-fake
+
 
 
 
 dcleaks.com
-unreliable
+
 
 
 
 ddemocraticunderground.com
-fake
+
 
 
 
 DeadLineLive.info
-political
-conspiracy
+
+
 
 
 DeadlyClear.wordpress.com
-bias
-fake
+
+
 
 
 debunkingskeptics.com
-bias
-conspiracy
+
+
 
 
 defenddemocracy.press
-bias
-political
+
+
 
 
 delectabledietofpics.net
@@ -1129,88 +1127,88 @@ unknown
 
 N
 dennismichaellynch.com
-political
+
 
 
 
 denverguardian.com
-fake
+
 
 
 
 departed.co
-fake
+
 
 
 
 departedmedia.com
-fake
+
 
 
 
 der-postillon.com
-satire
+
 
 
 
 derfmagazine.com
-satire
+
 
 
 
 dineal.com
-junksci
+
 
 
 
 disclose.tv
-satire
-conspiracy
+
+
 
 
 disclosuremedia.net
-conspiracy
+
 
 
 
 dissentmagazine.org
-political
+
 
 
 
 diversitychronicle.wordpress.com
-satire
+
 
 
 
 DIYhours.net
-fake
+
 
 
 
 DollarVigilante.com
-bias
+
 
 
 
 donaldtrumpnews.co
-fake
+
 
 
 
 DonaldTrumpPotus45.com
-fake
+
 
 
 
 Dont-Tread-On.Me
-conspiracy
+
 
 
 
 downtrend.com
-fake
-satire
+
+
 
 
 DProgram.net
@@ -1219,157 +1217,157 @@ unknown
 
 N
 drrichswier.com
-hate
-bias
+
+
 
 
 drudgereport.com
-political
-bias
+
+
 
 
 drudgereport.com.co
-fake
+
 
 
 
 duffleblog.com
-satire
+
 
 
 
 duhprogressive.com
-satire
+
 
 
 
 Dutchsinse.com
-conspiracy
+
 
 
 
 EagleRising.com
-bias
-clickbait
+
+
 
 
 EbolaHoax.com
-conspiracy
+
 
 
 N
 economicnoise.com
-political
-unreliable
+
+
 
 
 ecowatch.com
-political
+
 
 
 
 educate-yourself.org
-conspiracy
-junksci
+
+
 
 
 educateinspirechange.org/health
-clickbait
-junksci
+
+
 
 
 electionnightgatekeepers.com
-conspiracy
-unreliable
+
+
 
 
 elelephantintheroom.blogspot.com
-bias
+
 
 
 
 elitereaders.com
-clickbait
+
 
 
 
 elkoshary.com
-satire
+
 
 
 
 elmundotoday.com
-satire
+
 
 
 
 embols.com
-fake
+
 
 
 
 Empirehearland.com
-fake
+
 
 
 
 empireherald.com
-fake
-satire
+
+
 
 
 empirenews.net
-fake
-satire
+
+
 
 
 empirenews.net
-fake
+
 
 
 
 empiresports.co
-satire
+
 
 
 
 empiresports.co
-satire
+
 
 
 
 Emptywheel.net
-political
+
 
 
 
 en-vovle.com
-fake
+
 
 
 
 enabon.com
-fake
+
 
 
 
 endingthefed.com
-bias
+
 
 
 
 endoftheamericandream.com
-conspiracy
-fake
-political
+
+
+
 
 endtime.com
-bias
-clickbait
-political
+
+
+
 
 enduringvision.com
-fake
+
 
 
 
@@ -1379,19 +1377,19 @@ unknown
 
 
 enhlive.com
-fake
+
 
 
 
 EUTimes.net
-hate
-conspiracy
+
+
 
 
 eutopia.buzz
-fake
-satire
-conspiracy
+
+
+
 
 everydayworldnews.com
 unknown
@@ -1404,43 +1402,43 @@ unknown
 
 
 ewao.com
-junksci
+
 
 
 
 ExperimentalVaccines.org
-junksci
-conspiracy
+
+
 
 
 Expose1933.com
-conspiracy
-hate
+
+
 
 
 express.co.uk
-rumor
+
 
 
 
 extraclubmagazine.com
-bias
-clickbait
-fake
+
+
+
 
 eyeopening.info
-conspiracy
-junksci
+
+
 
 
 fakingnews.com
-fake
-satire
+
+
 
 
 familysecuritymatters.org
-conspiracy
-bias
+
+
 
 
 fantasticword.com
@@ -1449,48 +1447,48 @@ unknown
 
 N
 FarmWars.info
-fake
-conspiracy
+
+
 
 
 federalistpress.com
-bias
+
 
 
 
 fedsalert.com
-fake
+
 
 
 
 fellowshipoftheminds.com
-conspiracy
-junksci
+
+
 
 
 filmsforaction.org
-political
+
 
 
 
 FinancialSurvivalNetwork.com
-unreliable
-bias
+
+
 
 
 firearmscoalition.org
-bias
+
 
 
 
 flashnewscorner.com
-fake
+
 
 
 
 floridasunpost.com
-fake
-satire
+
+
 
 
 flyheight.com
@@ -1499,22 +1497,22 @@ unknown
 
 
 fmobserver.com
-satire
+
 
 
 
 fognews.ru
-satire
+
 
 
 
 foodbabe.com
-junksci
+
 
 
 
 foreignpolicyjournal.com
-political
+
 
 
 
@@ -1524,128 +1522,128 @@ unknown
 
 N
 fourwinds10.net
-conspiracy
-junksci
+
+
 
 
 fprnradio.com
-conspiracy
-fake
+
+
 
 
 freakoutnation.com
-bias
+
 
 
 
 FreeBeacon.com
-bias
+
 
 
 
 freedomdaily.com
-fake
+
 
 
 
 FreedomForceInternational.com
-conspiracy
+
 
 
 
 freedomoutpost.com
-conspiracy
-bias
+
+
 
 
 FreedomsPhoenix.com
-bias
-conspiracy
+
+
 
 
 freedomworks.org
-political
+
 
 
 
 freedomworldnews.com
-bias
-unreliable
+
+
 
 
 freepatriot.org
-satire
+
 
 
 
 freewoodpost.com
-satire
+
 
 
 
 freshdailyreport.com
-fake
+
 
 
 
 fridaymash.com
-satire
+
 
 
 
 fromthetrenchesworldreport.com
-conspiracy
-junksci
-bias
+
+
+
 
 frontpagemag.com
-bias
-hate
+
+
 
 
 fusion.net
-political
-reliable
+
+
 
 
 gaia.com
-conspiracy
-junksci
+
+
 
 
 galacticconnection.com
-junksci
+
 
 
 
 gangstergovernment.com
-conspiracy
-bias
+
+
 
 
 gatesofvienna.net
-hate
-conspiracy
+
+
 
 
 geoengineeringwatch.org
-junksci
-conspiracy
+
+
 
 
 geopolmonitor.com
-political
+
 
 
 
 givemeliberity01.com
-fake
+
 
 
 
 glaringhypocrisy.com
-hate
-conspiracy
+
+
 
 
 GlobalEconomicAnalysis.com
@@ -1654,32 +1652,32 @@ unknown
 
 N
 globalpoliticsnow.com
-fake
+
 
 
 
 globalresearch.ca
-conspiracy
+
 
 
 
 glossynews.com
-satire
+
 
 
 
 godlikeproductions.com
-conspiracy
+
 
 
 
 gomerblog.com
-satire
+
 
 
 
 goneleft.com
-fake
+
 
 
 
@@ -1689,133 +1687,133 @@ unknown
 
 
 gopthedailydose.com
-fake
-conspiracy
-bias
+
+
+
 
 govtslaves.info
-conspiracy
+
 
 
 
 greanvillepost.com
-conspiracy
+
 
 
 
 GreenMedInfo.com
-junksci
+
 
 
 
 guardianlv.com
-political
+
 
 
 
 guccifer2.wordpress.com
-unreliable
+
 
 
 
 gulagbound.com
-bias
+
 
 
 
 gummypost.com
-fake
+
 
 
 
 hangthebankers.com
-conspiracy
+
 
 
 
 healthimpactnews.com
-junksci
-bias
+
+
 
 
 healthnutnews.com
-junksci
+
 
 
 
 healthy-holistic-living.com
-junksci
-clickbait
+
+
 
 
 healthycareandbeauty.com
-fake
-unreliable
+
+
 
 
 healthyworldhouse.com
-fake
+
 
 
 
 heartland.org
-bias
+
 
 
 
 heatst.com
-clickbait
-bias
+
+
 
 
 henrymakow.com
-conspiracy
+
 
 
 
 heresyblog.net
-bias
-conspiracy
-rumor
+
+
+
 
 heritage.org
-political
+
 
 
 
 holyobserver.com
-satire
+
 
 
 
 horowitzfreedomcenter.org
-bias
+
 
 
 
 humansarefree.com
-conspiracy
+
 
 
 
 humortimes.com
-satire
+
 
 
 
 huzlers.com
-satire
+
 
 
 
 icr.org
-junksci
+
 
 
 
 ifyouonlynews.com
-unreliable
-satire
+
+
 
 
 igrewupinusa.info
@@ -1824,187 +1822,187 @@ unknown
 
 N
 ihavethetruth.com
-bias
-clickbait
-fake
+
+
+
 
 ihr.org
-hate
+
 
 
 
 ijr.com
-political
-bias
-unreliable
+
+
+
 
 illuminati-news.com
-conspiracy
+
 
 
 
 ilovemyfreedom.org
-bias
-clickbait
+
+
 
 
 immediatesafety.org
-fake
+
 
 
 
 in5d.com
-junksci
+
 
 
 
 indiaarising.com
-clickbait
-unreliable
+
+
 
 
 infiniteunknown.net
-conspiracy
+
 
 
 
 informationclearinghouse.info
-conspiracy
-unreliable
+
+
 
 
 informetoday.com
-bias
-unreliable
+
+
 
 
 infostormer.com
-fake
-hate
-conspiracy
+
+
+
 
 infowars.com
-conspiracy
+
 
 
 
 instaworldnews.com
-bias
+
 
 
 
 intellihub.com
-conspiracy
-unreliable
+
+
 
 
 interestingdailynews.com
-fake
+
 
 
 
 intrendtoday.com
-fake
-clickbait
+
+
 
 
 intrepidreport.com
-bias
+
 
 
 
 investmentresearchdynamics.com
-conspiracy
+
 
 
 
 investmentwatchblog.com
-bias
-fake
+
+
 
 
 ironictimes.com
-satire
+
 
 
 
 islamicanews.com
-satire
+
 
 
 
 itaglive.com
-fake
+
 
 
 
 ITCCS.org
-conspiracy
+
 
 
 
 ItMakesSenseBlog.com
-fake
+
 
 
 
 iwanttoexplore.com
-fake
+
 
 
 
 jackpineradicals.com
-political
+
 
 
 
 jacobinmag.com
-political
+
 
 
 
 jamesrgrangerjr.com
-bias
+
 
 
 
 jesus-is-savior.com
-conspiracy
+
 
 
 
 jewsnews.co.il
-unreliable
-bias
-fake
+
+
+
 
 jihadwatch.org
-conspiracy
-hate
+
+
 
 
 johnnyrobish.com
-satire
+
 
 
 
 jonesreport.com
-conspiracy
+
 
 
 
 journal-neo.org
-bias
+
 
 
 
 judicialwatch.org
-political
+
 
 
 
 katehon.com
-bias
+
 
 
 
@@ -2024,48 +2022,48 @@ unknown
 
 
 KMT11.com
-fake
+
 
 
 
 knowledgeoftoday.org
-conspiracy
+
 
 
 
 konkonsagh.biz
-fake
+
 
 
 
 krbcnews.com
-fake
+
 
 
 
 ky12news.com
-fake
+
 
 
 
 ladylibertynews.com
-fake
+
 
 
 
 landoverbaptist.org
-satire
+
 
 
 
 lastdeplorables.com
-fake
+
 
 
 
 learnprogress.org
-fake
-bias
+
+
 
 
 legorafi.fr
@@ -2074,97 +2072,97 @@ unknown
 
 
 lewrockwell.com
-bias
-unreliable
-political
+
+
+
 
 liberalamerica.org
-clickbait
-bias
+
+
 
 
 liberalbias.com
-satire
+
 
 
 
 liberaldarkness.com
-satire
-fake
+
+
 
 
 liberalplug.com
-fake
+
 
 
 
 libertyalliance.com
-fake
+
 
 
 
 libertyblitzkrieg.com
-bias
+
 
 
 
 libertyfederation.com
-hate
+
 
 
 
 libertymovementradio.com
-conspiracy
+
 
 
 
 libertynews.com
-unreliable
-bias
+
+
 
 
 libertytalk.fm
-conspiracy
+
 
 
 
 libertyunyielding.com
-bias
+
 
 
 
 libertyvideos.org
-conspiracy
+
 
 
 
 libertywritersnews.com
-clickbait
-bias
-unreliable
+
+
+
 
 lifeandabout.com
-bias
+
 
 
 
 lifenews.com
-bias
-clickbait
+
+
 
 
 lifeprevention.com
-junksci
+
 
 
 
 lifesitenews.com
-clickbait
-bias
+
+
 
 
 lifezette.com
-clickbait
+
 
 
 
@@ -2174,7 +2172,7 @@ unknown
 
 
 liveactionnews.org
-bias
+
 
 
 
@@ -2184,157 +2182,157 @@ unknown
 
 N
 livevote.com
-clickbait
+
 
 
 
 loanpride.com
-rumor
-clickbait
+
+
 
 
 local31news.com
-fake
+
 
 
 
 lovethispic.com
-clickbait
-junksci
+
+
 
 
 lushforlife.com
-satire
+
 
 
 
 Mad-Yet.blogspot.com
-unreliable
+
 
 
 
 madpatriots.com
-unreliable
-clickbait
 
-
-madworldnews.com
-fake
 
 
 
 madworldnews.com
-unreliable
-hate
+
+
 
 
 madworldnews.com
-unreliable
-clickbait
+
+
+
+
+madworldnews.com
+
+
 
 
 magafeed.com
-rumor
-bias
-fake
+
+
+
 
 maganews.co
-fake
+
 
 
 
 majorthoughts.com
-fake
+
 
 
 
 makeamericagreattoday.com
-bias
-fake
+
+
 
 
 meanlefthook.com
-bias
-clickbait
+
+
 
 
 mediamass.net
-fake
+
 
 
 
 mediazone.news
-rumor
-unreliable
+
+
 
 
 megafreshnews.com
-rumor
+
 
 
 
 megynkelly.us
-fake
+
 
 
 
 mentor2day.com
-fake
+
 
 
 
 metropolitanworlds.com
-fake
+
 
 
 
 militianews.com
-conspiracy
-bias
-hate
+
+
+
 
 mintpressnews.com
-political
+
 
 
 
 molonlabemedia.com
-bias
-conspiracy
+
+
 
 
 moonofalabama.org
-bias
+
 
 
 
 morningledger.com
-unreliable
-conspiracy
+
+
 
 
 morningnewsusa.com
-unreliable
+
 
 
 
 mpidailymagazine.com
-fake
-bias
+
+
 
 
 mrc.org
-political
-bias
+
+
 
 
 mrconservative.com
-fake
-satire
+
+
 
 
 msnbc.website
-fake
+
 
 
 
@@ -2344,77 +2342,77 @@ unknown
 
 N
 myfreshnews.com
-fake
-bias
+
+
 
 
 myzonetoday.com
-fake
-bias
+
+
 
 
 nahadaily.com
-satire
+
 
 
 
 nakedcapitalism.com
-political
+
 
 
 
 nasamoonhoax.com
-conspiracy
+
 
 
 
 nationalreport.net
-satire
-fake
+
+
 
 
 nationalreview.com
-political
+
 
 
 
 NationalUFOCenter.com
-conspiracy
+
 
 
 
 nationalvanguard.org
-hate
+
 
 
 
 nationindistress.weebly.com
-conspiracy
+
 
 
 
 nationonenews.com
-fake
-conspiracy
+
+
 
 
 naturalblaze.com
-junksci
-conspiracy
+
+
 
 
 naturalnews.com
-junksci
-conspiracy
+
+
 
 
 naturalnewsblogs.com
-junksci
+
 
 
 
 nbc.com.co
-fake
+
 
 
 
@@ -2429,37 +2427,37 @@ unknown
 
 N
 ncscooper.com
-satire
+
 
 
 
 neonnettle.com
-conspiracy
-fake
-bias
+
+
+
 
 nephef.com
-fake
+
 
 
 
 nevo.news
-unreliable
-bias
+
+
 
 
 newcenturytimes.com
-unreliable
-bias
+
+
 
 
 newcoldwar.org
-political
+
 
 
 
 newpoliticstoday.com
-fake
+
 
 
 
@@ -2474,27 +2472,27 @@ unknown
 
 N
 news4ktla.com
-fake
-satire
+
+
 
 
 newsbbc.net
-fake
+
 
 
 
 newsbiscuit.com
-satire
+
 
 
 
 newsbreakers.org
-satire
+
 
 
 
 newsbreakshere.com
-fake
+
 
 
 
@@ -2504,7 +2502,7 @@ unknown
 
 
 newsbysquad.com
-fake
+
 
 
 
@@ -2514,57 +2512,57 @@ unknown
 
 
 newscorpse.com
-political
+
 
 
 
 newsdaily12.com
-fake
+
 
 
 
 newsexaminer.net
-fake
-satire
+
+
 
 
 newsfrompolitics.com
-fake
+
 
 
 
 newsleak.co
-fake
+
 
 
 
 newslo.com
-fake
+
 
 
 
 newslogue.com
-bias
-fake
+
+
 
 
 newsmagazine.com
-fake
+
 
 
 
 Newsmax.com
-unreliable
-bias
+
+
 
 
 newsmutiny.com
-satire
-fake
+
+
 
 
 newsninja2012.com
-bias
+
 
 
 
@@ -2574,52 +2572,52 @@ unknown
 
 N
 newstarget.com
-conspiracy
+
 
 
 
 newsthump.com
-satire
+
 
 
 
 newstoad.net
-satire
+
 
 
 
 newswatch28.com
-fake
+
 
 
 
 newswatch33.com
-fake
+
 
 
 
 newswire-24.com
-rumor
-unreliable
+
+
 
 
 newswithviews.com
-fake
-conspiracy
+
+
 
 
 newyorker.com/humor
-satire
+
 
 
 
 nodisinfo.com
-conspiracy
-unreliable
+
+
 
 
 NoMoreFakeNews.com
-conspiracy
+
 
 
 
@@ -2629,13 +2627,13 @@ unknown
 
 
 northcrane.com
-unreliable
+
 
 
 
 notallowedto.com
-clickbait
-fake
+
+
 
 
 NoTime4Bull.com
@@ -2644,33 +2642,33 @@ unknown
 
 
 now8news.com
-fake
+
 
 
 
 nowtheendbegins.com
-conspiracy
+
 
 
 
 npiamerica.org
-hate
-bias
+
+
 
 
 NutritionalAnarchy.com
-unreliable
+
 
 
 
 nutritionfacts.org
-reliable
+
 
 
 
 nymeta.co
-clickbait
-satire
+
+
 
 
 nyuzer.com
@@ -2679,17 +2677,17 @@ unknown
 
 
 oann.com
-political
-reliable
+
+
 
 
 oathkeepers.org
-bias
+
 
 
 
 objectiveministries.org
-satire
+
 
 
 
@@ -2699,23 +2697,23 @@ unknown
 
 
 observer.com
-political
+
 
 
 
 OCCUPY.com
-political
+
 
 
 
 occupydemocrats.com
-clickbait
-bias
-unreliable
+
+
+
 
 occupyliberals.com
-bias
-clickbait
+
+
 
 
 odgossip.com
@@ -2724,34 +2722,34 @@ unknown
 
 N
 off-guardian.org
-bias
-conspiracy
+
+
 
 
 OffGridSurvival.com
-conspiracy
-bias
+
+
 
 
 oftwominds.com
-bias
-conspiracy
+
+
 
 
 oilgeopolitics.net
-conspiracy
+
 
 
 
 onepoliticalplaza.com
-fake
+
 
 
 
 onlineconservativepress.com
-fake
-conspiracy
-bias
+
+
+
 
 opednews.com
 unknown
@@ -2759,43 +2757,43 @@ unknown
 
 N
 openmagazines.com
-fake
+
 
 
 
 openmindmagazine.com
-bias
-conspiracy
+
+
 
 
 orientalreview.org
-bias
-conspiracy
+
+
 
 
 other98.com
-clickbait
-bias
-unreliable
+
+
+
 
 pakalertpress.com
-fake
+
 
 
 
 palmerreport.com
-bias
+
 
 
 
 pamelageller.com
-conspiracy
-fake
-bias
+
+
+
 
 patdollar.com
-bias
-clickbait
+
+
 
 
 patriotarchives.blogspot.com
@@ -2804,49 +2802,49 @@ unknown
 
 
 patriotchronicle.com
-bias
-clickbait
 
-
-patriotnewsdaily.com
-bias
 
 
 
 patriotnewsdaily.com
-satire
+
+
+
+
+patriotnewsdaily.com
+
 
 
 
 patriotpost.us
-bias
+
 
 
 
 patriotrising.com
-bias
-conspiracy
+
+
 
 
 patriotupdate.com
-bias
-conspiracy
+
+
 
 
 paulcraigroberts.org
-bias
-conspiracy
+
+
 
 
 pjmedia.com
-political
-bias
+
+
 
 
 platosguns.com
-bias
-conspiracy
-bias
+
+
+
 
 policestateusa.com
 unknown
@@ -2864,22 +2862,22 @@ unknown
 
 
 politicalblindspot.com
-conspiracy
-junksci
+
+
 
 
 politicalcult.com
-bias
-clickbait
-conspiracy
+
+
+
 
 politicalears.com
-unreliable
-clickbait
+
+
 
 
 politicalo.com
-fake
+
 
 
 
@@ -2889,7 +2887,7 @@ unknown
 
 
 politicalsitenews.com
-fake
+
 
 
 
@@ -2904,23 +2902,23 @@ unknown
 
 
 politicalupdator.com
-fake
-clickbait
-bias
+
+
+
 
 politicono.com
-fake
+
 
 
 
 politicops.com
-satire
-fake
+
+
 
 
 politicot.com
-satire
-fake
+
+
 
 
 politicsbreaking.com
@@ -2939,8 +2937,8 @@ unknown
 
 N
 politicsintheusa.com
-unreliable
-bias
+
+
 
 
 politicsinusa.com
@@ -2949,19 +2947,19 @@ unknown
 
 N
 politicsusanews.com
-fake
+
 
 
 
 politicususa.com
-clickbait
-unreliable
+
+
 
 
 pollhype.com
-rumor
-clickbait
-bias
+
+
+
 
 powerlineblog.com
 unknown
@@ -2969,34 +2967,34 @@ unknown
 
 
 powerpoliticians.com
-unreliable
+
 
 
 
 pravda.ru
-bias
-rumor
-conspiracy
+
+
+
 
 pravdareport.com
-bias
-rumor
-conspiracy
+
+
+
 
 prepperwebsite.com
-conspiracy
-fake
+
+
 
 
 president45donaldtrump.com
-fake
+
 
 
 
 presidentialvoting2016.com
-political
-bias
-unreliable
+
+
+
 
 press24.us
 unknown
@@ -3004,57 +3002,57 @@ unknown
 
 
 presstv.com
-bias
-unreliable
+
+
 
 
 presstv.ir
-bias
-unreliable
 
-
-prisonplanet.com
-conspiracy
 
 
 
 prisonplanet.com
-conspiracy
+
+
+
+
+prisonplanet.com
+
 
 
 
 prisonplanet.tv
-conspiracy
+
 
 
 
 prntly.com
-fake
+
 
 
 
 proamericanews.com
-fake
+
 
 
 
 progressivestoday.com
-bias
+
 
 
 
 projectveritas.com
-bias
-unreliable
-political
+
+
+
 
 proudcons.com
-fake
-bias
+
+
 
 
 proudemocrat.com
-political
+
 
 
 
@@ -3064,9 +3062,9 @@ unknown
 
 
 qpolitical.com
-bias
-clickbait
-junksci
+
+
+
 
 randpaulreview.com
 unknown
@@ -3074,13 +3072,13 @@ unknown
 
 
 rawforbeauty.com
-junksci
+
 
 
 
 rawstory.com
-political
-clickbait
+
+
 
 
 rawws.com
@@ -3094,37 +3092,37 @@ unknown
 
 
 react365.com
-fake
+
 
 
 
 readconservatives.news
-bias
-fake
-clickbait
+
+
+
 
 readynutrition.com
 unknown
-conspiracy
+
 
 
 reagancoalition.com
-bias
-fake
-clickbait
+
+
+
 
 realfarmacy.com
-junksci
-conspiracy
+
+
 
 
 realnewsrightnow.com
-fake
-satire
+
+
 
 
 realplanetnews.com
-junksci
+
 
 
 
@@ -3134,19 +3132,19 @@ unknown
 
 
 realtimepolitics.com
-bias
-unreliable
+
+
 
 
 redcountry.us
-fake
+
 
 
 
 redflagnews.com
-bias
-conspiracy
-unreliable
+
+
+
 
 RedIceCreations.com
 unknown
@@ -3154,83 +3152,83 @@ unknown
 
 
 redrocktribune.com
-fake
+
 
 
 
 redstate.com
-political
-clickbait
+
+
 
 
 redstatewatcher.com
-bias
-clickbait
+
+
 
 
 reductress.com
-satire
+
 
 
 
 regated.com
-bias
+
 
 
 
 religionlo.com
-satire
+
 
 
 
 religionmind.com
-fake
+
 
 
 
 remedydaily.com
-clickbait
+
 
 
 
 rense.com
-conspiracy
-junksci
+
+
 
 
 resistancereport.com
-political
-unreliable
+
+
 
 
 responsibletechnology.org
-junksci
+
 
 
 
 returnofkings.com
-hate
+
 
 
 
 revolutions2040.com
-junksci
-clickbait
+
+
 
 
 rhotv.com
-fake
+
 
 
 
 rickwells.us
-fake
-conspiracy
+
+
 
 
 rightalert.com
-bias
-unreliable
+
+
 
 
 righton.com
@@ -3244,88 +3242,88 @@ unknown
 
 
 rightwingnews.com
-bias
-unreliable
+
+
 
 
 rilenews.com
-fake
-satire
+
+
 
 
 rinf.com
-political
+
 
 
 
 rockcitytimes.com
-satire
+
 
 
 
 rogue-nation3.com
-fake
+
 
 
 
 ronpaulinstitute.org
-political
+
 
 
 
 rumorjournal.com
-fake
+
 
 
 
 rumormillnews.com
-conspiracy
-junksci
-rumor
+
+
+
 
 ruptly.tv
-political
+
 
 
 
 russia-direct.org
 unknown
-political
+
 
 
 russia-insider.com
-bias
-clickbait
+
+
 
 
 satiratribune.com
-satire
+
 
 
 
 satirewire.com
-satire
+
 
 
 
 scrappleface.com
-satire
+
 
 
 
 secretsofthefed.com
-conspiracy
-junksci
+
+
 
 
 sensationalisttimes.com
-satire
+
 
 
 
 sentinelblog.com
-conspiracy
-junksci
+
+
 
 
 sgtreport.com
@@ -3344,13 +3342,13 @@ unknown
 
 
 shareblue.com
-unreliable
-political
-bias
+
+
+
 
 sheepkillers.com
-conspiracy
-junksci
+
+
 
 
 shiftfrequency.com
@@ -3359,8 +3357,8 @@ unknown
 
 
 shoebat.com
-conspiracy
-bias
+
+
 
 
 shtfplan.com
@@ -3374,38 +3372,38 @@ unknown
 
 
 Silver-Coin-Investor. com
-conspiracy
-bias
-unreliable
+
+
+
 
 SilverBearCafe.com
-conspiracy
+
 
 
 
 SilverDoctors.com
-conspiracy
-bias
+
+
 
 
 SilverStealers.net
-conspiracy
+
 
 
 
 SJLendman.Blogspot.com
-bias
+
 
 
 
 skeptiko.com
-conspiracy
-junksci
+
+
 
 
 smag31.com
-fake
-unreliable
+
+
 
 
 smartknowledgeu.com/blog
@@ -3414,7 +3412,7 @@ unknown
 
 
 socialeverythings.com
-fake
+
 
 
 
@@ -3424,9 +3422,9 @@ unknown
 
 
 sonsoflibertyradio.com
-conspiracy
-bias
-unreliable
+
+
+
 
 sott.net
 unknown
@@ -3449,7 +3447,7 @@ unknown
 
 
 SovereignMan.com
-unreliable
+
 
 
 
@@ -3459,7 +3457,7 @@ unknown
 
 
 speld.nl
-satire
+
 
 
 
@@ -3469,14 +3467,14 @@ unknown
 
 
 sportspickle.com
-satire
+
 
 
 
 sputniknews.com
-bias
-state
-fake
+
+
+
 
 SRSroccoReport.com
 unknown
@@ -3499,12 +3497,12 @@ unknown
 
 
 stneotscitizen.com
-satire
+
 
 
 
 stormcloudsgathering.com
-fake
+
 
 
 
@@ -3514,18 +3512,18 @@ unknown
 
 
 stuppid.com
-satire
+
 
 
 
 subjectpolitics.com
-fake
-bias
+
+
 
 
 success-street.com
-fake
-clickbait
+
+
 
 
 suggesthealthytips.com
@@ -3539,8 +3537,8 @@ unknown
 
 
 supremepatriot.com
-fake
-bias
+
+
 
 
 surenews.com
@@ -3549,7 +3547,7 @@ unknown
 
 
 surrealscoop.com
-satire
+
 
 
 
@@ -3584,13 +3582,13 @@ unknown
 
 
 TDTalliance.com
-fake
+
 
 
 
 teaparty.org
-fake
-unreliable
+
+
 
 
 teapartyeconomist.com
@@ -3614,12 +3612,12 @@ unknown
 
 
 thatviralfeed.net
-fake
-unreliable
+
+
 
 
 the-insider.co
-fake
+
 
 
 
@@ -3634,8 +3632,8 @@ unknown
 
 
 theamericanindependent.wordpress.com
-fake
-bias
+
+
 
 
 theamericanmirror.com
@@ -3644,9 +3642,9 @@ unknown
 
 
 theantimedia.org
-unreliable
-bias
-conspiracy
+
+
+
 
 TheAuReport.com
 unknown
@@ -3659,22 +3657,22 @@ unknown
 
 
 thebeaverton.com
-satire
+
 
 
 
 thebigriddle.com
-fake
+
 
 
 
 theblaze.com
-political
-clickbait
+
+
 
 
 thebostontribune.com
-fake
+
 
 
 
@@ -3704,8 +3702,8 @@ unknown
 
 
 thecommonsenseshow.com
-fake
-conspiracy
+
+
 
 
 theconservativetreehouse.com
@@ -3714,8 +3712,8 @@ unknown
 
 
 thecontroversialfiles.net
-fake
-clickbait
+
+
 
 
 TheCroweHouse.com
@@ -3724,7 +3722,7 @@ unknown
 
 
 thedailybeast.com
-political
+
 
 
 
@@ -3744,17 +3742,17 @@ unknown
 
 
 thedailymash.co.uk
-satire
+
 
 
 
 thedailysheeple.com
-conspiracy
-bias
+
+
 
 
 thedailywtf.com
-satire
+
 
 
 
@@ -3764,7 +3762,7 @@ unknown
 
 
 theduran.com
-unreliable
+
 
 
 
@@ -3774,52 +3772,52 @@ unknown
 
 
 theeconomiccollapseblog.com
-conspiracy
-bias
+
+
 
 
 theeventchronicle.com
-conspiracy
-junksci
-clickbait
+
+
+
 
 TheExtinctionProtocol.com
-conspiracy
+
 
 
 
 thefederalistpapers.org
-bias
-conspiracy
+
+
 
 
 thefifthcolumnnews.com
-political
+
 
 
 
 theforbiddenknowledge.com
-conspiracy
-junksci
+
+
 
 
 thefreepatriot.org
-fake
-bias
-clickbait
+
+
+
 
 thefreethoughtproject.com
-unreliable
-conspiracy
-clickbait
+
+
+
 
 thegatewaypundit.com
-bias
-conspiracy
-unreliable
+
+
+
 
 thegoldandoilguy.com/articles
-unreliable
+
 
 
 
@@ -3829,87 +3827,87 @@ unknown
 
 
 thehardtimes.net
-satire
+
 
 
 
 theineptowl.com
-satire
+
 
 
 
 theinformedamerican.net
-unreliable
+
 
 
 
 theintercept.com
-political
+
 
 
 
 theinternetpost.net
-fake
+
 
 
 
 thelastgreatstand.com
-fake
-conspiracy
-bias
+
+
+
 
 thelastlineofdefense.org
-satire
+
 
 
 
 thelibertybeacon.com
-conspiracy
-junksci
-bias
+
+
+
 
 thelibertymill.com
-unreliable
-bias
-conspiracy
+
+
+
 
 themadisonmisnomer.com
-satire
+
 
 
 
 themideastbeast.com
-satire
+
 
 
 
 themindunleashed.com
-conspiracy
-junksci
-clickbait
+
+
+
 
 themindunleashed.org
-conspiracy
-junksci
-clickbait
+
+
+
 
 themoralofthestory.us
-fake
+
 
 
 
 themuslimissue.wordpress.com
-hate
-conspiracy
+
+
 
 
 thenet24h.com
-fake
+
 
 
 
 thenewamerican.com
-bias
+
 
 
 
@@ -3919,7 +3917,7 @@ unknown
 
 
 thenewsdoctors.com
-bias
+
 
 
 
@@ -3929,17 +3927,17 @@ unknown
 
 
 thenewsnerd.com
-satire
+
 
 
 
 thenewyorkevening.com
-fake
+
 
 
 
 theonion.com
-satire
+
 
 
 
@@ -3974,24 +3972,24 @@ unknown
 
 
 thephaser.com
-conspiracy
+
 
 
 
 thepoke.co.uk
-satire
+
 
 
 
 thepoliticalcesspool.com
 unknown
-hate
+
 
 
 thepoliticalinsider.com
-conspiracy
-bias
-unreliable
+
+
+
 
 thepostemail.com
 unknown
@@ -3999,14 +3997,14 @@ unknown
 
 
 theracketreport.com
-fake
-satire
+
+
 
 
 therealstrategy.com
-bias
-conspiracy
-hate
+
+
+
 
 therebel.media
 unknown
@@ -4014,12 +4012,12 @@ unknown
 
 
 thereporterz.com
-fake
+
 
 
 
 therightists.com
-satire
+
 
 
 
@@ -4029,12 +4027,12 @@ unknown
 
 
 therightscoop.com
-fake
-clickbait
+
+
 
 
 therightstuff.biz
-hate
+
 
 
 
@@ -4054,17 +4052,17 @@ unknown
 
 
 theseattletribune.com
-satire
+
 
 
 
 theshovel.com.au
-satire
+
 
 
 
 theskunk.org
-satire
+
 
 
 
@@ -4074,62 +4072,62 @@ unknown
 
 
 thespoof.com
-satire
+
 
 
 
 thestatelyharold.com
-satire
+
 
 
 
 thetimesoftheworld.com
-satire
+
 
 
 
 thetrumpmedia.com
-fake
+
 
 
 
 thetruthaboutcancer.com
-junksci
+
 
 
 
 thetruthdivision.com
-fake
-bias
+
+
 
 
 thetruthseeker.co.uk
-fake
-conspiracy
-junksci
+
+
+
 
 TheTruthWins.com
-junksci
-conspiracy
-clickbait
+
+
+
 
 theunrealtimes.com
-satire
+
 
 
 
 theusa-news.com
-fake
+
 
 
 
 theuspatriot.com
-satire
-fake
+
+
 
 
 thevalleyreport.com
-satire
+
 
 
 
@@ -4139,14 +4137,14 @@ unknown
 
 
 thewashingtonpress.com
-fake
+
 
 
 
 thewatchtowers.com
-bias
-conspiracy
-clickbait
+
+
+
 
 TheWealthWatchman.com
 unknown
@@ -4159,7 +4157,7 @@ unknown
 
 
 thinkprogress.org
-political
+
 
 
 
@@ -4174,9 +4172,9 @@ unknown
 
 
 threepercenternation.com
-fake
-conspiracy
-bias
+
+
+
 
 thrivemovement.com
 unknown
@@ -4184,29 +4182,29 @@ unknown
 
 
 times.com.mx
-fake
+
 
 
 
 tmzworldnews.com
-fake
+
 
 
 
 TomWoods.com
-political
-unreliable
+
+
 
 
 topekasnews.com
-satire
+
 
 
 
 topinfopost.com
-clickbait
-unreliable
-conspiracy
+
+
+
 
 topnewspolitics.com
 unknown
@@ -4264,12 +4262,12 @@ unknown
 
 
 TrueActivist.com
-clickbait
-unreliable
+
+
 
 
 trueamericans.me
-fake
+
 
 
 
@@ -4279,17 +4277,17 @@ unknown
 
 
 truepundit.com
-bias
-clickbait
+
+
 
 
 truetrumpers.com
-fake
+
 
 
 
 trumpvision365.com
-fake
+
 
 
 
@@ -4299,22 +4297,22 @@ unknown
 
 
 truthandaction.org
-bias
-conspiracy
-clickbait
+
+
+
 
 truthbroadcastnetwork.com
-conspiracy
-clickbait
+
+
 
 
 truthfeed.com
-hate
-bias
-conspiracy
+
+
+
 
 truthfrequencyradio.com
-conspiracy
+
 
 
 
@@ -4329,9 +4327,9 @@ unknown
 
 
 truthkings.com
-bias
-conspiracy
-junksci
+
+
+
 
 truthnetwork.com
 unknown
@@ -4339,8 +4337,8 @@ unknown
 
 
 truthrevolt.org
-bias
-hate
+
+
 
 
 TruthStreamMedia.com
@@ -4359,8 +4357,8 @@ unknown
 
 
 twitchy.com
-clickbait
-rumor
+
+
 
 
 tyronetribulations.com
@@ -4369,17 +4367,17 @@ unknown
 
 
 ufoholic.com
-conspiracy
+
 
 
 
 unclesamsmisguidedchildren.com
-bias
+
 
 
 
 unconfirmedsources.com
-satire
+
 
 
 
@@ -4389,14 +4387,14 @@ unknown
 
 
 undergroundnewsreport.com
-fake
+
 
 
 
 undergroundworldnews.com
-fake
-conspiracy
-bias
+
+
+
 
 unionleader.com
 unknown
@@ -4404,112 +4402,112 @@ unknown
 
 
 unitedmediapublishing.com
-fake
+
 
 
 
 universepolitics.com
-fake
+
 
 
 
 unz.com
-bias
+
 
 
 
 us.blastingnews.com
-satire
-unreliable
+
+
 
 
 usa-radio.com
-fake
+
 
 
 
 usa-television.com
-fake
+
 
 
 
 usa2016elections.com
-fake
+
 
 
 
 usadailyinfo.com
-fake
+
 
 
 
 usadailypolitics.com
-fake
+
 
 
 
 usadailytime.com
-fake
+
 
 
 
 usadosenews.com
-fake
+
 
 
 
 usafirstinformation.com
-fake
+
 
 
 
 usahitman.com
-fake
-conspiracy
+
+
 
 
 usainfobox.com
-fake
+
 
 
 
 usamagazinestudio.com
-fake
+
 
 
 
 usanewsflash.com
-fake
-bias
-clickbait
+
+
+
 
 usanewsinsider.com
-fake
-bias
-clickbait
+
+
+
 
 usanewspolitics.com
-fake
+
 
 
 
 usanewstoday.com
-fake
+
 
 
 
 usaonlinepolitics.com
-fake
-clickbait
+
+
 
 
 usaphase.com
-fake
-bias
+
+
 
 
 usapolitics24hrs.com
-fake
+
 
 
 
@@ -4519,17 +4517,17 @@ unknown
 
 
 usapoliticsnow.com
-fake
-bias
+
+
 
 
 usapoliticstoday.com
-bias
-unreliable
+
+
 
 
 usapoliticszone.com
-fake
+
 
 
 
@@ -4544,187 +4542,187 @@ unknown
 
 
 usasnich.com
-fake
+
 
 
 
 usasupreme.com
-fake
+
 
 
 
 usatoday.com.co
-fake
+
 
 
 N
 usatodaynews.me
-fake
+
 
 
 
 usatwentyfour.com
-fake
+
 
 
 
 USAWatchdog.com
-bias
+
 
 
 
 uschronicle.com
-bias
-conspiracy
-hate
+
+
+
 
 usconservativetoday.com
-fake
+
 
 
 
 usdefensewatch.com
-unreliable
+
 
 
 
 usfanzone.com
-fake
-bias
+
+
 
 
 ushealthyadvisor.com
-fake
-conspiracy
-junksci
+
+
+
 
 ushealthylife.com
-fake
+
 
 
 
 usherald.com
-bias
-conspiracy
-fake
+
+
+
 
 usinfonews.com
-fake
+
 
 
 
 uslifetoday.com
-clickbait
+
 
 
 
 uspoliticslive.com
-fake
-bias
-conspiracy
+
+
+
 
 uspoln.com
-fake
+
 
 
 
 uspostman.com
-fake
+
 
 
 
 usuncut.com
-clickbait
-bias
-unreliable
+
+
+
 
 usviewer.com
-unreliable
-fake
+
+
 
 
 vdare.com
-bias
-hate
+
+
 
 
 veteransnewsnow.com
-unreliable
-political
+
+
 
 
 veteranstoday.com
-bias
-unreliable
+
+
 
 
 vigilantcitizen.com
-fake
-conspiracy
+
+
 
 
 viralactions.com
-fake
+
 
 
 
 viralliberty.com
-fake
-bias
-clickbait
+
+
+
 
 viraltube.nl
-clickbait
+
 
 
 
 voxtribune.com
-fake
+
 
 
 
 wakeupthesheep.com
-conspiracy
+
 
 
 
 wakingtimes.com
-junksci
+
 
 
 
 wakingupwisconsin.com
-conspiracy
+
 
 
 
 WallStreetOnParade.com
-unreliable
+
 
 
 
 washingtonexaminer.com
-political
-unreliable
+
+
 
 
 washingtonfed.com
-fake
+
 
 
 
 washingtonpost.com.co
-fake
+
 
 
 
 washingtonsblog.com
-bias
-conspiracy
-satire
+
+
+
 
 waterfordwhispersnews.com
-satire
+
 
 
 
@@ -4739,68 +4737,68 @@ unknown
 
 
 wearechange.org
-bias
-conspiracy
+
+
 
 
 weaselzippers.us
-unreliable
-bias
+
+
 
 
 webdaily.com
-fake
-conspiracy
-bias
+
+
+
 
 weeklystandard.com
-political
-bias
+
+
 
 
 weeklyworldnews.com
-fake
-rumor
-clickbait
+
+
+
 
 weshapelife.org
-conspiracy
-junksci
+
+
 
 
 westernjournalism.com
-bias
-clickbait
+
+
 
 
 whatdoesitmean.com
-conspiracy
+
 
 
 
 whatreallyhappened.com
-conspiracy
-rumor
+
+
 
 
 whitepower.com
-hate
-conspiracy
-bias
+
+
+
 
 whowhatwhy.com
-unreliable
+
 
 
 
 whowhatwhy.org
-conspiracy
+
 
 
 
 whydontyoutrythis.com
-junksci
-rumor
+
+
 
 
 wideawakeamerica.com
@@ -4814,57 +4812,57 @@ unknown
 
 N
 wikileaks.com
-unreliable
+
 
 
 
 wikileaks.org
-unreliable
+
 
 
 
 wikispooks.com
-conspiracy
+
 
 
 
 WilliamBanzai7.blogspot.com
-satire
+
 
 
 
 Willyloman.wordpress.com
-conspiracy
+
 
 
 
 winkprogress.com
-satire
+
 
 
 
 winningdemocrats.com
-bias
-unreliable
+
+
 
 
 witscience.org
-satire
+
 
 
 
 wnd.com
-bias
-clickbait
-unreliable
+
+
+
 
 WolfStreet.com
-unreliable
+
 
 
 
 wonkie.com
-satire
+
 
 
 
@@ -4884,87 +4882,87 @@ unknown
 
 
 worldnewsdailyreport.com
-satire
+
 
 
 
 worldnewspolitics.com
-bias
+
 
 
 
 worldpoliticsnow.com
-fake
+
 
 
 
 worldpoliticsus.com
-fake
+
 
 
 
 worldrumor.com
-fake
+
 
 
 
 worldstoriestoday.com
-fake
+
 
 
 
 worldtruth.tv
-conspiracy
-junksci
+
+
 
 
 worldwidehealthy.com
-junksci
-clickbait
+
+
 
 
 wtoe5news.com
-fake
-satire
+
+
 
 
 wundergroundmusic.com
-satire
+
 
 
 
 www.rt.com
-state
+
 
 
 
 X22Report.com
-conspiracy
+
 
 
 
 yellowhammernews.com
-political
+
 
 
 
 yesimright.com
-fake
-bias
+
+
 
 
 Youngcons.com
-bias
-unreliable
+
+
 
 
 yourfunpage.com
-fake
+
 
 
 
 yournationnews.com
-clickbait
+
 
 
 
@@ -4974,8 +4972,8 @@ unknown
 
 
 yournewswire.com
-clickbait
-junksci
+
+
 
 
 zaytung.com
@@ -4989,9 +4987,8 @@ unknown
 
 
 zerohedge.com
-conspiracy
+
 
 
 
 zootfeed.com
-conspiracy
