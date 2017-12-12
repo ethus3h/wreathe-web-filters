@@ -96,6 +96,7 @@ awdnews.com
 awm.com
 badsquad.com
 balita.definitelyfilipino.com
+balitangpinas.net
 baltimoregazette.com
 baptistnews.com
 barenakedislam.com
@@ -292,7 +293,9 @@ duhprogressive.com
 dutchsinse.com
 dutertedefender.com
 dutertenews.com
+dutertenewswatch.com
 dw-tv3.com
+dyaryo.net
 eaglerising.com
 ebolahoax.com
 economicnoise.com
@@ -414,6 +417,7 @@ hotnewsphil.blogspot.com
 humansarefree.com
 humortimes.com
 huzlers.com
+iampilipino.com
 ichlnk.com
 icr.org
 ifyouonlynews.com
@@ -473,6 +477,7 @@ ky12news.com
 ladylibertynews.com
 landoverbaptist.org
 lastdeplorables.com
+leaknewsph.com
 learnprogress.org
 legorafi.fr
 lewrockwell.com
@@ -508,6 +513,7 @@ madpatriots.com
 madworldnews.com
 magafeed.com
 maganews.co
+maharlikanews.com
 majorthoughts.com
 makeamericagreattoday.com
 marketing.dropbox.com
@@ -569,6 +575,7 @@ newscenterusa.com
 newscorpse.com
 newsdaily12.com
 newsexaminer.net
+newsfeedsociety.tk
 newsfileph.com
 newsfrompolitics.com
 newsinfolearn.com
@@ -635,8 +642,10 @@ patriotpost.us
 patriotrising.com
 patriotupdate.com
 paulcraigroberts.org
+philnewsportal.com
 philstar.i-telecast.com
 phppoliticsnews.blogspot.com
+pilipinasonlineupdates.com
 pinoyarticle.com
 pinoyfreedomwall.com
 pinoynewsblogger.blogspot.com
@@ -771,6 +780,7 @@ smag31.com
 smartknowledgeu.com
 snopes.com
 socialeverythings.com
+socialnewsph.com
 softwareadvice.com
 solari.com
 sonsoflibertyradio.com
@@ -1104,16 +1114,6 @@ worldtruth.tv
 worldwidehealthy.com
 wtoe5news.com
 wundergroundmusic.com
-balitangpinas.net
-dutertenewswatch.com
-dyaryo.net
-iampilipino.com
-leaknewsph.com
-maharlikanews.com
-newsfeedsociety.tk
-philnewsportal.com
-pilipinasonlineupdates.com
-socialnewsph.com
 x22report.com
 xolxol.ph
 yellowhammernews.com
