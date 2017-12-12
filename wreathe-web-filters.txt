@@ -1455,7 +1455,11 @@ youtube.com###comments
 youtube.com###content > .ytd-metadata-row-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
 andrewmunsell.com##.sidebar
 andrewmunsell.com###pm_featurebox
-andrewmunsell.com##a[href^="http://graphicriver.net/"]
+andrewmunsell.com##[href^="http://graphicriver.net/"]
+##[href^="http://graphicriver.net/"]
+##[href^="http://www.graphicriver.net/"]
+##[href^="https://graphicriver.net/"]
+##[href^="https://www.graphicriver.net/"]
 youtube.com###feed-main-what_to_watch
 youtube.com###related
 youtube.com###unlimited-guide-item
