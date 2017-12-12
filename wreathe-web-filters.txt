@@ -13,6 +13,7 @@ www.youtube.com###top-level-buttons > ytd-button-renderer:nth-of-type(1)
 youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.dropdown-trigger)
 
 ! ======== Web sites to block fully ========
+! Many are from "False, Misleading, Clickbait-y, and/or Satirical “News” Sources" list by Melissa Zimdars
 100percentfedup.com
 16wmpo.com
 21stcenturywire.com
