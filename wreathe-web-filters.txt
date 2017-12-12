@@ -15,34 +15,34 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ! ======== Web sites to block fully ========
 demicmedia.com
 dnsrsearch.com
+download-geek.com
 express.co.uk
 extremereach.io
-yes-my-lord.com
-soup.io
-soupcdn.com
-yes-64k-notext-uni.ru
-ichlnk.com
-pupamedia.com
-download-geek.com
-usenet.nl
-privateinternetaccess.com
-spotify.com
-hidemyass.com
 fotpforums.com
-mydigitallife.net
 freelancer.com
 gloomwrite.com
 gotoes.org
+hidemyass.com
+ichlnk.com
 informaction.com
 itn.blinkx.com
 kenduktur.com
 marketing.dropbox.com
+mydigitallife.net
 noscript.net
+privateinternetaccess.com
+pupamedia.com
 softwareadvice.com
+soup.io
+soupcdn.com
+spotify.com
 thankswrite.com
 trutv.com
+usenet.nl
 w3schools.com
 weequizz.com
+yes-64k-notext-uni.ru
+yes-my-lord.com
 
 ! ======== Whitelist entries to un-break sites ========
 @@|https:$other
