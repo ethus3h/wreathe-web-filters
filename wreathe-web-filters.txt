@@ -463,6 +463,9 @@ amazon.com###hero-quick-promo
 amazon.com###nav-link-prime
 amazon.com###sc-new-upsell
 amazon.com###sidebar
+andrewmunsell.com##.sidebar
+andrewmunsell.com##[href^="http://graphicriver.net/"]
+andrewmunsell.com###pm_featurebox
 anime.thehylia.com##[href="https://anime.thehylia.com/forums/payments.php"]
 anitay.kinja.com###sharingfooter
 answers.yahoo.com##[href^="https://search.yahoo.com"]
@@ -576,7 +579,6 @@ click2houston.com##.emailWidget
 click2houston.com##.ui-small-carousel
 click2houston.com###footer
 click2houston.com###sidebar-wrap
-youtube.com##[href*="/user/rhettandlink"]
 clientsfromhell.net##.myhead
 clientsfromhell.net##.wf2-bg-dark
 clientsfromhell.net##[href^="http://t.umblr.com/"]
@@ -1449,6 +1451,7 @@ youtube.com##.ytp-ce-covering-overlay
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-ce-element-shadow
 youtube.com##.ytp-chrome-top-buttons
+youtube.com##[href*="/user/rhettandlink"]
 youtube.com##[href^="/red"]
 youtube.com##[href^="http://naturebox.com/"]
 youtube.com##[id^=watch][id$=sidebar]
@@ -1458,9 +1461,6 @@ youtube.com###autoplay
 youtube.com###comment-section-renderer
 youtube.com###comments
 youtube.com###content > .ytd-metadata-row-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
-andrewmunsell.com##.sidebar
-andrewmunsell.com###pm_featurebox
-andrewmunsell.com##[href^="http://graphicriver.net/"]
 youtube.com###feed-main-what_to_watch
 youtube.com###related
 youtube.com###unlimited-guide-item
