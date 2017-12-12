@@ -1,179 +1,61 @@
-! 12/2/2017, 10:45:50 PM http://www.ew.com/article/2010/08/24/mockingjay-review-spoiler-alert/
-www.ew.com##header
-
-! 12/2/2017, 10:46:15 PM http://www.ew.com/article/2010/08/24/mockingjay-review-spoiler-alert/
-www.ew.com##.sidebar-right
-
-! 12/3/2017, 12:02:08 AM http://www.syfy.com/syfywire/top-25-movies-about-exploring-space-ranked
-www.syfy.com##.header
-
-! 12/3/2017, 12:02:32 AM http://www.syfy.com/syfywire/top-25-movies-about-exploring-space-ranked
-www.syfy.com##.article-strip__outer-wrapper--sticky
-
-! 12/3/2017, 1:21:04 PM https://filterlists.com/
+9to5mac.com##.author-gear
+9to5mac.com##.embed-youtube
+9to5mac.com##.news-feed-header
+9to5mac.com##.post-body > [class^=th]
+9to5mac.com##.post-content > [class^=th]
+9to5mac.com##.related-guides-container
+9to5mac.com##[href^="https://www.youtube.com/c/9to5mac"]
+9to5mac.com##[id^=infinite-view]
+9to5mac.com###infinite-view-1
+9to5mac.com###js-site-header
+chatbotsmagazine.com##.metabar
+chatbotsmagazine.com##a
 filterlists.com##[title^=Donate]
-
-! 12/3/2017, 1:31:06 PM https://www.opb.org/news/article/historians-explore-salems-underground/
-www.opb.org##.tab-bar
-
-! 12/3/2017, 1:31:15 PM https://www.opb.org/news/article/historians-explore-salems-underground/
-www.opb.org###persistent-content
-
-! 12/3/2017, 1:32:58 PM https://www.opb.org/news/article/historians-explore-salems-underground/
-www.opb.org##.article-read-more
-
-! 12/4/2017, 1:51:14 AM https://www.workandmoney.com/s/commonly-misused-phrases-that-will-make-you-sound-unprofessional-1923fda75f53419d?utm_medium=cpc&utm_source=fac&utm_campaign=misusedphrases-a649ddd16ff92e20
-www.workandmoney.com##.header
-
-! 12/4/2017, 1:51:37 AM https://www.workandmoney.com/s/commonly-misused-phrases-that-will-make-you-sound-unprofessional-1923fda75f53419d?utm_medium=cpc&utm_source=fac&utm_campaign=misusedphrases-a649ddd16ff92e20
-www.workandmoney.com##.story-tags
-
-! 12/4/2017, 1:59:57 AM https://www.workandmoney.com/s/commonly-misused-phrases-that-will-make-you-sound-unprofessional-1923fda75f53419d?utm_medium=cpc&utm_source=fac&utm_campaign=misusedphrases-a649ddd16ff92e20
-www.workandmoney.com##.story-bottom
-
-! 12/4/2017, 2:00:12 AM https://www.workandmoney.com/s/commonly-misused-phrases-that-will-make-you-sound-unprofessional-1923fda75f53419d?utm_medium=cpc&utm_source=fac&utm_campaign=misusedphrases-a649ddd16ff92e20
-www.workandmoney.com##.list-next-button
-
-! 12/4/2017, 11:37:53 AM https://www.wired.com/story/evolution-of-data-leaks/?google_editors_picks=true
-www.wired.com##.header
-
-! 12/4/2017, 11:39:09 AM http://www.telegraph.co.uk/news/2017/12/04/opposition-campaigner-david-ndiiarrested-kenya-political-crises/
-www.telegraph.co.uk##.container-fluid
-
-! 12/4/2017, 11:39:19 AM http://www.telegraph.co.uk/news/2017/12/04/opposition-campaigner-david-ndiiarrested-kenya-political-crises/
-www.telegraph.co.uk##.article__breadcrumb
-
+github.com##.signup-prompt-bg
+office-watch.com##.entry-content div
+office-watch.com##.post-nav
+office-watch.com###headerwrap
+office-watch.com###sidebar
+projects.invisionapp.com##.upgrade
+projects.invisionapp.com###onboarding-craft-blue-modal
+projects.invisionapp.com###studio-announcement-banner
 telegraph.co.uk##.header-headline-wrapper
 telegraph.co.uk##.header-top-wrapper
-
-! 12/4/2017, 4:28:31 PM http://www.makeuseof.com/tag/download-windows-xp-for-free-and-legally-straight-from-microsoft-si/
-www.makeuseof.com##.mobile-header-wrap
-
-! 12/4/2017, 4:28:53 PM http://www.makeuseof.com/tag/download-windows-xp-for-free-and-legally-straight-from-microsoft-si/
-www.makeuseof.com##.article-card-taxonomy-container
-
-! 12/4/2017, 4:29:12 PM http://www.makeuseof.com/tag/download-windows-xp-for-free-and-legally-straight-from-microsoft-si/
-www.makeuseof.com##.link-callout
-
-! 12/4/2017, 4:49:00 PM https://winworldpc.com/product/microsoft-greetings/99-30
-winworldpc.com##.vanilla-credit
-
-! 12/4/2017, 8:30:20 PM https://www.fastcodesign.com/3048139/what-is-zero-ui-and-why-is-it-crucial-to-the-future-of-design
-www.fastcodesign.com##.page-header
-
-! 12/4/2017, 8:38:15 PM https://www.wired.com/2015/12/simplicity-is-overrated-in-ux-design/
-www.wired.com###global-header
-
-! 12/4/2017, 8:43:26 PM https://uxmag.com/creating-a-chatbot
-uxmag.com###header
-
-! 12/4/2017, 8:43:55 PM https://uxmag.com/creating-a-chatbot
-uxmag.com###usertoolbar
-
-! 12/4/2017, 8:44:20 PM https://uxmag.com/creating-a-chatbot
-uxmag.com###navigation
-
-! 12/4/2017, 8:44:37 PM https://uxmag.com/creating-a-chatbot
 uxmag.com##.user-toolbar
-
-! 12/4/2017, 9:00:16 PM https://chatbotsmagazine.com/how-bots-will-completely-kill-websites-and-mobile-apps-656db8e6fc03
-chatbotsmagazine.com##.metabar
-
-! 12/4/2017, 9:02:10 PM https://chatbotsmagazine.com/how-bots-will-completely-kill-websites-and-mobile-apps-656db8e6fc03
-chatbotsmagazine.com##a
-
-! 12/4/2017, 9:14:48 PM https://office-watch.com/2017/make-the-office-ribbon-suit-you-not-microsoft/
-office-watch.com###headerwrap
-
-! 12/4/2017, 9:16:46 PM https://office-watch.com/2017/make-the-office-ribbon-suit-you-not-microsoft/
-office-watch.com##.entry-content div
-
-! 12/4/2017, 9:17:32 PM https://office-watch.com/2017/make-the-office-ribbon-suit-you-not-microsoft/
-office-watch.com##.post-nav
-
-! 12/4/2017, 9:17:50 PM https://office-watch.com/2017/make-the-office-ribbon-suit-you-not-microsoft/
-office-watch.com###sidebar
-
-! 12/6/2017, 3:03:16 PM https://projects.invisionapp.com/d/main#/projects
-projects.invisionapp.com###studio-announcement-banner
-
-! 12/6/2017, 3:03:37 PM https://projects.invisionapp.com/d/main#/projects
-projects.invisionapp.com##.upgrade
-
-! 12/6/2017, 3:05:16 PM https://projects.invisionapp.com/d/main#/projects/prototypes/12799819
-projects.invisionapp.com###onboarding-craft-blue-modal
-
-! 12/7/2017, 8:45:31 AM https://www.worryfreelabs.com/the-future-of-ui-ux-with-an-emphasis-on-the-x/
-www.worryfreelabs.com##.navbar-header
-
-! 12/7/2017, 8:59:37 AM https://www.worryfreelabs.com/the-future-of-ui-ux-with-an-emphasis-on-the-x/
-www.worryfreelabs.com###content h3
-
-! 12/7/2017, 9:00:21 AM https://www.worryfreelabs.com/the-future-of-ui-ux-with-an-emphasis-on-the-x/
-www.worryfreelabs.com##.post-body > strong:last-of-type
-
-! 12/7/2017, 9:00:32 AM https://www.worryfreelabs.com/the-future-of-ui-ux-with-an-emphasis-on-the-x/
-www.worryfreelabs.com###nav-below
-
-! 12/7/2017, 9:00:50 AM https://www.worryfreelabs.com/the-future-of-ui-ux-with-an-emphasis-on-the-x/
-www.worryfreelabs.com##.post-related
-
-! 12/7/2017, 11:31:22 AM https://www.pcmag.com/article2/0,2817,2409010,00.asp
-www.pcmag.com###main-top-nav
-
-! 12/7/2017, 11:33:36 AM https://www.pcmag.com/article2/0,2817,2409010,00.asp
-www.pcmag.com##.splash-module
-
-! 12/7/2017, 11:35:06 AM https://www.pcmag.com/article2/0,2817,2409010,00.asp
-www.pcmag.com##.story-navigation
-
-! 12/7/2017, 11:35:22 AM https://www.pcmag.com/article2/0,2817,2409010,00.asp
-www.pcmag.com##.inside-module
-
-! 12/7/2017, 11:46:59 AM https://www.eff.org/deeplinks/2012/08/googles-opaque-new-policy-lets-rightsholders-dictate-search-results
-www.eff.org##.pane-effector-signup
-
-! 12/7/2017, 11:47:21 AM https://www.eff.org/deeplinks/2012/08/googles-opaque-new-policy-lets-rightsholders-dictate-search-results
-www.eff.org##.pane-blog-related-content-panel-pane-1
-
-! 12/7/2017, 11:47:49 AM https://www.eff.org/deeplinks/2012/08/googles-opaque-new-policy-lets-rightsholders-dictate-search-results
+uxmag.com###header
+uxmag.com###navigation
+uxmag.com###usertoolbar
+winworldpc.com##.vanilla-credit
 www.eff.org##.menu-name-menu-footer-social-links
-
-! 12/8/2017, 2:05:42 AM https://www.newscientist.com/article/2151032-googles-quantum-computing-plans-threatened-by-ibm-curveball/
+www.eff.org##.pane-blog-related-content-panel-pane-1
+www.eff.org##.pane-effector-signup
+www.ew.com##.sidebar-right
+www.ew.com##header
+www.fastcodesign.com##.page-header
+www.makeuseof.com##.article-card-taxonomy-container
+www.makeuseof.com##.link-callout
+www.makeuseof.com##.mobile-header-wrap
 www.newscientist.com##.box-out
-
-! 12/8/2017, 10:41:45 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com##.post-body > [class^=th]
-
-! 12/8/2017, 10:41:56 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com###js-site-header
-
-! 12/8/2017, 10:42:22 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com##.news-feed-header
-
-! 12/8/2017, 10:43:01 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com##.embed-youtube
-
-! 12/8/2017, 10:43:19 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com##[href^="https://www.youtube.com/c/9to5mac"]
-
-! 12/8/2017, 10:43:29 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com##.related-guides-container
-
-! 12/8/2017, 10:43:44 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com##.author-gear
-
-! 12/8/2017, 10:44:14 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com##.post-content > [class^=th]
-
-! 12/8/2017, 10:44:29 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com###infinite-view-1
-
-! 12/8/2017, 10:44:50 PM https://9to5mac.com/2017/12/08/turi-create-framework-release/
-9to5mac.com##[id^=infinite-view]
-
-! 12/11/2017, 10:50:11 PM https://github.com/Git-Mediawiki/Git-Mediawiki
-github.com##.signup-prompt-bg
-
-! 12/12/2017, 1:15:34 AM https://www.youtube.com/
+www.opb.org##.article-read-more
+www.opb.org##.tab-bar
+www.opb.org###persistent-content
+www.pcmag.com##.inside-module
+www.pcmag.com##.splash-module
+www.pcmag.com##.story-navigation
+www.pcmag.com###main-top-nav
+www.syfy.com##.article-strip__outer-wrapper--sticky
+www.syfy.com##.header
+www.telegraph.co.uk##.article__breadcrumb
+www.telegraph.co.uk##.container-fluid
+www.wired.com##.header
+www.wired.com###global-header
+www.workandmoney.com##.header
+www.workandmoney.com##.list-next-button
+www.workandmoney.com##.story-bottom
+www.workandmoney.com##.story-tags
+www.worryfreelabs.com##.navbar-header
+www.worryfreelabs.com##.post-body > strong:last-of-type
+www.worryfreelabs.com##.post-related
+www.worryfreelabs.com###content h3
+www.worryfreelabs.com###nav-below
 www.youtube.com##.ytd-two-column-browse-results-renderer
