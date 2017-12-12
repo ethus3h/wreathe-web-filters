@@ -17,6 +17,12 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 16wmpo.com
 21stcenturywire.com
 24newsflash.com
+rationalwiki.org
+uncyclopedia.wikia.com
+quora.com
+uncyclopedia.co
+uncyc.org
+encyclopediadramatica.rs
 24wpn.com
 365usanews.com
 4chan.org
