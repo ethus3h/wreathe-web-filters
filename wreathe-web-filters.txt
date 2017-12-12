@@ -404,6 +404,16 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2
 80000hours.org##[id^=toggler]
 80000hours.org###header.slideDown
 80000hours.org##iframe
+9to5mac.com##.author-gear
+9to5mac.com##.embed-youtube
+9to5mac.com##.news-feed-header
+9to5mac.com##.post-body > [class^=th]
+9to5mac.com##.post-content > [class^=th]
+9to5mac.com##.related-guides-container
+9to5mac.com##[href^="https://www.youtube.com/c/9to5mac"]
+9to5mac.com##[id^=infinite-view]
+9to5mac.com###infinite-view-1
+9to5mac.com###js-site-header
 abcnews.go.com###abcn-videoplayer
 about.com##[id^=exploreChannels]
 about.com##[id^=featuredTopicsTemplate]
@@ -531,6 +541,8 @@ buzzfeed.com##.Column2
 buzzfeed.com###hothead
 buzzfeed.com###mod-thumbstrip-1
 buzzfeed.com###next_on
+chatbotsmagazine.com##.metabar
+chatbotsmagazine.com##a
 chicagotribune.com##.trb_ar_summary_wrapper
 chicagotribune.com##.trb_eg_b.trb_eg
 claynewsnetwork.com##.boom_bar
@@ -672,12 +684,13 @@ duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.resul
 easypxy.com###include
 ebags.com##.in.fade.modal-backdrop
 ebay.com##.nojs
-forums.mydigitallife.net##.FloatingContainer
-mydigitallife.net##.FloatingContainer
 economictimes.indiatimes.com###pushSec
 edmsauce.com##.cp-clear.cp-info-bar-wrapper
 edmsauce.com##.cp-info-bar-body-overlay
 edmtunes.com##.td-main-sidebar
+eff.org##.menu-name-menu-footer-social-links
+eff.org##.pane-blog-related-content-panel-pane-1
+eff.org##.pane-effector-signup
 elle.com###transporter
 ello.co##.Footer
 ello.co##.isSignUp
@@ -688,6 +701,8 @@ emkei.cz###panel
 en.bookfi.net###vimsg
 enlightenment.org###plugin_include__start-shortcuts
 evanmiller.org##[href="http://www.wizardmac.com/"]
+ew.com##.sidebar-right
+ew.com##header
 experienceproject.com###adultpopup
 experienceproject.com##body > .cover
 experts123.com##.ui-front.ui-widget-overlay
@@ -698,8 +713,11 @@ facebook.com facebook.net * noop
 facebook.com##[id^=topnews_main_stream_]
 facebook.com###rightCol > *
 facebook.com###wdmJewel
+fastcodesign.com##.page-header
 fastcodesign.com##.post-page > div:not(:nth-of-type(1))
 feministfrequency.com##.footer-support
+filterlists.com##[title^=Donate]
+forums.mydigitallife.net##.FloatingContainer
 fossmint.com##[class$=ad-container]
 fossmint.com##[href="http://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/"]
 fotpforums.com###adblock-message
@@ -737,6 +755,7 @@ gearslutz.com###supportUsTop
 gist.github.com###new_gist > .container.edit > .form-actions > .tooltipped-s.tooltipped.js-gist-create.btn-secret.btn
 git-tower.com##.wrap-header-branding
 github.com##.octofication .message
+github.com##.signup-prompt-bg
 github.com##[href="/marketplace"]
 github.com###new_repository > .with-permission-fields > .form-checkbox:nth-of-type(2)
 github.com###readme > [href^="https://evilmartians.com/"]
@@ -859,6 +878,9 @@ madinamerica.com##.td-main-sidebar
 maine-csm.symplicity.com###optinmsg_c
 maine-csm.symplicity.com###optinmsg_mask
 mainecampus.com##.newsmag-blog-sidebar
+makeuseof.com##.article-card-taxonomy-container
+makeuseof.com##.link-callout
+makeuseof.com##.mobile-header-wrap
 makeuseof.com###sidebar
 makeuseof.com###wrapper > .container > .nolinks.rightcol
 marketwatch.com##.bulletin.notification
@@ -924,6 +946,7 @@ myanimelist.net##.index-watch-description
 myanimelist.net##[class^=banner-header]
 myanimelist.net###headerSmall > .banner-header-anime-straming
 myanimelist.net##div[style][data-height]:not(.btn-truncate)
+mydigitallife.net##.FloatingContainer
 networkworld.com##.promo
 newatlas.com##.header__login
 newatlas.com##.js-liftigniter-column
@@ -934,6 +957,7 @@ news.com.au##.rhc-stick
 news.com.au##.sticky-show
 news.com.au###footer
 news.com.au###sticky-module-2
+newscientist.com##.box-out
 newsweek.com##.trial-link
 newsy.com##.sponsored
 newyorker.com##[class^=Callout__inset]
@@ -961,7 +985,14 @@ nytimes.com###login-modal
 nytimes.com###related-coverage
 nytimes.com###site-index
 nytimes.com###whats-next
+office-watch.com##.entry-content div
+office-watch.com##.post-nav
+office-watch.com###headerwrap
+office-watch.com###sidebar
 omgubuntu.co.uk##.banner-slideshow
+opb.org##.article-read-more
+opb.org##.tab-bar
+opb.org###persistent-content
 opensource.org##.region-header.region
 opensource.org###popup-announcement-overlay
 opensource.org###popup-announcement-wrap
@@ -969,6 +1000,10 @@ oregonlive.com###newsletter_promo
 pastebin.com##.promo-bar
 pastebin.com###abrpm > div
 pastebin.com###notice
+pcmag.com##.inside-module
+pcmag.com##.splash-module
+pcmag.com##.story-navigation
+pcmag.com###main-top-nav
 pcsteps.com##.wp-embedded-content
 pcworld.com###network
 photobucket.com##.modal-backdrop
@@ -990,6 +1025,9 @@ postize.com##.sidebar
 prairiehome.org##.site-container > .site-inner > .content-sidebar-wrap > .widget-area.sidebar-primary.sidebar
 prairiehome.org###menu-item-87
 primewire.as##.tcc_mb > div:nth-of-type(1)
+projects.invisionapp.com##.upgrade
+projects.invisionapp.com###onboarding-craft-blue-modal
+projects.invisionapp.com###studio-announcement-banner
 quora.com##.PromptsList
 quora.com##.signup_modal_content
 quora.com##[^id="_background_wrapper"]
@@ -1122,6 +1160,8 @@ support.mozilla.org###tabzilla-panel
 svnbook.red-bean.com###rightcolumn a
 sweetwater.com##.ad
 sweetwater.com##.swf-offers
+syfy.com##.article-strip__outer-wrapper--sticky
+syfy.com##.header
 talky.io##.text-centered.message.page-flag
 techbeacon.com##.cta_text
 techcrunch.com##.announcement
@@ -1154,7 +1194,11 @@ tecmint.com##[id^="dgd_scrollbox-"]
 tecmint.com###dgd_scrollbox-11027
 tecmint.com###page > .container-inner > .main > .group.main-inner > .content > .group.pad:nth-of-type(2) > .after-post-box
 tecmint.com###quickiebarpro
+telegraph.co.uk##.article__breadcrumb
 telegraph.co.uk##.article__related
+telegraph.co.uk##.container-fluid
+telegraph.co.uk##.header-headline-wrapper
+telegraph.co.uk##.header-top-wrapper
 the-artifice.com##.btn-squared.btn-main-filled.btn-main.btn
 the-artifice.com##.radar-cont
 the-artifice.com##.subscribe-cont
@@ -1279,6 +1323,10 @@ uxdesign.cc##.js-postFooterPlacements
 uxdesign.cc##.js-relationshipButton
 uxdesign.cc##.metabar
 uxdesign.cc##.u-zIndexMetabar
+uxmag.com##.user-toolbar
+uxmag.com###header
+uxmag.com###navigation
+uxmag.com###usertoolbar
 vice.com##.list-view-container
 vice.com##.read-more
 vimeo.com##.iris_badge--plus
@@ -1304,10 +1352,12 @@ webcache.googleusercontent.com###funbar
 who.is###name_purchase
 wikipedia.org###frbanner-main
 wikipedia.org###frbanner-nag
+winworldpc.com##.vanilla-credit
 wired.com##.article-body-component ul
 wired.com##.cm-subscribe-link-wrapper
 wired.com##.comments-cta-component
 wired.com##.footer
+wired.com##.header
 wired.com##.header__nav--links
 wired.com##.inset-left-component
 wired.com##.panel--nav
@@ -1319,6 +1369,7 @@ wired.com##.toggle--search
 wired.com##.wrapper-prefooter
 wired.com###comments
 wired.com###global-footer > .link-underline-micro.mob-pad-b-med.site-container.caption
+wired.com###global-header
 wired.com###prefooter
 wired.com###related
 wix.com##.pup_container
@@ -1332,6 +1383,15 @@ wordpress.com##.upgrades-nudge
 wordpress.com##.web-preview__seo-button
 wordpress.com##[class$=upgrade-nudge]
 wordpress.com###plans
+workandmoney.com##.header
+workandmoney.com##.list-next-button
+workandmoney.com##.story-bottom
+workandmoney.com##.story-tags
+worryfreelabs.com##.navbar-header
+worryfreelabs.com##.post-body > strong:last-of-type
+worryfreelabs.com##.post-related
+worryfreelabs.com###content h3
+worryfreelabs.com###nav-below
 wsj.com##.carousel-container
 wsj.com##.evernote-clip-button
 wsj.com##.wsj-snippet-login
@@ -1340,6 +1400,8 @@ wsj.com##[class^=style__share]
 wsj.com##[href^="https://accounts.wsj.com/login"]
 wsj.com##[href^="https://subscribe.wsj.com/"]
 wsj.com###cx-snippetad
+www.youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+www.youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 xul.fr##.cc-banner
 xvideos.com###mobilesquare
 yellowpages.com##.sg-b-bar.sg-b-f
@@ -1353,11 +1415,10 @@ youtube.com##.generic-promo-impression-logging
 youtube.com##.videoblocker
 youtube.com##.watch-sidebar
 youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
-www.youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
-www.youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-single-option-survey-renderer
+youtube.com##.ytd-two-column-browse-results-renderer
 youtube.com##.ytd-watch-next-secondary-results-renderer
 youtube.com##.ytp-cards-button
 youtube.com##.ytp-ce-covering-overlay
@@ -1388,64 +1449,3 @@ youtubeloop.net###floatingSocialShare > .top-left > .pop-upper.tumblr
 zdnet.com##.relatedContent
 zdnet.com##.shareBar
 zdnet.com##[id^=lightbox]
-9to5mac.com##.author-gear
-9to5mac.com##.embed-youtube
-9to5mac.com##.news-feed-header
-9to5mac.com##.post-body > [class^=th]
-9to5mac.com##.post-content > [class^=th]
-9to5mac.com##.related-guides-container
-9to5mac.com##[href^="https://www.youtube.com/c/9to5mac"]
-9to5mac.com##[id^=infinite-view]
-9to5mac.com###infinite-view-1
-9to5mac.com###js-site-header
-chatbotsmagazine.com##.metabar
-chatbotsmagazine.com##a
-filterlists.com##[title^=Donate]
-github.com##.signup-prompt-bg
-office-watch.com##.entry-content div
-office-watch.com##.post-nav
-office-watch.com###headerwrap
-office-watch.com###sidebar
-projects.invisionapp.com##.upgrade
-projects.invisionapp.com###onboarding-craft-blue-modal
-projects.invisionapp.com###studio-announcement-banner
-telegraph.co.uk##.header-headline-wrapper
-telegraph.co.uk##.header-top-wrapper
-uxmag.com##.user-toolbar
-uxmag.com###header
-uxmag.com###navigation
-uxmag.com###usertoolbar
-winworldpc.com##.vanilla-credit
-eff.org##.menu-name-menu-footer-social-links
-eff.org##.pane-blog-related-content-panel-pane-1
-eff.org##.pane-effector-signup
-ew.com##.sidebar-right
-ew.com##header
-fastcodesign.com##.page-header
-makeuseof.com##.article-card-taxonomy-container
-makeuseof.com##.link-callout
-makeuseof.com##.mobile-header-wrap
-newscientist.com##.box-out
-opb.org##.article-read-more
-opb.org##.tab-bar
-opb.org###persistent-content
-pcmag.com##.inside-module
-pcmag.com##.splash-module
-pcmag.com##.story-navigation
-pcmag.com###main-top-nav
-syfy.com##.article-strip__outer-wrapper--sticky
-syfy.com##.header
-telegraph.co.uk##.article__breadcrumb
-telegraph.co.uk##.container-fluid
-wired.com##.header
-wired.com###global-header
-workandmoney.com##.header
-workandmoney.com##.list-next-button
-workandmoney.com##.story-bottom
-workandmoney.com##.story-tags
-worryfreelabs.com##.navbar-header
-worryfreelabs.com##.post-body > strong:last-of-type
-worryfreelabs.com##.post-related
-worryfreelabs.com###content h3
-worryfreelabs.com###nav-below
-youtube.com##.ytd-two-column-browse-results-renderer
