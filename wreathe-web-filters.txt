@@ -2470,7 +2470,6 @@ stackoverflow.com##.aside-cta
 stackoverflow.com##.bottom-notice
 stackoverflow.com##.comments-link.js-add-link
 stackoverflow.com##.community-bulletin
-stackoverflow.com##.community-bulletin
 stackoverflow.com##.hero-box
 stackoverflow.com##.js-add-link
 stackoverflow.com##.post-menu
@@ -2478,8 +2477,6 @@ stackoverflow.com##.star-off
 stackoverflow.com##.top-bar
 stackoverflow.com##.topbar
 stackoverflow.com##.vote-down-off
-stackoverflow.com##.vote-down-off
-stackoverflow.com##.vote-up-off
 stackoverflow.com##.vote-up-off
 stackoverflow.com###announcement-banner
 stackoverflow.com###answers > .bottom-notice
@@ -2487,7 +2484,6 @@ stackoverflow.com###chat-feature
 stackoverflow.com###herobox
 stackoverflow.com###hot-network-questions
 stackoverflow.com###noscript-warning
-stackoverflow.com###post-form
 stackoverflow.com###post-form
 stackshare.io##.in.modal-backdrop
 stackshare.io###signingoogleModal
@@ -2576,7 +2572,6 @@ theatlantic.com##.callout
 theatlantic.com###article-most-popular
 thedailybeast.com##.ArticleSidebarWrapper:not(:nth-of-type(1))
 thedailybeast.com##.RelatedArticles
-thedailywtf.com##.article-body > div
 thedailywtf.com##.article-body > div
 thedailywtf.com##.article-body > div:nth-of-type(1)
 thedailywtf.com###articlePage > .articleWrapper.columns.twelve > .content > .row > .container > .article-body > div:nth-of-type(1)
