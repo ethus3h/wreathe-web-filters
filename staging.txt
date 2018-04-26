@@ -781,14 +781,11 @@ nmd345-2018s.slack.com###coachmark
 /watch_autoplayrenderer.js$script,domain=www.youtube.com
 /annotations_module.js$script,domain=www.youtube.com
 
-this one below, is not required unless you block all cookies
 /endscreen.js$script,domain=www.youtube.com
 
 
 
-! block the video feed
 bloomberg.com*video^
-! hide the player
 bloomberg.com##.video-player
 
 ||cdn.gotraffic.net/projector/latest/bplayer.js$script,important
