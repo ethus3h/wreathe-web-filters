@@ -1,805 +1,805 @@
-! 12/14/2017, 6:54:38 PM https://www.reddit.com/r/RotMG/
-www.reddit.com##.listingsignupbar
 
-! 12/15/2017, 12:53:24 PM https://mail.google.com/mail/u/0/#inbox
-mail.google.com##.gb_ad
 
-! 12/17/2017, 10:29:48 PM https://objective-see.com/blog/blog_0x24.html
-objective-see.com##div:nth-of-type(4)
 
-! 12/17/2017, 10:30:04 PM https://objective-see.com/blog/blog_0x24.html
-objective-see.com##.menubutton
 
-! 12/17/2017, 10:30:17 PM https://objective-see.com/blog/blog_0x24.html
-objective-see.com##nav:nth-of-type(1)
 
-! 12/17/2017, 10:30:46 PM https://objective-see.com/blog/blog_0x24.html
-objective-see.com##nav
 
-! 12/17/2017, 10:37:27 PM https://objective-see.com/blog/blog_0x24.html
-objective-see.com##.blogContent > div:last-of-type
 
-! 12/17/2017, 11:16:42 PM https://www.kirkusreviews.com/features/katherine-arden/
-www.kirkusreviews.com##aside
 
-! 12/17/2017, 11:16:55 PM https://www.kirkusreviews.com/features/katherine-arden/
-www.kirkusreviews.com##.navbar
 
-! 12/17/2017, 11:17:12 PM https://www.kirkusreviews.com/features/katherine-arden/
-www.kirkusreviews.com##.top-nav
 
-! 12/17/2017, 11:20:39 PM https://www.kirkusreviews.com/features/katherine-arden/
-www.kirkusreviews.com##a[href="#continue_reading_post"]
 
-! 12/17/2017, 11:21:22 PM https://www.kirkusreviews.com/features/katherine-arden/
-www.kirkusreviews.com##.blog-post-teaser-txt-ctr
 
-! 12/17/2017, 11:21:31 PM https://www.kirkusreviews.com/features/katherine-arden/
-www.kirkusreviews.com##.related-content-header-text
 
-! 12/17/2017, 11:21:40 PM https://www.kirkusreviews.com/features/katherine-arden/
-www.kirkusreviews.com##.blog-footer
 
-! 12/19/2017, 10:52:30 PM https://clientsfromhell.net/
-clientsfromhell.net##h3 a
 
-! 12/21/2017, 12:23:02 AM http://www.nme.com/news/music/viewers-u2-bbc-really-wanted-bono-shut-2178338
-www.nme.com###header
 
-! 12/21/2017, 12:23:15 AM http://www.nme.com/news/music/viewers-u2-bbc-really-wanted-bono-shut-2178338
-www.nme.com##nav
 
-! 12/21/2017, 12:23:57 AM http://www.nme.com/news/music/viewers-u2-bbc-really-wanted-bono-shut-2178338
-www.nme.com##.sticky-anchor
 
-! 12/21/2017, 12:24:33 AM http://www.nme.com/news/music/viewers-u2-bbc-really-wanted-bono-shut-2178338
-www.nme.com##.advert
 
-! 12/21/2017, 12:26:37 AM http://www.nme.com/news/music/arcade-fire-apologise-for-controversial-everything-now-social-media-campaign-2123629
-www.nme.com##.articleBody > ul
 
-! 1/11/2018, 3:15:56 PM https://blogs.oracle.com/virtualization/vbox52
-blogs.oracle.com##.sticky-wrapper
 
-! 1/11/2018, 3:16:16 PM https://blogs.oracle.com/virtualization/vbox52
-blogs.oracle.com##.cw51title
 
-! 1/11/2018, 3:16:34 PM https://blogs.oracle.com/virtualization/vbox52
-blogs.oracle.com##.cb07
 
-! 1/11/2018, 3:34:29 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com###announcement-banner
 
-! 1/11/2018, 3:35:18 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com##.vote-up-off
 
-! 1/11/2018, 3:35:31 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com##.vote-down-off
 
-! 1/11/2018, 3:35:42 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com##.star-off
 
-! 1/11/2018, 3:36:13 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com##.js-add-link
 
-! 1/11/2018, 3:36:27 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com###post-form
 
-! 1/11/2018, 3:36:41 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com##.bottom-notice
 
-! 1/11/2018, 3:37:37 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com###hot-network-questions
 
-! 1/11/2018, 3:37:55 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com##.community-bulletin
 
-! 1/11/2018, 3:38:12 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com##.top-bar
 
-! 1/11/2018, 3:38:24 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
-stackoverflow.com##.aside-cta
 
-! 1/11/2018, 4:20:00 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
-stackoverflow.blog##.top-bar
 
-! 1/11/2018, 4:20:14 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
-stackoverflow.blog###masthead
 
-! 1/11/2018, 4:27:23 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
-stackoverflow.blog##.three-x-post-block
 
-! 1/11/2018, 4:27:35 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
-stackoverflow.blog##.twitter-row
 
-! 1/11/2018, 4:27:45 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
-stackoverflow.blog##.comments-wrapper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ! 1/11/2018, 11:59:30 PM https://github.com/blog/941-issues-dashboard
-github.com##.no-underline.text-center
-
+! 1/11/2018, 3:15:56 PM https://blogs.oracle.com/virtualization/vbox52
+! 1/11/2018, 3:16:16 PM https://blogs.oracle.com/virtualization/vbox52
+! 1/11/2018, 3:16:34 PM https://blogs.oracle.com/virtualization/vbox52
+! 1/11/2018, 3:34:29 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:35:18 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:35:31 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:35:42 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:36:13 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:36:27 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:36:41 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:37:37 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:37:55 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:38:12 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 3:38:24 PM https://stackoverflow.com/questions/26751970/how-to-push-changes-from-one-branch-to-another
+! 1/11/2018, 4:20:00 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
+! 1/11/2018, 4:20:14 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
+! 1/11/2018, 4:27:23 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
+! 1/11/2018, 4:27:35 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
+! 1/11/2018, 4:27:45 PM https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?cb=1
 ! 1/12/2018, 8:52:55 PM https://travis-ci.org/ethus3h
-travis-ci.org##.cta
-
 ! 1/13/2018, 6:49:44 PM https://ask.audio/articles/review-steinberg-dorico
-ask.audio###header
-
 ! 1/13/2018, 9:27:26 PM https://thedailywtf.com/articles/hamilton-hamilton-hamilton-hamilton
-thedailywtf.com##.article-body > div
-
 ! 1/16/2018, 3:24:40 PM https://www.reddit.com/r/RotMG/comments/7qjl1t/about_the_ice_tomb_events_droprates/
-www.reddit.com##.read-next
-
-! 1/18/2018, 9:08:35 PM https://bitcoinmagazine.com/articles/cryptocurrencys-red-tuesday-firesale-leaves-everyone-speculating/
-bitcoinmagazine.com##.navbar
-
-! 1/18/2018, 9:08:50 PM https://bitcoinmagazine.com/articles/cryptocurrencys-red-tuesday-firesale-leaves-everyone-speculating/
-bitcoinmagazine.com##.author-mobile-bar
-
 ! 1/18/2018, 10:32:15 PM https://arstechnica.com/gadgets/2016/10/building-android-a-40000-word-history-of-googles-mobile-os/2/
-arstechnica.com###social-footer
-
 ! 1/18/2018, 10:32:29 PM https://arstechnica.com/gadgets/2016/10/building-android-a-40000-word-history-of-googles-mobile-os/2/
-arstechnica.com##.prev-next-links
-
 ! 1/18/2018, 10:32:42 PM https://arstechnica.com/gadgets/2016/10/building-android-a-40000-word-history-of-googles-mobile-os/2/
-arstechnica.com##.site-footer
-
 ! 1/18/2018, 10:43:34 PM https://arstechnica.com/gadgets/2016/10/building-android-a-40000-word-history-of-googles-mobile-os/
-arstechnica.com##a[href="http://arstechnica.com/subscriptions/"]
-
 ! 1/18/2018, 10:44:09 PM https://arstechnica.com/gadgets/2016/10/building-android-a-40000-word-history-of-googles-mobile-os/
-arstechnica.com##a[href$="?all=1"]
-
 ! 1/18/2018, 10:45:59 PM https://arstechnica.com/gadgets/2016/10/building-android-a-40000-word-history-of-googles-mobile-os/
-arstechnica.com##a[href^="http://arstechnica.com/get-pdf/"]
-
+! 1/18/2018, 9:08:35 PM https://bitcoinmagazine.com/articles/cryptocurrencys-red-tuesday-firesale-leaves-everyone-speculating/
+! 1/18/2018, 9:08:50 PM https://bitcoinmagazine.com/articles/cryptocurrencys-red-tuesday-firesale-leaves-everyone-speculating/
 ! 1/19/2018, 1:26:45 AM https://arstechnica.com/gadgets/2012/02/path-addresses-privacy-controversy-but-social-apps-remain-a-risk-to-users/
-arstechnica.com##.inline-video
-
 ! 1/22/2018, 10:25:44 AM http://www.cnn.com/2017/03/21/opinions/judge-gorsuch-the-frozen-truck-driver-opinion-callan/index.html
-www.cnn.com##.el__leafmedia--factbox
-
 ! 1/22/2018, 11:13:22 AM https://userbase.kde.org/Nepomuk
-userbase.kde.org##.fixed
-
 ! 1/22/2018, 11:51:48 AM http://www.techradar.com/news/software/operating-systems/12-reasons-to-love-kde-1054988
-www.techradar.com##.hawk-multi-model-review-container
-
 ! 1/22/2018, 12:16:36 PM https://www.phoronix.com/scan.php?page=news_item&px=OpenDesktop-Acquired
-www.phoronix.com##[href$="premium"]
-
 ! 1/22/2018, 12:16:57 PM https://www.phoronix.com/scan.php?page=news_item&px=OpenDesktop-Acquired
-www.phoronix.com##[href^="https://www.paypal.com/cgi-bin/webscr"]
-
 ! 1/23/2018, 2:23:21 PM http://www.azquotes.com/quotes/topics/new-media.html?p=2
-www.azquotes.com##.wrap-ico
-
 ! 1/23/2018, 2:23:41 PM http://www.azquotes.com/quotes/topics/new-media.html?p=2
-www.azquotes.com##.b-social-links
-
 ! 1/25/2018, 1:15:15 AM https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=dd&subtype=sm&htmlfid=897/ENUS5650-ZOS
-www-01.ibm.com##[id^=ibm-overlaywidget]
-
 ! 1/25/2018, 1:15:24 AM https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=dd&subtype=sm&htmlfid=897/ENUS5650-ZOS
-www-01.ibm.com###ibm-overlay-backdrop
-
 ! 1/25/2018, 12:16:00 PM https://clientsfromhell.net/
-clientsfromhell.net##[href^="https://t.umblr.com"]
-
-! 1/26/2018, 11:13:16 AM http://knowyourmeme.com/photos/1218453-donald-trump
-knowyourmeme.com###leaderboard
-
 ! 1/26/2018, 10:24:57 PM http://www.esquire.com/entertainment/music/a15349790/chainsmokers-sick-boy-review/
-www.esquire.com##.embed-center
-
+! 1/26/2018, 11:13:16 AM http://knowyourmeme.com/photos/1218453-donald-trump
 ! 1/28/2018, 1:17:36 AM https://www.npr.org/sections/codeswitch/2016/03/14/468724848/k-a-a-n-is-the-answer-to-all-of-your-rap-desires
-www.npr.org##.story-recommendations
-
+! 1/28/2018, 8:23:33 PM https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/intro-to-css?action=lesson_resume&course_redirect=learn-css
+! 1/28/2018, 9:59:48 PM https://discordapp.com/channels/230500411835023362/364164786734366721
+! 1/29/2018, 10:14:43 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
+! 1/29/2018, 10:14:59 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
+! 1/29/2018, 10:15:12 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
+! 1/29/2018, 10:15:27 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
+! 1/29/2018, 10:15:42 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
+! 1/29/2018, 5:27:56 PM https://blog.jetbrains.com/idea/2017/07/intellij-idea-2017-2-is-here-smart-sleek-and-snappy/
+! 1/29/2018, 9:33:34 PM https://www.whosampled.com/Vanic/Too-Soon/
+! 1/29/2018, 9:33:50 PM https://www.whosampled.com/Vanic/Too-Soon/
+! 1/29/2018, 9:34:04 PM https://www.whosampled.com/Vanic/Too-Soon/
+! 1/29/2018, 9:34:14 PM https://www.whosampled.com/Vanic/Too-Soon/
+! 1/29/2018, 9:34:33 PM https://www.whosampled.com/Vanic/Too-Soon/
+! 1/30/2018, 9:34:57 PM http://www.samethattune.com/dont-stand-so-close-me-police-sounds-money-nothing-dire-straits
+! 1/30/2018, 9:35:11 PM http://www.samethattune.com/dont-stand-so-close-me-police-sounds-money-nothing-dire-straits
+! 12/14/2017, 6:54:38 PM https://www.reddit.com/r/RotMG/
+! 12/15/2017, 12:53:24 PM https://mail.google.com/mail/u/0/#inbox
+! 12/17/2017, 10:29:48 PM https://objective-see.com/blog/blog_0x24.html
+! 12/17/2017, 10:30:04 PM https://objective-see.com/blog/blog_0x24.html
+! 12/17/2017, 10:30:17 PM https://objective-see.com/blog/blog_0x24.html
+! 12/17/2017, 10:30:46 PM https://objective-see.com/blog/blog_0x24.html
+! 12/17/2017, 10:37:27 PM https://objective-see.com/blog/blog_0x24.html
+! 12/17/2017, 11:16:42 PM https://www.kirkusreviews.com/features/katherine-arden/
+! 12/17/2017, 11:16:55 PM https://www.kirkusreviews.com/features/katherine-arden/
+! 12/17/2017, 11:17:12 PM https://www.kirkusreviews.com/features/katherine-arden/
+! 12/17/2017, 11:20:39 PM https://www.kirkusreviews.com/features/katherine-arden/
+! 12/17/2017, 11:21:22 PM https://www.kirkusreviews.com/features/katherine-arden/
+! 12/17/2017, 11:21:31 PM https://www.kirkusreviews.com/features/katherine-arden/
+! 12/17/2017, 11:21:40 PM https://www.kirkusreviews.com/features/katherine-arden/
+! 12/19/2017, 10:52:30 PM https://clientsfromhell.net/
+! 12/21/2017, 12:23:02 AM http://www.nme.com/news/music/viewers-u2-bbc-really-wanted-bono-shut-2178338
+! 12/21/2017, 12:23:15 AM http://www.nme.com/news/music/viewers-u2-bbc-really-wanted-bono-shut-2178338
+! 12/21/2017, 12:23:57 AM http://www.nme.com/news/music/viewers-u2-bbc-really-wanted-bono-shut-2178338
+! 12/21/2017, 12:24:33 AM http://www.nme.com/news/music/viewers-u2-bbc-really-wanted-bono-shut-2178338
+! 12/21/2017, 12:26:37 AM http://www.nme.com/news/music/arcade-fire-apologise-for-controversial-everything-now-social-media-campaign-2123629
+! 2/10/2018, 11:43:35 PM https://www.youtube.com/
+! 2/10/2018, 9:08:23 PM https://solarmoviez.ru/movie/the-west-wing-season-1-10875/745001-7/watching.html
+! 2/10/2018, 9:08:42 PM https://solarmoviez.ru/movie/the-west-wing-season-1-10875/745001-7/watching.html
+! 2/11/2018, 1:48:34 AM https://www.wired.co.uk/article/google-deep-dream
+! 2/11/2018, 6:33:27 PM https://arstechnica.com/gadgets/2012/03/does-this-smartphone-make-me-look-stupid-meet-the-ladyphones/
+! 2/11/2018, 6:51:18 PM https://www.youtube.com//live_chat?continuation=0ofMyANEGjRDaU1TSVFvWVZVTXlaVzlWZDFKUmNqazNObm81U2tKV1JVaFRZa1ZCRWdVdmJHbDJaU0FCMAFoBIIBBAgEEACIAQE%253D
+! 2/11/2018, 8:32:24 PM http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/
+! 2/12/2018, 6:27:38 PM http://momodeli.com/movies/oblivion-2013-720p_brrip_x264_aac/
+! 2/12/2018, 6:28:54 PM https://www.tv21.org/oblivion-2013/
+! 2/12/2018, 6:29:26 PM https://www.tv21.org/oblivion-2013/
+! 2/12/2018, 6:29:37 PM https://www.tv21.org/oblivion-2013/
+! 2/12/2018, 8:32:34 PM https://openload.co/f/4CE0XIWjxJ0/Oblivion.2013.720p.BluRay.x264.YIFY.mp4
+! 2/13/2018, 5:33:26 PM http://www.kreativekorp.com/software/fonts/apple2.shtml
+! 2/13/2018, 7:57:45 PM http://www.novagraaf.com/en/news?newspath=/NewsItems/en/trademark-protection-and-social-media-the-rise-of-the-hashflag
+! 2/13/2018, 7:57:53 PM http://www.novagraaf.com/en/news?newspath=/NewsItems/en/trademark-protection-and-social-media-the-rise-of-the-hashflag
+! 2/14/2018, 10:08:37 AM https://tomassetti.me/parsing-in-javascript/
+! 2/14/2018, 10:26:08 AM https://petapixel.com/2018/02/12/picture-single-atom-wins-science-photo-contest/
+! 2/14/2018, 10:43:22 AM https://www.poynter.org/news/new-york-times-copy-desk-top-editors-you-have-turned-your-backs-us
+! 2/14/2018, 10:43:39 AM https://www.poynter.org/news/new-york-times-copy-desk-top-editors-you-have-turned-your-backs-us
+! 2/14/2018, 10:58:02 AM https://www.daedtech.com/code-generation-seems-like-a-failure-of-vision/
+! 2/14/2018, 10:58:15 AM https://www.daedtech.com/code-generation-seems-like-a-failure-of-vision/
+! 2/15/2018, 11:48:21 AM https://venturebeat.com/2018/02/15/indian-character-crashes-ios-11-2-5-may-require-full-device-restore/
+! 2/15/2018, 11:56:21 AM https://mashable.com/2017/07/26/twitter-useless-notifications/#AdNgEg5JwPqS
+! 2/15/2018, 11:56:55 AM https://mashable.com/2017/07/26/twitter-useless-notifications/#AdNgEg5JwPqS
+! 2/15/2018, 12:31:42 AM https://cssminifier.com/
+! 2/15/2018, 12:32:02 AM https://www.minifier.org/
+! 2/15/2018, 12:33:40 AM https://www.cleancss.com/css-minify/
+! 2/15/2018, 7:19:13 PM http://www.imdb.com/title/tt1190080/?ref_=tt_rec_tt
+! 2/16/2018, 5:15:23 PM http://tribler.readthedocs.io/en/devel/building/building.html
+! 2/18/2018, 11:23:34 AM https://www.speedrun.com/Taz-Mania#Beat_The_Game
+! 2/18/2018, 11:23:49 AM https://www.speedrun.com/Taz-Mania#Beat_The_Game
+! 2/18/2018, 11:46:10 AM http://www.snes9x.com/journal.asp?PageNo=2
+! 2/2/2018, 12:16:37 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
+! 2/2/2018, 12:21:25 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
+! 2/2/2018, 12:22:41 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
+! 2/2/2018, 12:22:50 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
+! 2/2/2018, 12:23:06 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
+! 2/20/2018, 12:00:50 PM http://www.wpbeginner.com/beginners-guide/how-to-create-an-image-gallery-in-wordpress/
+! 2/20/2018, 6:25:06 PM https://clientsfromhell.net/
+! 2/21/2018, 1:43:14 PM https://theoutline.com/post/2206/the-node-js-code-of-conduct-diversity-tech?zd=3&zi=lbkcw2nu
+! 2/21/2018, 1:44:02 PM https://theoutline.com/post/2206/the-node-js-code-of-conduct-diversity-tech?zd=3&zi=lbkcw2nu
+! 2/21/2018, 1:44:13 PM https://theoutline.com/post/2206/the-node-js-code-of-conduct-diversity-tech?zd=3&zi=lbkcw2nu
+! 2/23/2018, 3:21:21 PM https://fafsa.ed.gov/FAFSA/app/fafsa?execution=e1s15
+! 2/25/2018, 11:13:04 PM https://www.recode.net/2016/7/7/12116296/marissa-mayer-deal-mozilla-yahoo-payment
+! 2/25/2018, 11:13:19 PM https://www.recode.net/2016/7/7/12116296/marissa-mayer-deal-mozilla-yahoo-payment
+! 2/25/2018, 5:02:19 PM http://www.thehindu.com/thread/reflections/article8201785.ece
+! 2/25/2018, 9:09:24 PM https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af
+! 2/25/2018, 9:51:21 PM https://www.bignox.com/
+! 2/25/2018, 9:51:33 PM https://www.bignox.com/
+! 2/26/2018, 10:16:35 AM http://maryflanagan.com/work/phage/
+! 2/26/2018, 10:16:55 AM http://maryflanagan.com/work/phage/
+! 2/26/2018, 11:52:15 AM https://www.theinquirer.net/inquirer/news/2422249/ibm-makes-biggest-code-drop-as-canonical-and-suse-tie-up-brings-linux-to-mainframes
+! 2/26/2018, 11:52:32 AM https://www.theinquirer.net/inquirer/news/2422249/ibm-makes-biggest-code-drop-as-canonical-and-suse-tie-up-brings-linux-to-mainframes
+! 2/26/2018, 11:52:41 AM https://www.theinquirer.net/inquirer/news/2422249/ibm-makes-biggest-code-drop-as-canonical-and-suse-tie-up-brings-linux-to-mainframes
+! 2/26/2018, 12:17:56 PM https://www.theinquirer.net/inquirer/news/2475805/iphone-x-price-deals-and-news-sluggish-iphone-x-sales-leave-samsung-scrambling-for-oled-buyers
+! 2/26/2018, 3:34:18 PM https://www.wired.com/story/replika-open-source/
+! 2/26/2018, 3:34:23 PM https://www.wired.com/story/replika-open-source/
+! 2/26/2018, 3:38:33 PM https://www.reddit.com/r/replika/comments/6rc3sf/this_is_not_an_ai/
+! 2/26/2018, 9:36:28 PM http://gabrielecirulli.github.io/2048/
+! 2/26/2018, 9:56:51 AM https://gizmodo.com/jennicam-why-the-first-lifecaster-disappeared-from-the-1697712996
+! 2/26/2018, 9:57:00 AM https://gizmodo.com/jennicam-why-the-first-lifecaster-disappeared-from-the-1697712996
+! 2/5/2018, 11:44:35 AM https://www.facebook.com/elliot.wallace.79
+! 2/5/2018, 12:50:22 PM https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
+! 2/5/2018, 12:50:40 PM https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
+! 2/5/2018, 9:43:28 AM https://3dprint.com/50777/molecular-3d-printer/
+! 2/5/2018, 9:43:59 AM https://3dprint.com/50777/molecular-3d-printer/
+! 2/5/2018, 9:44:16 AM https://3dprint.com/50777/molecular-3d-printer/
+! 2/5/2018, 9:44:29 AM https://3dprint.com/50777/molecular-3d-printer/
+! 2/5/2018, 9:44:42 AM https://3dprint.com/50777/molecular-3d-printer/
+! 2/6/2018, 12:04:18 AM http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/
+! 2/6/2018, 12:05:11 AM http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/
+! 2/6/2018, 12:05:39 AM http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/
+! 2/6/2018, 12:05:56 AM http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/
+! 2/7/2018, 12:34:37 AM https://economictimes.indiatimes.com/industry/transportation/railways/htt-to-build-indias-first-hyperloop-connecting-amaravati-vijayawada/articleshow/60395268.cms
+! 2/7/2018, 12:34:55 AM https://economictimes.indiatimes.com/industry/transportation/railways/htt-to-build-indias-first-hyperloop-connecting-amaravati-vijayawada/articleshow/60395268.cms
+! 2/7/2018, 12:35:19 AM https://economictimes.indiatimes.com/industry/transportation/railways/htt-to-build-indias-first-hyperloop-connecting-amaravati-vijayawada/articleshow/60395268.cms
+! 2/7/2018, 12:35:42 AM https://economictimes.indiatimes.com/industry/transportation/railways/htt-to-build-indias-first-hyperloop-connecting-amaravati-vijayawada/articleshow/60395268.cms
+! 2/7/2018, 12:37:28 AM https://timesofindia.indiatimes.com/city/pune/first-hyperloop-in-india-to-be-launched-between-amravati-and-vijayawada/articleshow/60395340.cms
+! 2/7/2018, 12:37:59 AM https://timesofindia.indiatimes.com/city/pune/first-hyperloop-in-india-to-be-launched-between-amravati-and-vijayawada/articleshow/60395340.cms
+! 2/7/2018, 12:38:13 AM https://timesofindia.indiatimes.com/city/pune/first-hyperloop-in-india-to-be-launched-between-amravati-and-vijayawada/articleshow/60395340.cms
+! 2/7/2018, 8:52:29 PM https://translate.google.com/#ru/en/%D1%8F%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%BD%D0%BE%D0%B2%D0%B0%20%D1%8F%D0%BD%D0%BE
+! 2/8/2018, 1:58:19 PM https://www.pastemagazine.com/articles/2017/01/brianna-wu-is-not-the-hero-youre-looking-for-democ.html
+! 2/8/2018, 1:58:44 PM https://www.pastemagazine.com/articles/2017/01/brianna-wu-is-not-the-hero-youre-looking-for-democ.html
+! 2/8/2018, 9:12:27 AM https://www.ghacks.net/2017/08/12/how-to-enable-legacy-extensions-in-firefox-57/
+! 2/8/2018, 9:49:26 AM https://www.downthemall.net/delays/
+! 2/8/2018, 9:50:39 AM https://www.downthemall.org/
+! 2/9/2018, 9:50:18 PM https://www.deviantart.com/notifications/
+! 2/9/2018, 9:50:35 PM https://www.deviantart.com/notifications/#view=notices
+! 3/10/2018, 2:40:06 PM https://cafe4apps.net/download/promise-dad-joe-biden-epub/
+! 3/10/2018, 8:44:31 PM https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu
+! 3/10/2018, 8:44:41 PM https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu
+! 3/10/2018, 8:44:51 PM https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu
+! 3/11/2018, 4:06:49 PM https://ask.audio/articles/review-steinberg-dorico
+! 3/11/2018, 4:06:57 PM https://ask.audio/articles/review-steinberg-dorico
+! 3/14/2018, 1:32:24 AM https://www.datamation.com/open-source/is-gnome-still-needed-1.html
+! 3/14/2018, 1:47:59 AM https://www.datamation.com/open-source/gnome-seven-possible-recovery-strategies-1.html
+! 3/14/2018, 1:48:07 AM https://www.datamation.com/open-source/gnome-seven-possible-recovery-strategies-1.html
+! 3/14/2018, 1:48:14 AM https://www.datamation.com/open-source/gnome-seven-possible-recovery-strategies-1.html
+! 3/14/2018, 1:48:23 AM https://www.datamation.com/open-source/gnome-seven-possible-recovery-strategies-1.html
+! 3/14/2018, 2:23:40 PM https://www.emojidex.com/emojidex/emojidex_open_license
+! 3/15/2018, 1:06:19 AM http://www.tomsguide.com/answers/id-3561382/deos-youtube-randomly-pausing-videos.html
+! 3/15/2018, 11:30:16 PM https://medium.freecodecamp.org/stop-bringing-strong-typing-to-javascript-4da0666cba6e
+! 3/15/2018, 11:33:07 PM https://medium.com/@SylvainPV/type-safety-in-javascript-using-es6-proxies-eee8fbbbd600
+! 3/15/2018, 12:16:34 AM https://gotenna.com/
+! 3/15/2018, 12:19:31 AM http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html
+! 3/15/2018, 12:19:40 AM http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html
+! 3/15/2018, 12:20:46 AM http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html
+! 3/15/2018, 12:21:00 AM http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html
+! 3/15/2018, 12:38:29 AM https://console.developers.google.com/cloud-resource-manager?previousPage=%2F%3Fpli%3D1&pli=1
+! 3/15/2018, 3:54:49 PM https://itunes.apple.com/us/book/defining-new-media/id860850881?mt=11&ign-mpt=uo%3D4
+! 3/21/2018, 12:57:05 AM https://imgur.com/a/tksiu/embed?pub=true&ref=http%3A%2F%2Fnillysrealm.wdfiles.com%2Flocal--html%2Farenas%2F6f2ba42a959f87dfc2f6ed4d2665d61ac436c9fe-7277370451397109381%2Fnillysrealm.wikidot.com%2F&w=540
+! 3/21/2018, 12:57:15 AM https://imgur.com/a/tksiu/embed?pub=true&ref=http%3A%2F%2Fnillysrealm.wdfiles.com%2Flocal--html%2Farenas%2F6f2ba42a959f87dfc2f6ed4d2665d61ac436c9fe-7277370451397109381%2Fnillysrealm.wikidot.com%2F&w=540
+! 3/22/2018, 1:03:05 AM http://collider.com/jumanji-2-gag-reel/
+! 3/22/2018, 1:03:44 AM http://collider.com/jumanji-2-gag-reel/#images
+! 3/22/2018, 1:04:03 AM http://collider.com/jumanji-2-gag-reel/#images
+! 3/22/2018, 1:04:16 AM http://collider.com/jumanji-2-gag-reel/#images
+! 3/22/2018, 1:05:20 AM http://variety.com/2018/film/news/sony-domestic-marketing-chief-christine-birch-internal-complaints-1202733107/
+! 3/22/2018, 1:05:30 AM http://variety.com/2018/film/news/sony-domestic-marketing-chief-christine-birch-internal-complaints-1202733107/
+! 3/23/2018, 2:42:17 PM http://blog.credit.com/2015/01/what-happens-if-i-swipe-my-debit-card-as-a-credit-106688/
+! 3/23/2018, 2:43:20 PM http://blog.credit.com/2015/01/what-happens-if-i-swipe-my-debit-card-as-a-credit-106688/
+! 3/23/2018, 2:44:33 PM http://blog.credit.com/2015/01/what-happens-if-i-swipe-my-debit-card-as-a-credit-106688/
+! 3/23/2018, 2:44:45 PM http://blog.credit.com/2015/01/what-happens-if-i-swipe-my-debit-card-as-a-credit-106688/
+! 3/23/2018, 2:45:31 PM http://blog.credit.com/2011/08/want-free-checking-try-a-smaller-bank/
+! 3/23/2018, 2:46:06 PM http://blog.credit.com/2011/08/want-free-checking-try-a-smaller-bank/
+! 3/28/2018, 12:19:32 PM https://blog.trendmicro.com/trendlabs-security-intelligence/malvertising-campaign-abuses-googles-doubleclick-to-deliver-cryptocurrency-miners/
+! 3/28/2018, 12:19:40 PM https://blog.trendmicro.com/trendlabs-security-intelligence/malvertising-campaign-abuses-googles-doubleclick-to-deliver-cryptocurrency-miners/
+! 3/3/2018, 12:47:12 AM https://www.cnet.com/news/inside-the-oscar-nominated-sound-that-steers-baby-driver-julian-slater/
+! 3/3/2018, 12:47:19 AM https://www.cnet.com/news/inside-the-oscar-nominated-sound-that-steers-baby-driver-julian-slater/
+! 3/3/2018, 12:47:29 AM https://www.cnet.com/news/inside-the-oscar-nominated-sound-that-steers-baby-driver-julian-slater/
+! 3/3/2018, 12:49:26 AM https://www.computerworld.com/article/3243010/web-browsers/mozillas-claims-of-firefox-quantum-success-arent-confirmed-by-user-stats.html
+! 3/30/2018, 9:12:55 AM https://www.osx86.net/articles.html/
+! 3/4/2018, 9:54:30 PM https://www.imdb.com/title/tt1663662/?ref_=tt_trv_cnn
+! 3/4/2018, 9:54:45 PM https://www.imdb.com/title/tt1663662/?ref_=tt_trv_cnn
+! 3/5/2018, 12:26:26 PM http://www.wekinator.org/
+! 3/5/2018, 12:26:45 PM http://www.wekinator.org/
+! 3/5/2018, 12:26:56 PM http://www.wekinator.org/
+! 3/7/2018, 12:36:55 PM https://www.urtech.ca/2016/01/solved-a-program-with-chinese-characters-app-is-preventing-you-from-signing-out/
+! 3/7/2018, 9:05:48 PM http://ccmixter.org/files/debbizo/47480
+! 3/8/2018, 1:22:25 AM https://thenextweb.com/apple/2012/07/18/what-is-the-future-of-the-iphone-3gs/
+! 4/10/2018, 8:48:29 PM https://www.primermagazine.com/2009/field-manual/know-it-all-why-is-american-football-called-%E2%80%9Cfootball%E2%80%9D
+! 4/10/2018, 8:48:36 PM https://www.primermagazine.com/2009/field-manual/know-it-all-why-is-american-football-called-%E2%80%9Cfootball%E2%80%9D
+! 4/10/2018, 8:48:49 PM https://www.primermagazine.com/2009/field-manual/know-it-all-why-is-american-football-called-%E2%80%9Cfootball%E2%80%9D
+! 4/15/2018, 6:56:07 PM http://www.imdb.com/title/tt0094625/?ref_=fn_al_tt_1
+! 4/16/2018, 11:31:07 PM https://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/
+! 4/16/2018, 11:32:16 PM https://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/
+! 4/16/2018, 11:32:33 PM https://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/
+! 4/16/2018, 9:42:30 PM https://mainecampus.com/2018/04/umaine-disrupts-flow-of-typical-school-day-to-welcome-accepted-students/
+! 4/16/2018, 9:42:39 PM https://mainecampus.com/2018/04/umaine-disrupts-flow-of-typical-school-day-to-welcome-accepted-students/
+! 4/16/2018, 9:42:59 PM https://mainecampus.com/2018/04/umaine-disrupts-flow-of-typical-school-day-to-welcome-accepted-students/
+! 4/2/2018, 9:17:58 AM https://www.treehugger.com/technology/
+! 4/2/2018, 9:20:20 AM https://www.treehugger.com/technology/page/3/
+! 4/2/2018, 9:24:23 AM https://www.treehugger.com/solar-technology/waterproof-solar-cell-could-go-through-washer-and-still-work.html
+! 4/2/2018, 9:24:36 AM https://www.treehugger.com/solar-technology/waterproof-solar-cell-could-go-through-washer-and-still-work.html
+! 4/22/2018, 1:25:44 AM http://variety.com/2018/music/news/avicii-dead-at-28-1202772767/
+! 4/23/2018, 1:17:30 AM https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain
+! 4/23/2018, 1:19:18 AM https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain
+! 4/23/2018, 1:19:36 AM https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain
+! 4/23/2018, 1:24:10 AM https://www.bleepingcomputer.com/news/security/iota-cryptocurrency-users-lose-4-million-in-clever-phishing-attack/
+! 4/23/2018, 1:41:58 AM https://nmd345-2018s.slack.com/messages/C9YP48GSC/
+! 4/23/2018, 12:28:58 AM https://btcmanager.com/iota-misunderstood-cryptocurrency/
+! 4/23/2018, 12:45:59 AM https://hackernoon.com/why-i-find-iota-deeply-alarming-934f1908194b
+! 4/23/2018, 12:48:13 AM https://medium.com/@thedrbits/why-i-also-find-iota-deeply-alarming-99d4f2da3282
+! 4/23/2018, 7:45:00 PM https://jsfiddle.net/
+! 4/24/2018, 10:28:30 PM https://123moviesc.me/film/escape-from-new-york/8v4M
+! 4/4/2018, 11:45:27 PM https://www.youtube.com/
+! 4/8/2018, 12:56:32 AM http://ew.com/article/2016/02/18/chainsmokers-playlist-ew/
+.trends
+/annotations_module.js$script,domain=www.youtube.com
+/endscreen.js$script,domain=www.youtube.com
+/watch_autoplayrenderer.js$script,domain=www.youtube.com
+##[class*=cta]
+##[href^="http://unix.com/"
+##[href^="http://www.unix.com/"
+##[href^="https://unix.com/"
+##[href^="https://www.unix.com/"
+###related
+||*/minimal-modal/*.js
 ||cdmycdn.com
-codecademy.com##[href^="https://discuss.codecademy.com/"]
+||cdn.gotraffic.net/projector/latest/bplayer.js$script,important
+||forums.pcbsd.org^$inline-script,domain=forums.pcbsd.org
+||http://nmd430.sofianaudry.com/wp-content/uploads/sites/2/2018/01/android_2-512-blue.png
+||notalwaysright.com^$inline-script
+||www.imdb.com/images/a/ifb/doubleclick/indirect.html$subdocument
+||www.menuju.link$image
+||www.tribuneindia.com/images/back.png$image
+123moviesc.me##[id^=_pn]
+3dprint.com##.et_bloom_flyin
+3dprint.com##.relatedposts
+3dprint.com##.soliloquy-outer-container
+3dprint.com##.su-note
+3dprint.com###sidebar
+akamaihd.net/*.m3u8$domain=cnet.com
+akamaihd.net/*.ts$domain=cnet.com
+arstechnica.com##.inline-video
+arstechnica.com##.prev-next-links
+arstechnica.com##.site-footer
+arstechnica.com##.site-header
+arstechnica.com###social-footer
+arstechnica.com##a[href^="http://arstechnica.com/get-pdf/"]
+arstechnica.com##a[href="http://arstechnica.com/subscriptions/"]
+arstechnica.com##a[href$="?all=1"]
+ask.audio###Courses
+ask.audio###featured
+ask.audio###header
+bitcoinmagazine.com##.author-mobile-bar
+bitcoinmagazine.com##.navbar
+blog.credit.com##.callout
+blog.credit.com##.post-footer
+blog.credit.com##.schumer-container
+blog.credit.com##[href^="https://www.credit.com/free-credit-score/"]
+blog.credit.com##[href="https://www.credit.com/free-credit-report-card/"]
+blog.credit.com##a
+blog.jetbrains.com###post_footer_banner
+blog.revillweb.com##.graf-imageAnchor
+blog.trendmicro.com##.banner-widget-area
+blog.trendmicro.com##.yarpp-related
+blogs.oracle.com##.cb07
+blogs.oracle.com##.cw51title
+blogs.oracle.com##.sticky-wrapper
+bloomberg.com*video^
+bloomberg.com##.video-player
+btcmanager.com##.telegram_link
+cafe4apps.net##body > b > b
+ccmixter.org###sharecommand
+clientsfromhell.net##[href^="https://t.umblr.com"]
+clientsfromhell.net##a
+clientsfromhell.net##h3 a
+codecademy.com
+codecademy.com##._1ih8yaMxfBaIQCm_PS0WUN
+codecademy.com##.overlay
 codecademy.com##[href^="/catalog"]
 codecademy.com##[href^="/login"]
 codecademy.com##[href^="/register"]
+codecademy.com##[href^="https://discuss.codecademy.com/"]
 codecademy.com##[href$="=pro"]
 codecademy.com##button
-codecademy.com##.overlay
-codecademy.com##._1ih8yaMxfBaIQCm_PS0WUN
-##[class*=cta]
-###related
-
-! 1/28/2018, 8:23:33 PM https://www.codecademy.com/courses/learn-css-selectors-visual-rules/lessons/css-setup-selectors/exercises/intro-to-css?action=lesson_resume&course_redirect=learn-css
-www.codecademy.com##._1DPMm-lVsCbpuRUE68nuOv
-
-codecademy.com
-
-! 1/28/2018, 9:59:48 PM https://discordapp.com/channels/230500411835023362/364164786734366721
-discordapp.com##[class^=notice]
-
-! 1/29/2018, 10:14:43 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
-www.quora.com##.ErrorBanner
-
-! 1/29/2018, 10:14:59 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
-www.quora.com##.header_contents
-
-! 1/29/2018, 10:15:12 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
-www.quora.com##.header_inner
-
-! 1/29/2018, 10:15:27 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
-www.quora.com##.SiteHeader
-
-! 1/29/2018, 10:15:42 AM https://www.quora.com/Why-is-WeChat-not-popular-outside-of-China
-www.quora.com##.BelowQuestionAddPrompt
-
-! 1/29/2018, 5:27:56 PM https://blog.jetbrains.com/idea/2017/07/intellij-idea-2017-2-is-here-smart-sleek-and-snappy/
-blog.jetbrains.com###post_footer_banner
-
-! 1/29/2018, 9:33:34 PM https://www.whosampled.com/Vanic/Too-Soon/
-www.whosampled.com###wb-ad-grid
-
-! 1/29/2018, 9:33:50 PM https://www.whosampled.com/Vanic/Too-Soon/
-www.whosampled.com###header
-
-! 1/29/2018, 9:34:04 PM https://www.whosampled.com/Vanic/Too-Soon/
-www.whosampled.com##.sidebar-container
-
-! 1/29/2018, 9:34:14 PM https://www.whosampled.com/Vanic/Too-Soon/
-www.whosampled.com##.buyDropdownWrap
-
-! 1/29/2018, 9:34:33 PM https://www.whosampled.com/Vanic/Too-Soon/
-www.whosampled.com##.commentsWrap
-
-! 1/30/2018, 9:34:57 PM http://www.samethattune.com/dont-stand-so-close-me-police-sounds-money-nothing-dire-straits
-www.samethattune.com##[href^="http://click.linksynergy.com/"]
-
-! 1/30/2018, 9:35:11 PM http://www.samethattune.com/dont-stand-so-close-me-police-sounds-money-nothing-dire-straits
-www.samethattune.com###sidebar
-
-! 2/2/2018, 12:16:37 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
-edsource.org##.tingle-modal
-
-||*/minimal-modal/*.js
-
-! 2/2/2018, 12:21:25 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
-edsource.org##.embed-inline-signup
-
-! 2/2/2018, 12:22:41 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
-edsource.org###end-of-article-box
-
-! 2/2/2018, 12:22:50 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
-edsource.org###comment-panel
-
-! 2/2/2018, 12:23:06 PM https://edsource.org/2018/state-superintendent-candidate-marshall-tuck-returns-donation-from-anti-lgbt-funder/592935
-edsource.org##.sidebar
-
-! 2/5/2018, 9:43:28 AM https://3dprint.com/50777/molecular-3d-printer/
-3dprint.com##.su-note
-
-! 2/5/2018, 9:43:59 AM https://3dprint.com/50777/molecular-3d-printer/
-3dprint.com##.soliloquy-outer-container
-
-! 2/5/2018, 9:44:16 AM https://3dprint.com/50777/molecular-3d-printer/
-3dprint.com##.et_bloom_flyin
-
-! 2/5/2018, 9:44:29 AM https://3dprint.com/50777/molecular-3d-printer/
-3dprint.com##.relatedposts
-
-! 2/5/2018, 9:44:42 AM https://3dprint.com/50777/molecular-3d-printer/
-3dprint.com###sidebar
-
-! 2/5/2018, 11:44:35 AM https://www.facebook.com/elliot.wallace.79
-www.facebook.com###pagelet_pymk_timeline
-
-! 2/5/2018, 12:50:22 PM https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
-www.git-tower.com###sharing-sidebar
-
-! 2/5/2018, 12:50:40 PM https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
-www.git-tower.com##.signup--gift
-
-! 2/6/2018, 12:04:18 AM http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/
-www.factmag.com###header
-
-! 2/6/2018, 12:05:11 AM http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/
-www.factmag.com##.do-sth
-
-! 2/6/2018, 12:05:39 AM http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/
-www.factmag.com##.wavo-wrapper
-
-! 2/6/2018, 12:05:56 AM http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/
-www.factmag.com##.related-container
-
-notalwaysright.com https://www.gstatic.com script block
-||notalwaysright.com^$inline-script
-
-! 2/7/2018, 12:34:37 AM https://economictimes.indiatimes.com/industry/transportation/railways/htt-to-build-indias-first-hyperloop-connecting-amaravati-vijayawada/articleshow/60395268.cms
-economictimes.indiatimes.com##header
-
-! 2/7/2018, 12:34:55 AM https://economictimes.indiatimes.com/industry/transportation/railways/htt-to-build-indias-first-hyperloop-connecting-amaravati-vijayawada/articleshow/60395268.cms
-economictimes.indiatimes.com##.js-common-hook
-
-! 2/7/2018, 12:35:19 AM https://economictimes.indiatimes.com/industry/transportation/railways/htt-to-build-indias-first-hyperloop-connecting-amaravati-vijayawada/articleshow/60395268.cms
-economictimes.indiatimes.com##.showBtmBar
-
-! 2/7/2018, 12:35:42 AM https://economictimes.indiatimes.com/industry/transportation/railways/htt-to-build-indias-first-hyperloop-connecting-amaravati-vijayawada/articleshow/60395268.cms
-economictimes.indiatimes.com##.rel-art
-
-! 2/7/2018, 12:37:28 AM https://timesofindia.indiatimes.com/city/pune/first-hyperloop-in-india-to-be-launched-between-amravati-and-vijayawada/articleshow/60395340.cms
-timesofindia.indiatimes.com##.relatedarticle
-
-! 2/7/2018, 12:37:59 AM https://timesofindia.indiatimes.com/city/pune/first-hyperloop-in-india-to-be-launched-between-amravati-and-vijayawada/articleshow/60395340.cms
-timesofindia.indiatimes.com##.article_content > div > strong
-
-! 2/7/2018, 12:38:13 AM https://timesofindia.indiatimes.com/city/pune/first-hyperloop-in-india-to-be-launched-between-amravati-and-vijayawada/articleshow/60395340.cms
-timesofindia.indiatimes.com##.more-from-toi-wrapper
-
-! 2/7/2018, 8:52:29 PM https://translate.google.com/#ru/en/%D1%8F%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%BD%D0%BE%D0%B2%D0%B0%20%D1%8F%D0%BD%D0%BE
-translate.google.com##.gt-hats
-
-! 2/8/2018, 9:12:27 AM https://www.ghacks.net/2017/08/12/how-to-enable-legacy-extensions-in-firefox-57/
-www.ghacks.net##.border--top--gray
-
-! 2/8/2018, 9:49:26 AM https://www.downthemall.net/delays/
-www.downthemall.net##.divascookies
-
-! 2/8/2018, 9:50:39 AM https://www.downthemall.org/
-www.downthemall.org##.divascookies
-
-! 2/8/2018, 1:58:19 PM https://www.pastemagazine.com/articles/2017/01/brianna-wu-is-not-the-hero-youre-looking-for-democ.html
-www.pastemagazine.com##.article-shares-links
-
-! 2/8/2018, 1:58:44 PM https://www.pastemagazine.com/articles/2017/01/brianna-wu-is-not-the-hero-youre-looking-for-democ.html
-www.pastemagazine.com##.master-header
-
-! 2/9/2018, 9:50:18 PM https://www.deviantart.com/notifications/
-www.deviantart.com##.mcbox-hottopics
-
-! 2/9/2018, 9:50:35 PM https://www.deviantart.com/notifications/#view=notices
-www.deviantart.com##.mcbox-hottopics
-
-! 2/10/2018, 9:08:23 PM https://solarmoviez.ru/movie/the-west-wing-season-1-10875/745001-7/watching.html
-solarmoviez.ru##.popover
-
-! 2/10/2018, 9:08:42 PM https://solarmoviez.ru/movie/the-west-wing-season-1-10875/745001-7/watching.html
-solarmoviez.ru###overlay-solarplugin-main
-
-! 2/10/2018, 11:43:35 PM https://www.youtube.com/
-www.youtube.com##.videoblocker-container
-
-! 2/11/2018, 1:48:34 AM https://www.wired.co.uk/article/google-deep-dream
-www.wired.co.uk##.c-card-section
-
-! 2/11/2018, 6:33:27 PM https://arstechnica.com/gadgets/2012/03/does-this-smartphone-make-me-look-stupid-meet-the-ladyphones/
-arstechnica.com##.site-header
-
-! 2/11/2018, 6:51:18 PM https://www.youtube.com//live_chat?continuation=0ofMyANEGjRDaU1TSVFvWVZVTXlaVzlWZDFKUmNqazNObm81U2tKV1JVaFRZa1ZCRWdVdmJHbDJaU0FCMAFoBIIBBAgEEACIAQE%253D
-www.youtube.com###creator.yt-live-chat-message-input-renderer
-
-! 2/11/2018, 8:32:24 PM http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/
-nikhilbuduma.com##.right
-
-! 2/12/2018, 6:27:38 PM http://momodeli.com/movies/oblivion-2013-720p_brrip_x264_aac/
-momodeli.com###swnza_banner_id
-
-! 2/12/2018, 6:28:54 PM https://www.tv21.org/oblivion-2013/
-||www.menuju.link$image
-
-! 2/12/2018, 6:29:26 PM https://www.tv21.org/oblivion-2013/
-www.tv21.org##img[src^="https://www.tv21.org/"]
-
-! 2/12/2018, 6:29:37 PM https://www.tv21.org/oblivion-2013/
-www.tv21.org##.idmuvi-social-share
-
-! 2/12/2018, 8:32:34 PM https://openload.co/f/4CE0XIWjxJ0/Oblivion.2013.720p.BluRay.x264.YIFY.mp4
-openload.co##.exo-native-widget-outer-container
-
-! 2/13/2018, 5:33:26 PM http://www.kreativekorp.com/software/fonts/apple2.shtml
-www.kreativekorp.com###_bftn_wrapper
-
-! 2/13/2018, 7:57:45 PM http://www.novagraaf.com/en/news?newspath=/NewsItems/en/trademark-protection-and-social-media-the-rise-of-the-hashflag
-www.novagraaf.com###rightCntr
-
-! 2/13/2018, 7:57:53 PM http://www.novagraaf.com/en/news?newspath=/NewsItems/en/trademark-protection-and-social-media-the-rise-of-the-hashflag
-www.novagraaf.com##.ezelsoor
-
-! 2/14/2018, 10:08:37 AM https://tomassetti.me/parsing-in-javascript/
-tomassetti.me##.ck_vertical_subscription_form
-
-! 2/14/2018, 10:26:08 AM https://petapixel.com/2018/02/12/picture-single-atom-wins-science-photo-contest/
-petapixel.com##.sidebar
-
-! 2/14/2018, 10:43:22 AM https://www.poynter.org/news/new-york-times-copy-desk-top-editors-you-have-turned-your-backs-us
-www.poynter.org##.more-buttons
-
-! 2/14/2018, 10:43:39 AM https://www.poynter.org/news/new-york-times-copy-desk-top-editors-you-have-turned-your-backs-us
-www.poynter.org##.l--sidebar
-
-tylermcginnis.com
-
-! 2/14/2018, 10:58:02 AM https://www.daedtech.com/code-generation-seems-like-a-failure-of-vision/
-www.daedtech.com##[href="https://www.daedtech.com/welcome-tech-part-daedtech/"]
-
-! 2/14/2018, 10:58:15 AM https://www.daedtech.com/code-generation-seems-like-a-failure-of-vision/
-www.daedtech.com##.widget
-
-! 2/15/2018, 12:31:42 AM https://cssminifier.com/
-cssminifier.com##p
-
-! 2/15/2018, 12:32:02 AM https://www.minifier.org/
-www.minifier.org##.projects-bar
-
-! 2/15/2018, 12:33:40 AM https://www.cleancss.com/css-minify/
-www.cleancss.com##.hidden-xs.row
-
-! 2/15/2018, 11:48:21 AM https://venturebeat.com/2018/02/15/indian-character-crashes-ios-11-2-5-may-require-full-device-restore/
-venturebeat.com##.medrec-wrapper
-
-! 2/15/2018, 11:56:21 AM https://mashable.com/2017/07/26/twitter-useless-notifications/#AdNgEg5JwPqS
-mashable.com###peek > div:nth-of-type(1) > div
-
-! 2/15/2018, 11:56:55 AM https://mashable.com/2017/07/26/twitter-useless-notifications/#AdNgEg5JwPqS
-mashable.com###read-more-interrupt
-
-mashable.com
-venturebeat.com
-
-! 2/15/2018, 7:19:13 PM http://www.imdb.com/title/tt1190080/?ref_=tt_rec_tt
-www.imdb.com##.watchbar2
-
-! 2/16/2018, 5:15:23 PM http://tribler.readthedocs.io/en/devel/building/building.html
-tribler.readthedocs.io##.rtd-pro-footer-wrapper
-
-pcbsd.org
-trueos.org
-
-||forums.pcbsd.org^$inline-script,domain=forums.pcbsd.org
-
-! 2/18/2018, 11:23:34 AM https://www.speedrun.com/Taz-Mania#Beat_The_Game
-www.speedrun.com###sidebar > .curse
-
-! 2/18/2018, 11:23:49 AM https://www.speedrun.com/Taz-Mania#Beat_The_Game
-www.speedrun.com##.curse
-
-! 2/18/2018, 11:46:10 AM http://www.snes9x.com/journal.asp?PageNo=2
-www.snes9x.com##[href^="https://nzbcheck.live"]
-
-! 2/20/2018, 12:00:50 PM http://www.wpbeginner.com/beginners-guide/how-to-create-an-image-gallery-in-wordpress/
-www.wpbeginner.com##[id$=lightbox]
-
-! 2/20/2018, 6:25:06 PM https://clientsfromhell.net/
-clientsfromhell.net##a
-
-! 2/21/2018, 1:43:14 PM https://theoutline.com/post/2206/the-node-js-code-of-conduct-diversity-tech?zd=3&zi=lbkcw2nu
-theoutline.com##[class^=stack-embed-]
-
-! 2/21/2018, 1:44:02 PM https://theoutline.com/post/2206/the-node-js-code-of-conduct-diversity-tech?zd=3&zi=lbkcw2nu
-theoutline.com##.card
-
-! 2/21/2018, 1:44:13 PM https://theoutline.com/post/2206/the-node-js-code-of-conduct-diversity-tech?zd=3&zi=lbkcw2nu
-theoutline.com##.post__footer
-
-! 2/23/2018, 3:21:21 PM https://fafsa.ed.gov/FAFSA/app/fafsa?execution=e1s15
-fafsa.ed.gov##[href^="http://www.adobe.com/products/reader.html"]
-
-! 2/25/2018, 5:02:19 PM http://www.thehindu.com/thread/reflections/article8201785.ece
-www.thehindu.com##.sidebar
-
-! 2/25/2018, 9:09:24 PM https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af
-blog.revillweb.com##.graf-imageAnchor
-
-! 2/25/2018, 9:51:21 PM https://www.bignox.com/
-www.bignox.com##.eggs-content
-
-! 2/25/2018, 9:51:33 PM https://www.bignox.com/
-www.bignox.com##.eggs
-
-! 2/25/2018, 11:13:04 PM https://www.recode.net/2016/7/7/12116296/marissa-mayer-deal-mozilla-yahoo-payment
-www.recode.net##.c-related-list
-
-! 2/25/2018, 11:13:19 PM https://www.recode.net/2016/7/7/12116296/marissa-mayer-deal-mozilla-yahoo-payment
-www.recode.net##.c-compact-river
-
-! 2/26/2018, 9:56:51 AM https://gizmodo.com/jennicam-why-the-first-lifecaster-disappeared-from-the-1697712996
-gizmodo.com##.instream-native-video
-
-! 2/26/2018, 9:57:00 AM https://gizmodo.com/jennicam-why-the-first-lifecaster-disappeared-from-the-1697712996
-gizmodo.com##.iframe-container
-
-! 2/26/2018, 10:16:35 AM http://maryflanagan.com/work/phage/
-maryflanagan.com##.ut-share-link
-
-! 2/26/2018, 10:16:55 AM http://maryflanagan.com/work/phage/
-maryflanagan.com##.ut-project-sc
-
-! 2/26/2018, 11:52:15 AM https://www.theinquirer.net/inquirer/news/2422249/ibm-makes-biggest-code-drop-as-canonical-and-suse-tie-up-brings-linux-to-mainframes
-www.theinquirer.net##.news-articles
-
-! 2/26/2018, 11:52:32 AM https://www.theinquirer.net/inquirer/news/2422249/ibm-makes-biggest-code-drop-as-canonical-and-suse-tie-up-brings-linux-to-mainframes
-www.theinquirer.net##.sidebar
-
-! 2/26/2018, 11:52:41 AM https://www.theinquirer.net/inquirer/news/2422249/ibm-makes-biggest-code-drop-as-canonical-and-suse-tie-up-brings-linux-to-mainframes
-www.theinquirer.net##.nav-tools
-
-! 2/26/2018, 12:17:56 PM https://www.theinquirer.net/inquirer/news/2475805/iphone-x-price-deals-and-news-sluggish-iphone-x-sales-leave-samsung-scrambling-for-oled-buyers
-www.theinquirer.net##.ads-after-this-paragraph > span > strong
-
-! 2/26/2018, 3:34:18 PM https://www.wired.com/story/replika-open-source/
-www.wired.com##[href^="https://subscribe.condenastdigital.com/"]
-
-! 2/26/2018, 3:34:23 PM https://www.wired.com/story/replika-open-source/
-www.wired.com##.truncated-footer-component
-
-! 2/26/2018, 3:38:33 PM https://www.reddit.com/r/replika/comments/6rc3sf/this_is_not_an_ai/
-www.reddit.com##.commentsignupbar
-
-! 2/26/2018, 9:36:28 PM http://gabrielecirulli.github.io/2048/
-gabrielecirulli.github.io##.app-notice
-
-##[href^="https://unix.com/"
-##[href^="http://unix.com/"
-##[href^="https://www.unix.com/"
-##[href^="http://www.unix.com/"
-unix.com
-
-! 3/3/2018, 12:47:12 AM https://www.cnet.com/news/inside-the-oscar-nominated-sound-that-steers-baby-driver-julian-slater/
-www.cnet.com##p a
-
-! 3/3/2018, 12:47:19 AM https://www.cnet.com/news/inside-the-oscar-nominated-sound-that-steers-baby-driver-julian-slater/
-www.cnet.com###contentPromo
-
-! 3/3/2018, 12:47:29 AM https://www.cnet.com/news/inside-the-oscar-nominated-sound-that-steers-baby-driver-julian-slater/
-www.cnet.com##.upNextBottomWrapper
-
-! 3/3/2018, 12:49:26 AM https://www.computerworld.com/article/3243010/web-browsers/mozillas-claims-of-firefox-quantum-success-arent-confirmed-by-user-stats.html
-www.computerworld.com##[href^="https://www.facebook.com/"]
-
-! 3/4/2018, 9:54:30 PM https://www.imdb.com/title/tt1663662/?ref_=tt_trv_cnn
-www.imdb.com###front-row-video
-
-! 3/4/2018, 9:54:45 PM https://www.imdb.com/title/tt1663662/?ref_=tt_trv_cnn
-www.imdb.com###front_row_widget
-
-! 3/5/2018, 12:26:26 PM http://www.wekinator.org/
-www.wekinator.org###the_champ_sharing_more_providers
-
-! 3/5/2018, 12:26:45 PM http://www.wekinator.org/
-www.wekinator.org###heateor_ss_browser_popup_bg
-
-! 3/5/2018, 12:26:56 PM http://www.wekinator.org/
-www.wekinator.org##.maxbutton
-
-heateor.com
-
-! 3/7/2018, 12:36:55 PM https://www.urtech.ca/2016/01/solved-a-program-with-chinese-characters-app-is-preventing-you-from-signing-out/
-www.urtech.ca###Sidebar
-
-! 3/7/2018, 9:05:48 PM http://ccmixter.org/files/debbizo/47480
-ccmixter.org###sharecommand
-
-! 3/8/2018, 1:22:25 AM https://thenextweb.com/apple/2012/07/18/what-is-the-future-of-the-iphone-3gs/
-thenextweb.com##.idc-hasIcon
-
-! 3/10/2018, 2:40:06 PM https://cafe4apps.net/download/promise-dad-joe-biden-epub/
-cafe4apps.net##body > b > b
-
-! 3/10/2018, 8:44:31 PM https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu
-myanimelist.net##[class*=manga-store-button]
-
-! 3/10/2018, 8:44:41 PM https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu
-myanimelist.net###episode_video
-
-! 3/10/2018, 8:44:51 PM https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu
-myanimelist.net##.slider-wrap
-
-! 3/11/2018, 4:06:49 PM https://ask.audio/articles/review-steinberg-dorico
-ask.audio###featured
-
-! 3/11/2018, 4:06:57 PM https://ask.audio/articles/review-steinberg-dorico
-ask.audio###Courses
-
-||http://nmd430.sofianaudry.com/wp-content/uploads/sites/2/2018/01/android_2-512-blue.png
-
-! 3/14/2018, 1:32:24 AM https://www.datamation.com/open-source/is-gnome-still-needed-1.html
-www.datamation.com###manual-webinar-asset
-
-! 3/14/2018, 1:47:59 AM https://www.datamation.com/open-source/gnome-seven-possible-recovery-strategies-1.html
-www.datamation.com###mostPopularEditorsPicks
-
-! 3/14/2018, 1:48:07 AM https://www.datamation.com/open-source/gnome-seven-possible-recovery-strategies-1.html
-www.datamation.com##.right_content
-
-! 3/14/2018, 1:48:14 AM https://www.datamation.com/open-source/gnome-seven-possible-recovery-strategies-1.html
-www.datamation.com##.search_holder
-
-! 3/14/2018, 1:48:23 AM https://www.datamation.com/open-source/gnome-seven-possible-recovery-strategies-1.html
-www.datamation.com###logo_holder
-
-! 3/14/2018, 2:23:40 PM https://www.emojidex.com/emojidex/emojidex_open_license
-www.emojidex.com###emojidex-header
-
-! 3/15/2018, 12:16:34 AM https://gotenna.com/
-gotenna.com###welcomePopUp
-
-! 3/15/2018, 12:19:31 AM http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html
-www.tribuneindia.com##[href^="https://www.facebook.com/The-Tribune-798949453521526/"]
-
-! 3/15/2018, 12:19:40 AM http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html
-www.tribuneindia.com##[href="https://twitter.com/thetribunechd"]
-
-! 3/15/2018, 12:20:46 AM http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html
-www.tribuneindia.com##.RightContainer
-
-! 3/15/2018, 12:21:00 AM http://www.tribuneindia.com/news/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details/523361.html
-||www.tribuneindia.com/images/back.png$image
-
-! 3/15/2018, 12:38:29 AM https://console.developers.google.com/cloud-resource-manager?previousPage=%2F%3Fpli%3D1&pli=1
-console.developers.google.com##.pan-free-trial-banner-container
-
-! 3/15/2018, 1:06:19 AM http://www.tomsguide.com/answers/id-3561382/deos-youtube-randomly-pausing-videos.html
-www.tomsguide.com##.inPostRC
-
-tomsguide.com
-
-! 3/15/2018, 3:54:49 PM https://itunes.apple.com/us/book/defining-new-media/id860850881?mt=11&ign-mpt=uo%3D4
-itunes.apple.com###itunes-detector
-
-! 3/15/2018, 11:30:16 PM https://medium.freecodecamp.org/stop-bringing-strong-typing-to-javascript-4da0666cba6e
-medium.freecodecamp.org##.butterBar
-
-! 3/15/2018, 11:33:07 PM https://medium.com/@SylvainPV/type-safety-in-javascript-using-es6-proxies-eee8fbbbd600
-medium.com##.butterBar
-
-! 3/21/2018, 12:57:05 AM https://imgur.com/a/tksiu/embed?pub=true&ref=http%3A%2F%2Fnillysrealm.wdfiles.com%2Flocal--html%2Farenas%2F6f2ba42a959f87dfc2f6ed4d2665d61ac436c9fe-7277370451397109381%2Fnillysrealm.wikidot.com%2F&w=540
-imgur.com###app-apple
-
-! 3/21/2018, 12:57:15 AM https://imgur.com/a/tksiu/embed?pub=true&ref=http%3A%2F%2Fnillysrealm.wdfiles.com%2Flocal--html%2Farenas%2F6f2ba42a959f87dfc2f6ed4d2665d61ac436c9fe-7277370451397109381%2Fnillysrealm.wikidot.com%2F&w=540
-imgur.com###app-android
-
-! 3/22/2018, 1:03:05 AM http://collider.com/jumanji-2-gag-reel/
-collider.com##.slider
-
-! 3/22/2018, 1:03:44 AM http://collider.com/jumanji-2-gag-reel/#images
-collider.com###after-post-stuff
-
-! 3/22/2018, 1:04:03 AM http://collider.com/jumanji-2-gag-reel/#images
 collider.com##.facebook-comments-cover
-
-! 3/22/2018, 1:04:16 AM http://collider.com/jumanji-2-gag-reel/#images
+collider.com##.slider
+collider.com###after-post-stuff
 collider.com###latest-news
-
-! 3/22/2018, 1:05:20 AM http://variety.com/2018/film/news/sony-domestic-marketing-chief-christine-birch-internal-complaints-1202733107/
-variety.com##.c-widget
-
-! 3/22/2018, 1:05:30 AM http://variety.com/2018/film/news/sony-domestic-marketing-chief-christine-birch-internal-complaints-1202733107/
-variety.com##.l-more-from
-
-! 3/23/2018, 2:42:17 PM http://blog.credit.com/2015/01/what-happens-if-i-swipe-my-debit-card-as-a-credit-106688/
-blog.credit.com##.callout
-
-! 3/23/2018, 2:43:20 PM http://blog.credit.com/2015/01/what-happens-if-i-swipe-my-debit-card-as-a-credit-106688/
-blog.credit.com##.schumer-container
-
-! 3/23/2018, 2:44:33 PM http://blog.credit.com/2015/01/what-happens-if-i-swipe-my-debit-card-as-a-credit-106688/
-blog.credit.com##.post-footer
-
-! 3/23/2018, 2:44:45 PM http://blog.credit.com/2015/01/what-happens-if-i-swipe-my-debit-card-as-a-credit-106688/
-blog.credit.com##[href="https://www.credit.com/free-credit-report-card/"]
-
-! 3/23/2018, 2:45:31 PM http://blog.credit.com/2011/08/want-free-checking-try-a-smaller-bank/
-blog.credit.com##[href^="https://www.credit.com/free-credit-score/"]
-
-! 3/23/2018, 2:46:06 PM http://blog.credit.com/2011/08/want-free-checking-try-a-smaller-bank/
-blog.credit.com##a
-
-! 3/28/2018, 12:19:32 PM https://blog.trendmicro.com/trendlabs-security-intelligence/malvertising-campaign-abuses-googles-doubleclick-to-deliver-cryptocurrency-miners/
-blog.trendmicro.com##.yarpp-related
-
-! 3/28/2018, 12:19:40 PM https://blog.trendmicro.com/trendlabs-security-intelligence/malvertising-campaign-abuses-googles-doubleclick-to-deliver-cryptocurrency-miners/
-blog.trendmicro.com##.banner-widget-area
-
-! 3/30/2018, 9:12:55 AM https://www.osx86.net/articles.html/
-www.osx86.net##.ipsDataItem_main
-
-! 4/2/2018, 9:17:58 AM https://www.treehugger.com/technology/
-www.treehugger.com##.c-layout__column--rail
-
-! 4/2/2018, 9:20:20 AM https://www.treehugger.com/technology/page/3/
-www.treehugger.com##.c-block--featured
-
-! 4/2/2018, 9:24:23 AM https://www.treehugger.com/solar-technology/waterproof-solar-cell-could-go-through-washer-and-still-work.html
-www.treehugger.com##.c-block__cards
-
-! 4/2/2018, 9:24:36 AM https://www.treehugger.com/solar-technology/waterproof-solar-cell-could-go-through-washer-and-still-work.html
-www.treehugger.com##.c-block__header
-
-! 4/4/2018, 11:45:27 PM https://www.youtube.com/
-www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
-
-! 4/8/2018, 12:56:32 AM http://ew.com/article/2016/02/18/chainsmokers-playlist-ew/
-ew.com##.footer-subscribe-link
-
-! 4/10/2018, 8:48:29 PM https://www.primermagazine.com/2009/field-manual/know-it-all-why-is-american-football-called-%E2%80%9Cfootball%E2%80%9D
-www.primermagazine.com###mc_embed_signup
-
-! 4/10/2018, 8:48:36 PM https://www.primermagazine.com/2009/field-manual/know-it-all-why-is-american-football-called-%E2%80%9Cfootball%E2%80%9D
-www.primermagazine.com##.sidebar
-
-! 4/10/2018, 8:48:49 PM https://www.primermagazine.com/2009/field-manual/know-it-all-why-is-american-football-called-%E2%80%9Cfootball%E2%80%9D
-www.primermagazine.com###single_bottom_posts
-
-! 4/15/2018, 6:56:07 PM http://www.imdb.com/title/tt0094625/?ref_=fn_al_tt_1
-||www.imdb.com/images/a/ifb/doubleclick/indirect.html$subdocument
-
-mail.google.com##div[aria-label="Switch to the latest version of Gmail on your iPhone"]
-
-! 4/16/2018, 9:42:30 PM https://mainecampus.com/2018/04/umaine-disrupts-flow-of-typical-school-day-to-welcome-accepted-students/
-mainecampus.com##.owl-carousel
-
-! 4/16/2018, 9:42:39 PM https://mainecampus.com/2018/04/umaine-disrupts-flow-of-typical-school-day-to-welcome-accepted-students/
-mainecampus.com##.newsmag-related-posts
-
-! 4/16/2018, 9:42:59 PM https://mainecampus.com/2018/04/umaine-disrupts-flow-of-typical-school-day-to-welcome-accepted-students/
-mainecampus.com##.newsmag-next-prev
-
-! 4/16/2018, 11:31:07 PM https://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/
-qz.com###tab-bar
-
-! 4/16/2018, 11:32:16 PM https://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/
-qz.com##div > h3
-
-! 4/16/2018, 11:32:33 PM https://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/
-qz.com##.has-hero.global.article.item
-
-! 4/22/2018, 1:25:44 AM http://variety.com/2018/music/news/avicii-dead-at-28-1202772767/
-variety.com##.c-related
-
-! 4/23/2018, 12:28:58 AM https://btcmanager.com/iota-misunderstood-cryptocurrency/
-btcmanager.com##.telegram_link
-
-! 4/23/2018, 12:45:59 AM https://hackernoon.com/why-i-find-iota-deeply-alarming-934f1908194b
-hackernoon.com##.butterBar
-
-! 4/23/2018, 12:48:13 AM https://medium.com/@thedrbits/why-i-also-find-iota-deeply-alarming-99d4f2da3282
-medium.com##.overlay
-
-! 4/23/2018, 1:17:30 AM https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain
-www.bloomberg.com##.lede-media-video
-
-! 4/23/2018, 1:19:18 AM https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain
-www.bloomberg.com##.body-copy a[href^="https://www.bloomberg.com/"]
-
-! 4/23/2018, 1:19:36 AM https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain
-www.bloomberg.com##.terminal-news-story
-
-! 4/23/2018, 1:24:10 AM https://www.bleepingcomputer.com/news/security/iota-cryptocurrency-users-lose-4-million-in-clever-phishing-attack/
-www.bleepingcomputer.com##.ras
-
-! 4/23/2018, 1:41:58 AM https://nmd345-2018s.slack.com/messages/C9YP48GSC/
-nmd345-2018s.slack.com###coachmark
-
-
-
-/watch_autoplayrenderer.js$script,domain=www.youtube.com
-/annotations_module.js$script,domain=www.youtube.com
-
-/endscreen.js$script,domain=www.youtube.com
-
-
-
-bloomberg.com*video^
-bloomberg.com##.video-player
-
-||cdn.gotraffic.net/projector/latest/bplayer.js$script,important
-
-registry.api.cnn.io/assets/fave/theoplayer
-akamaihd.net/*.ts$domain=cnet.com
-akamaihd.net/*.m3u8$domain=cnet.com
-
-! 4/23/2018, 7:45:00 PM https://jsfiddle.net/
-jsfiddle.net###hello-bar
-
-.trends
-
-! 4/24/2018, 10:28:30 PM https://123moviesc.me/film/escape-from-new-york/8v4M
-123moviesc.me##[id^=_pn]
-
+console.developers.google.com##.pan-free-trial-banner-container
+cssminifier.com##p
+discordapp.com##[class^=notice]
+economictimes.indiatimes.com##.js-common-hook
+economictimes.indiatimes.com##.rel-art
+economictimes.indiatimes.com##.showBtmBar
+economictimes.indiatimes.com##header
+edsource.org##.embed-inline-signup
+edsource.org##.sidebar
+edsource.org##.tingle-modal
+edsource.org###comment-panel
+edsource.org###end-of-article-box
 egghead.io
+ew.com##.footer-subscribe-link
+fafsa.ed.gov##[href^="http://www.adobe.com/products/reader.html"]
+gabrielecirulli.github.io##.app-notice
+github.com##.no-underline.text-center
+gizmodo.com##.iframe-container
+gizmodo.com##.instream-native-video
+gotenna.com###welcomePopUp
+hackernoon.com##.butterBar
+heateor.com
+imgur.com###app-android
+imgur.com###app-apple
+itunes.apple.com###itunes-detector
+jsfiddle.net###hello-bar
+knowyourmeme.com###leaderboard
+mail.google.com##.gb_ad
+mail.google.com##div[aria-label="Switch to the latest version of Gmail on your iPhone"]
+mainecampus.com##.newsmag-next-prev
+mainecampus.com##.newsmag-related-posts
+mainecampus.com##.owl-carousel
+maryflanagan.com##.ut-project-sc
+maryflanagan.com##.ut-share-link
+mashable.com
+mashable.com###peek > div:nth-of-type(1) > div
+mashable.com###read-more-interrupt
+medium.com##.butterBar
+medium.com##.overlay
+medium.freecodecamp.org##.butterBar
+momodeli.com###swnza_banner_id
+myanimelist.net##.slider-wrap
+myanimelist.net##[class*=manga-store-button]
+myanimelist.net###episode_video
+nikhilbuduma.com##.right
+nmd345-2018s.slack.com###coachmark
+notalwaysright.com https://www.gstatic.com script block
+objective-see.com##.blogContent > div:last-of-type
+objective-see.com##.menubutton
+objective-see.com##div:nth-of-type(4)
+objective-see.com##nav
+objective-see.com##nav:nth-of-type(1)
+openload.co##.exo-native-widget-outer-container
+pcbsd.org
+petapixel.com##.sidebar
+qz.com##.has-hero.global.article.item
+qz.com###tab-bar
+qz.com##div > h3
+registry.api.cnn.io/assets/fave/theoplayer
+solarmoviez.ru##.popover
+solarmoviez.ru###overlay-solarplugin-main
+stackoverflow.blog##.comments-wrapper
+stackoverflow.blog##.three-x-post-block
+stackoverflow.blog##.top-bar
+stackoverflow.blog##.twitter-row
+stackoverflow.blog###masthead
+stackoverflow.com##.aside-cta
+stackoverflow.com##.bottom-notice
+stackoverflow.com##.community-bulletin
+stackoverflow.com##.js-add-link
+stackoverflow.com##.star-off
+stackoverflow.com##.top-bar
+stackoverflow.com##.vote-down-off
+stackoverflow.com##.vote-up-off
+stackoverflow.com###announcement-banner
+stackoverflow.com###hot-network-questions
+stackoverflow.com###post-form
+thedailywtf.com##.article-body > div
+thenextweb.com##.idc-hasIcon
+theoutline.com##.card
+theoutline.com##.post__footer
+theoutline.com##[class^=stack-embed-]
+timesofindia.indiatimes.com##.article_content > div > strong
+timesofindia.indiatimes.com##.more-from-toi-wrapper
+timesofindia.indiatimes.com##.relatedarticle
+tomassetti.me##.ck_vertical_subscription_form
+tomsguide.com
+translate.google.com##.gt-hats
+travis-ci.org##.cta
+tribler.readthedocs.io##.rtd-pro-footer-wrapper
+trueos.org
+tylermcginnis.com
+unix.com
+userbase.kde.org##.fixed
+variety.com##.c-related
+variety.com##.c-widget
+variety.com##.l-more-from
+venturebeat.com
+venturebeat.com##.medrec-wrapper
+www-01.ibm.com##[id^=ibm-overlaywidget]
+www-01.ibm.com###ibm-overlay-backdrop
+www.azquotes.com##.b-social-links
+www.azquotes.com##.wrap-ico
+www.bignox.com##.eggs
+www.bignox.com##.eggs-content
+www.bleepingcomputer.com##.ras
+www.bloomberg.com##.body-copy a[href^="https://www.bloomberg.com/"]
+www.bloomberg.com##.lede-media-video
+www.bloomberg.com##.terminal-news-story
+www.cleancss.com##.hidden-xs.row
+www.cnet.com##.upNextBottomWrapper
+www.cnet.com###contentPromo
+www.cnet.com##p a
+www.cnn.com##.el__leafmedia--factbox
+www.codecademy.com##._1DPMm-lVsCbpuRUE68nuOv
+www.computerworld.com##[href^="https://www.facebook.com/"]
+www.daedtech.com##.widget
+www.daedtech.com##[href="https://www.daedtech.com/welcome-tech-part-daedtech/"]
+www.datamation.com##.right_content
+www.datamation.com##.search_holder
+www.datamation.com###logo_holder
+www.datamation.com###manual-webinar-asset
+www.datamation.com###mostPopularEditorsPicks
+www.deviantart.com##.mcbox-hottopics
+www.deviantart.com##.mcbox-hottopics
+www.downthemall.net##.divascookies
+www.downthemall.org##.divascookies
+www.emojidex.com###emojidex-header
+www.esquire.com##.embed-center
+www.facebook.com###pagelet_pymk_timeline
+www.factmag.com##.do-sth
+www.factmag.com##.related-container
+www.factmag.com##.wavo-wrapper
+www.factmag.com###header
+www.ghacks.net##.border--top--gray
+www.git-tower.com##.signup--gift
+www.git-tower.com###sharing-sidebar
+www.imdb.com##.watchbar2
+www.imdb.com###front_row_widget
+www.imdb.com###front-row-video
+www.kirkusreviews.com##.blog-footer
+www.kirkusreviews.com##.blog-post-teaser-txt-ctr
+www.kirkusreviews.com##.navbar
+www.kirkusreviews.com##.related-content-header-text
+www.kirkusreviews.com##.top-nav
+www.kirkusreviews.com##a[href="#continue_reading_post"]
+www.kirkusreviews.com##aside
+www.kreativekorp.com###_bftn_wrapper
+www.minifier.org##.projects-bar
+www.nme.com##.advert
+www.nme.com##.articleBody > ul
+www.nme.com##.sticky-anchor
+www.nme.com###header
+www.nme.com##nav
+www.novagraaf.com##.ezelsoor
+www.novagraaf.com###rightCntr
+www.npr.org##.story-recommendations
+www.osx86.net##.ipsDataItem_main
+www.pastemagazine.com##.article-shares-links
+www.pastemagazine.com##.master-header
+www.phoronix.com##[href^="https://www.paypal.com/cgi-bin/webscr"]
+www.phoronix.com##[href$="premium"]
+www.poynter.org##.l--sidebar
+www.poynter.org##.more-buttons
+www.primermagazine.com##.sidebar
+www.primermagazine.com###mc_embed_signup
+www.primermagazine.com###single_bottom_posts
+www.quora.com##.BelowQuestionAddPrompt
+www.quora.com##.ErrorBanner
+www.quora.com##.header_contents
+www.quora.com##.header_inner
+www.quora.com##.SiteHeader
+www.recode.net##.c-compact-river
+www.recode.net##.c-related-list
+www.reddit.com##.commentsignupbar
+www.reddit.com##.listingsignupbar
+www.reddit.com##.read-next
+www.samethattune.com##[href^="http://click.linksynergy.com/"]
+www.samethattune.com###sidebar
+www.snes9x.com##[href^="https://nzbcheck.live"]
+www.speedrun.com##.curse
+www.speedrun.com###sidebar > .curse
+www.techradar.com##.hawk-multi-model-review-container
+www.thehindu.com##.sidebar
+www.theinquirer.net##.ads-after-this-paragraph > span > strong
+www.theinquirer.net##.nav-tools
+www.theinquirer.net##.news-articles
+www.theinquirer.net##.sidebar
+www.tomsguide.com##.inPostRC
+www.treehugger.com##.c-block__cards
+www.treehugger.com##.c-block__header
+www.treehugger.com##.c-block--featured
+www.treehugger.com##.c-layout__column--rail
+www.tribuneindia.com##.RightContainer
+www.tribuneindia.com##[href^="https://www.facebook.com/The-Tribune-798949453521526/"]
+www.tribuneindia.com##[href="https://twitter.com/thetribunechd"]
+www.tv21.org##.idmuvi-social-share
+www.tv21.org##img[src^="https://www.tv21.org/"]
+www.urtech.ca###Sidebar
+www.wekinator.org##.maxbutton
+www.wekinator.org###heateor_ss_browser_popup_bg
+www.wekinator.org###the_champ_sharing_more_providers
+www.whosampled.com##.buyDropdownWrap
+www.whosampled.com##.commentsWrap
+www.whosampled.com##.sidebar-container
+www.whosampled.com###header
+www.whosampled.com###wb-ad-grid
+www.wired.co.uk##.c-card-section
+www.wired.com##.truncated-footer-component
+www.wired.com##[href^="https://subscribe.condenastdigital.com/"]
+www.wpbeginner.com##[id$=lightbox]
+www.youtube.com##.videoblocker-container
+www.youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com###creator.yt-live-chat-message-input-renderer
