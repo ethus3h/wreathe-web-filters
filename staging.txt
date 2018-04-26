@@ -264,6 +264,7 @@ unix.com
 urtech.ca###Sidebar
 userbase.kde.org##.fixed
 variety.com##.c-related
+##.idmuvi-social-share
 variety.com##.c-widget
 variety.com##.l-more-from
 venturebeat.com
@@ -272,10 +273,13 @@ wekinator.org##.maxbutton
 wekinator.org###heateor_ss_browser_popup_bg
 wekinator.org###the_champ_sharing_more_providers
 whosampled.com##.buyDropdownWrap
+##.buyDropdownWrap
+###the_champ_sharing_more_providers
 whosampled.com##.commentsWrap
 whosampled.com##.sidebar-container
 whosampled.com###header
 whosampled.com###wb-ad-grid
+###wb-ad-grid
 wired.co.uk##.c-card-section
 wired.com##.truncated-footer-component
 wired.com##[href^="https://subscribe.condenastdigital.com/"]
