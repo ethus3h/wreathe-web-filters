@@ -1,15 +1,3 @@
-/annotations_module.js$script,domain=www.youtube.com
-/endscreen.js$script,domain=www.youtube.com
-/watch_autoplayrenderer.js$script,domain=www.youtube.com
-||*/minimal-modal/*.js
-||cdmycdn.com
-||cdn.gotraffic.net/projector/latest/bplayer.js$script,important
-||forums.pcbsd.org^$inline-script,domain=forums.pcbsd.org
-||http://nmd430.sofianaudry.com/wp-content/uploads/sites/2/2018/01/android_2-512-blue.png
-||notalwaysright.com^$inline-script
-||www.imdb.com/images/a/ifb/doubleclick/indirect.html$subdocument
-||www.menuju.link$image
-||www.tribuneindia.com/images/back.png$image
 123moviesc.me##[id^=_pn]
 3dprint.com##.et_bloom_flyin
 3dprint.com##.relatedposts
