@@ -1165,7 +1165,7 @@ zootfeed.com
 ~youtube.com###secondary
 
 ! ======== Global cosmetic filters ========
-.trends
+##.trends
 ##.buyDropdownWrap
 ##.idmuvi-social-share
 ##[class*=cta]
