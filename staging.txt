@@ -113,7 +113,6 @@ edsource.org##.sidebar
 edsource.org##.tingle-modal
 edsource.org###comment-panel
 edsource.org###end-of-article-box
-egghead.io
 emojidex.com###emojidex-header
 esquire.com##.embed-center
 ew.com##.footer-subscribe-link
@@ -132,7 +131,6 @@ gizmodo.com##.iframe-container
 gizmodo.com##.instream-native-video
 gotenna.com###welcomePopUp
 hackernoon.com##.butterBar
-heateor.com
 imdb.com##.watchbar2
 imdb.com###front_row_widget
 imdb.com###front-row-video
@@ -156,7 +154,6 @@ mainecampus.com##.newsmag-related-posts
 mainecampus.com##.owl-carousel
 maryflanagan.com##.ut-project-sc
 maryflanagan.com##.ut-share-link
-mashable.com
 mashable.com###peek > div:nth-of-type(1) > div
 mashable.com###read-more-interrupt
 medium.com##.butterBar
@@ -187,7 +184,6 @@ openload.co##.exo-native-widget-outer-container
 osx86.net##.ipsDataItem_main
 pastemagazine.com##.article-shares-links
 pastemagazine.com##.master-header
-pcbsd.org
 petapixel.com##.sidebar
 phoronix.com##[href^="https://www.paypal.com/cgi-bin/webscr"]
 phoronix.com##[href$="premium"]
@@ -248,7 +244,6 @@ timesofindia.indiatimes.com##.article_content > div > strong
 timesofindia.indiatimes.com##.more-from-toi-wrapper
 timesofindia.indiatimes.com##.relatedarticle
 tomassetti.me##.ck_vertical_subscription_form
-tomsguide.com
 tomsguide.com##.inPostRC
 translate.google.com##.gt-hats
 travis-ci.org##.cta
@@ -260,17 +255,13 @@ tribler.readthedocs.io##.rtd-pro-footer-wrapper
 tribuneindia.com##.RightContainer
 tribuneindia.com##[href^="https://www.facebook.com/The-Tribune-798949453521526/"]
 tribuneindia.com##[href="https://twitter.com/thetribunechd"]
-trueos.org
 tv21.org##.idmuvi-social-share
 tv21.org##img[src^="https://www.tv21.org/"]
-tylermcginnis.com
-unix.com
 urtech.ca###Sidebar
 userbase.kde.org##.fixed
 variety.com##.c-related
 variety.com##.c-widget
 variety.com##.l-more-from
-venturebeat.com
 venturebeat.com##.medrec-wrapper
 wekinator.org##.maxbutton
 wekinator.org###heateor_ss_browser_popup_bg

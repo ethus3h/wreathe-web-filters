@@ -15,6 +15,15 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ! ======== Web sites to block fully ========
 ! Many are from "False, Misleading, Clickbait-y, and/or Satirical “News” Sources" list by Melissa Zimdars
 100percentfedup.com
+egghead.io
+heateor.com
+mashable.com
+pcbsd.org
+venturebeat.com
+tomsguide.com
+trueos.org
+tylermcginnis.com
+unix.com
 16wmpo.com
 21stcenturywire.com
 24newsflash.com
