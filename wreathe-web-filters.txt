@@ -15,15 +15,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ! ======== Web sites to block fully ========
 ! Many are from "False, Misleading, Clickbait-y, and/or Satirical “News” Sources" list by Melissa Zimdars
 100percentfedup.com
-egghead.io
-heateor.com
-mashable.com
-pcbsd.org
-venturebeat.com
-tomsguide.com
-trueos.org
-tylermcginnis.com
-unix.com
 16wmpo.com
 21stcenturywire.com
 24newsflash.com
@@ -313,6 +304,7 @@ economicnoise.com
 ecowatch.com
 educate-yourself.org
 educateinspirechange.org
+egghead.io
 electionnightgatekeepers.com
 elelephantintheroom.blogspot.com
 elitereaders.com
@@ -418,6 +410,7 @@ healthy-holistic-living.com
 healthycareandbeauty.com
 healthyworldhouse.com
 heartland.org
+heateor.com
 heatst.com
 henrymakow.com
 heresyblog.net
@@ -529,6 +522,7 @@ maharlikanews.com
 majorthoughts.com
 makeamericagreattoday.com
 marketing.dropbox.com
+mashable.com
 meanlefthook.com
 mediamass.net
 mediazone.news
@@ -654,6 +648,7 @@ patriotpost.us
 patriotrising.com
 patriotupdate.com
 paulcraigroberts.org
+pcbsd.org
 philnewsportal.com
 philstar.i-telecast.com
 phppoliticsnews.blogspot.com
@@ -967,6 +962,7 @@ tmzworldnews.com
 tnp.ph
 tnp.today
 todayinmanila.ga
+tomsguide.com
 tomwoods.com
 topekasnews.com
 topinfopost.com
@@ -991,6 +987,7 @@ tribunist.com
 trueactivist.com
 trueamericans.me
 trueeconomics.blogspot.com
+trueos.org
 truepundit.com
 truetrumpers.com
 trumpvision365.com
@@ -1011,6 +1008,7 @@ turnerradionetwork.com
 tv-bbc.com
 tv-cnn.com
 twitchy.com
+tylermcginnis.com
 tyronetribulations.com
 ufoholic.com
 unclesamsmisguidedchildren.com
@@ -1024,6 +1022,7 @@ undergroundworldnews.com
 unionleader.com
 unitedmediapublishing.com
 universepolitics.com
+unix.com
 unz.com
 updater24.com
 us.blastingnews.com
@@ -1073,6 +1072,7 @@ uspostman.com
 usuncut.com
 usviewer.com
 vdare.com
+venturebeat.com
 veteransnewsnow.com
 veteranstoday.com
 vigilantcitizen.com
