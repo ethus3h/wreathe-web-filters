@@ -172,6 +172,7 @@ cnnnext.com
 cnsnews.com
 coasttocoastam.com
 coed.com
+codecademy.com
 collective-evolution.com
 collectivelyconscious.net
 comingdepression.com
@@ -1479,6 +1480,11 @@ zootfeed.com
 ##watermark leftwatermark
 
 ! ======== Network filters ========
+akamaihd.net/*.m3u8$domain=cnet.com
+akamaihd.net/*.ts$domain=cnet.com
+notalwaysright.com https://www.gstatic.com script block
+registry.api.cnn.io/assets/fave/theoplayer
+bloomberg.com*video^
 /annotations_module.js$script,domain=www.youtube.com
 /endscreen.js$script,domain=www.youtube.com
 /watch_autoplayrenderer.js$script,domain=www.youtube.com

@@ -4,8 +4,6 @@
 3dprint.com##.soliloquy-outer-container
 3dprint.com##.su-note
 3dprint.com###sidebar
-akamaihd.net/*.m3u8$domain=cnet.com
-akamaihd.net/*.ts$domain=cnet.com
 arstechnica.com##.inline-video
 arstechnica.com##.prev-next-links
 arstechnica.com##.site-footer
@@ -37,7 +35,6 @@ blog.trendmicro.com##.yarpp-related
 blogs.oracle.com##.cb07
 blogs.oracle.com##.cw51title
 blogs.oracle.com##.sticky-wrapper
-bloomberg.com*video^
 bloomberg.com##.body-copy a[href^="https://www.bloomberg.com/"]
 bloomberg.com##.lede-media-video
 bloomberg.com##.terminal-news-story
@@ -53,7 +50,6 @@ cnet.com##.upNextBottomWrapper
 cnet.com###contentPromo
 cnet.com##p a
 cnn.com##.el__leafmedia--factbox
-codecademy.com
 codecademy.com##._1DPMm-lVsCbpuRUE68nuOv
 codecademy.com##._1ih8yaMxfBaIQCm_PS0WUN
 codecademy.com##.overlay
@@ -148,7 +144,6 @@ nme.com##.articleBody > ul
 nme.com##.sticky-anchor
 nme.com###header
 nme.com##nav
-notalwaysright.com https://www.gstatic.com script block
 novagraaf.com##.ezelsoor
 novagraaf.com###rightCntr
 npr.org##.story-recommendations
@@ -182,7 +177,6 @@ recode.net##.c-related-list
 reddit.com##.commentsignupbar
 reddit.com##.listingsignupbar
 reddit.com##.read-next
-registry.api.cnn.io/assets/fave/theoplayer
 samethattune.com##[href^="http://click.linksynergy.com/"]
 samethattune.com###sidebar
 snes9x.com##[href^="https://nzbcheck.live"]
