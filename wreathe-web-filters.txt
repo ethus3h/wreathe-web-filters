@@ -1165,17 +1165,6 @@ zootfeed.com
 ~youtube.com###secondary
 
 ! ======== Global cosmetic filters ========
-##.trends
-##.buyDropdownWrap
-##.idmuvi-social-share
-##[class*=cta]
-##[href^="http://unix.com/"
-##[href^="http://www.unix.com/"
-##[href^="https://unix.com/"
-##[href^="https://www.unix.com/"
-###related
-###the_champ_sharing_more_providers
-###wb-ad-grid
 ##.adblockermessage
 ##.ads-left-block
 ##.adStripe2
@@ -1197,6 +1186,7 @@ zootfeed.com
 ##.btn-affiliate
 ##.btnSubscribe
 ##.bundle-payflow
+##.buyDropdownWrap
 ##.c-recirc-module
 ##.callout--tagged-event-promo
 ##.cards-component
@@ -1228,6 +1218,7 @@ zootfeed.com
 ##.header-most-read
 ##.hero-container
 ##.highlightMenu
+##.idmuvi-social-share
 ##.injected-video-by-load
 ##.injection
 ##.inline_related
@@ -1332,6 +1323,7 @@ zootfeed.com
 ##.trb_eg
 ##.trb_em_b_if
 ##.trb_filmstrip
+##.trends
 ##.u-sizeFullWidth.u-fixed
 ##.ui-small-carousel
 ##.ui-widget-overlay
@@ -1349,6 +1341,7 @@ zootfeed.com
 ##[class*="-nudge"]
 ##[class*="upgrade"]
 ##[class*=cta-]
+##[class*=cta]
 ##[class*=donate]
 ##[class*=effector]
 ##[class*=infinite-view]
@@ -1384,15 +1377,19 @@ zootfeed.com
 ##[href^="http://downloads.3cx.com/"]
 ##[href^="http://graphicriver.net/"]
 ##[href^="http://identi.ca/"]
+##[href^="http://unix.com/"
 ##[href^="http://w3schools.com"]
 ##[href^="http://www.excel-easy.com/"]
 ##[href^="http://www.graphicriver.net/"]
+##[href^="http://www.unix.com/"
 ##[href^="http://www.w3schools.com"]
 ##[href^="https://contribute.publicradio.org/contribute.php"]
 ##[href^="https://graphicriver.net/"]
 ##[href^="https://plus.google.com/"]
+##[href^="https://unix.com/"
 ##[href^="https://www.graphicriver.net/"]
 ##[href^="https://www.patreon.com"]
+##[href^="https://www.unix.com/"
 ##[href^="https://www.w3schools.com"]
 ##[href="https://www.privateinternetaccess.com/"]
 ##[href$="paypal.me/ameub"]
@@ -1454,6 +1451,7 @@ zootfeed.com
 ###recirc-pos-2
 ###recirculated-content
 ###related
+###related
 ###related-combined-coverage
 ###related-coverage
 ###relevant-videos
@@ -1467,8 +1465,10 @@ zootfeed.com
 ###stickyShare
 ###subscribe-button
 ###survey-message
+###the_champ_sharing_more_providers
 ###trending_now
 ###watermark leftwatermark
+###wb-ad-grid
 ###whats-next
 ###WikiaBar
 ###wpp-2
