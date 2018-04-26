@@ -1165,6 +1165,17 @@ zootfeed.com
 ~youtube.com###secondary
 
 ! ======== Global cosmetic filters ========
+.trends
+##.buyDropdownWrap
+##.idmuvi-social-share
+##[class*=cta]
+##[href^="http://unix.com/"
+##[href^="http://www.unix.com/"
+##[href^="https://unix.com/"
+##[href^="https://www.unix.com/"
+###related
+###the_champ_sharing_more_providers
+###wb-ad-grid
 ##.adblockermessage
 ##.ads-left-block
 ##.adStripe2

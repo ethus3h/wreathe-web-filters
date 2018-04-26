@@ -1,17 +1,6 @@
-.trends
 /annotations_module.js$script,domain=www.youtube.com
 /endscreen.js$script,domain=www.youtube.com
 /watch_autoplayrenderer.js$script,domain=www.youtube.com
-##.buyDropdownWrap
-##.idmuvi-social-share
-##[class*=cta]
-##[href^="http://unix.com/"
-##[href^="http://www.unix.com/"
-##[href^="https://unix.com/"
-##[href^="https://www.unix.com/"
-###related
-###the_champ_sharing_more_providers
-###wb-ad-grid
 ||*/minimal-modal/*.js
 ||cdmycdn.com
 ||cdn.gotraffic.net/projector/latest/bplayer.js$script,important
