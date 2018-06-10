@@ -2346,7 +2346,6 @@ mediafire.com##.bottomAdLeaderboard
 mediafire.com##.dl-utility-nav
 mediafire.com##.dlInfo
 mediafire.com##.dlInfo-Body
-mediafire.com##.dlInfo-Body
 mediafire.com##.dlInfo-Sidebar
 mediafire.com##.dlInfo-Speed
 mediafire.com##.dlPromo1Content.dlPromoContent[href=\"/upgrade/\"]
