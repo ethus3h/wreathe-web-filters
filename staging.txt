@@ -1,7 +1,6 @@
 @@||api.solvemedia.com$domain=spaste.com
 @@||api.solvemedia.com$script,domain=spaste.com
 @@||bc.vc/PBKEEmM$popup,domain=www.limitsizamca.org
-@@||bc.vc/PBKEEmM$popup,domain=www.limitsizamca.org
 @@||bc.vc^$popup,domain=www.limitsizamca.org
 @@||cbox.ws^
 @@||dfcdn.net^$domain=pornovau.com
@@ -33,7 +32,6 @@
 #@#.home_right_column
 #@#.home_right_column .ego_column.egoOrganicColumn
 #@#.html.entry
-#@#.twitter
 #@#.twitter
 #@#.twitter-share
 #@#.twitter-tweet
@@ -77,15 +75,12 @@
 ||ads.shorte.st/ads.php?key=bf822edaeefaa2a510a7fc154b0be028&width=1024&height=768&ch=105909&cp.dest_domain=&cp.oid=105909&cp.referrer=http://vinaleech.com/&cp.locked=0&cp.proxy=0&cp.quarantine_status=1&cp.vno=1&cp.type=overlay&cp.asid=d16f09b371c4b30c41f8844a8e852b0ef7464a50
 ||banners.advidi.com/campaigns/1089?aff_id=18
 ||brazzers-hd.com/img/black-friday.png$image
-||brazzers-hd.com/img/black-friday.png$image
-||brazzers-hd.com/img/black-friday.png$image
 ||cdn-amk.sozcu.com.tr/amk-resimler/2016/05/arda-turan_banner-1.jpg$image
 ||cdn-amk.sozcu.com.tr/amk-resimler/2016/05/fikret-orman_resim_haber-6.jpg$image
 ||cdn-amk.sozcu.com.tr/amk-resimler/2016/05/serdar-aziz_banner-1.jpg$image
 ||cms.static.hw.famedownload.com/21sextreme/m/249p29972zgkkgw4/footer-left-img.jpg$image
 ||coinhive.com/lib/coinhive.min.js$first-party,important
 ||d26dzxoao6i3hh.cloudfront.net/items/132q2J3H2b331U3z2r2U/1_right.jpg?v=b13a5a3a$image
-||d26dzxoao6i3hh.cloudfront.net/items/2r231T1k462b470W231O/1_left.jpg?v=fbcc4799$image
 ||d26dzxoao6i3hh.cloudfront.net/items/2r231T1k462b470W231O/1_left.jpg?v=fbcc4799$image
 ||domainnamewire.com/wp-content/hexonet.jpg$image
 ||files.newsinlevels.com/200007120-50f9552ec5/ER_banner_NiL.gif$image
@@ -120,14 +115,10 @@
 ||sharedir.com/phplivez/web/icon_offline_0.PNG?1449083915
 ||sharedir.com/phplivez/web/icon_offline_0.PNG?1449083951
 ||spankbang.com/gateway/wide_footer
-||spankbang.com/gateway/wide_footer
 ||srv-cdn.onedio.com/store/a8debb6b64b6d5b0b9a2824a9d7e81d299c6c973e18eebf4497084942a543e12.png
-||ss.phncdn.com/iframe-1.1.1.html
 ||ss.phncdn.com/iframe-1.1.1.html
 ||static.bobiler.org/upload/images/728x90-dido.png$image
 ||static.bobiler.org/upload/images/acik-brief-banner.png$image
-||static.bobiler.org/upload/images/acik-brief-banner.png$image
-||static.bobiler.org/upload/images/nogger-acik-brief.png$image
 ||static.bobiler.org/upload/images/nogger-acik-brief.png$image
 ||static.bobiler.org/upload/KindBlock-728x90.jpg
 ||static.bz.v3.tour.spartan.contentdef.com/Brazzers/BrazzersCom/Tour/assets/common/img/black-friday/black-friday-floater.png$image
@@ -146,16 +137,11 @@
 ||www.bilgiustam.com/images/teknotesisat.gif
 ||www.extractpdf.com/cnc/md$image
 ||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
-||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
-||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
-||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
-||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
 ||www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fonediogundem&tabs&width=635&height=154&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=182553655160563$subdocument
 ||www.gecce.com/i/img/footer.jpg$image
 ||www.girlscanner.com/templates/girlscanner/images/dfilesn.png$image
 ||www.izlesene.com/widget?playerName=widget_sinemalar_home&videoList=9561460,9526155,9537619,9504834,9494773&autoplay=1&orientation=horizontal&theme=dark&automute=1$subdocument
 ||www.izlesene.com/widget?playerName=widget_sinemalar_home&videoList=9588104,9386880,9481386,9556262,9582014,9503449,9556195&autoplay=1&orientation=horizontal&theme=dark&automute=1$subdocument
-||www.izlesene.com/widget?playerName=widget_sinemalar_top&showcase=auto&autoplay=1&color=77091C&heading=Pek%20Yak%C4%B1nda$subdocument
 ||www.izlesene.com/widget?playerName=widget_sinemalar_top&showcase=auto&autoplay=1&color=77091C&heading=Pek%20Yak%C4%B1nda$subdocument
 ||www.izlesene.com/widget?videoList=9561460,9526155,9537619,9504834,9494773&playerName=widget_sinemalar_pekyakinda&theme=dark&autoplay=1&orientation=vertical&automute=1$subdocument
 ||www.softpedia.com/asc_rect.jpg?2
@@ -175,12 +161,10 @@
 ||www.turkleech.com/styles/X-Treme/theme/images/birthday.png
 ||www.turkleech.com/styles/X-Treme/theme/images/footer/f_11.png
 ||x2.static-chomikuj.pl/res/700aac3198.jpg$image
-||x2.static-chomikuj.pl/res/700aac3198.jpg$image
 ||xhamster.com/viewFrame.php?1435518437797
 ||xhamster.com/viewFrame.php?1435605615946
 ||xhamster.com/viewFrame.php?1440876338284
 ||yazarkafe.hurriyet.com.tr/images/reklam_buton_yazarkafe.png?v=9b934ca495991b7852b8543$image
-||yts.am/211.gif$image
 ||yts.am/211.gif$image
 1/16/2016, 10:50:12 AM http://www.pornhd.com/?page=2
 1/16/2016, 10:50:18 AM http://www.pornhd.com/?page=2
@@ -252,14 +236,8 @@ bobiler.org###tepe-banner-bey
 brtfix.com##.yourshoutbox-show-27528347
 brtfix.com###brtfix-com-adblocker-engelleme
 chomikuj.pl###adultModalContainer
-chomikuj.pl###adultModalContainer
-chomikuj.pl###adultModalContainer
-chomikuj.pl###adultModalContainer > .ui-tooltip-content
 chomikuj.pl###adultModalContainer > .ui-tooltip-content
 chomikuj.pl###adultModalContainer > .ui-tooltip-titlebar
-chomikuj.pl###adultModalContainer > .ui-tooltip-titlebar
-chomikuj.pl###adultModalOverlay
-chomikuj.pl###adultModalOverlay
 chomikuj.pl###adultModalOverlay
 chrome.google.com
 clicknupload.link##.footer
@@ -376,8 +354,6 @@ komikingilizce.blogspot.com###Label1 > .cloud-label-widget-content.widget-conten
 komikingilizce.blogspot.com###Label1 > h2
 library1.org###message
 lustygrandmas.21sextreme.com###footerWrapper
-matureshock.com###ubr
-matureshock.com###ubr
 matureshock.com###ubr
 matureshock.com###wrapper > .container > center:nth-of-type(2)
 mediafire.com##.dl-utility-nav
@@ -511,7 +487,6 @@ solidfiles.com##.twitter-follow-button
 spankbang.com##.remodal-overlay:nth-of-type(7)
 spankbang.com##.videos > div:nth-of-type(3)
 spankbang.com###container > div:nth-of-type(3)
-spankbang.com###container > div:nth-of-type(3)
 spankbang.com###tlf_9LmolwU7
 spankbang.com###tlf_mFRtn8TM
 spankbang.com###tlf_MmAddQ1Q
@@ -598,17 +573,6 @@ uploadrocket.net##[value=\"Premium Download (Fastest possible download from only
 uploadrocket.net##DIV[style=\"width:970px; margin:0px auto; height:115px;\"]
 uploadrocket.net##TD[style=\"text-align:center;vertical-align:top\"][title]
 upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
-upornia.com###holder > .player > .player-holder > .mjs-closeplay
 upornia.com##body > div:nth-of-type(8) > div:nth-of-type(1)
 uppit.com##.button
 uppit.com##P
@@ -648,9 +612,6 @@ wonderfulengineering.com###post-60519 > .we-banners > center:nth-of-type(1)
 wonderfulengineering.com###respond
 wonderfulengineering.com###text-3
 wonderfulengineering.com###text-4 > .widget-section
-wonderfulengineering.com###text-4 > .widget-section
-wonderfulengineering.com###text-4 > .widget-section
-wonderfulengineering.com###text-4 > .widget-section
 ww.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(7)
 www.360logica.com###clickdesk-appendable-bubble
 www.360logica.com###contactslideid
@@ -689,7 +650,6 @@ www.chip.com.tr###anacontainer > .col-300 > .lastscroll.altbolum.altsayfalisting
 www.chip.com.tr###anacontainer > .col-300 > .wrapper-sticky
 www.chip.com.tr###anacontainer > .col-300 > .wrapper-sticky > .lastscroll.altbolum.altsayfalisting
 www.chip.com.tr###anacontainer > .col-300 > p
-www.chip.com.tr###anacontainer > .col-300 > p:nth-of-type(1)
 www.chip.com.tr###anacontainer > .col-300 > p:nth-of-type(1)
 www.chip.com.tr###anacontainer > .col-300 > p:nth-of-type(2)
 www.chip.com.tr###anacontainer > .col-ana > .row > .large.shortcode
@@ -848,7 +808,6 @@ www.limitsizamca.org###right-sidebar > b > .side-block:nth-of-type(4)
 www.limitsizamca.org##body > .clr:nth-of-type(1) > .foot-left
 www.maketecheasier.com###colophon
 www.makeuseof.com###sidebar
-www.makeuseof.com###sidebar
 www.milliyet.com.tr###_MiddleRight2 > .row:nth-of-type(12) > .endeks
 www.milliyet.com.tr###_MiddleRight2 > .row:nth-of-type(6) > .arabaBox
 www.motor1.com##.relatedContent
@@ -866,9 +825,7 @@ www.nsaneforums.com###ipsLayout_footer > .ipsLayout_container
 www.nsaneforums.com###ipsLayout_mainArea > .ipsClearfix.ipsPageHeader > .ipsSpacer_bottom
 www.nsaneforums.com###ipsLayout_mainArea > .ipsSpacer_bottom.ipsClearfix.ipsPageHeader
 www.nsaneforums.com###ipsLayout_mainArea > .ipsWidget_inner > .ipsPad
-www.nsaneforums.com###ipsLayout_mainArea > .ipsWidget_inner > .ipsPad
 www.nsaneforums.com###ipsLayout_mainArea > .ipsWidget_title.ipsType_reset
-www.nsaneforums.com###ipsLayout_mainArea > center
 www.nsaneforums.com###ipsLayout_mainArea > center
 www.nsaneforums.com###shoutbox_sidebar > .block_list.hfeed > .shoutbox_table.ipb_table > tbody > .row1 > .altrow
 www.numberone.com.tr##.right.listen-live > a > .cta.small-8
@@ -998,22 +955,15 @@ www.tnctr.com###branding
 www.tnctr.com###footer_utilities
 www.tnctr.com###index_stats > .__xXbau011fu0131u015f20yaparak20tncsever20olun21.ipsSideBlock
 www.tnctr.com###index_stats > .__xXen20son20tncseverler.ipsSideBlock
-www.tnctr.com###index_stats > .__xXen20son20tncseverler.ipsSideBlock
-www.tnctr.com###index_stats > .__xXfacebook20sayfamu0131zu013120beu011fenin.clearfix.general_box.ipsSideBlock
-www.tnctr.com###index_stats > .__xXfacebook20sayfamu0131zu013120beu011fenin.clearfix.general_box.ipsSideBlock
 www.tnctr.com###index_stats > .__xXfacebook20sayfamu0131zu013120beu011fenin.clearfix.general_box.ipsSideBlock
 www.tnctr.com###ipbwrapper > div:nth-of-type(7)
 www.tnctr.com###ipsLayout_sidebar > .cWidgetContainer > .ipsList_reset > .ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(1) > .ipsType_reset.ipsWidget_title
 www.tnctr.com###ipsLayout_sidebar > .cWidgetContainer > .ipsList_reset > .ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(1) > .ipsWidget_inner.ipsPad
 www.tnctr.com###scrolltotop
 www.tnctr.com###statusHook
-www.tnctr.com###statusHook
-www.tnctr.com###statusHook
 www.turkleech.com##.main-menu > .settings
 www.turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td
 www.turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(2)
-www.turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(3)
-www.turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(3)
 www.turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(3)
 www.turkleech.com###wrapcentre > table:nth-of-type(1) > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(3)
 www.turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .tablebg:nth-of-type(2) > tbody > tr:nth-of-type(1) > .cat
@@ -1021,14 +971,10 @@ www.turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:
 www.turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .tablebg:nth-of-type(3)
 www.turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(3) > tbody > tr > td
 www.turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(3) > tbody > tr > td:nth-of-type(2)
-www.turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(3) > tbody > tr > td:nth-of-type(2)
 www.turkleech.com##body > table:nth-of-type(1) > tbody > tr > td
-www.turkleech.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
 www.turkleech.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
 www.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
 www.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
-www.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
-www.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
 www.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
 www.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(4)
 www.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(5)
@@ -1053,7 +999,6 @@ www.yesmagazine.org###navbar-top a
 www.youtube.com##._256545Notification_Small
 www.youtube.com##._Notific890793ation_Small
 www.youtube.com###content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
-www.youtube.com###feed-pyv-container
 www.youtube.com###feed-pyv-container
 www.youtube.com###masthead-positioner-height-offset
 yazarkafe.hurriyet.com.tr##.advertise-inner-container
