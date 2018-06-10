@@ -2630,7 +2630,6 @@ makeuseof.com##.article-card-taxonomy-container
 makeuseof.com##.link-callout
 makeuseof.com##.mobile-header-wrap
 makeuseof.com###sidebar
-makeuseof.com###sidebar
 makeuseof.com###wrapper > .container > .nolinks.rightcol
 marketwatch.com##.bulletin.notification
 maryflanagan.com##.ut-project-sc
@@ -3738,8 +3737,6 @@ youtube.com##.videoblocker-container
 youtube.com##.watch-sidebar
 youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
-youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
-youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
 youtube.com##.ytd-single-option-survey-renderer
