@@ -1673,6 +1673,10 @@ data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIH
 1fichier.com###footer
 1fichier.com##DIV[style=\"width:280px;margin:auto;text-align:left\"]
 1fichier.com##IMG[src=\"https://1fichier.com/qr.pl?do=0.2quygwdeul&s=1\"]
+360logica.com###clickdesk-appendable-bubble
+360logica.com###contactslideid
+360logica.com###gaq
+360logica.com###nav-below
 3dprint.com##.et_bloom_flyin
 3dprint.com##.relatedposts
 3dprint.com##.soliloquy-outer-container
@@ -1693,6 +1697,9 @@ data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIH
 9to5mac.com##[id^=infinite-view]
 9to5mac.com###infinite-view-1
 9to5mac.com###js-site-header
+a305teyim.com###alt
+a305teyim.com###container > .ytutop
+a305teyim.com###indeed_widget_wrapper
 abcnews.go.com###abcn-videoplayer
 about.com##[id^=exploreChannels]
 about.com##[id^=featuredTopicsTemplate]
@@ -1729,6 +1736,8 @@ anitay.kinja.com###sharingfooter
 answers.yahoo.com##[href^="https://search.yahoo.com"]
 aol.com##.m-article-slideshow
 aol.com##.slideshow-preview
+apkmirror.com##.footer
+apkmirror.com###sidebar > .listWidget:nth-of-type(1)
 appear.in##.modal
 appear.in##.screen-share-message-wrapper
 appear.in##.topbar-signup-button
@@ -1820,6 +1829,10 @@ bigfile.to###left_buynow
 bigfile.to##SPAN.smalltxt
 bignox.com##.eggs
 bignox.com##.eggs-content
+bilgiustam.com##.copyrights
+bilgiustam.com###left_ad
+bilgiustam.com###widget_text:nth-of-type(1) > .textwidget
+bilgiustam.com##footer
 billboard.com##.pushdown-promo
 binsearch.info##.mt > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2)
 bitbucket.org###signup-banner
@@ -1832,6 +1845,7 @@ bitcoinmagazine.com##.navbar
 bitsnoop.com###pages
 bitsnoop.com###sidebar > .small.rounded
 bitsnoop.com###vpnBar
+bladesmithsforum.com##.ipsMessage_error
 bleacherreport.com##header > .button.atom
 bleepingcomputer.com##.ras
 blog.credit.com##.callout
@@ -1858,6 +1872,8 @@ bloomberg.com##.body-copy a[href^="https://www.bloomberg.com/"]
 bloomberg.com##.lede-media-video
 bloomberg.com##.terminal-news-story
 bloomberg.com##.video-player
+bloomberg.com###navi
+bloomberg.com###paywall-banner
 bobiler.org###bobi-sidebar > .bobi-panel-grey:nth-of-type(6)
 bobiler.org###bobi-sidebar > .uk-sticky-placeholder
 bobiler.org###bobi-sidebar > .uk-sticky-placeholder > div > .bobi-hararet.bobi-panel-grey
@@ -1877,6 +1893,10 @@ bostonglobe.com##.primary-tools > .email
 bostonglobe.com###continue-reading-waypoint
 bostonglobe.com###section-nav
 bostonglobe.com###smartbar
+brazzers.com##.call-to-action-container
+brazzers.com##.cta-btn
+brazzers.com###cta-floater
+brazzers.com##footer
 breatheheavy.com##.-is-single.feature
 breatheheavy.com##.instagram
 breatheheavy.com##.main-single-slider-container
@@ -1886,6 +1906,8 @@ brtfix.com###brtfix-com-adblocker-engelleme
 btcmanager.com##.telegram_link
 btdb.in##.friend-links
 businessinsider.com##.main-rail
+businessinsider.com##.recommended
+businessinsider.com##.see-also
 businessinsider.com##.slide-share-button
 bustle.com##article ~ div
 buzzfeed.com##.Column2
@@ -1898,11 +1920,38 @@ chatbotsmagazine.com##.metabar
 chatbotsmagazine.com##a
 chicagotribune.com##.trb_ar_summary_wrapper
 chicagotribune.com##.trb_eg_b.trb_eg
+chip.com.tr##.ad-sol
+chip.com.tr##.adspace.ad720.ad-center.ad
+chip.com.tr##.asorder > .homepage.adspace.ad720.ad
+chip.com.tr##.homepage.adspace.ad720.ad-center.ad
+chip.com.tr##.share_bar
+chip.com.tr###anacontainer > .ad-sag
+chip.com.tr###anacontainer > .adspace.ad720.ad
+chip.com.tr###anacontainer > .col-300 > .altbolum.altsayfalisting:nth-of-type(2)
+chip.com.tr###anacontainer > .col-300 > .altbolum.altsayfalisting:nth-of-type(4)
+chip.com.tr###anacontainer > .col-300 > .lastscroll:nth-of-type(1)
+chip.com.tr###anacontainer > .col-300 > .lastscroll.altbolum.altsayfalisting:nth-of-type(7)
+chip.com.tr###anacontainer > .col-300 > .lastscroll.altbolum.altsayfalisting:nth-of-type(8)
+chip.com.tr###anacontainer > .col-300 > .wrapper-sticky
+chip.com.tr###anacontainer > .col-300 > .wrapper-sticky > .lastscroll.altbolum.altsayfalisting
+chip.com.tr###anacontainer > .col-300 > p
+chip.com.tr###anacontainer > .col-300 > p:nth-of-type(1)
+chip.com.tr###anacontainer > .col-300 > p:nth-of-type(2)
+chip.com.tr###anacontainer > .col-ana > .row > .large.shortcode
+chip.com.tr###anacontainer > .col-ana > p
+chip.com.tr###anafooter
+chip.com.tr###chip-dfp-300x2-1
+chip.com.tr###chip-dfp-300x2-2
+chip.com.tr###colana > .cxwide.shortcode
+chip.com.tr###comments > .tumunuGor[href=\"#\"]
+chip.com.tr###medyanet_chip_sitegeneli_620x200_12889
+chip.com.tr###topTopicNav > .gapps > .asTamsurum:nth-of-type(2)
 chomikuj.pl###adultModalContainer
 chomikuj.pl###adultModalContainer > .ui-tooltip-content
 chomikuj.pl###adultModalContainer > .ui-tooltip-titlebar
 chomikuj.pl###adultModalOverlay
 chrome.google.com
+cjponyparts.com##.resources-related-products
 claynewsnetwork.com##.boom_bar
 claynewsnetwork.com###itro_opaco
 claynewsnetwork.com###itro_popup
@@ -1989,6 +2038,36 @@ cracked.com##[href^="http://society6.com"]
 cse.google.com###gbq2
 cssminifier.com##p
 cultivatedculture.com##blockquote
+cumhuriyet.com.tr##.alternate_728x90.s728x90.no-overflow
+cumhuriyet.com.tr###abonelere
+cumhuriyet.com.tr###div-gpt-ad-1386924291401-0
+cumhuriyet.com.tr###div-gpt-ad-1413281615432-0
+cumhuriyet.com.tr###div-gpt-ad-1440761011542-0
+cumhuriyet.com.tr###div-gpt-ad-1454661835157-0
+cumhuriyet.com.tr###footer
+cumhuriyet.com.tr###footer > .copyright
+cumhuriyet.com.tr###footer > .wrapper
+cumhuriyet.com.tr###footer > .wrapper > .gray-area
+cumhuriyet.com.tr###header > .s728x90.no-overflow
+cumhuriyet.com.tr###header_static
+cumhuriyet.com.tr###headeresque > .hdr-content
+cumhuriyet.com.tr###hor-gallery3 > .title
+cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(1)
+cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(2)
+cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(3)
+cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(5)
+cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(5) > div
+cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(6)
+cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(6) > div
+cumhuriyet.com.tr###page-wrapper > div:nth-of-type(10) > .right.w300 > .s300x250.no-overflow
+cumhuriyet.com.tr###page-wrapper > div:nth-of-type(5) > .right.w300 > .s300x250.no-overflow
+cumhuriyet.com.tr###page-wrapper > div:nth-of-type(7) > .right.w300 > .s300x250.no-overflow
+cumhuriyet.com.tr###page-wrapper > div:nth-of-type(9) > .right.w300 > .s300x250.no-overflow
+cumhuriyet.com.tr###sects-detailed > .alternate_728x90.clear.s728x90.no-overflow
+cumhuriyet.com.tr###share-bar
+cumhuriyet.com.tr###spor
+cumhuriyet.com.tr###sports-grid-gallery
+cumhuriyet.com.tr###top-menu
 cyberciti.biz##.cfapps-welcome-bar
 daedtech.com##.widget
 daedtech.com##[href="https://www.daedtech.com/welcome-tech-part-daedtech/"]
@@ -2008,6 +2087,8 @@ dailymail.co.uk###most-read-news-wrapper
 dailymail.co.uk###most-watched-videos
 dailymail.co.uk###most-watched-videos-wrapper
 dailymail.co.uk###wideCommentAdvert
+dailyo.in##.twoverlay
+dailyo.in###fixedfooter
 darkpatterns.org##.action-link
 darkpatterns.org##.footer-bottom
 darkpatterns.org##[href="/hall-of-shame"]
@@ -2021,6 +2102,30 @@ deadspin.com##.sidebar
 dedoimedo.com##.post_article_box
 degruyter.com##.european-union-cookies-agreement
 deleted.io###donate-bar
+derinport.in###above_postlist
+derinport.in###breadcrumb > .floatcontainer
+derinport.in###contentMain > .contentWrap > .contentLeft > .contentRight > .contentTL > .contentTR > .contentBL > .contentBR > .contentBodyWrap > .body_wrapper1 > table > tbody > tr > td:nth-of-type(2) > .collapse
+derinport.in###inner > .below_body
+derinport.in###inner > .body_wrapper > .main-width > .navlinks
+derinport.in###inner > .body_wrapper > .main-width > table > tbody > tr > td:nth-of-type(1) > .collapse:nth-of-type(2) > .blockhead
+derinport.in###inner > .body_wrapper > .main-width > table > tbody > tr > td:nth-of-type(2) > .collapse
+derinport.in###inner > .body_wrapper > .main-width > table > tbody > tr > td:nth-of-type(3) > .collapse:nth-of-type(1) > .blockhead
+derinport.in###module1 > .blockrow
+derinport.in###module1 > .blocksubhead
+derinport.in###module1 > .vba_spacer.blockrow
+derinport.in###module18
+derinport.in###module4_57780 > .vba_news.postbit > .postfoot > .floatcontainer.textcontrols
+derinport.in###module6 > .blockrow
+derinport.in###module6 > .blockrow:nth-of-type(1)
+derinport.in###navbar_notice_1
+derinport.in###navtabs > .floatcontainer
+derinport.in###pagetitle
+derinport.in###post_63734 > .postfoot > .floatcontainer.textcontrols
+derinport.in###postlist > .postlistfoot
+derinport.in###sahdamarimsin
+derinport.in###thread_controls
+derinport.in###thread_controls > div
+derinport.in###thread_info > .options_block_container
 designmom.com##.column2
 devcentral.f5.com##.externalLink
 developer.android.com##.dac-footer-social
@@ -2072,6 +2177,25 @@ domainincite.com###sidebar
 domainincite.com###sidebar2
 domainnamewire.com##.one-half
 domainnamewire.com##.sidebar-left
+donanimhaber.com##.scrolltoanchor.go-icerik.gitbuton
+donanimhaber.com##.scrolltoanchor.go-yorumlar.gitbuton
+donanimhaber.com##.scrolltoanchor.go-yorumyaz.gitbuton
+donanimhaber.com###_ff0db2f96364f339_divIlanlar > .baslik > a
+donanimhaber.com###_ff0db2f96364f339_divIlanlar > .liste > .tek
+donanimhaber.com###_ff0db2f96364f339_divIlanlar > .liste > .tek:nth-of-type(2)
+donanimhaber.com###form1 > .anasayfaKapsayici > .dhTasiyici > .footer > .alt
+donanimhaber.com###form1 > .anasayfaKapsayici > .dhTasiyici > .footer > .alt > center
+donanimhaber.com###form1 > .anasayfaKapsayici > .dhTasiyici > .footer > .sponsor
+donanimhaber.com###form1 > .canliyayinduyuru > .duyuru[href=\"http://www.donanimhaber.com/iphone/haberleri/iPhone-SE-ve-dahasi-Simultane-Ceviri-ile-canli-yayinda-tanitiliyor.htm\"]
+donanimhaber.com###form1 > .yeniheader > .logoreklam
+donanimhaber.com###pnlBody > .advertisement.dhReklam728
+donanimhaber.com###pnlBody > .dhIcerikAlt > .news-list.haberListe > .haberustubannerlar > div
+donanimhaber.com###pnlBody > .scrolltoanchor.go-icerik.gitbuton[href=\"#icerik\"]
+donanimhaber.com###pnlBody > .scrolltoanchor.go-yorumlar.gitbuton[href=\"#yorumlar\"]
+donanimhaber.com###pnlBody > .scrolltoanchor.go-yorumyaz.gitbuton[href=\"#yorumyaz\"]
+donanimhaber.com###pnlNoSmTakip > .smtakip
+donanimhaber.com###pnlNoSmTakip > .smtakip > .smliste
+donanimhaber.com###pnlNoSmTakip > .smtakip > .smtitle
 downthemall.net##.divascookies
 downthemall.org##.divascookies
 drive.google.com##.iph-spotlight-bg
@@ -2116,6 +2240,9 @@ eksisozluk.com###videolar
 eksisozluk.com###videos > .big-thumb
 eksisozluk.com###videos > .big-thumb > a
 eksisozluk.com###videos > p
+elektrikport.com##.footer
+elektrikport.com##.footer > .disclaimer
+elektrikport.com##.footer > .footer-bg
 elle.com###transporter
 ello.co##.Footer
 ello.co##.isSignUp
@@ -2125,6 +2252,7 @@ emkei.cz##.sbold.tacenter.support
 emkei.cz###panel
 emojidex.com###emojidex-header
 en.bookfi.net###vimsg
+enginelabs.com##.sticky-menu-leadboard
 enlightenment.org###plugin_include__start-shortcuts
 esquire.com##.embed-center
 evanmiller.org##[href="http://www.wizardmac.com/"]
@@ -2158,6 +2286,9 @@ firime.wordpress.com###colophon
 firimeh4l.smfnew2.com##.reset
 firimeh4l.smfnew2.com##A[href=\"http://www.smfnew.com/\"]
 firimeh4l.smfnew2.com##A[href=\"http://www.smfnew.com/report.php?boardurl=firimeh4l\"]
+fizikist.com##.footer_area
+forbes.com##.right-rail
+forbes.com##beta-flag
 forum.donanimhaber.com##.DH-Reklam-7
 forum.donanimhaber.com##.dhbscvideo
 forum.donanimhaber.com##.footericerik
@@ -2215,7 +2346,16 @@ gearslutz.com###footer_credits
 gearslutz.com###mobileLoginButton
 gearslutz.com###SupportUsBottom
 gearslutz.com###supportUsTop
+gecce.com###footer
 ghacks.net##.border--top--gray
+ghacks.net##.pb--40.pt--40.color--white.bg--darkGray
+ghacks.net##.text--center.pb--6.pt--6.color--white.bg--black
+ghacks.net###footer
+ghacks.net###footer-widgets
+ghacks.net###footer-widgets > .fix
+ghacks.net###text-4
+girlscanner.com##.wrapper > .bg-top > .main > .content > .right-col > .left-item:nth-of-type(2)
+girlscanner.com###lc_chat
 gist.github.com###new_gist > .container.edit > .form-actions > .tooltipped-s.tooltipped.js-gist-create.btn-secret.btn
 git-tower.com##.signup--gift
 git-tower.com##.wrap-header-branding
@@ -2289,6 +2429,37 @@ hugefiles.net###footer
 hugefiles.net###header-right
 hugefiles.net##DIV[style=\"position: relative; width:816px; margin:0 auto;\"]
 hugefiles.net##H2
+hurriyet.com.tr##.adv-box-control.col-lg-4.col-md-4.col-sm-4.col-xs-4
+hurriyet.com.tr##.clearfix.footerBottom
+hurriyet.com.tr##.daCnt
+hurriyet.com.tr##.daItem:nth-of-type(1)
+hurriyet.com.tr##.det_Authors
+hurriyet.com.tr##.emlak.sponsored-widget.margin-bottom-standart.white-box.news-wrapper:nth-of-type(5) > .cf.news-link
+hurriyet.com.tr##.emlak.sponsored-widget.margin-bottom-standart.white-box.news-wrapper:nth-of-type(6) > .cf.news-link
+hurriyet.com.tr##.etiketYapi
+hurriyet.com.tr##.fixed.h16-main-header
+hurriyet.com.tr##.footerMid
+hurriyet.com.tr##.footerReklamCont
+hurriyet.com.tr##.footerTop
+hurriyet.com.tr##.h16-main-header
+hurriyet.com.tr##.horoscope-kelebek
+hurriyet.com.tr##.lazy-load-sis-widget.no-margin-bottom.row > .col-lg-4.col-md-4.col-sm-4.col-xs-4
+hurriyet.com.tr##.margin-bottom-standart.white-box.list-news-wrapper:nth-of-type(5)
+hurriyet.com.tr##.margin-bottom-standart.white-box.list-news-wrapper:nth-of-type(6)
+hurriyet.com.tr##.news-detail-toolbox
+hurriyet.com.tr##.newsText > .share-line
+hurriyet.com.tr##.no-margin-bottom.row > .col-lg-6.col-md-6.col-sm-6.col-xs-6:nth-of-type(1)
+hurriyet.com.tr##.no-margin-bottom.row > .col-lg-6.col-md-6.col-sm-6.col-xs-6:nth-of-type(2)
+hurriyet.com.tr##.non-slider-row
+hurriyet.com.tr##.right-banner
+hurriyet.com.tr##.row:nth-of-type(10)
+hurriyet.com.tr##.row:nth-of-type(6) > .col-lg-4.col-md-4.col-sm-4.col-xs-4:nth-of-type(3)
+hurriyet.com.tr##.row:nth-of-type(8) > .col-lg-4.col-md-4.col-sm-4.col-xs-4:nth-of-type(3)
+hurriyet.com.tr##.row:nth-of-type(9) > .col-lg-8.col-md-8.col-sm-8.col-xs-8
+hurriyet.com.tr##.scroll-view-port.sponsored-content.col-lg-4.col-md-4.col-sm-4.col-xs-4
+hurriyet.com.tr###sticky-header-control
+hurriyet.com.tr##p:nth-of-type(4)
+hurriyet.com.tr##p:nth-of-type(5)
 hypebot.com###beta
 hypebot.com###gamma
 hypebot.com##img[src="http://www.hypebot.com/160x400Hypebot.jpg"]
@@ -2298,6 +2469,7 @@ ifixit.com##[href^="http://www.ifixit.com/iPhone-Parts"]
 ifixit.com##[href^="http://www.ifixit.com/Mac-Parts"]
 ifixit.com##[href^="http://www.ifixit.com/Parts-Store"]
 ifixit.com##[href^="http://www.ifixit.com/Tools"]
+iflscience.com##.stories-above
 ign.com##.hero-unit-container
 ign.com###ign-recommends
 ign.com###spine-container
@@ -2335,6 +2507,7 @@ imslp.org###sm_dl_login
 imslp.org###subs_mainacc
 independent.co.uk##.video-playlist
 independent.co.uk###most-popular-mobile
+instagram.com##._2pnef._cqw45
 irishmirror.ie##.channel-showbiz .tab-triggers
 itunes.apple.com###itunes-detector
 j-14.com###age-gate-form
@@ -2364,6 +2537,7 @@ jsfiddle.net###panel_html > .warningTooltip
 jsfiddle.net###sidebar
 justjared.com##.scrollContainer
 justjared.com###sidebar
+kariyer.net##.cimri-capsule
 kelebekgaleri.hurriyet.com.tr##.clearfix.footerBottom
 kelebekgaleri.hurriyet.com.tr##.etiketYapi
 kelebekgaleri.hurriyet.com.tr##.footerMid
@@ -2388,6 +2562,8 @@ komikingilizce.blogspot.com###Label1 > .cloud-label-widget-content.widget-conten
 komikingilizce.blogspot.com###Label1 > h2
 kreativekorp.com###_bftn_wrapper
 krebsonsecurity.com##[href="https://krebsonsecurity.com/cpm/"]
+labnol.org##.feature > ul
+labnol.org##.form--active
 last.fm##.chartlist-break
 last.fm##.features-footer
 last.fm##.lazy-recs-bar-full-width-wrapper
@@ -2415,6 +2591,23 @@ library.gv.com##.uiScale-caption--regular.uiScale-ui--small
 library1.org###message
 lifewire.com##[id^=footer]
 lifewire.com##[id^=prefooter]
+limitsizamca.org###dle-content > .clr.short-title:nth-of-type(7)
+limitsizamca.org###dle-content > .news-info:nth-of-type(8)
+limitsizamca.org###dle-content > .short-story:nth-of-type(9) > .news-info-2
+limitsizamca.org###dle-content > .short-story:nth-of-type(9) > .news-text
+limitsizamca.org###left-sidebar > .side-block:nth-of-type(3)
+limitsizamca.org###left-sidebar > .side-block:nth-of-type(4)
+limitsizamca.org###left-sidebar > .side-block:nth-of-type(5)
+limitsizamca.org###right-sidebar
+limitsizamca.org###right-sidebar > .side-block-reklam:nth-of-type(2)
+limitsizamca.org###right-sidebar > .side-block-reklam:nth-of-type(4)
+limitsizamca.org###right-sidebar > .side-block-reklam:nth-of-type(5)
+limitsizamca.org###right-sidebar > .side-block:nth-of-type(3) > .block-content
+limitsizamca.org###right-sidebar > .side-block:nth-of-type(3) > .com-title.block-title
+limitsizamca.org###right-sidebar > .side-block:nth-of-type(4)
+limitsizamca.org###right-sidebar > .side-block:nth-of-type(4) > .block-content
+limitsizamca.org###right-sidebar > b > .side-block:nth-of-type(4)
+limitsizamca.org##body > .clr:nth-of-type(1) > .foot-left
 linkedin.com##.guest-view
 linux.org##[href="https://m.do.co/c/10b82948a627"]
 linux.org###content > .pageWidth > .pageContent > div:nth-of-type(2) > [href="https://m.do.co/c/10b82948a627"]
@@ -2432,9 +2625,11 @@ mainecampus.com##.newsmag-blog-sidebar
 mainecampus.com##.newsmag-next-prev
 mainecampus.com##.newsmag-related-posts
 mainecampus.com##.owl-carousel
+maketecheasier.com###colophon
 makeuseof.com##.article-card-taxonomy-container
 makeuseof.com##.link-callout
 makeuseof.com##.mobile-header-wrap
+makeuseof.com###sidebar
 makeuseof.com###sidebar
 makeuseof.com###wrapper > .container > .nolinks.rightcol
 marketwatch.com##.bulletin.notification
@@ -2490,6 +2685,8 @@ member.usfencing.org##[href^="mailto:gifts@USAFencing.org"]
 member.usfencing.org###make-impact
 mercurynews.com##.related
 mercurynews.com##aside
+milliyet.com.tr###_MiddleRight2 > .row:nth-of-type(12) > .endeks
+milliyet.com.tr###_MiddleRight2 > .row:nth-of-type(6) > .arabaBox
 minetest.com###leftcontainerBox
 minifier.org##.projects-bar
 mirrorcreator.com##.wrap_txt
@@ -2507,13 +2704,18 @@ motherboard.vice.com###article_5886b7654e4993458da7506b > .short-form-article > 
 motherjones.com##.donate-link
 motherjones.com##.ticker-content
 motherjones.com###bottom_adhesion
+motor1.com##.relatedContent
 mozilla.org###masthead > .version-message-container
 mp3clan.audio###ad-track-title
 musescore.com##.badges
 musescore.com##.button-wrapper:nth-of-type(2) > .secondary.button
 musescore.com##.login
 musescore.com##[href^="/user/login"]
+musicradar.com##.mfmwidget
+musicradar.com##.read-more-container
+musicradar.com##.related-articles-block
 my-ip.club###adb
+myajc.com##.inline-related
 myanimelist.net##.btn-mal-service
 myanimelist.net##.footer-recommended
 myanimelist.net##.index-watch-description
@@ -2536,9 +2738,12 @@ news.com.au###footer
 news.com.au###sticky-module-2
 news.softpedia.com###wrapper > .main > .container_48 > .nwclslong.grid_48.nwclassic.dlclassic:nth-of-type(9) > .fr.grid_15.info > ul
 newscientist.com##.box-out
+newsinlevels.com###sidebarContent > .rbcWidgetArea:nth-of-type(6) > div > div
 newsweek.com##.trial-link
 newsy.com##.sponsored
 newyorker.com##[class^=Callout__inset]
+nextavenue.org##p [href]
+nextavenue.org##p strong
 nickjanetakis.com##.text-center.text-muted
 nickjanetakis.com##[href="https://nickjanetakis.com/newsletter"]
 nikhilbuduma.com##.right
@@ -2580,16 +2785,34 @@ novagraaf.com##.ezelsoor
 novagraaf.com###rightCntr
 npr.org##.bucketwrap
 npr.org##.story-recommendations
+nsaneforums.com##.ipsFaded_withHover.ipsBreadcrumb_bottom.ipsBreadcrumb
+nsaneforums.com##.ipsFaded_withHover.ipsBreadcrumb_top.ipsBreadcrumb
+nsaneforums.com###anonymous_element_1
+nsaneforums.com###ipsLayout_footer > .ipsLayout_container
+nsaneforums.com###ipsLayout_mainArea > .ipsClearfix.ipsPageHeader > .ipsSpacer_bottom
+nsaneforums.com###ipsLayout_mainArea > .ipsSpacer_bottom.ipsClearfix.ipsPageHeader
+nsaneforums.com###ipsLayout_mainArea > .ipsWidget_inner > .ipsPad
+nsaneforums.com###ipsLayout_mainArea > .ipsWidget_title.ipsType_reset
+nsaneforums.com###ipsLayout_mainArea > center
+nsaneforums.com###shoutbox_sidebar > .block_list.hfeed > .shoutbox_table.ipb_table > tbody > .row1 > .altrow
+numberone.com.tr##.right.listen-live > a > .cta.small-8
+numberone.com.tr###sb-player
 nymag.com##.latest-news
 nypost.com##.alignleft
 nypost.com###nav-wrapper
 nytimes.com##.login-button
 nytimes.com##.login-modal-trigger
+nytimes.com##[class^=Ribbon]
 nytimes.com###login-modal
 nytimes.com###related-coverage
 nytimes.com###site-index
 nytimes.com###whats-next
+nytimes.com##strong
 nzherald.co.nz
+nzherald.co.nz##.chain-wrapper
+nzherald.co.nz##.related-header
+nzherald.co.nz###breaking-alert
+nzherald.co.nz###nav
 objective-see.com##.blogContent > div:last-of-type
 objective-see.com##.menubutton
 objective-see.com##div:nth-of-type(4)
@@ -2629,6 +2852,13 @@ pastebin.com###abrpm > div
 pastebin.com###notice
 pastemagazine.com##.article-shares-links
 pastemagazine.com##.master-header
+pcgamesn.com##.comment-form-author [href]
+pcgamesn.com##.comment-reply
+pcgamesn.com##.home-review-snippet
+pcgamesn.com##.next_page_content
+pcgamesn.com##.sml_review_avatar
+pcgamesn.com###header-share
+pcgamesn.com###main_user_block
 pcmag.com##.inside-module
 pcmag.com##.splash-module
 pcmag.com##.story-navigation
@@ -2649,11 +2879,54 @@ pixiv.net##.newindex-service
 pixiv.net###register-introduction-modal
 pixiv.net###wrapper > .newindex > .introduction-container > .introduction > .newindex-message
 pixiv.net###wrapper > .newindex > .introduction-container > .introduction > .newindex-signup
+plagiarismtoday.com##.td-post-content > div[style]
+plagiarismtoday.com##.widget_newsletterwidgetminimal
+planetsuzy.org##.page > div > .tborder:nth-of-type(1) > tbody > tr > .alt1:nth-of-type(2)
+planetsuzy.org##body > div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+planetsuzy.org##div:nth-of-type(14) > .page > div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+planetsuzy.org##div:nth-of-type(4) > .page > div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+planetsuzy.org##form
 playody.com###video_reklamy > div > .reklama-content-2 > .info-close-ads-doublebillboard
 pocket-lint.com###article > .extras
 politico.com##.story-continued
 politico.com##.story-tools
 popsci.com.tr###footer
+porn.com##.azR
+porn.com##.removable.langNotification
+porn.com##.removable.langNotification > .tr
+porn.com##p > a[href=\"http://tr.porn.com\"]
+pornhd.com##.sticky-zone > .header > .close-btn
+pornhd.com##.sticky-zone > .zone.phdZone
+pornhd.com##.sticky-zone > .zone.phdZone > iframe
+pornhd.com##.webmaster-scheme-1.vp-under-video-spot
+pornhd.com###footer > .content-wrapper > .menu
+pornhd.com###inVideoAd
+pornhd.com###inVideoZone > .ad-close-btn
+pornhd.com###inVideoZone > .close-and-play
+pornhd.com###ntvAdZone > .zone-title
+pornhd.com###ntvAdZone > .zone.phdZone
+pornhd.com###ntvAdZone > .zone.phdZone:nth-of-type(1)
+pornhd.com###ntvAdZone > .zone.phdZone:nth-of-type(1) > iframe
+pornhd.com###ntvAdZone > .zone.phdZone:nth-of-type(2) > iframe
+pornhd.com###pageContent > .desktop-zone.listing-zone
+pornhd.com###pageContent > .desktop-zone.listing-zone > .zone.phdZone
+pornhd.com###pageContent > .desktop-zone.listing-zone > .zone.phdZone > iframe
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1)
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(1) > .zone.phdZone
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(1) > .zone.phdZone > iframe
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(2) > .zone.phdZone > iframe
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(3) > .zone.phdZone
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(3) > .zone.phdZone > iframe
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(4) > .zone.phdZone > iframe
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(2)
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(2) > .square:nth-of-type(1) > .zone.phdZone
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(2) > .square:nth-of-type(1) > .zone.phdZone > iframe
+pornhd.com###pageContent > .footer-zone > .container:nth-of-type(2) > .square:nth-of-type(2) > .zone.phdZone > iframe
+pornhd.com###pageContent > .gsm-header-zone
+pornhd.com###pageContent > .inside-row.thumbs
+pornhd.com###pageContent > .link-tag-list
+pornhd.com###pageContent > .no-border.section-header:nth-of-type(4)
+pornhd.com###pageContent > .page-text
 pornhub.com###abAlert
 pornovau.com##.block-channel
 pornovau.com##.cta-btn
@@ -2717,6 +2990,7 @@ reddit.com##.listingsignupbar
 reddit.com##.read-next
 reddit.com##.read-next-container
 reddit.com##.seo-comments
+reddit.com##.seo-comments-recommendations
 retailmenot.com##.modal-content
 retailmenot.com###modal-overlay
 retailmenot.com###quick-feedback
@@ -2753,10 +3027,17 @@ searchsecurity.techtarget.com##.actions-bar
 searchsecurity.techtarget.com##.main-article-author-contact
 searchsecurity.techtarget.com###page-header
 secure.informaction.com
+sekizsilindir.com###footer-wrapper
+sekizsilindir.com###HTML1
+sekizsilindir.com###HTML1 > .widget-content
 sendspace.com##.save_to_account_button
 sendspace.com##.text:nth-of-type(2) > .tac
 sendspace.com##.tooltip
 server55.web-hosting.com###noticeboard > div:nth-of-type(2)
+sextvx.com###player_overlay > div > div
+sextvx.com###player_overlay > div > span:nth-of-type(1)
+sextvx.com###player_overlay > div > span:nth-of-type(2) > a[href=\"#\"]
+sextvx.com###video_vert_right_adds
 sfconservancy.org##.donate-sidebar
 sfgate.com##.asset_zone
 sh.st###footer
@@ -2806,9 +3087,20 @@ shiftdelete.net###widget_phone_brands_12
 shiftdelete.net###widget_teknosa_magazin_13
 shiftdelete.net###widget_teknosa_magazin_14
 shiftdelete.net###widget_telefonlar_sidebar_11
+simor.org##.modal-content
+simor.org##.modal-footer
+simor.org##.white-text.light-green.modal-header
+simor.org###materialize-lean-overlay-1
 simpleprogrammer.com##.flex-cnt > .p-s.cnt.wrp > .bSeCont > .left.bSe > .scbg
 simpleprogrammer.com###tt-related-container
 simpleprogrammer.com###widget_thrive_tabs-2
+sinemalar.com###content > .box-article:nth-of-type(4)
+sinemalar.com###content > .box-article:nth-of-type(5)
+sinemalar.com###content > .box-article:nth-of-type(6)
+sinemalar.com###feedback_all
+sinemalar.com###feedback_all > a[href=\"javascript:void(0);\"]
+sinemalar.com##footer > .sinemalar-footer
+sinemalar.com##h2:nth-of-type(2)
 sitepoint.com##.SpHelloBar
 sitepoint.com##[href^="https://www.sitepoint.com/premium"]
 skeptoid.com
@@ -2826,6 +3118,14 @@ smashingmagazine.com###further-reading-on-smashingmag
 snes9x.com##[href^="https://nzbcheck.live"]
 snopes.com###main-content-well > .content-wrapper > article > .article-body > .article-text > .article-text > .body-ad-wrapper
 snopes.com##article .body-ad-wrapper
+softexia.com###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-footer-template-3.td-footer-wrapper
+softexia.com###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-main-page-wrap.td-main-content-wrap > .td-container:nth-of-type(1) > .td-pb-row.wpb_row.vc_row:nth-of-type(2) > .td-pb-span4.vc_column_container.wpb_column
+softexia.com###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-main-page-wrap.td-main-content-wrap > .td-pb-article-list.td-container > .td-pb-row > .td-main-sidebar.td-pb-span4 > .td-ss-main-sidebar
+softexia.com###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-sub-footer-container
+softexia.com###td-outer-wrap > .td-footer-template-3.td-footer-wrapper
+softexia.com###td-outer-wrap > .td-main-page-wrap.td-main-content-wrap > .td-pb-article-list.td-container > .td-pb-row > .td-main-sidebar.td-pb-span4 > .td-ss-main-sidebar
+softexia.com###td-outer-wrap > .td-sub-footer-container > .td-container > .td-pb-row
+softwarecrew.com##.ginger_banner-wrapper > .ginger_container--open.ginger_container.dark.bottom.ginger_banner
 solarmoviez.ru##.popover
 solarmoviez.ru###overlay-solarplugin-main
 solidfiles.com##.btn.btn-success.btn-sm
@@ -2835,12 +3135,35 @@ solidfiles.com##.remove
 solidfiles.com##.twitter-follow-button
 sometimes-interesting.com##.td_block_related_posts
 sometimes-interesting.com##footer
+sordum.net##.main-container > .copyrights
+sordum.net###header-widget-container
 soul-anime.us###googleplay
 sourceforge.net##.top3-widget
 sourceforge.net##[href="https://sourceforge.net/user/registration"]
 sourceforge.net###nav-site
 sourceforge.net###scanned_by
 sourceforge.net###sidebar
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section > .section-title
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section > .yazarlar-swiper.scroll-slider
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section > .yazarlar-swiper.scroll-slider > .astrology-slider.swiper-container.scroll-area
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section > .yazarlar-swiper.scroll-slider > .astrology-slider.swiper-container.scroll-area > .swiper-wrapper.scroll-content
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .imsakiye-widget > .clearfix.imsakiye-widget-inner
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .imsakiye-widget > .clearfix.imsakiye-widget-inner > ._flex.imsakiye-widget-right
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .top-swiper
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .top-swiper > .top-slider.swiper-container
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .top-swiper > .top-slider.swiper-container > .clearfix.swiper-wrapper
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .verticals.amk.section > .section-inner
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .verticals.hayat.section > .section-inner > .clearfix.section-content > .section-right
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .verticals.hayat.section > .section-inner > .section-title
+sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .verticals.tv.section > .section-inner > .clearfix.section-content > .section-right
+sozcu.com.tr###imsakiye_detail
+sozcu.com.tr###printable > .detail-content-inner > .news-wrapper > .outof-news-body > .banner
+sozcu.com.tr###sz_surbaner:nth-of-type(2)
+sozcu.com.tr###sz_surbaner:nth-of-type(2) > a[href=\"http://amkspor.sozcu.com.tr/2016/05/23/hamza-hamzaoglu-acikladi-494185/\"]
+sozcu.com.tr###sz_surbaner:nth-of-type(3) > a[href=\"http://amkspor.sozcu.com.tr/2016/05/23/arda-turandan-besiktas-itirafi-494178/\"]
+sozcu.com.tr###sz_surbaner:nth-of-type(4) > a[href=\"http://amkspor.sozcu.com.tr/2016/05/23/fenerbahceden-galatasaray-maci-icin-dava-494172/\"]
+sozcu.com.tr###sz_surbaner:nth-of-type(5) > a[href=\"http://amkspor.sozcu.com.tr/2016/05/23/fenerbahceyi-birakiyor-besiktas-yolunda-494161/\"]
+sozcu.com.tr###sz_yazar_alti > .b-banner.case-33
 spankbang.com##.remodal-overlay:nth-of-type(7)
 spankbang.com##.videos > div:nth-of-type(3)
 spankbang.com###container > div:nth-of-type(3)
@@ -2951,6 +3274,17 @@ techdirt.com###subnav
 techdirt.com###tabs
 techdirt.com###toptabs
 techniciandiary.com###ltr-bottom-pop > .optin-floatin.optin-3
+technopat.net##.td-ad-p.td-ad-tp.td-ad-m.td-header-ad-wrap
+technopat.net##.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
+technopat.net##.td-g-rec-id-header.td-g-rec > .adsbygoogle
+technopat.net##.td-header-header.td-header-row
+technopat.net##.td-pb-border-top.td_with_ajax_pagination.td-block-color-style-2.td-pb-full-cell.td_uid_12_5852388934b4b_rand.td_block_widget.td_block_8.td_block_wrap > .td-next-prev-wrap
+technopat.net###Stage
+technopat.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-container-border.td-container.td-sub-footer-container
+technopat.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-container:nth-of-type(2) > .td-container-border > .td-pb-row.wpb_row.vc_row:nth-of-type(2) > .td-pb-span8.vc_column_container.wpb_column > .wpb_wrapper > .vc_color-info.vc_message_box-rounded.vc_message_box-standard.vc_message_box
+technopat.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-container.td-footer-container
+technopat.net###td-outer-wrap > .td-outer-container > .td-container-border.td-container.td-sub-footer-container
+technopat.net###td-outer-wrap > .td-outer-container > .td-container.td-footer-container
 techradar.com##.gallery-image:style(display: block !important)
 techradar.com##.gallery-text > div
 techradar.com##.hawk-multi-model-review-container
@@ -2970,6 +3304,9 @@ telegraph.co.uk##.container-fluid
 telegraph.co.uk##.header-headline-wrapper
 telegraph.co.uk##.header-top-wrapper
 telegraph.co.uk##.premium-paywall
+telegraphindia.com##.more-from-section
+telegraphindia.com##.trending-story
+thatsucks.com###ajax_footer_popup_banner_v1
 the-artifice.com##.btn-squared.btn-main-filled.btn-main.btn
 the-artifice.com##.radar-cont
 the-artifice.com##.subscribe-cont
@@ -3054,6 +3391,17 @@ timesofindia.indiatimes.com##.article_content > div > strong
 timesofindia.indiatimes.com##.more-from-toi-wrapper
 timesofindia.indiatimes.com##.relatedarticle
 timharford.com###aside
+tnctr.com###anonymous_element_76
+tnctr.com###branding
+tnctr.com###footer_utilities
+tnctr.com###index_stats > .__xXbau011fu0131u015f20yaparak20tncsever20olun21.ipsSideBlock
+tnctr.com###index_stats > .__xXen20son20tncseverler.ipsSideBlock
+tnctr.com###index_stats > .__xXfacebook20sayfamu0131zu013120beu011fenin.clearfix.general_box.ipsSideBlock
+tnctr.com###ipbwrapper > div:nth-of-type(7)
+tnctr.com###ipsLayout_sidebar > .cWidgetContainer > .ipsList_reset > .ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(1) > .ipsType_reset.ipsWidget_title
+tnctr.com###ipsLayout_sidebar > .cWidgetContainer > .ipsList_reset > .ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(1) > .ipsWidget_inner.ipsPad
+tnctr.com###scrolltotop
+tnctr.com###statusHook
 tomassetti.me##.ck_vertical_subscription_form
 tomsguide.com##.inPostRC
 tomshardware.com
@@ -3097,6 +3445,26 @@ turbobit.net##[src=\"http://turbobit.net/fd1/img/main/rocketship.png\"]
 turbobit.net##[src=\"http://turbobit.net/fd1/img/main/whatdoesitmean.png\"]
 turbobit.net###download-top-note
 turbobit.net##IMG[src=\"http://turbobit.net/pmbzqa/zx_new_gate_en.png\"]
+turkleech.com##.main-menu > .settings
+turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td
+turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(2)
+turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(3)
+turkleech.com###wrapcentre > table:nth-of-type(1) > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(3)
+turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .tablebg:nth-of-type(2) > tbody > tr:nth-of-type(1) > .cat
+turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .tablebg:nth-of-type(2) > tbody > tr:nth-of-type(2) > .row1:nth-of-type(2)
+turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .tablebg:nth-of-type(3)
+turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(3) > tbody > tr > td
+turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(3) > tbody > tr > td:nth-of-type(2)
+turkleech.com##body > table:nth-of-type(1) > tbody > tr > td
+turkleech.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
+turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
+turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
+turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(4)
+turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(5)
+turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(6)
+turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(7)
+turkleech.com##body > table:nth-of-type(3) > tbody > tr > td
 tusfiles.net###cookiescript_injected
 tusfiles.net###GO\\ Premium\\![href=\"https://tusfiles.net/premium.html\"]
 tusfiles.net###header_redesign
@@ -3223,6 +3591,7 @@ uxmag.com###usertoolbar
 variety.com##.c-related
 variety.com##.c-widget
 variety.com##.l-more-from
+vatanbilgisayar.com##.ems-width-full.site-footer
 venturebeat.com##.medrec-wrapper
 vice.com##.list-view-container
 vice.com##.read-more
@@ -3232,14 +3601,26 @@ vimeo.com##.iris_modal-underlay
 vimeo.com##.topnav_is_ondemand
 viva64.com##.search-banner.row
 vp.nyt.com
+vporn.com##.center-sm.col-sm-6.col-xs-12.col-ss.welcome
+vporn.com##.col-sm-12.col-xs-6.col-ss-full.col-ss-12:nth-of-type(1)
+vporn.com##.first-xs.col-md-3.col-sm-4.col-xs-12-full.col-xs-12.col-ss.video-add
+vporn.com##.hide-xs-ios.hide-xs
+vporn.com##.vjs-settings-button.vjs-button.vjs-control.vjs-menu-button-popup.vjs-menu-button > .vjs-button-icon
+vporn.com###seot
+vporn.com###video-advert
+vporn.com##font > footer
+vporn.com##footer
 vulture.com###top
 wabi.tv##[id^=circularhub]
 wabi.tv###prevNext
 wabi.tv###socialIcons
 wabi.tv##article > div > aside
 washingtonpost.com##.daily202-newsletter
+washingtonpost.com##.extra
+washingtonpost.com##.interstitial-link
 washingtonpost.com##.nl-top-hairline
 washingtonpost.com##.showSubscription
+washingtonpost.com###comment_link_button_wrapper
 washingtontimes.com##.breaking-news
 washingtontimes.com##.expand
 washingtontimes.com##.jcarousel
@@ -3249,6 +3630,8 @@ webcache.googleusercontent.com###funbar
 wekinator.org##.maxbutton
 wekinator.org###heateor_ss_browser_popup_bg
 wekinator.org###the_champ_sharing_more_providers
+whattechsays.com##.h6AMlOktx9Fp-bg
+whattechsays.com###EqP5d7r9shu5
 who.is###name_purchase
 whosampled.com##.buyDropdownWrap
 whosampled.com##.commentsWrap
@@ -3328,397 +3711,6 @@ wsj.com##[href^="https://accounts.wsj.com/login"]
 wsj.com##[href^="https://subscribe.wsj.com/"]
 wsj.com###cx-snippetad
 ww.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(7)
-360logica.com###clickdesk-appendable-bubble
-360logica.com###contactslideid
-360logica.com###gaq
-360logica.com###nav-below
-a305teyim.com###alt
-a305teyim.com###container > .ytutop
-a305teyim.com###indeed_widget_wrapper
-apkmirror.com##.footer
-apkmirror.com###sidebar > .listWidget:nth-of-type(1)
-bilgiustam.com##.copyrights
-bilgiustam.com###left_ad
-bilgiustam.com###widget_text:nth-of-type(1) > .textwidget
-bilgiustam.com##footer
-bladesmithsforum.com##.ipsMessage_error
-bloomberg.com###navi
-bloomberg.com###paywall-banner
-brazzers.com##.call-to-action-container
-brazzers.com##.cta-btn
-brazzers.com###cta-floater
-brazzers.com##footer
-businessinsider.com##.recommended
-businessinsider.com##.see-also
-chip.com.tr##.ad-sol
-chip.com.tr##.adspace.ad720.ad-center.ad
-chip.com.tr##.asorder > .homepage.adspace.ad720.ad
-chip.com.tr##.homepage.adspace.ad720.ad-center.ad
-chip.com.tr##.share_bar
-chip.com.tr###anacontainer > .ad-sag
-chip.com.tr###anacontainer > .adspace.ad720.ad
-chip.com.tr###anacontainer > .col-300 > .altbolum.altsayfalisting:nth-of-type(2)
-chip.com.tr###anacontainer > .col-300 > .altbolum.altsayfalisting:nth-of-type(4)
-chip.com.tr###anacontainer > .col-300 > .lastscroll:nth-of-type(1)
-chip.com.tr###anacontainer > .col-300 > .lastscroll.altbolum.altsayfalisting:nth-of-type(7)
-chip.com.tr###anacontainer > .col-300 > .lastscroll.altbolum.altsayfalisting:nth-of-type(8)
-chip.com.tr###anacontainer > .col-300 > .wrapper-sticky
-chip.com.tr###anacontainer > .col-300 > .wrapper-sticky > .lastscroll.altbolum.altsayfalisting
-chip.com.tr###anacontainer > .col-300 > p
-chip.com.tr###anacontainer > .col-300 > p:nth-of-type(1)
-chip.com.tr###anacontainer > .col-300 > p:nth-of-type(2)
-chip.com.tr###anacontainer > .col-ana > .row > .large.shortcode
-chip.com.tr###anacontainer > .col-ana > p
-chip.com.tr###anafooter
-chip.com.tr###chip-dfp-300x2-1
-chip.com.tr###chip-dfp-300x2-2
-chip.com.tr###colana > .cxwide.shortcode
-chip.com.tr###comments > .tumunuGor[href=\"#\"]
-chip.com.tr###medyanet_chip_sitegeneli_620x200_12889
-chip.com.tr###topTopicNav > .gapps > .asTamsurum:nth-of-type(2)
-cjponyparts.com##.resources-related-products
-cumhuriyet.com.tr##.alternate_728x90.s728x90.no-overflow
-cumhuriyet.com.tr###abonelere
-cumhuriyet.com.tr###div-gpt-ad-1386924291401-0
-cumhuriyet.com.tr###div-gpt-ad-1413281615432-0
-cumhuriyet.com.tr###div-gpt-ad-1440761011542-0
-cumhuriyet.com.tr###div-gpt-ad-1454661835157-0
-cumhuriyet.com.tr###footer
-cumhuriyet.com.tr###footer > .copyright
-cumhuriyet.com.tr###footer > .wrapper
-cumhuriyet.com.tr###footer > .wrapper > .gray-area
-cumhuriyet.com.tr###header > .s728x90.no-overflow
-cumhuriyet.com.tr###header_static
-cumhuriyet.com.tr###headeresque > .hdr-content
-cumhuriyet.com.tr###hor-gallery3 > .title
-cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(1)
-cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(2)
-cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(3)
-cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(5)
-cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(5) > div
-cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(6)
-cumhuriyet.com.tr###page-wrapper > .right.w300 > .s300x250.no-overflow:nth-of-type(6) > div
-cumhuriyet.com.tr###page-wrapper > div:nth-of-type(10) > .right.w300 > .s300x250.no-overflow
-cumhuriyet.com.tr###page-wrapper > div:nth-of-type(5) > .right.w300 > .s300x250.no-overflow
-cumhuriyet.com.tr###page-wrapper > div:nth-of-type(7) > .right.w300 > .s300x250.no-overflow
-cumhuriyet.com.tr###page-wrapper > div:nth-of-type(9) > .right.w300 > .s300x250.no-overflow
-cumhuriyet.com.tr###sects-detailed > .alternate_728x90.clear.s728x90.no-overflow
-cumhuriyet.com.tr###share-bar
-cumhuriyet.com.tr###spor
-cumhuriyet.com.tr###sports-grid-gallery
-cumhuriyet.com.tr###top-menu
-dailyo.in##.twoverlay
-dailyo.in###fixedfooter
-derinport.in###above_postlist
-derinport.in###breadcrumb > .floatcontainer
-derinport.in###contentMain > .contentWrap > .contentLeft > .contentRight > .contentTL > .contentTR > .contentBL > .contentBR > .contentBodyWrap > .body_wrapper1 > table > tbody > tr > td:nth-of-type(2) > .collapse
-derinport.in###inner > .below_body
-derinport.in###inner > .body_wrapper > .main-width > .navlinks
-derinport.in###inner > .body_wrapper > .main-width > table > tbody > tr > td:nth-of-type(1) > .collapse:nth-of-type(2) > .blockhead
-derinport.in###inner > .body_wrapper > .main-width > table > tbody > tr > td:nth-of-type(2) > .collapse
-derinport.in###inner > .body_wrapper > .main-width > table > tbody > tr > td:nth-of-type(3) > .collapse:nth-of-type(1) > .blockhead
-derinport.in###module1 > .blockrow
-derinport.in###module1 > .blocksubhead
-derinport.in###module1 > .vba_spacer.blockrow
-derinport.in###module18
-derinport.in###module4_57780 > .vba_news.postbit > .postfoot > .floatcontainer.textcontrols
-derinport.in###module6 > .blockrow
-derinport.in###module6 > .blockrow:nth-of-type(1)
-derinport.in###navbar_notice_1
-derinport.in###navtabs > .floatcontainer
-derinport.in###pagetitle
-derinport.in###post_63734 > .postfoot > .floatcontainer.textcontrols
-derinport.in###postlist > .postlistfoot
-derinport.in###sahdamarimsin
-derinport.in###thread_controls
-derinport.in###thread_controls > div
-derinport.in###thread_info > .options_block_container
-donanimhaber.com##.scrolltoanchor.go-icerik.gitbuton
-donanimhaber.com##.scrolltoanchor.go-yorumlar.gitbuton
-donanimhaber.com##.scrolltoanchor.go-yorumyaz.gitbuton
-donanimhaber.com###_ff0db2f96364f339_divIlanlar > .baslik > a
-donanimhaber.com###_ff0db2f96364f339_divIlanlar > .liste > .tek
-donanimhaber.com###_ff0db2f96364f339_divIlanlar > .liste > .tek:nth-of-type(2)
-donanimhaber.com###form1 > .anasayfaKapsayici > .dhTasiyici > .footer > .alt
-donanimhaber.com###form1 > .anasayfaKapsayici > .dhTasiyici > .footer > .alt > center
-donanimhaber.com###form1 > .anasayfaKapsayici > .dhTasiyici > .footer > .sponsor
-donanimhaber.com###form1 > .canliyayinduyuru > .duyuru[href=\"http://www.donanimhaber.com/iphone/haberleri/iPhone-SE-ve-dahasi-Simultane-Ceviri-ile-canli-yayinda-tanitiliyor.htm\"]
-donanimhaber.com###form1 > .yeniheader > .logoreklam
-donanimhaber.com###pnlBody > .advertisement.dhReklam728
-donanimhaber.com###pnlBody > .dhIcerikAlt > .news-list.haberListe > .haberustubannerlar > div
-donanimhaber.com###pnlBody > .scrolltoanchor.go-icerik.gitbuton[href=\"#icerik\"]
-donanimhaber.com###pnlBody > .scrolltoanchor.go-yorumlar.gitbuton[href=\"#yorumlar\"]
-donanimhaber.com###pnlBody > .scrolltoanchor.go-yorumyaz.gitbuton[href=\"#yorumyaz\"]
-donanimhaber.com###pnlNoSmTakip > .smtakip
-donanimhaber.com###pnlNoSmTakip > .smtakip > .smliste
-donanimhaber.com###pnlNoSmTakip > .smtakip > .smtitle
-elektrikport.com##.footer
-elektrikport.com##.footer > .disclaimer
-elektrikport.com##.footer > .footer-bg
-enginelabs.com##.sticky-menu-leadboard
-fizikist.com##.footer_area
-forbes.com##.right-rail
-forbes.com##beta-flag
-gecce.com###footer
-ghacks.net##.pb--40.pt--40.color--white.bg--darkGray
-ghacks.net##.text--center.pb--6.pt--6.color--white.bg--black
-ghacks.net###footer
-ghacks.net###footer-widgets
-ghacks.net###footer-widgets > .fix
-ghacks.net###text-4
-girlscanner.com##.wrapper > .bg-top > .main > .content > .right-col > .left-item:nth-of-type(2)
-girlscanner.com###lc_chat
-hurriyet.com.tr##.adv-box-control.col-lg-4.col-md-4.col-sm-4.col-xs-4
-hurriyet.com.tr##.clearfix.footerBottom
-hurriyet.com.tr##.daCnt
-hurriyet.com.tr##.daItem:nth-of-type(1)
-hurriyet.com.tr##.det_Authors
-hurriyet.com.tr##.emlak.sponsored-widget.margin-bottom-standart.white-box.news-wrapper:nth-of-type(5) > .cf.news-link
-hurriyet.com.tr##.emlak.sponsored-widget.margin-bottom-standart.white-box.news-wrapper:nth-of-type(6) > .cf.news-link
-hurriyet.com.tr##.etiketYapi
-hurriyet.com.tr##.fixed.h16-main-header
-hurriyet.com.tr##.footerMid
-hurriyet.com.tr##.footerReklamCont
-hurriyet.com.tr##.footerTop
-hurriyet.com.tr##.h16-main-header
-hurriyet.com.tr##.horoscope-kelebek
-hurriyet.com.tr##.lazy-load-sis-widget.no-margin-bottom.row > .col-lg-4.col-md-4.col-sm-4.col-xs-4
-hurriyet.com.tr##.margin-bottom-standart.white-box.list-news-wrapper:nth-of-type(5)
-hurriyet.com.tr##.margin-bottom-standart.white-box.list-news-wrapper:nth-of-type(6)
-hurriyet.com.tr##.news-detail-toolbox
-hurriyet.com.tr##.newsText > .share-line
-hurriyet.com.tr##.no-margin-bottom.row > .col-lg-6.col-md-6.col-sm-6.col-xs-6:nth-of-type(1)
-hurriyet.com.tr##.no-margin-bottom.row > .col-lg-6.col-md-6.col-sm-6.col-xs-6:nth-of-type(2)
-hurriyet.com.tr##.non-slider-row
-hurriyet.com.tr##.right-banner
-hurriyet.com.tr##.row:nth-of-type(10)
-hurriyet.com.tr##.row:nth-of-type(6) > .col-lg-4.col-md-4.col-sm-4.col-xs-4:nth-of-type(3)
-hurriyet.com.tr##.row:nth-of-type(8) > .col-lg-4.col-md-4.col-sm-4.col-xs-4:nth-of-type(3)
-hurriyet.com.tr##.row:nth-of-type(9) > .col-lg-8.col-md-8.col-sm-8.col-xs-8
-hurriyet.com.tr##.scroll-view-port.sponsored-content.col-lg-4.col-md-4.col-sm-4.col-xs-4
-hurriyet.com.tr###sticky-header-control
-hurriyet.com.tr##p:nth-of-type(4)
-hurriyet.com.tr##p:nth-of-type(5)
-iflscience.com##.stories-above
-instagram.com##._2pnef._cqw45
-kariyer.net##.cimri-capsule
-labnol.org##.feature > ul
-labnol.org##.form--active
-limitsizamca.org###dle-content > .clr.short-title:nth-of-type(7)
-limitsizamca.org###dle-content > .news-info:nth-of-type(8)
-limitsizamca.org###dle-content > .short-story:nth-of-type(9) > .news-info-2
-limitsizamca.org###dle-content > .short-story:nth-of-type(9) > .news-text
-limitsizamca.org###left-sidebar > .side-block:nth-of-type(3)
-limitsizamca.org###left-sidebar > .side-block:nth-of-type(4)
-limitsizamca.org###left-sidebar > .side-block:nth-of-type(5)
-limitsizamca.org###right-sidebar
-limitsizamca.org###right-sidebar > .side-block-reklam:nth-of-type(2)
-limitsizamca.org###right-sidebar > .side-block-reklam:nth-of-type(4)
-limitsizamca.org###right-sidebar > .side-block-reklam:nth-of-type(5)
-limitsizamca.org###right-sidebar > .side-block:nth-of-type(3) > .block-content
-limitsizamca.org###right-sidebar > .side-block:nth-of-type(3) > .com-title.block-title
-limitsizamca.org###right-sidebar > .side-block:nth-of-type(4)
-limitsizamca.org###right-sidebar > .side-block:nth-of-type(4) > .block-content
-limitsizamca.org###right-sidebar > b > .side-block:nth-of-type(4)
-limitsizamca.org##body > .clr:nth-of-type(1) > .foot-left
-maketecheasier.com###colophon
-makeuseof.com###sidebar
-milliyet.com.tr###_MiddleRight2 > .row:nth-of-type(12) > .endeks
-milliyet.com.tr###_MiddleRight2 > .row:nth-of-type(6) > .arabaBox
-motor1.com##.relatedContent
-musicradar.com##.mfmwidget
-musicradar.com##.read-more-container
-musicradar.com##.related-articles-block
-myajc.com##.inline-related
-newsinlevels.com###sidebarContent > .rbcWidgetArea:nth-of-type(6) > div > div
-nextavenue.org##p [href]
-nextavenue.org##p strong
-nsaneforums.com##.ipsFaded_withHover.ipsBreadcrumb_bottom.ipsBreadcrumb
-nsaneforums.com##.ipsFaded_withHover.ipsBreadcrumb_top.ipsBreadcrumb
-nsaneforums.com###anonymous_element_1
-nsaneforums.com###ipsLayout_footer > .ipsLayout_container
-nsaneforums.com###ipsLayout_mainArea > .ipsClearfix.ipsPageHeader > .ipsSpacer_bottom
-nsaneforums.com###ipsLayout_mainArea > .ipsSpacer_bottom.ipsClearfix.ipsPageHeader
-nsaneforums.com###ipsLayout_mainArea > .ipsWidget_inner > .ipsPad
-nsaneforums.com###ipsLayout_mainArea > .ipsWidget_title.ipsType_reset
-nsaneforums.com###ipsLayout_mainArea > center
-nsaneforums.com###shoutbox_sidebar > .block_list.hfeed > .shoutbox_table.ipb_table > tbody > .row1 > .altrow
-numberone.com.tr##.right.listen-live > a > .cta.small-8
-numberone.com.tr###sb-player
-nytimes.com##[class^=Ribbon]
-nytimes.com##strong
-nzherald.co.nz##.chain-wrapper
-nzherald.co.nz##.related-header
-nzherald.co.nz###breaking-alert
-nzherald.co.nz###nav
-pcgamesn.com##.comment-form-author [href]
-pcgamesn.com##.comment-reply
-pcgamesn.com##.home-review-snippet
-pcgamesn.com##.next_page_content
-pcgamesn.com##.sml_review_avatar
-pcgamesn.com###header-share
-pcgamesn.com###main_user_block
-plagiarismtoday.com##.td-post-content > div[style]
-plagiarismtoday.com##.widget_newsletterwidgetminimal
-planetsuzy.org##.page > div > .tborder:nth-of-type(1) > tbody > tr > .alt1:nth-of-type(2)
-planetsuzy.org##body > div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-planetsuzy.org##div:nth-of-type(14) > .page > div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
-planetsuzy.org##div:nth-of-type(4) > .page > div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
-planetsuzy.org##form
-porn.com##.azR
-porn.com##.removable.langNotification
-porn.com##.removable.langNotification > .tr
-porn.com##p > a[href=\"http://tr.porn.com\"]
-pornhd.com##.sticky-zone > .header > .close-btn
-pornhd.com##.sticky-zone > .zone.phdZone
-pornhd.com##.sticky-zone > .zone.phdZone > iframe
-pornhd.com##.webmaster-scheme-1.vp-under-video-spot
-pornhd.com###footer > .content-wrapper > .menu
-pornhd.com###inVideoAd
-pornhd.com###inVideoZone > .ad-close-btn
-pornhd.com###inVideoZone > .close-and-play
-pornhd.com###ntvAdZone > .zone-title
-pornhd.com###ntvAdZone > .zone.phdZone
-pornhd.com###ntvAdZone > .zone.phdZone:nth-of-type(1)
-pornhd.com###ntvAdZone > .zone.phdZone:nth-of-type(1) > iframe
-pornhd.com###ntvAdZone > .zone.phdZone:nth-of-type(2) > iframe
-pornhd.com###pageContent > .desktop-zone.listing-zone
-pornhd.com###pageContent > .desktop-zone.listing-zone > .zone.phdZone
-pornhd.com###pageContent > .desktop-zone.listing-zone > .zone.phdZone > iframe
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1)
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(1) > .zone.phdZone
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(1) > .zone.phdZone > iframe
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(2) > .zone.phdZone > iframe
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(3) > .zone.phdZone
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(3) > .zone.phdZone > iframe
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(1) > .square:nth-of-type(4) > .zone.phdZone > iframe
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(2)
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(2) > .square:nth-of-type(1) > .zone.phdZone
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(2) > .square:nth-of-type(1) > .zone.phdZone > iframe
-pornhd.com###pageContent > .footer-zone > .container:nth-of-type(2) > .square:nth-of-type(2) > .zone.phdZone > iframe
-pornhd.com###pageContent > .gsm-header-zone
-pornhd.com###pageContent > .inside-row.thumbs
-pornhd.com###pageContent > .link-tag-list
-pornhd.com###pageContent > .no-border.section-header:nth-of-type(4)
-pornhd.com###pageContent > .page-text
-reddit.com##.seo-comments-recommendations
-sekizsilindir.com###footer-wrapper
-sekizsilindir.com###HTML1
-sekizsilindir.com###HTML1 > .widget-content
-sextvx.com###player_overlay > div > div
-sextvx.com###player_overlay > div > span:nth-of-type(1)
-sextvx.com###player_overlay > div > span:nth-of-type(2) > a[href=\"#\"]
-sextvx.com###video_vert_right_adds
-simor.org##.modal-content
-simor.org##.modal-footer
-simor.org##.white-text.light-green.modal-header
-simor.org###materialize-lean-overlay-1
-sinemalar.com###content > .box-article:nth-of-type(4)
-sinemalar.com###content > .box-article:nth-of-type(5)
-sinemalar.com###content > .box-article:nth-of-type(6)
-sinemalar.com###feedback_all
-sinemalar.com###feedback_all > a[href=\"javascript:void(0);\"]
-sinemalar.com##footer > .sinemalar-footer
-sinemalar.com##h2:nth-of-type(2)
-softexia.com###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-footer-template-3.td-footer-wrapper
-softexia.com###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-main-page-wrap.td-main-content-wrap > .td-container:nth-of-type(1) > .td-pb-row.wpb_row.vc_row:nth-of-type(2) > .td-pb-span4.vc_column_container.wpb_column
-softexia.com###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-main-page-wrap.td-main-content-wrap > .td-pb-article-list.td-container > .td-pb-row > .td-main-sidebar.td-pb-span4 > .td-ss-main-sidebar
-softexia.com###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-sub-footer-container
-softexia.com###td-outer-wrap > .td-footer-template-3.td-footer-wrapper
-softexia.com###td-outer-wrap > .td-main-page-wrap.td-main-content-wrap > .td-pb-article-list.td-container > .td-pb-row > .td-main-sidebar.td-pb-span4 > .td-ss-main-sidebar
-softexia.com###td-outer-wrap > .td-sub-footer-container > .td-container > .td-pb-row
-softwarecrew.com##.ginger_banner-wrapper > .ginger_container--open.ginger_container.dark.bottom.ginger_banner
-sordum.net##.main-container > .copyrights
-sordum.net###header-widget-container
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section > .section-title
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section > .yazarlar-swiper.scroll-slider
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section > .yazarlar-swiper.scroll-slider > .astrology-slider.swiper-container.scroll-area
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section > .yazarlar-swiper.scroll-slider > .astrology-slider.swiper-container.scroll-area > .swiper-wrapper.scroll-content
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .imsakiye-widget > .clearfix.imsakiye-widget-inner
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .imsakiye-widget > .clearfix.imsakiye-widget-inner > ._flex.imsakiye-widget-right
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .top-swiper
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .top-swiper > .top-slider.swiper-container
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .top-swiper > .top-slider.swiper-container > .clearfix.swiper-wrapper
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .verticals.amk.section > .section-inner
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .verticals.hayat.section > .section-inner > .clearfix.section-content > .section-right
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .verticals.hayat.section > .section-inner > .section-title
-sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .verticals.tv.section > .section-inner > .clearfix.section-content > .section-right
-sozcu.com.tr###imsakiye_detail
-sozcu.com.tr###printable > .detail-content-inner > .news-wrapper > .outof-news-body > .banner
-sozcu.com.tr###sz_surbaner:nth-of-type(2)
-sozcu.com.tr###sz_surbaner:nth-of-type(2) > a[href=\"http://amkspor.sozcu.com.tr/2016/05/23/hamza-hamzaoglu-acikladi-494185/\"]
-sozcu.com.tr###sz_surbaner:nth-of-type(3) > a[href=\"http://amkspor.sozcu.com.tr/2016/05/23/arda-turandan-besiktas-itirafi-494178/\"]
-sozcu.com.tr###sz_surbaner:nth-of-type(4) > a[href=\"http://amkspor.sozcu.com.tr/2016/05/23/fenerbahceden-galatasaray-maci-icin-dava-494172/\"]
-sozcu.com.tr###sz_surbaner:nth-of-type(5) > a[href=\"http://amkspor.sozcu.com.tr/2016/05/23/fenerbahceyi-birakiyor-besiktas-yolunda-494161/\"]
-sozcu.com.tr###sz_yazar_alti > .b-banner.case-33
-technopat.net##.td-ad-p.td-ad-tp.td-ad-m.td-header-ad-wrap
-technopat.net##.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
-technopat.net##.td-g-rec-id-header.td-g-rec > .adsbygoogle
-technopat.net##.td-header-header.td-header-row
-technopat.net##.td-pb-border-top.td_with_ajax_pagination.td-block-color-style-2.td-pb-full-cell.td_uid_12_5852388934b4b_rand.td_block_widget.td_block_8.td_block_wrap > .td-next-prev-wrap
-technopat.net###Stage
-technopat.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-container-border.td-container.td-sub-footer-container
-technopat.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-container:nth-of-type(2) > .td-container-border > .td-pb-row.wpb_row.vc_row:nth-of-type(2) > .td-pb-span8.vc_column_container.wpb_column > .wpb_wrapper > .vc_color-info.vc_message_box-rounded.vc_message_box-standard.vc_message_box
-technopat.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-container.td-footer-container
-technopat.net###td-outer-wrap > .td-outer-container > .td-container-border.td-container.td-sub-footer-container
-technopat.net###td-outer-wrap > .td-outer-container > .td-container.td-footer-container
-telegraphindia.com##.more-from-section
-telegraphindia.com##.trending-story
-thatsucks.com###ajax_footer_popup_banner_v1
-tnctr.com###anonymous_element_76
-tnctr.com###branding
-tnctr.com###footer_utilities
-tnctr.com###index_stats > .__xXbau011fu0131u015f20yaparak20tncsever20olun21.ipsSideBlock
-tnctr.com###index_stats > .__xXen20son20tncseverler.ipsSideBlock
-tnctr.com###index_stats > .__xXfacebook20sayfamu0131zu013120beu011fenin.clearfix.general_box.ipsSideBlock
-tnctr.com###ipbwrapper > div:nth-of-type(7)
-tnctr.com###ipsLayout_sidebar > .cWidgetContainer > .ipsList_reset > .ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(1) > .ipsType_reset.ipsWidget_title
-tnctr.com###ipsLayout_sidebar > .cWidgetContainer > .ipsList_reset > .ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(1) > .ipsWidget_inner.ipsPad
-tnctr.com###scrolltotop
-tnctr.com###statusHook
-turkleech.com##.main-menu > .settings
-turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td
-turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(2)
-turkleech.com###bx > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(3)
-turkleech.com###wrapcentre > table:nth-of-type(1) > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(3)
-turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .tablebg:nth-of-type(2) > tbody > tr:nth-of-type(1) > .cat
-turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .tablebg:nth-of-type(2) > tbody > tr:nth-of-type(2) > .row1:nth-of-type(2)
-turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .tablebg:nth-of-type(3)
-turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(3) > tbody > tr > td
-turkleech.com###wrapcentre > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(3) > tbody > tr > td:nth-of-type(2)
-turkleech.com##body > table:nth-of-type(1) > tbody > tr > td
-turkleech.com##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
-turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
-turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
-turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
-turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(4)
-turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(5)
-turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(6)
-turkleech.com##body > table:nth-of-type(3) > tbody > tr > td
-vatanbilgisayar.com##.ems-width-full.site-footer
-vporn.com##.center-sm.col-sm-6.col-xs-12.col-ss.welcome
-vporn.com##.col-sm-12.col-xs-6.col-ss-full.col-ss-12:nth-of-type(1)
-vporn.com##.first-xs.col-md-3.col-sm-4.col-xs-12-full.col-xs-12.col-ss.video-add
-vporn.com##.hide-xs-ios.hide-xs
-vporn.com##.vjs-settings-button.vjs-button.vjs-control.vjs-menu-button-popup.vjs-menu-button > .vjs-button-icon
-vporn.com###seot
-vporn.com###video-advert
-vporn.com##font > footer
-vporn.com##footer
-washingtonpost.com##.extra
-washingtonpost.com##.interstitial-link
-washingtonpost.com###comment_link_button_wrapper
-whattechsays.com##.h6AMlOktx9Fp-bg
-whattechsays.com###EqP5d7r9shu5
-yesmagazine.org###navbar-top a
-youtube.com##._256545Notification_Small
-youtube.com##._Notific890793ation_Small
-youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
-youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
-youtube.com###content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
-youtube.com###feed-pyv-container
-youtube.com###masthead-positioner-height-offset
-turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(7)
 www-01.ibm.com##[id^=ibm-overlaywidget]
 www-01.ibm.com###ibm-overlay-backdrop
 xul.fr##.cc-banner
@@ -3731,10 +3723,13 @@ yazarkafe.hurriyet.com.tr##.pageskin-right
 yazarkafe.hurriyet.com.tr##.top-advertising
 yazarkafe.hurriyet.com.tr###site_ad_300x250
 yellowpages.com##.sg-b-bar.sg-b-f
+yesmagazine.org###navbar-top a
 yifysubtitles.com##[href^="http://www.open-fonts.com/"]
 youredm.com###gladly-container
 yourfriendshouse.com##.footer-left
 yourfriendshouse.com###text-3 > .widget-title
+youtube.com##._256545Notification_Small
+youtube.com##._Notific890793ation_Small
 youtube.com##.branded-page-related-channels
 youtube.com##.branded-page-related-channels-list
 youtube.com##.generic-promo-impression-logging
@@ -3743,6 +3738,8 @@ youtube.com##.videoblocker-container
 youtube.com##.watch-sidebar
 youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
+youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
 youtube.com##.ytd-single-option-survey-renderer
@@ -3761,9 +3758,12 @@ youtube.com###-guide-item > .spf-nolink
 youtube.com###autoplay
 youtube.com###comment-section-renderer
 youtube.com###comments
+youtube.com###content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
 youtube.com###content > .ytd-metadata-row-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
 youtube.com###creator.yt-live-chat-message-input-renderer
 youtube.com###feed-main-what_to_watch
+youtube.com###feed-pyv-container
+youtube.com###masthead-positioner-height-offset
 youtube.com###related
 youtube.com###unlimited-guide-item
 youtube.com###watch-discussion
