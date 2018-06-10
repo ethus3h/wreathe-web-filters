@@ -1391,6 +1391,8 @@ zootfeed.com
 ##[href^="https://graphicriver.net/"]
 ##[href^="https://plus.google.com/"]
 ##[href^="https://unix.com/"
+##[href^="https://www.quora.com/"]
+##[href^="https://quora.com/"]
 ##[href^="https://www.graphicriver.net/"]
 ##[href^="https://www.patreon.com"]
 ##[href^="https://www.unix.com/"
