@@ -1,3 +1,179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+! 4/26/2018, 7:18:07 PM https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
+! 4/26/2018, 7:35:24 PM https://medium.com/netflix-techblog/flux-a-new-approach-to-system-intuition-cf428b7316ec
+! 4/26/2018, 8:24:57 PM http://www.yesmagazine.org/issues/solidarity/capitalism-is-not-the-only-choice-20171114
+! 4/26/2018, 9:35:46 PM https://gamerant.com/todd-howard-wikipedia-troll-campaign/
+! 4/26/2018, 9:37:36 PM https://gamerant.com/todd-howard-wikipedia-troll-campaign/
+! 4/28/2018, 3:42:28 PM http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=125050
+! 4/28/2018, 3:43:14 PM http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=125050
+! 4/28/2018, 3:43:33 PM http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=125050
+! 4/28/2018, 3:44:33 PM http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=125050
+! 4/28/2018, 8:31:16 PM https://www.forbes.com/sites/prossermarc/2016/10/02/three-reasons-spotify-will-fail-in-japan/#eb6548e2e99f
+! 4/28/2018, 8:31:24 PM https://www.forbes.com/sites/prossermarc/2016/10/02/three-reasons-spotify-will-fail-in-japan/#eb6548e2e99f
+! 5/1/2018, 6:45:30 PM https://www.labnol.org/internet/direct-links-for-google-drive/28356/
+! 5/1/2018, 6:45:40 PM https://www.labnol.org/internet/direct-links-for-google-drive/28356/
+! 5/10/2018, 3:20:43 PM https://medium.com/@ms_madvinyl/cant-take-the-survey-this-form-can-only-be-viewed-by-users-in-the-owner-s-organization-834e964564ec
+! 5/10/2018, 8:21:19 PM https://nickjanetakis.com/blog/a-recycled-ip-address-caused-me-to-pirate-390000-books-by-accident
+! 5/10/2018, 8:21:32 PM https://nickjanetakis.com/blog/a-recycled-ip-address-caused-me-to-pirate-390000-books-by-accident
+! 5/11/2018, 11:31:55 PM https://techcrunch.com/2018/05/11/how-snapchat-should-work/
+! 5/11/2018, 11:32:02 PM https://techcrunch.com/2018/05/11/how-snapchat-should-work/
+! 5/11/2018, 11:32:22 PM https://techcrunch.com/2018/05/11/how-snapchat-should-work/
+! 5/12/2018, 4:48:40 PM https://www.reddit.com/r/kde/comments/7phvqp/why_is_kde_given_so_bad_reputation_in_online/
+! 5/13/2018, 10:54:00 PM http://www.businessinsider.com/github-the-full-inside-story-2016-2
+! 5/13/2018, 10:54:09 PM http://www.businessinsider.com/github-the-full-inside-story-2016-2
+! 5/13/2018, 8:46:34 PM https://beebom.com/how-play-youtube-videos-background-easily/
+! 5/13/2018, 9:06:17 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
+! 5/13/2018, 9:06:24 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
+! 5/13/2018, 9:09:41 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
+! 5/13/2018, 9:09:50 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
+! 5/13/2018, 9:10:05 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
+! 5/13/2018, 9:10:45 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
+! 5/13/2018, 9:10:58 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
+! 5/14/2018, 12:43:10 AM https://www.bloomberg.com/news/articles/2016-12-20/how-apple-alienated-mac-loyalists
+! 5/14/2018, 12:46:36 AM https://jasonlefkowitz.net/2016/10/why-apple-doesnt-care-about-professional-mac-users-anymore/
+! 5/14/2018, 12:46:41 AM https://jasonlefkowitz.net/2016/10/why-apple-doesnt-care-about-professional-mac-users-anymore/
+! 5/14/2018, 12:51:48 AM https://jasonlefkowitz.net/2016/10/why-apple-doesnt-care-about-professional-mac-users-anymore/
+! 5/14/2018, 12:51:56 AM https://jasonlefkowitz.net/2016/10/why-apple-doesnt-care-about-professional-mac-users-anymore/
+! 5/15/2018, 4:28:15 PM https://www.bladesmithsforum.com/index.php?/topic/11327-a-different-way-to-make-steel-by/
+! 5/16/2018, 1:53:28 PM https://www.nytimes.com/2018/05/15/science/yanny-laurel.html
+! 5/16/2018, 10:54:52 PM https://www.nytimes.com/2018/05/15/science/yanny-laurel.html
+! 5/16/2018, 4:11:56 AM https://www.360logica.com/blog/agile-development-advantages-disadvantages-and-when-to-use-it/
+! 5/16/2018, 4:12:05 AM https://www.360logica.com/blog/agile-development-advantages-disadvantages-and-when-to-use-it/
+! 5/16/2018, 4:13:48 AM https://www.360logica.com/blog/agile-development-advantages-disadvantages-and-when-to-use-it/
+! 5/16/2018, 4:13:53 AM https://www.360logica.com/blog/agile-development-advantages-disadvantages-and-when-to-use-it/
+! 5/16/2018, 4:35:08 AM https://blog.trello.com/beginners-guide-scrum-and-agile-project-management
+! 5/17/2018, 10:29:17 AM http://library1.org/_ads/C3AC9D8E558558F249073CC4A7A79CEE
+! 5/17/2018, 7:29:41 PM https://www.plagiarismtoday.com/2017/08/15/explaining-ad-blocking-dmca-debacle/
+! 5/17/2018, 7:29:58 PM https://www.plagiarismtoday.com/2017/08/15/explaining-ad-blocking-dmca-debacle/
+! 5/19/2018, 12:05:28 AM https://imgur.com/a/cN2kQBj
+! 5/19/2018, 4:20:50 PM https://www.thatsucks.com/review/optionrobot-suck/
+! 5/19/2018, 5:23:38 PM https://www.nextavenue.org/estranged-parents-and-adult-children-silent-epidemic/
+! 5/19/2018, 5:23:50 PM https://www.nextavenue.org/estranged-parents-and-adult-children-silent-epidemic/
+! 5/21/2018, 1:36:32 AM https://kissanime.ac/Anime/So-Ra-No-Wo-To.27926/Episode-001?id=24373
+! 5/22/2018, 1:58:10 AM https://www.youtube.com/watch?v=l9Bf27_bYfU
+! 5/22/2018, 1:59:49 PM https://www.extractpdf.com/
+! 5/22/2018, 2:06:29 PM https://docs.google.com/document/d/1VWK_iypkTZUqWuzZKrM1RVPMWju_8swzj3py6cRnOx0/edit?ts=5afd84dd
+! 5/22/2018, 2:06:35 PM https://docs.google.com/document/d/1VWK_iypkTZUqWuzZKrM1RVPMWju_8swzj3py6cRnOx0/edit?ts=5afd84dd
+! 5/22/2018, 2:45:30 PM http://fritzing.org/home/
+! 5/24/2018, 3:14:35 PM https://github.com/ethus3h
+! 5/24/2018, 6:33:16 PM https://apple.stackexchange.com/questions/252552/access-virtualbox-shared-folders-in-yosemite
+! 5/24/2018, 6:33:30 PM https://stackoverflow.com/questions/2636379/css-selectors-versus-space
+! 5/26/2018, 5:42:29 PM https://www.myajc.com/news/local/covfefe-list-vanity-license-plates-banned-georgia/2EkWhfjlfVKHpTB5ysP6aL/
+! 5/28/2018, 2:29:05 PM https://onemorecupof-coffee.com/can-you-really-make-money-with-the-appnana-app/
+! 5/30/2018, 2:17:10 PM https://www.dailyo.in/variety/crpf-martyrs-naxals-chhattisgarh-sukma-attack-mpvs-mine-protected-vehicles-vulnerable/story/1/23128.html
+! 5/30/2018, 2:17:27 PM https://www.dailyo.in/variety/crpf-martyrs-naxals-chhattisgarh-sukma-attack-mpvs-mine-protected-vehicles-vulnerable/story/1/23128.html
+! 5/30/2018, 2:19:01 PM https://www.telegraphindia.com/india/fresh-crpf-feet-in-maoist-fight-225865
+! 5/30/2018, 2:19:11 PM https://www.telegraphindia.com/india/fresh-crpf-feet-in-maoist-fight-225865
+! 5/30/2018, 7:26:38 PM https://jalopnik.com/5454090/exclusive-jalopnik-audit-of-clunked-exotics-finds-initial-news-reports-false
+! 5/30/2018, 7:57:18 PM https://domainnamewire.com/2011/11/01/has-legos-500k-spent-on-urdp-been-a-waste/
+! 5/30/2018, 7:59:38 PM https://domainnamewire.com/2018/04/05/gdpr-will-make-domain-name-transfers-more-difficult/
+! 5/30/2018, 8:00:06 PM https://domainnamewire.com/2018/04/05/gdpr-will-make-domain-name-transfers-more-difficult/
+! 5/30/2018, 8:14:13 PM http://domainincite.com/22502-big-changes-at-domaintools-as-privacy-law-looms
+! 5/30/2018, 8:14:30 PM http://domainincite.com/22502-big-changes-at-domaintools-as-privacy-law-looms
+! 5/30/2018, 9:41:57 AM http://www.iflscience.com/plants-and-animals/you-have-been-lied-to-about-the-blobfish-this-whole-time/
+! 5/5/2018, 2:48:17 PM https://www.washingtonpost.com/local/after-95-years-a-navy-ship-lost-at-sea-with-all-hands-is-finally-discovered/2016/03/22/ebe2e29c-eba7-11e5-b0fd-073d5930a7b7_story.html?utm_term=.24e6dab1fc13
+! 5/5/2018, 2:52:12 PM https://www.washingtonpost.com/local/wrecks-of-two-whaling-ships-destroyed-by-ice-in-1871-found-off-alaska-coast/2016/01/06/287adfb0-b48b-11e5-a76a-0b5145e8679a_story.html?utm_term=.f144e1044a2c
+! 5/5/2018, 2:52:32 PM https://www.washingtonpost.com/local/wrecks-of-two-whaling-ships-destroyed-by-ice-in-1871-found-off-alaska-coast/2016/01/06/287adfb0-b48b-11e5-a76a-0b5145e8679a_story.html?utm_term=.f144e1044a2c
+! 5/7/2018, 11:47:40 PM https://arstechnica.com/gadgets/2011/07/mac-os-x-10-7/
+! 5/7/2018, 5:01:34 PM https://www.musicradar.com/reviews/ableton-live-10
+! 5/7/2018, 5:01:45 PM https://www.musicradar.com/reviews/ableton-live-10
+! 5/7/2018, 5:01:57 PM https://www.musicradar.com/reviews/ableton-live-10
+! 5/7/2018, 5:34:25 PM https://ask.audio/articles/from-autotune-to-flex-pitch-the-highs-lows-of-pitch-correction-plugins-in-the-modern-studio
+! 5/7/2018, 5:38:16 PM https://ask.audio/articles/from-autotune-to-flex-pitch-the-highs-lows-of-pitch-correction-plugins-in-the-modern-studio
+! 5/7/2018, 6:04:14 PM https://www.bloomberg.com/news/articles/2018-02-28/youtube-s-new-moderators-mistakenly-pull-right-wing-channels
+! 5/8/2018, 5:57:50 PM https://www.cjponyparts.com/resources/chevy-c10-vs-ford-f100
+! 5/9/2018, 5:26:32 PM https://www.motor1.com/news/237774/chiron-top-speed-test-not-priority/
+! 5/9/2018, 5:49:05 PM http://autoweek.com/article/luxury/cullinan-whats-behind-name-rolls-royces-new-suv
 @@||api.solvemedia.com$domain=spaste.com
 @@||api.solvemedia.com$script,domain=spaste.com
 @@||bc.vc/PBKEEmM$popup,domain=www.limitsizamca.org
@@ -60,6 +236,11 @@
 #@#div#disqus_thread
 #@#div#watch-discussion
 #@#iframe[src*=disqus\\.com\\/embed\\/comments]
+##.shopsavvy-header
+##[class^=shopsavvy]
+##[href^=https://shopsavvy.com]
+##[href^=https://t.co/]
+##[href^=tomshardware.com]
 ||$third-party,domain=pornvau.com
 ||2.bp.blogspot.com/-sreVnjZMtdw/ToTqOZMd5QI/AAAAAAAABC8/Np3RQ8oIBSE/s000/border.gif$image
 ||a.spankbang.com/www/delivery/afr.php?zoneid=2&cb=1521027240.14$subdocument
@@ -82,6 +263,7 @@
 ||d26dzxoao6i3hh.cloudfront.net/items/132q2J3H2b331U3z2r2U/1_right.jpg?v=b13a5a3a$image
 ||d26dzxoao6i3hh.cloudfront.net/items/2r231T1k462b470W231O/1_left.jpg?v=fbcc4799$image
 ||d26dzxoao6i3hh.cloudfront.net/items/2r231T1k462b470W231O/1_left.jpg?v=fbcc4799$image
+||domainnamewire.com/wp-content/hexonet.jpg$image
 ||files.newsinlevels.com/200007120-50f9552ec5/ER_banner_NiL.gif$image
 ||files.newsinlevels.com/200007297-989489a885/Grammar_banner_NiL.gif$image
 ||filmiindir.net/wp-content/uploads/2016/08/redred-A1.png$image
@@ -138,6 +320,7 @@
 ||www.a305teyim.com//banner/kucukm1.gif
 ||www.a305teyim.com//banner/kucukm1.gif$image
 ||www.bilgiustam.com/images/teknotesisat.gif
+||www.extractpdf.com/cnc/md$image
 ||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
 ||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
 ||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Feksisozluk&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=false
@@ -213,6 +396,12 @@
 9/11/2015, 8:23:03 AM http://www.limitsizamca.org/
 adf.ly###_bd
 adf.ly###fade
+apple.stackexchange.com###js-gdpr-consent-banner
+arstechnica.com##.pullbox
+ask.audio##.courses-slider
+ask.audio##.review-box
+autoweek.com##.inset-article
+beebom.com##strong [href]
 bigfile.to##.days
 bigfile.to##.days.last
 bigfile.to##.footer.makemoneyfoot
@@ -231,6 +420,7 @@ bigfile.to###download_tab
 bigfile.to###freeEstTime.dl_time.grey
 bigfile.to###left_buynow
 bigfile.to##SPAN.smalltxt
+blog.trello.com##.header-container-wrapper
 bobiler.org###bobi-sidebar > .bobi-panel-grey:nth-of-type(6)
 bobiler.org###bobi-sidebar > .uk-sticky-placeholder
 bobiler.org###bobi-sidebar > .uk-sticky-placeholder > div > .bobi-hararet.bobi-panel-grey
@@ -247,6 +437,7 @@ chomikuj.pl###adultModalContainer > .ui-tooltip-titlebar
 chomikuj.pl###adultModalOverlay
 chomikuj.pl###adultModalOverlay
 chomikuj.pl###adultModalOverlay
+chrome.google.com
 clicknupload.link##.footer
 clicknupload.link##.footer_link
 clicknupload.link##.result_slot
@@ -257,7 +448,15 @@ clicknupload.link##.top_nav
 clicknupload.link##A[href=\"http://clicknupload.link/?op=change_lang&lang=english\"]
 clicknupload.link##A[href=\"http://clicknupload.link/dmca.html\"]
 clicknupload.link##LI
+cracked.com
 data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOSIgaGVpZ2h0PSIxOCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjM3LjRMOS40MiA1Ljk2IDMuNi40LjU1IDMuMmw1LjgyIDUuNjgtNi4yMyA1Ljk2IDMuMDQgMy4wNCA2LjIzLTYuMSA2LjQgNi4xIDMuMDUtMy4wNC02LjM3LTUuOTYgNS45NS01LjY4TDE1LjM4LjQyeiIvPjwvc3ZnPg==$domain=www.pornhd.com,image
+docs.google.com##.analytics-od-bg
+docs.google.com##.docs-dialog.analytics-od
+domainincite.com###sidebar
+domainincite.com###sidebar2
+domainnamewire.com##.one-half
+domainnamewire.com##.sidebar-left
+econsultancy.com
 eksisozluk.com###site-footer
 eksisozluk.com###videolar
 eksisozluk.com###videos > .big-thumb
@@ -284,10 +483,15 @@ forum.donanimhaber.com###zip > center > table:nth-of-type(5) > tbody > tr > td:n
 forum.donanimhaber.com###zip > center > table:nth-of-type(6) > tbody > tr > td
 forum.donanimhaber.com###zip > center > table:nth-of-type(8) > tbody > tr > td > center > div
 forum.donanimhaber.com##footer
+fritzing.org##[href^="http://fab.fritzing.org"]
 gaiadergi.com##.td-footer-template-4.td-footer-wrapper
 gaiadergi.com##.td-logo
 gaiadergi.com##.td-logo-mobile-loaded.td-logo-wrap-full.td-banner-wrap-full
 gaiadergi.com##.td-sub-footer-container
+gamerant.com##.spnf_left
+gamerant.com##.spotim-recirculation
+github.com##.Popover
+gitlab.com###stickybanner
 http://adexc.net
 http://cdn.sailfish.media/lb/*.png
 http://onclickads.net
@@ -314,6 +518,12 @@ img2share.com##body > div:nth-of-type(5) > div:nth-of-type(2)
 img2share.com##body > div:nth-of-type(6)
 imgmade.com###netkevin-overlay
 imgmade.com###netkevin-popup
+imgur.com###side-gallery
+jalopnik.com##aside
+jasonlefkowitz.net##.affix
+jasonlefkowitz.net##.previously-header
+jasonlefkowitz.net##.previously-item
+jasonlefkowitz.net##.top-nav-container
 jeodrive.com##.btn.btn-primary.btn-lg.importFileToMyCloud
 jeodrive.com##.party
 jeodrive.com##[href=\"/premium/h4l-musaigen-no-phantom-world-02-720pac41652f/\"]
@@ -336,9 +546,11 @@ kelebekgaleri.hurriyet.com.tr##.footerTop
 kelebekgaleri.hurriyet.com.tr##.galAdShare
 kelebekgaleri.hurriyet.com.tr##.h16-main-header
 kelebekgaleri.hurriyet.com.tr###sticky-header-control
+kissanime.ac###upgrade_pop
 komikingilizce.blogspot.com###CustomSearch1
 komikingilizce.blogspot.com###Label1 > .cloud-label-widget-content.widget-content
 komikingilizce.blogspot.com###Label1 > h2
+library1.org###message
 lustygrandmas.21sextreme.com###footerWrapper
 matureshock.com###ubr
 matureshock.com###ubr
@@ -351,7 +563,12 @@ mediafire.com##.dlInfo-Speed
 mediafire.com##.dlPromo1Content.dlPromoContent[href=\"/upgrade/\"]
 mediafire.com###footer.footer
 mediafire.com###login_signup
+medium.com##.js-relationshipButton
+medium.com##.u-borderCardBackground
+medium.com##[href*=ericelliottjs]
 news.softpedia.com###wrapper > .main > .container_48 > .nwclslong.grid_48.nwclassic.dlclassic:nth-of-type(9) > .fr.grid_15.info > ul
+nickjanetakis.com##.text-center.text-muted
+nickjanetakis.com##[href="https://nickjanetakis.com/newsletter"]
 nitroflare.com##.noticeMessage
 nitroflare.com##.purchaseNoWaiting
 nitroflare.com##.table2.bad
@@ -366,6 +583,7 @@ nitroflare.com###superbox-container
 nitroflare.com###superbox-overlay
 nitroflare.com###superbox-wrapper
 nitroflare.com###watch-online
+nzherald.co.nz
 onedio.com##.bttf-masthead
 onedio.com##.html.entry
 onedio.com##.o-ftr
@@ -380,6 +598,7 @@ onedio.com###main > .main > .user-reactions
 onedio.com###main > .panel.large > .listing > .video-social.common-box-300px.common-box
 onedio.com###side > h2
 onedio.com###xM5XW6Z3MMVPWCZDTL5UWM4TBNVSV6LZSGE4DCNBWHAYS6T3OMVSGS3ZOMNXW2X2EMVZWW5DPOBPUEYLOORPUCZCCNRXWG227GA
+onemorecupof-coffee.com##[href^="https://onemorecupof-coffee.com/mmo"]
 playody.com###video_reklamy > div > .reklama-content-2 > .info-close-ads-doublebillboard
 popsci.com.tr###footer
 pornovau.com##.block-channel
@@ -459,6 +678,7 @@ shiftdelete.net###widget_phone_brands_12
 shiftdelete.net###widget_teknosa_magazin_13
 shiftdelete.net###widget_teknosa_magazin_14
 shiftdelete.net###widget_telefonlar_sidebar_11
+skeptoid.com
 solidfiles.com##.btn.btn-success.btn-sm
 solidfiles.com##.container-fluid
 solidfiles.com##.navbar.navbar-site.navbar-fixed-top
@@ -475,8 +695,14 @@ spankbang.com###tlf_OQocdeMu
 spankbang.com###tlf_TEOaZozJ
 spankbang.com###tlf_ywceELKu
 spankbang.com##footer
+stackoverflow.com###js-gdpr-consent-banner
 streamxxx.tv##.st-footer-bottom
+techcrunch.com##.article__social-share
+techcrunch.com##.breakout
+techcrunch.com##.close-button
+telegraph.co.uk##.premium-paywall
 thewindowsclub.com##script:inject(setTimeout-defuser)
+tomshardware.com
 tour.naughtyamerica.com##.paypal-popup
 tr.spankbang.com##.feedback_button[href=\"#\"]
 tr.spankbang.com###browse > .results > .video-rotate.video-list > .ads-item
@@ -602,6 +828,10 @@ wonderfulengineering.com###text-4 > .widget-section
 wonderfulengineering.com###text-4 > .widget-section
 wonderfulengineering.com###text-4 > .widget-section
 ww.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(7)
+www.360logica.com###clickdesk-appendable-bubble
+www.360logica.com###contactslideid
+www.360logica.com###gaq
+www.360logica.com###nav-below
 www.a305teyim.com###alt
 www.a305teyim.com###container > .ytutop
 www.a305teyim.com###indeed_widget_wrapper
@@ -611,10 +841,15 @@ www.bilgiustam.com##.copyrights
 www.bilgiustam.com###left_ad
 www.bilgiustam.com###widget_text:nth-of-type(1) > .textwidget
 www.bilgiustam.com##footer
+www.bladesmithsforum.com##.ipsMessage_error
+www.bloomberg.com###navi
+www.bloomberg.com###paywall-banner
 www.brazzers.com##.call-to-action-container
 www.brazzers.com##.cta-btn
 www.brazzers.com###cta-floater
 www.brazzers.com##footer
+www.businessinsider.com##.recommended
+www.businessinsider.com##.see-also
 www.chip.com.tr##.ad-sol
 www.chip.com.tr##.adspace.ad720.ad-center.ad
 www.chip.com.tr##.asorder > .homepage.adspace.ad720.ad
@@ -642,6 +877,7 @@ www.chip.com.tr###colana > .cxwide.shortcode
 www.chip.com.tr###comments > .tumunuGor[href=\"#\"]
 www.chip.com.tr###medyanet_chip_sitegeneli_620x200_12889
 www.chip.com.tr###topTopicNav > .gapps > .asTamsurum:nth-of-type(2)
+www.cjponyparts.com##.resources-related-products
 www.cumhuriyet.com.tr##.alternate_728x90.s728x90.no-overflow
 www.cumhuriyet.com.tr###abonelere
 www.cumhuriyet.com.tr###div-gpt-ad-1386924291401-0
@@ -672,6 +908,8 @@ www.cumhuriyet.com.tr###share-bar
 www.cumhuriyet.com.tr###spor
 www.cumhuriyet.com.tr###sports-grid-gallery
 www.cumhuriyet.com.tr###top-menu
+www.dailyo.in##.twoverlay
+www.dailyo.in###fixedfooter
 www.derinport.in###above_postlist
 www.derinport.in###breadcrumb > .floatcontainer
 www.derinport.in###contentMain > .contentWrap > .contentLeft > .contentRight > .contentTL > .contentTR > .contentBL > .contentBR > .contentBodyWrap > .body_wrapper1 > table > tbody > tr > td:nth-of-type(2) > .collapse
@@ -720,6 +958,8 @@ www.elektrikport.com##.footer > .disclaimer
 www.elektrikport.com##.footer > .footer-bg
 www.enginelabs.com##.sticky-menu-leadboard
 www.fizikist.com##.footer_area
+www.forbes.com##.right-rail
+www.forbes.com##beta-flag
 www.gecce.com###footer
 www.ghacks.net##.pb--40.pt--40.color--white.bg--darkGray
 www.ghacks.net##.text--center.pb--6.pt--6.color--white.bg--black
@@ -760,8 +1000,11 @@ www.hurriyet.com.tr##.scroll-view-port.sponsored-content.col-lg-4.col-md-4.col-s
 www.hurriyet.com.tr###sticky-header-control
 www.hurriyet.com.tr##p:nth-of-type(4)
 www.hurriyet.com.tr##p:nth-of-type(5)
+www.iflscience.com##.stories-above
 www.instagram.com##._2pnef._cqw45
 www.kariyer.net##.cimri-capsule
+www.labnol.org##.feature > ul
+www.labnol.org##.form--active
 www.limitsizamca.org###dle-content > .clr.short-title:nth-of-type(7)
 www.limitsizamca.org###dle-content > .news-info:nth-of-type(8)
 www.limitsizamca.org###dle-content > .short-story:nth-of-type(9) > .news-info-2
@@ -784,7 +1027,14 @@ www.makeuseof.com###sidebar
 www.makeuseof.com###sidebar
 www.milliyet.com.tr###_MiddleRight2 > .row:nth-of-type(12) > .endeks
 www.milliyet.com.tr###_MiddleRight2 > .row:nth-of-type(6) > .arabaBox
+www.motor1.com##.relatedContent
+www.musicradar.com##.mfmwidget
+www.musicradar.com##.read-more-container
+www.musicradar.com##.related-articles-block
+www.myajc.com##.inline-related
 www.newsinlevels.com###sidebarContent > .rbcWidgetArea:nth-of-type(6) > div > div
+www.nextavenue.org##p [href]
+www.nextavenue.org##p strong
 www.nsaneforums.com##.ipsFaded_withHover.ipsBreadcrumb_bottom.ipsBreadcrumb
 www.nsaneforums.com##.ipsFaded_withHover.ipsBreadcrumb_top.ipsBreadcrumb
 www.nsaneforums.com###anonymous_element_1
@@ -799,6 +1049,21 @@ www.nsaneforums.com###ipsLayout_mainArea > center
 www.nsaneforums.com###shoutbox_sidebar > .block_list.hfeed > .shoutbox_table.ipb_table > tbody > .row1 > .altrow
 www.numberone.com.tr##.right.listen-live > a > .cta.small-8
 www.numberone.com.tr###sb-player
+www.nytimes.com##[class^=Ribbon]
+www.nytimes.com##strong
+www.nzherald.co.nz##.chain-wrapper
+www.nzherald.co.nz##.related-header
+www.nzherald.co.nz###breaking-alert
+www.nzherald.co.nz###nav
+www.pcgamesn.com##.comment-form-author [href]
+www.pcgamesn.com##.comment-reply
+www.pcgamesn.com##.home-review-snippet
+www.pcgamesn.com##.next_page_content
+www.pcgamesn.com##.sml_review_avatar
+www.pcgamesn.com###header-share
+www.pcgamesn.com###main_user_block
+www.plagiarismtoday.com##.td-post-content > div[style]
+www.plagiarismtoday.com##.widget_newsletterwidgetminimal
 www.planetsuzy.org##.page > div > .tborder:nth-of-type(1) > tbody > tr > .alt1:nth-of-type(2)
 www.planetsuzy.org##body > div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
 www.planetsuzy.org##div:nth-of-type(14) > .page > div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
@@ -840,6 +1105,7 @@ www.pornhd.com###pageContent > .inside-row.thumbs
 www.pornhd.com###pageContent > .link-tag-list
 www.pornhd.com###pageContent > .no-border.section-header:nth-of-type(4)
 www.pornhd.com###pageContent > .page-text
+www.reddit.com##.seo-comments-recommendations
 www.sekizsilindir.com###footer-wrapper
 www.sekizsilindir.com###HTML1
 www.sekizsilindir.com###HTML1 > .widget-content
@@ -900,6 +1166,9 @@ www.technopat.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-m
 www.technopat.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-container.td-footer-container
 www.technopat.net###td-outer-wrap > .td-outer-container > .td-container-border.td-container.td-sub-footer-container
 www.technopat.net###td-outer-wrap > .td-outer-container > .td-container.td-footer-container
+www.telegraphindia.com##.more-from-section
+www.telegraphindia.com##.trending-story
+www.thatsucks.com###ajax_footer_popup_banner_v1
 www.tnctr.com###anonymous_element_76
 www.tnctr.com###branding
 www.tnctr.com###footer_utilities
@@ -951,10 +1220,15 @@ www.vporn.com###seot
 www.vporn.com###video-advert
 www.vporn.com##font > footer
 www.vporn.com##footer
+www.washingtonpost.com##.extra
+www.washingtonpost.com##.interstitial-link
+www.washingtonpost.com###comment_link_button_wrapper
 www.whattechsays.com##.h6AMlOktx9Fp-bg
 www.whattechsays.com###EqP5d7r9shu5
+www.yesmagazine.org###navbar-top a
 www.youtube.com##._256545Notification_Small
 www.youtube.com##._Notific890793ation_Small
+www.youtube.com###content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
 www.youtube.com###feed-pyv-container
 www.youtube.com###feed-pyv-container
 www.youtube.com###masthead-positioner-height-offset
@@ -969,277 +1243,3 @@ yts.ag##.banner-bordered
 yts.ag##.ibox-bordered
 yts.am##.ibox-bordered
 zamunda.net##.iframe:nth-of-type(3)
-! 4/26/2018, 7:18:07 PM https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
-medium.com##[href*=ericelliottjs]
-
-! 4/26/2018, 7:35:24 PM https://medium.com/netflix-techblog/flux-a-new-approach-to-system-intuition-cf428b7316ec
-medium.com##.js-relationshipButton
-
-! 4/26/2018, 8:24:57 PM http://www.yesmagazine.org/issues/solidarity/capitalism-is-not-the-only-choice-20171114
-www.yesmagazine.org###navbar-top a
-
-! 4/26/2018, 9:35:46 PM https://gamerant.com/todd-howard-wikipedia-troll-campaign/
-gamerant.com##.spnf_left
-
-! 4/26/2018, 9:37:36 PM https://gamerant.com/todd-howard-wikipedia-troll-campaign/
-gamerant.com##.spotim-recirculation
-
-! 4/28/2018, 3:42:28 PM http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=125050
-www.nzherald.co.nz###breaking-alert
-
-! 4/28/2018, 3:43:14 PM http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=125050
-www.nzherald.co.nz##.related-header
-
-! 4/28/2018, 3:43:33 PM http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=125050
-www.nzherald.co.nz###nav
-
-! 4/28/2018, 3:44:33 PM http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=125050
-www.nzherald.co.nz##.chain-wrapper
-
-! 4/28/2018, 8:31:16 PM https://www.forbes.com/sites/prossermarc/2016/10/02/three-reasons-spotify-will-fail-in-japan/#eb6548e2e99f
-www.forbes.com##.right-rail
-
-! 4/28/2018, 8:31:24 PM https://www.forbes.com/sites/prossermarc/2016/10/02/three-reasons-spotify-will-fail-in-japan/#eb6548e2e99f
-www.forbes.com##beta-flag
-
-telegraph.co.uk##.premium-paywall
-
-! 5/1/2018, 6:45:30 PM https://www.labnol.org/internet/direct-links-for-google-drive/28356/
-www.labnol.org##.feature > ul
-
-! 5/1/2018, 6:45:40 PM https://www.labnol.org/internet/direct-links-for-google-drive/28356/
-www.labnol.org##.form--active
-
-! 5/5/2018, 2:48:17 PM https://www.washingtonpost.com/local/after-95-years-a-navy-ship-lost-at-sea-with-all-hands-is-finally-discovered/2016/03/22/ebe2e29c-eba7-11e5-b0fd-073d5930a7b7_story.html?utm_term=.24e6dab1fc13
-www.washingtonpost.com##.interstitial-link
-
-! 5/5/2018, 2:52:12 PM https://www.washingtonpost.com/local/wrecks-of-two-whaling-ships-destroyed-by-ice-in-1871-found-off-alaska-coast/2016/01/06/287adfb0-b48b-11e5-a76a-0b5145e8679a_story.html?utm_term=.f144e1044a2c
-www.washingtonpost.com##.extra
-
-! 5/5/2018, 2:52:32 PM https://www.washingtonpost.com/local/wrecks-of-two-whaling-ships-destroyed-by-ice-in-1871-found-off-alaska-coast/2016/01/06/287adfb0-b48b-11e5-a76a-0b5145e8679a_story.html?utm_term=.f144e1044a2c
-www.washingtonpost.com###comment_link_button_wrapper
-
-! 5/7/2018, 5:01:34 PM https://www.musicradar.com/reviews/ableton-live-10
-www.musicradar.com##.mfmwidget
-
-! 5/7/2018, 5:01:45 PM https://www.musicradar.com/reviews/ableton-live-10
-www.musicradar.com##.read-more-container
-
-! 5/7/2018, 5:01:57 PM https://www.musicradar.com/reviews/ableton-live-10
-www.musicradar.com##.related-articles-block
-
-! 5/7/2018, 5:34:25 PM https://ask.audio/articles/from-autotune-to-flex-pitch-the-highs-lows-of-pitch-correction-plugins-in-the-modern-studio
-ask.audio##.courses-slider
-
-! 5/7/2018, 5:38:16 PM https://ask.audio/articles/from-autotune-to-flex-pitch-the-highs-lows-of-pitch-correction-plugins-in-the-modern-studio
-ask.audio##.review-box
-
-! 5/7/2018, 6:04:14 PM https://www.bloomberg.com/news/articles/2018-02-28/youtube-s-new-moderators-mistakenly-pull-right-wing-channels
-www.bloomberg.com###paywall-banner
-
-! 5/7/2018, 11:47:40 PM https://arstechnica.com/gadgets/2011/07/mac-os-x-10-7/
-arstechnica.com##.pullbox
-
-! 5/8/2018, 5:57:50 PM https://www.cjponyparts.com/resources/chevy-c10-vs-ford-f100
-www.cjponyparts.com##.resources-related-products
-
-! 5/9/2018, 5:26:32 PM https://www.motor1.com/news/237774/chiron-top-speed-test-not-priority/
-www.motor1.com##.relatedContent
-
-! 5/9/2018, 5:49:05 PM http://autoweek.com/article/luxury/cullinan-whats-behind-name-rolls-royces-new-suv
-autoweek.com##.inset-article
-
-! 5/10/2018, 3:20:43 PM https://medium.com/@ms_madvinyl/cant-take-the-survey-this-form-can-only-be-viewed-by-users-in-the-owner-s-organization-834e964564ec
-medium.com##.u-borderCardBackground
-
-nzherald.co.nz
-skeptoid.com
-
-! 5/10/2018, 8:21:19 PM https://nickjanetakis.com/blog/a-recycled-ip-address-caused-me-to-pirate-390000-books-by-accident
-nickjanetakis.com##[href="https://nickjanetakis.com/newsletter"]
-
-! 5/10/2018, 8:21:32 PM https://nickjanetakis.com/blog/a-recycled-ip-address-caused-me-to-pirate-390000-books-by-accident
-nickjanetakis.com##.text-center.text-muted
-
-! 5/11/2018, 11:31:55 PM https://techcrunch.com/2018/05/11/how-snapchat-should-work/
-techcrunch.com##.close-button
-
-! 5/11/2018, 11:32:02 PM https://techcrunch.com/2018/05/11/how-snapchat-should-work/
-techcrunch.com##.breakout
-
-! 5/11/2018, 11:32:22 PM https://techcrunch.com/2018/05/11/how-snapchat-should-work/
-techcrunch.com##.article__social-share
-
-! 5/12/2018, 4:48:40 PM https://www.reddit.com/r/kde/comments/7phvqp/why_is_kde_given_so_bad_reputation_in_online/
-www.reddit.com##.seo-comments-recommendations
-
-! 5/13/2018, 8:46:34 PM https://beebom.com/how-play-youtube-videos-background-easily/
-beebom.com##strong [href]
-
-! 5/13/2018, 9:06:17 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
-www.pcgamesn.com##.comment-reply
-
-! 5/13/2018, 9:06:24 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
-www.pcgamesn.com###header-share
-
-! 5/13/2018, 9:09:41 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
-www.pcgamesn.com##.home-review-snippet
-
-! 5/13/2018, 9:09:50 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
-www.pcgamesn.com##.next_page_content
-
-! 5/13/2018, 9:10:05 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
-www.pcgamesn.com##.sml_review_avatar
-
-! 5/13/2018, 9:10:45 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
-www.pcgamesn.com##.comment-form-author [href]
-
-! 5/13/2018, 9:10:58 PM https://www.pcgamesn.com/fallout-4/fallout-4-skyrim-nexus-mods-bethesdanet-stolen
-www.pcgamesn.com###main_user_block
-
-! 5/13/2018, 10:54:00 PM http://www.businessinsider.com/github-the-full-inside-story-2016-2
-www.businessinsider.com##.see-also
-
-! 5/13/2018, 10:54:09 PM http://www.businessinsider.com/github-the-full-inside-story-2016-2
-www.businessinsider.com##.recommended
-
-! 5/14/2018, 12:43:10 AM https://www.bloomberg.com/news/articles/2016-12-20/how-apple-alienated-mac-loyalists
-www.bloomberg.com###navi
-
-! 5/14/2018, 12:46:36 AM https://jasonlefkowitz.net/2016/10/why-apple-doesnt-care-about-professional-mac-users-anymore/
-jasonlefkowitz.net##.top-nav-container
-
-! 5/14/2018, 12:46:41 AM https://jasonlefkowitz.net/2016/10/why-apple-doesnt-care-about-professional-mac-users-anymore/
-jasonlefkowitz.net##.affix
-
-! 5/14/2018, 12:51:48 AM https://jasonlefkowitz.net/2016/10/why-apple-doesnt-care-about-professional-mac-users-anymore/
-jasonlefkowitz.net##.previously-item
-
-! 5/14/2018, 12:51:56 AM https://jasonlefkowitz.net/2016/10/why-apple-doesnt-care-about-professional-mac-users-anymore/
-jasonlefkowitz.net##.previously-header
-
-! 5/15/2018, 4:28:15 PM https://www.bladesmithsforum.com/index.php?/topic/11327-a-different-way-to-make-steel-by/
-www.bladesmithsforum.com##.ipsMessage_error
-
-! 5/16/2018, 4:11:56 AM https://www.360logica.com/blog/agile-development-advantages-disadvantages-and-when-to-use-it/
-www.360logica.com###contactslideid
-
-! 5/16/2018, 4:12:05 AM https://www.360logica.com/blog/agile-development-advantages-disadvantages-and-when-to-use-it/
-www.360logica.com###clickdesk-appendable-bubble
-
-! 5/16/2018, 4:13:48 AM https://www.360logica.com/blog/agile-development-advantages-disadvantages-and-when-to-use-it/
-www.360logica.com###gaq
-
-! 5/16/2018, 4:13:53 AM https://www.360logica.com/blog/agile-development-advantages-disadvantages-and-when-to-use-it/
-www.360logica.com###nav-below
-
-! 5/16/2018, 4:35:08 AM https://blog.trello.com/beginners-guide-scrum-and-agile-project-management
-blog.trello.com##.header-container-wrapper
-
-! 5/16/2018, 1:53:28 PM https://www.nytimes.com/2018/05/15/science/yanny-laurel.html
-www.nytimes.com##[class^=Ribbon]
-
-! 5/16/2018, 10:54:52 PM https://www.nytimes.com/2018/05/15/science/yanny-laurel.html
-www.nytimes.com##strong
-
-! 5/17/2018, 10:29:17 AM http://library1.org/_ads/C3AC9D8E558558F249073CC4A7A79CEE
-library1.org###message
-
-! 5/17/2018, 7:29:41 PM https://www.plagiarismtoday.com/2017/08/15/explaining-ad-blocking-dmca-debacle/
-www.plagiarismtoday.com##.td-post-content > div[style]
-
-! 5/17/2018, 7:29:58 PM https://www.plagiarismtoday.com/2017/08/15/explaining-ad-blocking-dmca-debacle/
-www.plagiarismtoday.com##.widget_newsletterwidgetminimal
-
-! 5/19/2018, 12:05:28 AM https://imgur.com/a/cN2kQBj
-imgur.com###side-gallery
-
-! 5/19/2018, 4:20:50 PM https://www.thatsucks.com/review/optionrobot-suck/
-www.thatsucks.com###ajax_footer_popup_banner_v1
-
-! 5/19/2018, 5:23:38 PM https://www.nextavenue.org/estranged-parents-and-adult-children-silent-epidemic/
-www.nextavenue.org##p [href]
-
-! 5/19/2018, 5:23:50 PM https://www.nextavenue.org/estranged-parents-and-adult-children-silent-epidemic/
-www.nextavenue.org##p strong
-
-! 5/21/2018, 1:36:32 AM https://kissanime.ac/Anime/So-Ra-No-Wo-To.27926/Episode-001?id=24373
-kissanime.ac###upgrade_pop
-
-! 5/22/2018, 1:58:10 AM https://www.youtube.com/watch?v=l9Bf27_bYfU
-www.youtube.com###content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint
-
-chrome.google.com
-
-! 5/22/2018, 1:59:49 PM https://www.extractpdf.com/
-||www.extractpdf.com/cnc/md$image
-
-! 5/22/2018, 2:06:29 PM https://docs.google.com/document/d/1VWK_iypkTZUqWuzZKrM1RVPMWju_8swzj3py6cRnOx0/edit?ts=5afd84dd
-docs.google.com##.docs-dialog.analytics-od
-
-! 5/22/2018, 2:06:35 PM https://docs.google.com/document/d/1VWK_iypkTZUqWuzZKrM1RVPMWju_8swzj3py6cRnOx0/edit?ts=5afd84dd
-docs.google.com##.analytics-od-bg
-
-! 5/22/2018, 2:45:30 PM http://fritzing.org/home/
-fritzing.org##[href^="http://fab.fritzing.org"]
-
-! 5/24/2018, 3:14:35 PM https://github.com/ethus3h
-github.com##.Popover
-
-! 5/24/2018, 6:33:16 PM https://apple.stackexchange.com/questions/252552/access-virtualbox-shared-folders-in-yosemite
-apple.stackexchange.com###js-gdpr-consent-banner
-
-! 5/24/2018, 6:33:30 PM https://stackoverflow.com/questions/2636379/css-selectors-versus-space
-stackoverflow.com###js-gdpr-consent-banner
-
-! 5/26/2018, 5:42:29 PM https://www.myajc.com/news/local/covfefe-list-vanity-license-plates-banned-georgia/2EkWhfjlfVKHpTB5ysP6aL/
-www.myajc.com##.inline-related
-
-! 5/28/2018, 2:29:05 PM https://onemorecupof-coffee.com/can-you-really-make-money-with-the-appnana-app/
-onemorecupof-coffee.com##[href^="https://onemorecupof-coffee.com/mmo"]
-
-! 5/30/2018, 9:41:57 AM http://www.iflscience.com/plants-and-animals/you-have-been-lied-to-about-the-blobfish-this-whole-time/
-www.iflscience.com##.stories-above
-
-! 5/30/2018, 2:17:10 PM https://www.dailyo.in/variety/crpf-martyrs-naxals-chhattisgarh-sukma-attack-mpvs-mine-protected-vehicles-vulnerable/story/1/23128.html
-www.dailyo.in##.twoverlay
-
-! 5/30/2018, 2:17:27 PM https://www.dailyo.in/variety/crpf-martyrs-naxals-chhattisgarh-sukma-attack-mpvs-mine-protected-vehicles-vulnerable/story/1/23128.html
-www.dailyo.in###fixedfooter
-
-! 5/30/2018, 2:19:01 PM https://www.telegraphindia.com/india/fresh-crpf-feet-in-maoist-fight-225865
-www.telegraphindia.com##.more-from-section
-
-! 5/30/2018, 2:19:11 PM https://www.telegraphindia.com/india/fresh-crpf-feet-in-maoist-fight-225865
-www.telegraphindia.com##.trending-story
-
-! 5/30/2018, 7:26:38 PM https://jalopnik.com/5454090/exclusive-jalopnik-audit-of-clunked-exotics-finds-initial-news-reports-false
-jalopnik.com##aside
-
-! 5/30/2018, 7:57:18 PM https://domainnamewire.com/2011/11/01/has-legos-500k-spent-on-urdp-been-a-waste/
-domainnamewire.com##.sidebar-left
-
-! 5/30/2018, 7:59:38 PM https://domainnamewire.com/2018/04/05/gdpr-will-make-domain-name-transfers-more-difficult/
-||domainnamewire.com/wp-content/hexonet.jpg$image
-
-! 5/30/2018, 8:00:06 PM https://domainnamewire.com/2018/04/05/gdpr-will-make-domain-name-transfers-more-difficult/
-domainnamewire.com##.one-half
-
-! 5/30/2018, 8:14:13 PM http://domainincite.com/22502-big-changes-at-domaintools-as-privacy-law-looms
-domainincite.com###sidebar2
-
-! 5/30/2018, 8:14:30 PM http://domainincite.com/22502-big-changes-at-domaintools-as-privacy-law-looms
-domainincite.com###sidebar
-
-gitlab.com###stickybanner
-
-##[href^=https://shopsavvy.com]
-##[class^=shopsavvy]
-##.shopsavvy-header
-##[href^=tomshardware.com]
-tomshardware.com
-##[href^=https://t.co/]
-
-cracked.com
-
-econsultancy.com
