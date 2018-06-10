@@ -1297,6 +1297,7 @@ zootfeed.com
 ##.sharedaddy
 ##.sharetools
 ##.sharetools-menu
+##.shopsavvy-header
 ##.signup.wrapper
 ##.site-content .transporter
 ##.site-ftr__signup
@@ -1360,6 +1361,7 @@ zootfeed.com
 ##[class^=chimpy]
 ##[class^=et_social_]
 ##[class^=Share]
+##[class^=shopsavvy]
 ##[class^=social]
 ##[class^=sponsored]
 ##[class^=subscribe]
@@ -1393,6 +1395,9 @@ zootfeed.com
 ##[href^="https://www.patreon.com"]
 ##[href^="https://www.unix.com/"
 ##[href^="https://www.w3schools.com"]
+##[href^=https://shopsavvy.com]
+##[href^=https://t.co/]
+##[href^=tomshardware.com]
 ##[href="https://www.privateinternetaccess.com/"]
 ##[href$="paypal.me/ameub"]
 ##[href$="saythanks.html"]
@@ -1479,11 +1484,6 @@ zootfeed.com
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
-##.shopsavvy-header
-##[class^=shopsavvy]
-##[href^=https://shopsavvy.com]
-##[href^=https://t.co/]
-##[href^=tomshardware.com]
 
 ! ======== Network filters ========
 /annotations_module.js$script,domain=www.youtube.com
