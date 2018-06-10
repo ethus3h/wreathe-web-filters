@@ -1479,6 +1479,11 @@ zootfeed.com
 ##recirculated-content
 ##relevant-videos
 ##watermark leftwatermark
+##.shopsavvy-header
+##[class^=shopsavvy]
+##[href^=https://shopsavvy.com]
+##[href^=https://t.co/]
+##[href^=tomshardware.com]
 
 ! ======== Network filters ========
 /annotations_module.js$script,domain=www.youtube.com

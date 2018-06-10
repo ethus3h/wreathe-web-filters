@@ -58,8 +58,3 @@
 #@#div#disqus_thread
 #@#div#watch-discussion
 #@#iframe[src*=disqus\\.com\\/embed\\/comments]
-##.shopsavvy-header
-##[class^=shopsavvy]
-##[href^=https://shopsavvy.com]
-##[href^=https://t.co/]
-##[href^=tomshardware.com]
