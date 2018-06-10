@@ -163,8 +163,8 @@ cnnews3.com
 cnnnext.com
 cnsnews.com
 coasttocoastam.com
-coed.com
 codecademy.com
+coed.com
 collective-evolution.com
 collectivelyconscious.net
 comingdepression.com
@@ -348,9 +348,8 @@ flyheight.com
 fmobserver.com
 fognews.ru
 foodbabe.com
-foreignpolicyjournal.com
 forbes.com
-techcrunch.com
+foreignpolicyjournal.com
 fort-russ.com
 fotpforums.com
 fourwinds10.net
@@ -831,6 +830,7 @@ tdtalliance.com
 teaparty.org
 teapartyeconomist.com
 teapartytribune.com
+techcrunch.com
 tellmenow.com
 tenthamendmentcenter.com
 thankswrite.com
