@@ -63,6 +63,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.cookie-consent-alert
 ##.cta_text
 ##.cta-link
+##.deadblocker-header-bar
 ##.disqus-comments
 ##.donate
 ##.dont-miss
@@ -279,6 +280,8 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##[title^=Donate]
 ###ad-mobile-anchored-bottom
 ###adblock-message
+###adbuddy-no-adb-container
+###adbuddy-overlay
 ###amazon-bottom-widget
 ###article_newsletter_signup
 ###article-feed
@@ -302,6 +305,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ###lightbox_overlay
 ###m-inline-newsletter
 ###mailingListPrompt
+###micast_ads
 ###mobile-subscribe-link
 ###mobileDismissCookies
 ###modalfade
@@ -336,11 +340,21 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ###survey-message
 ###the_champ_sharing_more_providers
 ###trending_now
+###WarningCodec
 ###watermark leftwatermark
 ###wb-ad-grid
 ###whats-next
 ###WikiaBar
 ###wpp-2
+##a[href*="emprestimo.eu"]
+##a[href*="googleme.eu"]
+##a[href^="http://action.metaffiliation.com/trk.php?"]
+##a[href^="http://get.d3b3e6340.website/as/clk?id="]
+##a[href^="http://share.payoneer-affiliates.com/a/clk/"]
+##a[href^="http://www.liveadexchanger.com/a/display.php"]
+##a[href^="http://www.yourfilezone.com/play?lng="]
+##a[href^="https://action.metaffiliation.com/trk.php?"]
+##a[href="http://goo.gl/jQ9bcz"]
 ##ad-blocker-modal
 ##div.serp-adv-item
 ##iframe[src^="https://w.graphiq.com/"]

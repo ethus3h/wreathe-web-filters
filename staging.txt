@@ -3,15 +3,15 @@
 ###adbuddy-overlay
 ###micast_ads
 ###WarningCodec
-##A[href*="emprestimo.eu"]
-##A[href*="googleme.eu"]
-##A[href^="http://action.metaffiliation.com/trk.php?"]
-##A[href^="http://get.d3b3e6340.website/as/clk?id="]
-##A[href^="http://share.payoneer-affiliates.com/a/clk/"]
-##A[href^="http://www.liveadexchanger.com/a/display.php"]
-##A[href^="http://www.yourfilezone.com/play?lng="]
-##A[href^="https://action.metaffiliation.com/trk.php?"]
-##A[href="http://goo.gl/jQ9bcz"]
+##a[href*="emprestimo.eu"]
+##a[href*="googleme.eu"]
+##a[href^="http://action.metaffiliation.com/trk.php?"]
+##a[href^="http://get.d3b3e6340.website/as/clk?id="]
+##a[href^="http://share.payoneer-affiliates.com/a/clk/"]
+##a[href^="http://www.liveadexchanger.com/a/display.php"]
+##a[href^="http://www.yourfilezone.com/play?lng="]
+##a[href^="https://action.metaffiliation.com/trk.php?"]
+##a[href="http://goo.gl/jQ9bcz"]
 
 01net.com##.geste
 04stream.com##[id^="adv"]
