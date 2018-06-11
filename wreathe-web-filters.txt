@@ -3194,6 +3194,7 @@ vipbox.online###html3
 vipleague.is,vipleague.ws,vipleague.se,vipleague.tv,vipleague.me,vipleague.mobi,vipleague.co,vipleague.sx,vipleague.ch,vipbox.tv,vipbox.co,vipbox.biz,vipbox.sx,vipbox.eu,vipbox.so,vipbox.nu,vipboxsa.co,strikeout.co,strikeout.me,homerun.re,vipboxtv.co,vipapp.me##script + script + script + style + div[id]
 vipracing.info##.in-video-adds
 vostfr-vf.com##.fixe
+vostfr-vf.com##A[href="/100Mbs.html"]
 wowhq.umbb.net##[href^="http://porreiropa.com/cms/"] > img
 wowhq.umbb.net##IMG[width="160"][height="600"]
 wowhq.umbb.net##IMG[width="970"][height="90"]
