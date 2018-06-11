@@ -857,13 +857,8 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ||zinzimo.info^$domain=pronpic.org
 
 ! ======== Special rules ========
-bloomberg.com*video^
-notalwaysright.com https://www.gstatic.com script block
 * facebook.com * block
 * facebook.net * block
-facebook.com facebook.com * noop
-facebook.com facebook.net * noop
-twitter.com twitter.com * noop
 * googletagservices.com * block
 * taboola.com * block
 * twitter.com * block
@@ -871,9 +866,14 @@ twitter.com twitter.com * noop
 *$media,domain=ign.com
 *$script,domain=last.fm
 *$script,domain=theatlantic.com
-www.*$script,domain=last.fm
+bloomberg.com*video^
 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=$domain=imslp.org,image
 data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOSIgaGVpZ2h0PSIxOCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjM3LjRMOS40MiA1Ljk2IDMuNi40LjU1IDMuMmw1LjgyIDUuNjgtNi4yMyA1Ljk2IDMuMDQgMy4wNCA2LjIzLTYuMSA2LjQgNi4xIDMuMDUtMy4wNC02LjM3LTUuOTYgNS45NS01LjY4TDE1LjM4LjQyeiIvPjwvc3ZnPg==$domain=www.pornhd.com,image
+facebook.com facebook.com * noop
+facebook.com facebook.net * noop
+notalwaysright.com https://www.gstatic.com script block
+twitter.com twitter.com * noop
+www.*$script,domain=last.fm
 
 ! ======== Site-specific cosmetic filter rules ========
 123moviesc.me##[id^=_pn]
