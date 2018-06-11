@@ -244,7 +244,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##[href^="http://action.metaffiliation.com/trk.php?"]
 ##[href^="http://adtrack"]
 ##[href^="http://api.adlure.net/partner/click/"]
-##[href^="http://api.adlure.net/partner/click/"]
 ##[href^="http://downloads.3cx.com/"]
 ##[href^="http://get.d3b3e6340.website/as/clk?id="]
 ##[href^="http://graphicriver.net/"]
