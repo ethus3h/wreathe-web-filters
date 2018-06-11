@@ -791,11 +791,11 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ||yts.am/211.gif$image
 akamaihd.net/*.m3u8$domain=cnet.com
 akamaihd.net/*.ts$domain=cnet.com
-bloomberg.com*video^
-notalwaysright.com https://www.gstatic.com script block
 registry.api.cnn.io/assets/fave/theoplayer
 
 ! ======== Special rules ========
+bloomberg.com*video^
+notalwaysright.com https://www.gstatic.com script block
 * facebook.com * block
 * facebook.net * block
 facebook.com facebook.com * noop
