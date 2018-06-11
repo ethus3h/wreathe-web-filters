@@ -349,7 +349,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##watermark leftwatermark
 
 ! ======== Network filters ========
-/annotations_module.js$script,domain=www.youtube.com
 /aadb/script.js|$script
 /ad-blocking-detector/*
 /adb_detector.
@@ -363,6 +362,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 /adblockdetection.
 /AdblockDetector.js$script
 /AdblockDetector/handler.min.js$script
+/annotations_module.js$script,domain=www.youtube.com
 /anti_ab.
 /anti-ad-buster.js$script
 /anti-block-modal.js$script
@@ -374,6 +374,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 /blockcake.js$script
 /clientscript/vbulletin_userpost_script.js$domain=64.237.43.94|46.166.167.16|semprot.com
 /clientscript/vbulletin_userpost.js$script,domain=64.237.43.94|46.166.167.16|semprot.com
+/endscreen.js$script,domain=www.youtube.com
 /fbox/fb.js$script
 /fbox/fblaunch.js$script
 /fuckadblock.js$script
@@ -405,6 +406,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 /plugins/social-traffic-pop/stp.js$script
 /poptest.js|$popup,domain=thepiratebay.sx|pirateproxy.se|unblocked.co|piratesniper.net|pirateproxy.net|piratebaybyproxy.com|proxybay.eu|tpbunion.com|quluxingba.info|tpb.ducke.co|piratebayunion.com|tpb.piraten.lu|tpb.ipredator.se|tpb.pirati.cz|theproxybay.biz|51tsj.com|bay.alanaktion.net|tpbpirate.tk
 /social-traffic-pop/jquery.stp.js$script
+/watch_autoplayrenderer.js$script,domain=www.youtube.com
 /wp-content/plugins/*/adblock-detector.min.js$script
 /wp-content/plugins/ad-block-defender/*$script
 /wp-content/plugins/ad-blocking-advisor/*$script,stylesheet
@@ -413,8 +415,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 /wp-content/plugins/sorry-adblocker/js/sab.js$script
 /wp-content/themes/rehub/js/adblock_notify.js$script
 /wp-content/uploads/an-temp/*$script,stylesheet
-/endscreen.js$script,domain=www.youtube.com
-/watch_autoplayrenderer.js$script,domain=www.youtube.com
 ||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
 ||*.cloudfront.net^$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
