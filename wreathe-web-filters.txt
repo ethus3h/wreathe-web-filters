@@ -575,7 +575,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ||files.newsinlevels.com/200007297-989489a885/Grammar_banner_NiL.gif$image
 ||filesonthe.net/visitScript/$script,third-party
 ||filesonthe.net/Webservices/jsParseLinks.aspx$script,third-party
-||http://androidhellas.com/*-banner-728x90A.gif
 ||filmiindir.net/wp-content/uploads/2016/08/redred-A1.png$image
 ||flash.banners-service.info^
 ||floozycity.com/ad/$popup
@@ -610,6 +609,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ||hornywood.tv/visitScript/$script,third-party
 ||hornywood.tv/Webservices/jsParseLinks.aspx$script,third-party
 ||howtoremoveadblock.com/js/adblock-detector.js$script
+||http://androidhellas.com/*-banner-728x90A.gif
 ||http://nmd430.sofianaudry.com/wp-content/uploads/sites/2/2018/01/android_2-512-blue.png
 ||hypebot.com/160x400*$image
 ||i.hizliresim.com/0mq938.png
