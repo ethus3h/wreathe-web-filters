@@ -291,9 +291,6 @@ dutertenews.com
 dutertenewswatch.com
 dw-tv3.com
 dyaryo.net
-flickr.com
-tumblr.com
-yahoo.com
 eaglerising.com
 ebolahoax.com
 economicnoise.com
@@ -346,6 +343,7 @@ filmsforaction.org
 financialsurvivalnetwork.com
 firearmscoalition.org
 flashnewscorner.com
+flickr.com
 floridasunpost.com
 flyheight.com
 fmobserver.com
@@ -1002,6 +1000,7 @@ truthnetwork.com
 truthrevolt.org
 truthstreammedia.com
 trutv.com
+tumblr.com
 tunerspeed.com
 turnerradionetwork.com
 tv-bbc.com
@@ -1133,6 +1132,7 @@ wtoe5news.com
 wundergroundmusic.com
 x22report.com
 xolxol.ph
+yahoo.com
 yellowhammernews.com
 yes-64k-notext-uni.ru
 yes-my-lord.com
