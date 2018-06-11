@@ -10,12 +10,6 @@
 100percentfedup.com
 16wmpo.com
 21stcenturywire.com
-lauren.vortex.com
-archive.is
-soundcloud.com
-betaarchive.com
-archive.today
-reddit.com
 24newsflash.com
 24wpn.com
 365usanews.com
@@ -81,6 +75,8 @@ anonnews.co
 anotherdayintheempire.com
 antiwar.com
 antoniusaquinas.wp.com
+archive.is
+archive.today
 aryannationswordwide1488.org
 asia-pacificresearch.com
 asianpolicy.press
@@ -107,6 +103,7 @@ bbc101.co.uk
 bbctimes.com
 beehivebugle.com
 beforeitsnews.com
+betaarchive.com
 betootaadvocate.com
 bients.com
 bigamericannews.com
@@ -243,6 +240,14 @@ dailytelegraph.com.au
 dailyusaupdate.com
 dailywire.com
 damnleaks.com
+dan.cm
+dan.gs
+dan.is
+dan.lc
+dan.me.uk
+dan.tm
+dan.tv
+dan.xxx
 dandygoat.com
 darkmoon.me
 darkpolitricks.com
@@ -485,6 +490,7 @@ ky12news.com
 ladylibertynews.com
 landoverbaptist.org
 lastdeplorables.com
+lauren.vortex.com
 leaknewsph.com
 learnprogress.org
 legorafi.fr
@@ -735,6 +741,7 @@ realplanetnews.com
 realprogress.online
 realtimepolitics.com
 redcountry.us
+reddit.com
 redflagnews.com
 redicecreations.com
 redrocktribune.com
@@ -797,6 +804,7 @@ softwareadvice.com
 solari.com
 sonsoflibertyradio.com
 sott.net
+soundcloud.com
 soup.io
 soupcdn.com
 sourceplanet.net
@@ -1140,14 +1148,6 @@ wundergroundmusic.com
 x22report.com
 xolxol.ph
 yahoo.com
-dan.me.uk
-dan.cm
-dan.tv
-dan.lc
-dan.gs
-dan.tm
-dan.xxx
-dan.is
 yellowhammernews.com
 yes-64k-notext-uni.ru
 yes-my-lord.com
