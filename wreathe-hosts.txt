@@ -6,9 +6,14 @@
 
 ! ======== Web sites to block fully ========
 ! Many are from "False, Misleading, Clickbait-y, and/or Satirical “News” Sources" list by Melissa Zimdars
+! Reasons for including sites: fake news, racist / misogynistic / otherwise hateful, obnoxious click bait, anti-archival, obnoxious advertisements.
 100percentfedup.com
 16wmpo.com
 21stcenturywire.com
+lauren.vortex.com
+archive.is
+archive.today
+reddit.com
 24newsflash.com
 24wpn.com
 365usanews.com
