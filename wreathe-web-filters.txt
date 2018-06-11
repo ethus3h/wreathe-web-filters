@@ -3194,16 +3194,13 @@ vipbox.online###html3
 vipleague.is,vipleague.ws,vipleague.se,vipleague.tv,vipleague.me,vipleague.mobi,vipleague.co,vipleague.sx,vipleague.ch,vipbox.tv,vipbox.co,vipbox.biz,vipbox.sx,vipbox.eu,vipbox.so,vipbox.nu,vipboxsa.co,strikeout.co,strikeout.me,homerun.re,vipboxtv.co,vipapp.me##script + script + script + style + div[id]
 vipracing.info##.in-video-adds
 vostfr-vf.com##.fixe
-vostfr-vf.com##A[href^="http://api.adlure.net/partner/click/"]
-vostfr-vf.com##A[href="/100Mbs.html"]
-wawa-film.org##A[href^="http://api.adlure.net/partner/click/"]
-wowhq.umbb.net##[href^="http://porreiropa.com/cms/"] > IMG
+wowhq.umbb.net##[href^="http://porreiropa.com/cms/"] > img
 wowhq.umbb.net##IMG[width="160"][height="600"]
 wowhq.umbb.net##IMG[width="970"][height="90"]
 wpmienphi.com###d7b2
 xboxforum.pl##.noticeContainer:not(.hidden)
 xxx-image.com###footer > font > b
-xxxdownloadsfree.blogspot.com##DIV[style*="position:fixed;width:100%;top:0px;height:100%;background-color:black;z-index:100;"]
+xxxdownloadsfree.blogspot.com##div[style*="position:fixed;width:100%;top:0px;height:100%;background-color:black;z-index:100;"]
 yad2.co.il###sLightbox_container
 yad2.co.il###sLightbox_overlay
 yafud.pl###adsense_banner_top
@@ -3213,8 +3210,8 @@ yocast.tv###notice
 youmoviz.tv##.plugbarremozi
 z0r.de##.adb
 zerozero.pt###ad_block_msg
-zetorrents.com##A[href^="http://acces.directionplaisir.com/a.php?"]
-zetorrents.com##A[href^="http://www.insta-cash.net/tds/?"]
+zetorrents.com##[href^="http://acces.directionplaisir.com/a.php?"]
+zetorrents.com##[href^="http://www.insta-cash.net/tds/?"]
 zeyutvcanales.com###KBTricksFBpop
 zoomtv.me##[class^="topad"]
 zoomtv.me###membz
