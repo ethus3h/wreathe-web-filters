@@ -14,6 +14,10 @@ slack.com
 twitter.com
 facebook.com
 t.co
+bit.ly
+adf.ly
+is.gd
+ow.ly
 100percentfedup.com
 16wmpo.com
 21stcenturywire.com
