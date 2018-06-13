@@ -10,6 +10,10 @@
 sndcdn.com
 discordapp.com
 discord.gg
+slack.com
+twitter.com
+facebook.com
+t.co
 100percentfedup.com
 16wmpo.com
 21stcenturywire.com
