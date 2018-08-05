@@ -1,0 +1,162 @@
+  File: ./wreathe-hosts.txt\
+
+  Size: 21205     	Blocks: 22         IO Block: 131072 regular file\
+
+Device: 32h/50d	Inode: 10080314    Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-06-12 23:26:01.635700102 -0400\
+
+Modify: 2018-06-12 23:26:01.625700392 -0400\
+
+Change: 2018-06-12 23:26:01.625700392 -0400\
+
+ Birth: -\
+
+
+
+  File: ./CODE_OF_CONDUCT.md\
+
+  Size: 3229      	Blocks: 4          IO Block: 3584   regular file\
+
+Device: 32h/50d	Inode: 6629143     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-02-09 19:40:21.913362788 -0500\
+
+Modify: 2017-10-23 13:38:55.149036028 -0400\
+
+Change: 2017-10-23 13:38:55.149036028 -0400\
+
+ Birth: -\
+
+
+
+  File: ./wreathe-web-filters.txt\
+
+  Size: 146890    	Blocks: 95         IO Block: 131072 regular file\
+
+Device: 32h/50d	Inode: 6629039     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-06-12 23:19:39.988681457 -0400\
+
+Modify: 2018-06-11 19:45:19.703840378 -0400\
+
+Change: 2018-06-11 19:45:19.703840378 -0400\
+
+ Birth: -\
+
+
+
+  File: ./staging.txt\
+
+  Size: 0         	Blocks: 1          IO Block: 131072 regular empty file\
+
+Device: 32h/50d	Inode: 2646819     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-06-11 19:07:52.066046918 -0400\
+
+Modify: 2018-06-11 19:07:52.036031702 -0400\
+
+Change: 2018-06-11 19:07:52.036031702 -0400\
+
+ Birth: -\
+
+
+
+  File: ./CONTRIBUTING.md\
+
+  Size: 356       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 6629144     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-02-09 19:40:21.913362788 -0500\
+
+Modify: 2017-10-23 13:38:55.149036028 -0400\
+
+Change: 2017-10-23 13:38:55.149036028 -0400\
+
+ Birth: -\
+
+
+
+  File: ./LICENSE.md\
+
+  Size: 34280     	Blocks: 24         IO Block: 34304  regular file\
+
+Device: 32h/50d	Inode: 6629145     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-02-09 19:40:21.913362788 -0500\
+
+Modify: 2017-10-23 13:38:55.159036201 -0400\
+
+Change: 2017-10-23 13:38:55.159036201 -0400\
+
+ Birth: -\
+
+
+
+  File: ./wreathe-host-links.txt\
+
+  Size: 183174    	Blocks: 44         IO Block: 131072 regular file\
+
+Device: 32h/50d	Inode: 10080586    Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-06-12 23:19:41.818804493 -0400\
+
+Modify: 2018-06-11 19:45:08.239658998 -0400\
+
+Change: 2018-06-11 19:45:08.239658998 -0400\
+
+ Birth: -\
+
+
+
+  File: ./README.md\
+
+  Size: 319       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 6629146     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-07-07 00:20:23.318076679 -0400\
+
+Modify: 2017-10-23 13:39:15.399393829 -0400\
+
+Change: 2017-10-23 13:39:15.399393829 -0400\
+
+ Birth: -\
+
+
+
+  File: ./.git\
+
+  Size: 80        	Blocks: 1          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 6628837     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:39:55.135103524 -0400\
+
+Modify: 2017-10-23 13:37:51.698027128 -0400\
+
+Change: 2017-10-23 13:37:51.698027128 -0400\
+
+ Birth: -\
+
+
+
