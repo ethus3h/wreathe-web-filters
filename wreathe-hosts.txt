@@ -6,7 +6,7 @@
 
 ! ======== Web sites to block fully ========
 ! Many are from "False, Misleading, Clickbait-y, and/or Satirical “News” Sources" list by Melissa Zimdars
-! Reasons for including sites: fake news, racist / misogynistic / otherwise hateful, obnoxious click bait, anti-archival, obnoxious advertisements.
+! Reasons for including sites: fake news, racist / misogynistic / otherwise hateful, obnoxious click bait, anti-archival, obnoxious advertisements, paywall, etc.
 sndcdn.com
 discordapp.com
 discord.gg
