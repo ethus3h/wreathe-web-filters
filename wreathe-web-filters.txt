@@ -924,6 +924,7 @@ www.*$script,domain=last.fm
 
 ! ======== Site-specific cosmetic filter rules ========
 0123movies.org##[href^="//"]
+0123movieshd.com##.dsModal
 01net.com##.geste
 04stream.com##[id^="adv"]
 04stream.com##[id^="closediv"]
@@ -988,6 +989,7 @@ alientube.co###adblockContainer
 aliez.tv,aliez.me###adbtm
 aliez.tv,aliez.me###ads
 aljazeera.com###article-header-wrapper
+allposters.com###lightbox-body-container
 allrecipes.com##.lo-smu-container
 alluc.ee###aovl
 alternativeto.net##.cuuummmonnnn
@@ -1003,6 +1005,7 @@ amazon.com###sc-new-upsell
 amazon.com###sidebar
 amazon.com##.a-carousel
 amazon.com##[href^="http://aax-us-east.amazon-adsystem.com/"]
+amazon.com##[href^="https://www.amazon.com/cr/forteens"]
 amazon.com##[href^='/gp/slredirect/picassoRedirect.html']
 ana1.me##.videopos
 andrewmunsell.com###pm_featurebox
@@ -1095,6 +1098,11 @@ azulyblanco.co###vlay
 bangordailynews.com###bottomRefers
 bangordailynews.com###recirculator
 bangordailynews.com##.sidebar-widget
+bbc.co.uk###bbc-news-services
+bbc.co.uk###comp-elsewhere-on-the-bbc
+bbc.co.uk###comp-features-and-analysis
+bbc.co.uk###comp-pattern-library
+bbc.co.uk##.page__foot
 bbc.com###comp-pattern-library
 bbc.com###media-player-1 > div > div
 bbc.com###share-tools-top
@@ -1142,7 +1150,10 @@ bilgiustam.com###left_ad
 bilgiustam.com###widget_text:nth-of-type(1) > .textwidget
 bilgiustam.com##.copyrights
 bilgiustam.com##footer
+billboard.com##.floating
+billboard.com##.js-floater
 billboard.com##.pushdown-promo
+billboard.com##.sticky-wrapper
 binsearch.info##.mt > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2)
 bitbucket.org###signup-banner
 bitchmedia.org###cboxContent
@@ -1229,7 +1240,9 @@ btcmanager.com##.telegram_link
 btdb.in##.friend-links
 bts.to##.dl_blue[href^="/goto_.php?url="]
 btvsports.com###ai_tapar
+businessinsider.com##.brands
 businessinsider.com##.main-rail
+businessinsider.com##.post-content h2
 businessinsider.com##.recommended
 businessinsider.com##.see-also
 businessinsider.com##.slide-share-button
@@ -1245,6 +1258,7 @@ cast4u.tv###notice
 cast4u.tv###video_ads_overdiv
 cbox.ws##[href="http://fixolas.net/"] > IMG
 cbox.ws##[href^="http://secretstory24h.com/cms/"] > IMG
+cbsnews.com###article-entry ul
 ccmixter.org###sharecommand
 cdn.tiv.pw###Advertisement1
 cdn.tiv.pw##.drt
@@ -1400,6 +1414,7 @@ cracked.com
 cracked.com##[href^="http://society6.com"]
 creativeuncut.com###g_abox
 crichd.tv###notice
+crunchyroll.com##[href="http://www.adobe.com/go/getflashplayer"]
 cse.google.com###gbq2
 cssminifier.com##p
 cultivatedculture.com##blockquote
@@ -1477,6 +1492,7 @@ deadline.com##.related-article
 deadline.com##.textwidget:has([href="http://pages.email.deadline.com/signup"])
 deadline.com##[id^=adm-inline-article-ad]
 deadspin.com##.sidebar
+dedoimedo.com##.divtable11_spec
 dedoimedo.com##.post_article_box
 degruyter.com##.european-union-cookies-agreement
 deleted.io###donate-bar
@@ -1508,10 +1524,12 @@ designmom.com##.column2
 devcentral.f5.com##.externalLink
 developer.android.com##.dac-footer-social
 developer.mozilla.org##.notification-tray > .question.info.notification
+deviantart.com###aboutme-prompt-pill
 deviantart.com###block-notice
 deviantart.com###oh-menu-shop
 deviantart.com###oh-menu-upgrade
 deviantart.com###submit_as_print
+deviantart.com##.catbar li.tab:nth-of-type(3)
 deviantart.com##.dev-meta-producttabs
 deviantart.com##.dev-right-bar-title
 deviantart.com##.deviation-mlt-preview-b
@@ -1521,6 +1539,7 @@ deviantart.com##.group_featured_list
 deviantart.com##.mcbox-hottopics
 deviantart.com##.more-from-collection-preview
 deviantart.com##.new-set-button
+deviantart.com##.popup2-bluesbar
 deviantart.com##.premium.user-symbol
 deviantart.com##.smbutton-textonly.smbutton:nth-of-type(2)
 deviantart.com##.stash-create
@@ -1614,9 +1633,11 @@ duckduckgo.com###links > .result--ad--double.result--ad.results_links_deep.resul
 e.issuu.com###branding
 e.issuu.com##.controls__read-on-issuu
 e.issuu.com##.header-controls__items
+easybib.com###easy-widget
 easypxy.com###include
 ebags.com##.in.fade.modal-backdrop
 ebay.com##.nojs
+ebony.com##.giphy-embed
 ecchi.animeron.tv###confirmBox
 ecchi.animeron.tv###confirmOverlay
 economictimes.indiatimes.com###pushSec
@@ -1650,6 +1671,7 @@ ello.co##.Modal
 ello.co##.NavbarLink:nth-of-type(1)
 ello.co##.isSignUp
 embeducaster.com###impo_overlay
+emeditor.com##.iconbox_content
 emkei.cz###panel
 emkei.cz##.sbold.tacenter.support
 emojidex.com###emojidex-header
@@ -1688,6 +1710,10 @@ fafsa.ed.gov##[href^="http://www.adobe.com/products/reader.html"]
 fanfiktion.de###ad-leaderboard-inner
 fastcodesign.com##.page-header
 fastcodesign.com##.post-page > div:not(:nth-of-type(1))
+fastcompany.com##.video-module
+fastcompany.com##[href^="https://www.fastcompany.com/"]
+fastly.com##.cards
+fastly.com##.header--main
 feministfrequency.com##.footer-support
 fenopy.se##[rel="nofollow external"][href^="/ddl/"]
 fgames.pw###html3
@@ -1765,6 +1791,7 @@ futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(2) 
 futuramerlin.com##.bugnote-public > .small:nth-of-type(1) > form:nth-of-type(3) > .button-small
 futuramerlin.com##[href="http://www.mantisbt.org"]
 fz.se###AdBlockerInfo
+g2crowd.com##.chat-button
 gaara-fr.com###ga-skin-left
 gaara-fr.com###ga-skin-right
 gaara-fr.com###pub01
@@ -1849,20 +1876,31 @@ godt.no##.adblock-info
 goldendict.org###content > .post:nth-of-type(3)
 goldendict.org###x_help
 goodcast.co.uk##[style="position: absolute; top: 100px; left: 160px; z-index: 1000;"]
+google.com###ataw
 google.com###fbar > .fbar
 google.com###gbw > div > .gb_T.gb_5e.gb_R.gb_6e.gb_bb > .gb_R.gb_6e.gb_cc > .gb_g.gb_vc.gb_Od.gb_4c > .gb_g.gb_ga
 google.com###gbw > div > .gb_T.gb_gf.gb_R.gb_hf.gb_cb > .gb_R.gb_hf.gb_dc > .gb_g.gb_wc.gb_yc.gb_xc > .gb_g.gb_ga
 google.com###logocont
+google.com###searchform
+google.com###sfcnt
+google.com###top_nav
 google.com##.gb_Uc
+google.com##.gb_aa
+google.com##.sfbgx
 gotenna.com###welcomePopUp
 gq.com##.cm-mobile-header-text-failsafe
 gq.com##.component-logo
+greatbigstory.com##.main-footer-wrapper
+greatbigstory.com##.playlist-container
+greatbigstory.com##div.dark-element .playlist-container
 grimtech.net###sidebar
 gry.pl##.adblock
 gyazo.com##.btn-download
 gyazo.com##.header-block
 hackernoon.com##.butterBar
 hackernoon.com##.u-boxShadowTop
+hackerrank.com##.fab-popup-handle
+hackerrank.com##.modal-wrapper
 hackintosh.computer###googleads
 hackintosh.computer##.adscenter
 hackintosh.zone###elGuestTerms
@@ -1890,6 +1928,7 @@ hollywoodlife.com##.jw-rightclick
 hollywoodreporter.com##.blog-post:not(:first-of-type)
 hongkiat.com##.is-sticky--pinned
 hongkiat.com##[id^=single-post]:not(:first-of-type)
+htbridge.com##.static-buttons-block
 http://adexc.net
 http://cdn.sailfish.media/lb/*.png
 http://onclickads.net
@@ -1976,12 +2015,15 @@ imdb.com###facebook-signin-link
 imdb.com###front-row-video
 imdb.com###front_row_widget
 imdb.com###navProMenu
+imdb.com###wrapper > img
 imdb.com##.ab_facebook
 imdb.com##.ab_ninja
 imdb.com##.ab_twitter
 imdb.com##.heroWidget
 imdb.com##.showtimesMessagingWidget
 imdb.com##.watchbar2
+imdb.com##.wtw-option-standalone
+imdb.com##[id^=floater_]
 img2share.com##body > div:nth-of-type(5) > div
 img2share.com##body > div:nth-of-type(5) > div:nth-of-type(2)
 img2share.com##body > div:nth-of-type(6)
@@ -2007,6 +2049,7 @@ imslp.org##.imslpd_purchase
 imslp.org##[href="#tabNaxos"]
 independent.co.uk###most-popular-mobile
 independent.co.uk##.video-playlist
+infoworld.com##aside.fakesidebar
 instagram.com##._2pnef._cqw45
 instantmanga.com###notice
 inwestycje.pl###show-message
@@ -2014,8 +2057,11 @@ io9.gizmodo.com##aside
 iphones.ru##DIV[style="background-color: rgb(222, 71, 0); margin-bottom: 20px; padding: 60px 0px;"]
 irishmirror.ie##.channel-showbiz .tab-triggers
 isearchfiles.com,filescroptube.com##A[href^="http://66.55.151.22/download.php?ref="]
+itnewsafrica.com###simplemodal-container
+itnewsafrica.com###simplemodal-overlay
 itsupportguides.com##.adblock_wrapper
 itunes.apple.com###itunes-detector
+itworld.com##[href^="https://www.pluralsight.com/"]
 j-14.com###age-gate-form
 jalopnik.com##.lazyloaded
 jalopnik.com##aside
@@ -2148,9 +2194,13 @@ limitsizamca.org###right-sidebar > .side-block:nth-of-type(4)
 limitsizamca.org###right-sidebar > .side-block:nth-of-type(4) > .block-content
 limitsizamca.org###right-sidebar > b > .side-block:nth-of-type(4)
 limitsizamca.org##body > .clr:nth-of-type(1) > .foot-left
+link-assistant.com##.mobile-share-buttons
+link-assistant.com##.static-menu
 linkedin.com##.guest-view
 linux.org###content > .pageWidth > .pageContent > div:nth-of-type(2) > [href="https://m.do.co/c/10b82948a627"]
 linux.org##[href="https://m.do.co/c/10b82948a627"]
+linuxforums.org###navbar_notice_3
+linuxforums.org##td > div
 linuxreviews.org##table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > table:nth-of-type(4)
 live.gtcaster.com###bbb
 live.gtcaster.com##[id^="adc"]
@@ -2212,6 +2262,10 @@ mediafire.com##.dlInfo-Sidebar
 mediafire.com##.dlInfo-Speed
 mediafire.com##.dlPromo1Content.dlPromoContent[href=\"/upgrade/\"]
 mediafire.com##.dlPromoContent.dlPromo1Content
+medicalnewstoday.com###navigation
+medicalnewstoday.com###navigation_scroll
+medicalnewstoday.com###subnavigation
+medicalnewstoday.com##.related_inline
 medicinenet.com##.avgrund-overlay
 medicinenet.com##.owl-carousel
 medium.com##.butterBar
@@ -2265,6 +2319,8 @@ mix.dj###maskads
 mix.dj##.classAds
 mocospace.com###dialog-adblocker
 mocospace.com##.jqmOverlay
+modtitan.com##.related-posts
+modtitan.com##.sidebar-wrapper
 momodeli.com###swnza_banner_id
 mondebrideur.com##.plugbarremozi
 money.cnn.com###smartassetcontainer
@@ -2314,6 +2370,7 @@ naekranie.pl###niceMessage
 nakedsecurity.sophos.com##.sophos_widget_ad
 nbc.com##.video-player__overlay.video-player__overlay--mute
 nbc.com##.video-player__overlay.video-player__overlay--pause
+nbcnews.com##[class^="related___"]
 nesthq.com##.logo
 nesthq.com##.music-player-container
 nesthq.com##.no-margin.button-back
@@ -2330,6 +2387,12 @@ news.com.au##.rhc-stick
 news.com.au##.sticky-show
 news.softpedia.com###wrapper > .main > .container_48 > .nwclslong.grid_48.nwclassic.dlclassic:nth-of-type(9) > .fr.grid_15.info > ul
 newscientist.com##.box-out
+newser.com###YouMightLike
+newser.com###carousel_StoryInSection2
+newser.com###divNextStoryHeadline
+newser.com###divRightRail
+newser.com###divSocialAndCommentsButtonsBottom
+newser.com###divSocialAndCommentsButtonsTop
 newsinlevels.com###sidebarContent > .rbcWidgetArea:nth-of-type(6) > div > div
 newsweek.com##.trial-link
 newsy.com##.sponsored
@@ -2374,6 +2437,7 @@ nngroup.com##[href^="https://www.nngroup.com/courses/"]
 noisey.vice.com##.recommended-articles-wrap
 nolanlawson.com###actionbar
 nolanlawson.com##.actnbr-btn
+nolo.com###nolopath-insert
 notalwaysright.com###main_content > .row > .span8 > .container_content > .featured_wrapper
 notalwaysright.com###meta_comments_wrapper
 notalwaysright.com###narstore_hamburgerbadge_mobile
@@ -2397,6 +2461,7 @@ nsaneforums.com##.ipsFaded_withHover.ipsBreadcrumb_bottom.ipsBreadcrumb
 nsaneforums.com##.ipsFaded_withHover.ipsBreadcrumb_top.ipsBreadcrumb
 numberone.com.tr###sb-player
 numberone.com.tr##.right.listen-live > a > .cta.small-8
+nydailynews.com##.slider
 nymag.com##.latest-news
 nypost.com###nav-wrapper
 nypost.com##.alignleft
@@ -2404,9 +2469,15 @@ nytimes.com###login-modal
 nytimes.com###related-coverage
 nytimes.com###site-index
 nytimes.com###whats-next
+nytimes.com##.bottom-of-article
+nytimes.com##.hasLinks
 nytimes.com##.login-button
 nytimes.com##.login-modal-trigger
+nytimes.com##.shown
+nytimes.com##[class^=InlineMessage]
+nytimes.com##[class^=RelatedCoverage]
 nytimes.com##[class^=Ribbon]
+nytimes.com##li
 nytimes.com##strong
 nzherald.co.nz
 nzherald.co.nz###breaking-alert
@@ -2445,6 +2516,7 @@ onedio.com##.o-ftr
 onemorecupof-coffee.com##[href^="https://onemorecupof-coffee.com/mmo"]
 online.dramacafe.in##.pm-ad-zone
 online.dramacafe.in##BODY > DIV[style^="background-color: rgb(251, 236, 173); position: fixed;"]
+online.net##.Footer__love
 opb.org###persistent-content
 opb.org##.article-read-more
 opb.org##.tab-bar
@@ -2453,6 +2525,7 @@ opensource.org###popup-announcement-overlay
 opensource.org###popup-announcement-wrap
 opensource.org##.region-header.region
 oregonlive.com###newsletter_promo
+orkin.com###ciq_bbb_fixed_badge
 osx86.net##.ipsDataItem_main
 otakuplan.com###shopify-section-header
 otakuplan.com###someone-purchased
@@ -2464,6 +2537,7 @@ pastebin.com###notice
 pastebin.com##.promo-bar
 pastemagazine.com##.article-shares-links
 pastemagazine.com##.master-header
+paulgraham.com##[href="http://ycombinator.com/apply.html"]
 pcgamesn.com###header-share
 pcgamesn.com###main_user_block
 pcgamesn.com##.comment-form-author [href]
@@ -2522,6 +2596,7 @@ ponlatv.com###divPanel
 ponlatv.com##[id^="total"]
 popeoftheplayers.eu###html4
 popeoftheplayers.eu###mask1
+popsci.com##.bottom-wrapper
 popsci.com.tr###footer
 poringapic.com##IMG[src^="http://poringapic.com/image.php?"]
 porn-blog.me###dbx_light
@@ -2623,6 +2698,7 @@ rapid8.com##.backk
 rapidgator.net##[href="https://datadownloader.net"]
 rarbg.com##A[href^="/w_d_adpub.php?id="]
 ratemyprofessors.com##.promotion
+readfileonline.com##form
 readms.com###reader-sky
 readms.com##.message-ld.pull-right
 readwrite.com###featured-hero-sidebar
@@ -2636,6 +2712,7 @@ recode.net##.c-related-list
 recode.net##.tab-bar-fixed
 record.xl.pt###BannerINQ
 record.xl.pt##A[href^="http://partner.sbaffiliates.com/"]
+reddit.com###SHORTCUT_FOCUSABLE_DIV > div > div:nth-of-type(1)
 reddit.com##.commentarea .spacer #siteTable
 reddit.com##.commentsignupbar
 reddit.com##.create.sidebox > .spacer
@@ -2668,6 +2745,11 @@ romulation.net##DIV[style="background-color: #CC4444; color: #fff; padding:10px;
 rychlost.cz###cpcbsd9z1
 s.m2pub.com###adk2_img
 safaribooksonline.com##[class*=cta]
+salon.com###salontv-header
+salon.com##.brightcom-widget
+salon.com##.d-lg-none
+salon.com##.gpt_in_article
+salon.com##.jwplayer
 samethattune.com###sidebar
 samethattune.com##[href^="http://click.linksynergy.com/"]
 savefile.co###lang
@@ -2689,6 +2771,10 @@ savefile.co##TBODY
 savefile.co##TD
 scan-manga.com###pub_f0
 scigacz.pl###adv_750
+scmagazine.com###main-header-navigation
+scmagazine.com##.multiple-column-asset
+scoringnotes.com##.footer-enjoy
+scoringnotes.com##.related-posts
 scotch.io##.sign-up
 scotch.io##.sppre_ticker
 screenrant.com##.article:not(:nth-of-type(1))
@@ -2848,6 +2934,9 @@ solidfiles.com##.navbar.navbar-site.navbar-fixed-top
 solidfiles.com##.remove
 solidfiles.com##.twitter-follow-button
 somersetcountygazette.co.uk##.ad-blocker-warning
+somethingawful.com##.article_nav
+somethingawful.com##.recent_articles
+somethingawful.com##.right
 sometimes-interesting.com##.td_block_related_posts
 sometimes-interesting.com##footer
 sordum.net###header-widget-container
@@ -2973,6 +3062,7 @@ stuff.co.nz##[class^="sir-component__ad-space"]
 stylecaster.com##.scpin-wrapper
 stylecaster.com##.sp_button-wrap
 stylecaster.com##.sp_right
+sun-sentinel.com##.trb_nh
 superuser.com###footer
 superuser.com###left-sidebar
 superuser.com###post-form
@@ -3038,9 +3128,13 @@ techradar.com###sidebar
 techradar.com##.gallery-image:style(display: block !important)
 techradar.com##.gallery-text > div
 techradar.com##.hawk-multi-model-review-container
+techradar.com##.jw-carousel
 techradar.com##.media-list
+techradar.com##.read-more-container
+techradar.com##.related-articles-block
 techradar.com##[href^="http://www.techradar.com/"]
 techradar.com##[href^="https://www.myfavouritemagazines.co.uk/"]
+techwalla.com###jwplayer-section
 tecmint.com###dgd_scrollbox-11027
 tecmint.com###page > .container-inner > .main > .group.main-inner > .content > .group.pad:nth-of-type(2) > .after-post-box
 tecmint.com###quickiebarpro
@@ -3049,11 +3143,14 @@ tecmint.com##.one-fourth.grid
 tecmint.com##[id^="dgd_scrollbox-"]
 teledeporteonline.pw###divPanel
 teledeporteonline.pw##[id^="total"]
+telegraph.co.uk###tmg-related-links
 telegraph.co.uk##.article__breadcrumb
 telegraph.co.uk##.article__related
 telegraph.co.uk##.container-fluid
 telegraph.co.uk##.header-headline-wrapper
 telegraph.co.uk##.header-top-wrapper
+telegraph.co.uk##.oneSixth
+telegraph.co.uk##.oneThird
 telegraph.co.uk##.premium-paywall
 telegraphindia.com##.more-from-section
 telegraphindia.com##.trending-story
@@ -3175,6 +3272,7 @@ tomshardware.com
 tomshardware.com###in_article
 tomshardware.com##[href^="http://www.tomshardware.com"]
 toolslib.net##.panel.panel-default > .panel-body > .center-table.block-3x2
+tor.com##[href^="http://www.amazon.com/"]
 torrent-finder.info###addon_info
 torrent-francais.com##A[onclick^="this.href='http://www.FriendlyDuck.com/AF_TA/rel/"]
 torrent-tv.ru##.page > .right-side > .section + .section + .section
@@ -3207,6 +3305,7 @@ tribuneindia.com##[href^="https://www.facebook.com/The-Tribune-798949453521526/"
 trovesaurus.com###blocked
 troyhunt.com###floating_subscribe
 troyhunt.com##[href^="https://www.troyhunt.com/sponsorship/"]
+trustedreviews.com###header
 trustmeimascientist.com###text-2
 tugastream.com###closediv
 tugastream.com##IMG[src="http://i39.tinypic.com/sobxg2.gif"]
@@ -3276,6 +3375,8 @@ tv.tugastvs.com###adtugas2
 tv.tugastvs.com###adtugas3
 tv21.org##.idmuvi-social-share
 tv21.org##img[src^="https://www.tv21.org/"]
+tvaddons.co###td-header-menu
+tvaddons.co##.td-header-menu-wrap
 tvdez.com,casadossegredos.tv,estadiofutebol.com,televisaofutebol.com##DIV[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
 tvfree.me,mytvfree.me,mytvfree2.me,mytvfree3.me,mytvfree4.me##[id^="template"]
 tvfree2.me###adn1
@@ -3429,7 +3530,9 @@ vimeo.com##.topnav_is_ondemand
 vipbox.online###html3
 vipleague.is,vipleague.ws,vipleague.se,vipleague.tv,vipleague.me,vipleague.mobi,vipleague.co,vipleague.sx,vipleague.ch,vipbox.tv,vipbox.co,vipbox.biz,vipbox.sx,vipbox.eu,vipbox.so,vipbox.nu,vipboxsa.co,strikeout.co,strikeout.me,homerun.re,vipboxtv.co,vipapp.me##script + script + script + style + div[id]
 vipracing.info##.in-video-adds
+virginislandsdailynews.com##.hidden-print
 viva64.com##.search-banner.row
+vmwareandme.com###Moontricksstylepopupdiv
 vostfr-vf.com##.fixe
 vostfr-vf.com##A[href="/100Mbs.html"]
 vp.nyt.com
@@ -3447,6 +3550,7 @@ wabi.tv###prevNext
 wabi.tv###socialIcons
 wabi.tv##[id^=circularhub]
 wabi.tv##article > div > aside
+walldevil.com##.adb
 washingtonpost.com###comment_link_button_wrapper
 washingtonpost.com##.daily202-newsletter
 washingtonpost.com##.extra
@@ -3458,6 +3562,8 @@ washingtontimes.com###secondary
 washingtontimes.com##.breaking-news
 washingtontimes.com##.expand
 washingtontimes.com##.jcarousel
+wbur.org##.global-audio-components
+wbur.org##span > .section--island
 webcache.googleusercontent.com###funbar
 wegotthiscovered.com###sidebar
 wegotthiscovered.com###vuukle-comments
@@ -3497,6 +3603,7 @@ wired.com##.header
 wired.com##.header__nav--links
 wired.com##.inset-left-component
 wired.com##.panel--nav
+wired.com##.paywall-container-component
 wired.com##.related-cne-video-component
 wired.com##.social-share-sidebar-component__content
 wired.com##.tags-component
@@ -3546,6 +3653,7 @@ wpmienphi.com###d7b2
 wsj.com###cx-snippetad
 wsj.com##.carousel-container
 wsj.com##.evernote-clip-button
+wsj.com##.wrap
 wsj.com##.wsj-snippet-login
 wsj.com##.wsj-snippet-related-video-wrap
 wsj.com##[class^=style__share]
@@ -3555,122 +3663,6 @@ ww.turkleech.com##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(7)
 ww5.cartooncrazy.net##[href^="https://www.cloudflare.com/5xx-error-landing"]
 www-01.ibm.com###ibm-overlay-backdrop
 www-01.ibm.com##[id^=ibm-overlaywidget]
-0123movieshd.com##.dsModal
-allposters.com###lightbox-body-container
-amazon.com##[href^="https://www.amazon.com/cr/forteens"]
-bbc.co.uk###bbc-news-services
-bbc.co.uk###comp-elsewhere-on-the-bbc
-bbc.co.uk###comp-features-and-analysis
-bbc.co.uk###comp-pattern-library
-bbc.co.uk##.page__foot
-billboard.com##.floating
-billboard.com##.js-floater
-billboard.com##.sticky-wrapper
-businessinsider.com##.brands
-businessinsider.com##.post-content h2
-cbsnews.com###article-entry ul
-crunchyroll.com##[href="http://www.adobe.com/go/getflashplayer"]
-dedoimedo.com##.divtable11_spec
-deviantart.com###aboutme-prompt-pill
-deviantart.com##.catbar li.tab:nth-of-type(3)
-deviantart.com##.popup2-bluesbar
-easybib.com###easy-widget
-ebony.com##.giphy-embed
-emeditor.com##.iconbox_content
-fastcompany.com##.video-module
-fastcompany.com##[href^="https://www.fastcompany.com/"]
-fastly.com##.cards
-fastly.com##.header--main
-g2crowd.com##.chat-button
-google.com###ataw
-google.com###searchform
-google.com###sfcnt
-google.com###top_nav
-google.com##.gb_aa
-google.com##.sfbgx
-greatbigstory.com##.main-footer-wrapper
-greatbigstory.com##.playlist-container
-greatbigstory.com##div.dark-element .playlist-container
-hackerrank.com##.fab-popup-handle
-hackerrank.com##.modal-wrapper
-htbridge.com##.static-buttons-block
-imdb.com###wrapper > img
-imdb.com##.wtw-option-standalone
-imdb.com##[id^=floater_]
-infoworld.com##aside.fakesidebar
-itnewsafrica.com###simplemodal-container
-itnewsafrica.com###simplemodal-overlay
-itworld.com##[href^="https://www.pluralsight.com/"]
-link-assistant.com##.mobile-share-buttons
-link-assistant.com##.static-menu
-linuxforums.org###navbar_notice_3
-linuxforums.org##td > div
-medicalnewstoday.com###navigation
-medicalnewstoday.com###navigation_scroll
-medicalnewstoday.com###subnavigation
-medicalnewstoday.com##.related_inline
-modtitan.com##.related-posts
-modtitan.com##.sidebar-wrapper
-nbcnews.com##[class^="related___"]
-newser.com###YouMightLike
-newser.com###carousel_StoryInSection2
-newser.com###divNextStoryHeadline
-newser.com###divRightRail
-newser.com###divSocialAndCommentsButtonsBottom
-newser.com###divSocialAndCommentsButtonsTop
-nolo.com###nolopath-insert
-nydailynews.com##.slider
-nytimes.com##.bottom-of-article
-nytimes.com##.hasLinks
-nytimes.com##.shown
-nytimes.com##[class^=InlineMessage]
-nytimes.com##[class^=RelatedCoverage]
-nytimes.com##li
-online.net##.Footer__love
-orkin.com###ciq_bbb_fixed_badge
-paulgraham.com##[href="http://ycombinator.com/apply.html"]
-popsci.com##.bottom-wrapper
-readfileonline.com##form
-reddit.com###SHORTCUT_FOCUSABLE_DIV > div > div:nth-of-type(1)
-salon.com###salontv-header
-salon.com##.brightcom-widget
-salon.com##.d-lg-none
-salon.com##.gpt_in_article
-salon.com##.jwplayer
-scmagazine.com###main-header-navigation
-scmagazine.com##.multiple-column-asset
-scoringnotes.com##.footer-enjoy
-scoringnotes.com##.related-posts
-somethingawful.com##.article_nav
-somethingawful.com##.recent_articles
-somethingawful.com##.right
-sun-sentinel.com##.trb_nh
-techradar.com##.jw-carousel
-techradar.com##.read-more-container
-techradar.com##.related-articles-block
-techwalla.com###jwplayer-section
-telegraph.co.uk###tmg-related-links
-telegraph.co.uk##.oneSixth
-telegraph.co.uk##.oneThird
-tor.com##[href^="http://www.amazon.com/"]
-trustedreviews.com###header
-tvaddons.co###td-header-menu
-tvaddons.co##.td-header-menu-wrap
-virginislandsdailynews.com##.hidden-print
-vmwareandme.com###Moontricksstylepopupdiv
-walldevil.com##.adb
-wbur.org##.global-audio-components
-wbur.org##span > .section--island
-wired.com##.paywall-container-component
-wsj.com##.wrap
-youtube.com###menu-container
-youtube.com###merch-shelf
-youtube.com###sponsor-button
-youtube.com##.notification-button-style-type-conversation-default
-youtube.com##.notification-button-style-type-default
-youtube.com##.ytd-mini-channel-renderer
-youtube.com##.ytd-page-manager[page-subtype="home"]
-zdnet.com##[href^="https://www.zdnet.com/article/"]
 www2.0123movies.org##[href^="//"]
 xboxforum.pl##.noticeContainer:not(.hidden)
 xul.fr##.cc-banner
@@ -3707,7 +3699,10 @@ youtube.com###creator.yt-live-chat-message-input-renderer
 youtube.com###feed-main-what_to_watch
 youtube.com###feed-pyv-container
 youtube.com###masthead-positioner-height-offset
+youtube.com###menu-container
+youtube.com###merch-shelf
 youtube.com###related
+youtube.com###sponsor-button
 youtube.com###unlimited-guide-item
 youtube.com###watch-discussion
 youtube.com###watch-related
@@ -3716,6 +3711,8 @@ youtube.com##._Notific890793ation_Small
 youtube.com##.branded-page-related-channels
 youtube.com##.branded-page-related-channels-list
 youtube.com##.generic-promo-impression-logging
+youtube.com##.notification-button-style-type-conversation-default
+youtube.com##.notification-button-style-type-default
 youtube.com##.videoblocker
 youtube.com##.videoblocker-container
 youtube.com##.watch-sidebar
@@ -3723,6 +3720,8 @@ youtube.com##.ytd-compact-autoplay-renderer .paper-toggle-button
 youtube.com##.ytd-grid-video-renderer:has(.badge-style-type-red)
 youtube.com##.ytd-grid-video-renderer:has([href*="/user/rhettandlink"])
 youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
+youtube.com##.ytd-mini-channel-renderer
+youtube.com##.ytd-page-manager[page-subtype="home"]
 youtube.com##.ytd-single-option-survey-renderer
 youtube.com##.ytd-watch-next-secondary-results-renderer
 youtube.com##.ytp-cards-button
@@ -3749,6 +3748,7 @@ z0r.de##.adb
 zamunda.net##.iframe:nth-of-type(3)
 zdnet.com##.relatedContent
 zdnet.com##.shareBar
+zdnet.com##[href^="https://www.zdnet.com/article/"]
 zdnet.com##[id^=lightbox]
 zerozero.pt###ad_block_msg
 zetorrents.com##[href^="http://acces.directionplaisir.com/a.php?"]
