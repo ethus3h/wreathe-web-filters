@@ -60,6 +60,11 @@
 ##[href^="http://www.8ch.net"]
 ##[href^="https://www.8ch.net"]
 
+##[href^="http://9news.com"]
+##[href^="https://9news.com"]
+##[href^="http://www.9news.com"]
+##[href^="https://www.9news.com"]
+
 ##[href^="http://aanirfan.blogspot.co.uk"]
 ##[href^="https://aanirfan.blogspot.co.uk"]
 ##[href^="http://www.aanirfan.blogspot.co.uk"]
@@ -134,6 +139,11 @@
 ##[href^="https://addictinginfo.org"]
 ##[href^="http://www.addictinginfo.org"]
 ##[href^="https://www.addictinginfo.org"]
+
+##[href^="http://adf.ly"]
+##[href^="https://adf.ly"]
+##[href^="http://www.adf.ly"]
+##[href^="https://www.adf.ly"]
 
 ##[href^="http://adflegal.org"]
 ##[href^="https://adflegal.org"]
@@ -309,6 +319,11 @@
 ##[href^="https://angrypatriotmovement.com"]
 ##[href^="http://www.angrypatriotmovement.com"]
 ##[href^="https://www.angrypatriotmovement.com"]
+
+##[href^="http://anidb.net"]
+##[href^="https://anidb.net"]
+##[href^="http://www.anidb.net"]
+##[href^="https://www.anidb.net"]
 
 ##[href^="http://anonews.co"]
 ##[href^="https://anonews.co"]
@@ -540,6 +555,11 @@
 ##[href^="http://www.bipartisanreport.com"]
 ##[href^="https://www.bipartisanreport.com"]
 
+##[href^="http://bit.ly"]
+##[href^="https://bit.ly"]
+##[href^="http://www.bit.ly"]
+##[href^="https://www.bit.ly"]
+
 ##[href^="http://bizpacreview.com"]
 ##[href^="https://bizpacreview.com"]
 ##[href^="http://www.bizpacreview.com"]
@@ -564,6 +584,11 @@
 ##[href^="https://blacklistednews.com"]
 ##[href^="http://www.blacklistednews.com"]
 ##[href^="https://www.blacklistednews.com"]
+
+##[href^="http://bloomberg.com"]
+##[href^="https://bloomberg.com"]
+##[href^="http://www.bloomberg.com"]
+##[href^="https://www.bloomberg.com"]
 
 ##[href^="http://bloomberg.ma"]
 ##[href^="https://bloomberg.ma"]
@@ -674,6 +699,11 @@
 ##[href^="https://cbsnews.com.co"]
 ##[href^="http://www.cbsnews.com.co"]
 ##[href^="https://www.cbsnews.com.co"]
+
+##[href^="http://cdisplayex.com"]
+##[href^="https://cdisplayex.com"]
+##[href^="http://www.cdisplayex.com"]
+##[href^="https://www.cdisplayex.com"]
 
 ##[href^="http://celebtricity.com"]
 ##[href^="https://celebtricity.com"]
@@ -950,6 +980,11 @@
 ##[href^="http://www.corbettreport.com"]
 ##[href^="https://www.corbettreport.com"]
 
+##[href^="http://corriere.it"]
+##[href^="https://corriere.it"]
+##[href^="http://www.corriere.it"]
+##[href^="https://www.corriere.it"]
+
 ##[href^="http://countdowntozerotime.com"]
 ##[href^="https://countdowntozerotime.com"]
 ##[href^="http://www.countdowntozerotime.com"]
@@ -1005,6 +1040,11 @@
 ##[href^="http://www.creativitymovement.net"]
 ##[href^="https://www.creativitymovement.net"]
 
+##[href^="http://crunchyroll.com"]
+##[href^="https://crunchyroll.com"]
+##[href^="http://www.crunchyroll.com"]
+##[href^="https://www.crunchyroll.com"]
+
 ##[href^="http://cryptogon.com"]
 ##[href^="https://cryptogon.com"]
 ##[href^="http://www.cryptogon.com"]
@@ -1044,6 +1084,11 @@
 ##[href^="https://dailydiscord.com"]
 ##[href^="http://www.dailydiscord.com"]
 ##[href^="https://www.dailydiscord.com"]
+
+##[href^="http://dailydot.com"]
+##[href^="https://dailydot.com"]
+##[href^="http://www.dailydot.com"]
+##[href^="https://www.dailydot.com"]
 
 ##[href^="http://dailyheadlines.com"]
 ##[href^="https://dailyheadlines.com"]
@@ -1350,6 +1395,31 @@
 ##[href^="http://www.disclosuremedia.net"]
 ##[href^="https://www.disclosuremedia.net"]
 
+##[href^="http://discomusic.com"]
+##[href^="https://discomusic.com"]
+##[href^="http://www.discomusic.com"]
+##[href^="https://www.discomusic.com"]
+
+##[href^="http://discord.gg"]
+##[href^="https://discord.gg"]
+##[href^="http://www.discord.gg"]
+##[href^="https://www.discord.gg"]
+
+##[href^="http://discordapp.com"]
+##[href^="https://discordapp.com"]
+##[href^="http://www.discordapp.com"]
+##[href^="https://www.discordapp.com"]
+
+##[href^="http://disqus.com"]
+##[href^="https://disqus.com"]
+##[href^="http://www.disqus.com"]
+##[href^="https://www.disqus.com"]
+
+##[href^="http://disquscdn.com"]
+##[href^="https://disquscdn.com"]
+##[href^="http://www.disquscdn.com"]
+##[href^="https://www.disquscdn.com"]
+
 ##[href^="http://dissentmagazine.org"]
 ##[href^="https://dissentmagazine.org"]
 ##[href^="http://www.dissentmagazine.org"]
@@ -1404,6 +1474,11 @@
 ##[href^="https://dprogram.net"]
 ##[href^="http://www.dprogram.net"]
 ##[href^="https://www.dprogram.net"]
+
+##[href^="http://dropbox.com"]
+##[href^="https://dropbox.com"]
+##[href^="http://www.dropbox.com"]
+##[href^="https://www.dropbox.com"]
 
 ##[href^="http://drrichswier.com"]
 ##[href^="https://drrichswier.com"]
@@ -1519,6 +1594,11 @@
 ##[href^="https://egghead.io"]
 ##[href^="http://www.egghead.io"]
 ##[href^="https://www.egghead.io"]
+
+##[href^="http://ehubsoft.net"]
+##[href^="https://ehubsoft.net"]
+##[href^="http://www.ehubsoft.net"]
+##[href^="https://www.ehubsoft.net"]
 
 ##[href^="http://electionnightgatekeepers.com"]
 ##[href^="https://electionnightgatekeepers.com"]
@@ -1685,6 +1765,11 @@
 ##[href^="http://www.eyeopening.info"]
 ##[href^="https://www.eyeopening.info"]
 
+##[href^="http://facebook.com"]
+##[href^="https://facebook.com"]
+##[href^="http://www.facebook.com"]
+##[href^="https://www.facebook.com"]
+
 ##[href^="http://fakingnews.com"]
 ##[href^="https://fakingnews.com"]
 ##[href^="http://www.fakingnews.com"]
@@ -1790,6 +1875,11 @@
 ##[href^="http://www.fort-russ.com"]
 ##[href^="https://www.fort-russ.com"]
 
+##[href^="http://fortworthinjuryattorneyblog.com"]
+##[href^="https://fortworthinjuryattorneyblog.com"]
+##[href^="http://www.fortworthinjuryattorneyblog.com"]
+##[href^="https://www.fortworthinjuryattorneyblog.com"]
+
 ##[href^="http://fotpforums.com"]
 ##[href^="https://fotpforums.com"]
 ##[href^="http://www.fotpforums.com"]
@@ -1855,6 +1945,11 @@
 ##[href^="http://www.freelancer.com"]
 ##[href^="https://www.freelancer.com"]
 
+##[href^="http://freepatentsonline.com"]
+##[href^="https://freepatentsonline.com"]
+##[href^="http://www.freepatentsonline.com"]
+##[href^="https://www.freepatentsonline.com"]
+
 ##[href^="http://freepatriot.org"]
 ##[href^="https://freepatriot.org"]
 ##[href^="http://www.freepatriot.org"]
@@ -1884,6 +1979,16 @@
 ##[href^="https://frontpagemag.com"]
 ##[href^="http://www.frontpagemag.com"]
 ##[href^="https://www.frontpagemag.com"]
+
+##[href^="http://ft.com"]
+##[href^="https://ft.com"]
+##[href^="http://www.ft.com"]
+##[href^="https://www.ft.com"]
+
+##[href^="http://future-processing.pl"]
+##[href^="https://future-processing.pl"]
+##[href^="http://www.future-processing.pl"]
+##[href^="https://www.future-processing.pl"]
 
 ##[href^="http://gaia.com"]
 ##[href^="https://gaia.com"]
@@ -2020,6 +2125,11 @@
 ##[href^="http://www.gummypost.com"]
 ##[href^="https://www.gummypost.com"]
 
+##[href^="http://hackerrank.com"]
+##[href^="https://hackerrank.com"]
+##[href^="http://www.hackerrank.com"]
+##[href^="https://www.hackerrank.com"]
+
 ##[href^="http://hangthebankers.com"]
 ##[href^="https://hangthebankers.com"]
 ##[href^="http://www.hangthebankers.com"]
@@ -2070,6 +2180,11 @@
 ##[href^="http://www.henrymakow.com"]
 ##[href^="https://www.henrymakow.com"]
 
+##[href^="http://herald-review.com"]
+##[href^="https://herald-review.com"]
+##[href^="http://www.herald-review.com"]
+##[href^="https://www.herald-review.com"]
+
 ##[href^="http://heresyblog.net"]
 ##[href^="https://heresyblog.net"]
 ##[href^="http://www.heresyblog.net"]
@@ -2085,6 +2200,11 @@
 ##[href^="http://www.hidemyass.com"]
 ##[href^="https://www.hidemyass.com"]
 
+##[href^="http://hoehrmann.de"]
+##[href^="https://hoehrmann.de"]
+##[href^="http://www.hoehrmann.de"]
+##[href^="https://www.hoehrmann.de"]
+
 ##[href^="http://holyobserver.com"]
 ##[href^="https://holyobserver.com"]
 ##[href^="http://www.holyobserver.com"]
@@ -2099,6 +2219,11 @@
 ##[href^="https://hotnewsphil.blogspot.com"]
 ##[href^="http://www.hotnewsphil.blogspot.com"]
 ##[href^="https://www.hotnewsphil.blogspot.com"]
+
+##[href^="http://htbridge.com"]
+##[href^="https://htbridge.com"]
+##[href^="http://www.htbridge.com"]
+##[href^="https://www.htbridge.com"]
 
 ##[href^="http://humansarefree.com"]
 ##[href^="https://humansarefree.com"]
@@ -2170,6 +2295,16 @@
 ##[href^="http://www.ilovemyfreedom.org"]
 ##[href^="https://www.ilovemyfreedom.org"]
 
+##[href^="http://imdb.com"]
+##[href^="https://imdb.com"]
+##[href^="http://www.imdb.com"]
+##[href^="https://www.imdb.com"]
+
+##[href^="http://imgur.com"]
+##[href^="https://imgur.com"]
+##[href^="http://www.imgur.com"]
+##[href^="https://www.imgur.com"]
+
 ##[href^="http://immediatesafety.org"]
 ##[href^="https://immediatesafety.org"]
 ##[href^="http://www.immediatesafety.org"]
@@ -2189,6 +2324,11 @@
 ##[href^="https://indecisionforever.com"]
 ##[href^="http://www.indecisionforever.com"]
 ##[href^="https://www.indecisionforever.com"]
+
+##[href^="http://independent.ie"]
+##[href^="https://independent.ie"]
+##[href^="http://www.independent.ie"]
+##[href^="https://www.independent.ie"]
 
 ##[href^="http://indiaarising.com"]
 ##[href^="https://indiaarising.com"]
@@ -2270,6 +2410,11 @@
 ##[href^="http://www.ironictimes.com"]
 ##[href^="https://www.ironictimes.com"]
 
+##[href^="http://is.gd"]
+##[href^="https://is.gd"]
+##[href^="http://www.is.gd"]
+##[href^="https://www.is.gd"]
+
 ##[href^="http://islamicanews.com"]
 ##[href^="https://islamicanews.com"]
 ##[href^="http://www.islamicanews.com"]
@@ -2329,6 +2474,11 @@
 ##[href^="https://jihadwatch.org"]
 ##[href^="http://www.jihadwatch.org"]
 ##[href^="https://www.jihadwatch.org"]
+
+##[href^="http://johannburkard.de"]
+##[href^="https://johannburkard.de"]
+##[href^="http://www.johannburkard.de"]
+##[href^="https://www.johannburkard.de"]
 
 ##[href^="http://johnnyrobish.com"]
 ##[href^="https://johnnyrobish.com"]
@@ -2399,6 +2549,16 @@
 ##[href^="https://krbcnews.com"]
 ##[href^="http://www.krbcnews.com"]
 ##[href^="https://www.krbcnews.com"]
+
+##[href^="http://ksdk.com"]
+##[href^="https://ksdk.com"]
+##[href^="http://www.ksdk.com"]
+##[href^="https://www.ksdk.com"]
+
+##[href^="http://kuvat.fi"]
+##[href^="https://kuvat.fi"]
+##[href^="http://www.kuvat.fi"]
+##[href^="https://www.kuvat.fi"]
 
 ##[href^="http://ky12news.com"]
 ##[href^="https://ky12news.com"]
@@ -2520,6 +2680,11 @@
 ##[href^="http://www.lifeandabout.com"]
 ##[href^="https://www.lifeandabout.com"]
 
+##[href^="http://lifehacker.com"]
+##[href^="https://lifehacker.com"]
+##[href^="http://www.lifehacker.com"]
+##[href^="https://www.lifehacker.com"]
+
 ##[href^="http://lifenews.com"]
 ##[href^="https://lifenews.com"]
 ##[href^="http://www.lifenews.com"]
@@ -2544,6 +2709,11 @@
 ##[href^="https://lightlybraisedturnip.com"]
 ##[href^="http://www.lightlybraisedturnip.com"]
 ##[href^="https://www.lightlybraisedturnip.com"]
+
+##[href^="http://link-assistant.com"]
+##[href^="https://link-assistant.com"]
+##[href^="http://www.link-assistant.com"]
+##[href^="https://www.link-assistant.com"]
 
 ##[href^="http://liveactionnews.org"]
 ##[href^="https://liveactionnews.org"]
@@ -2620,6 +2790,11 @@
 ##[href^="http://www.makeamericagreattoday.com"]
 ##[href^="https://www.makeamericagreattoday.com"]
 
+##[href^="http://margunnbjornholt.no"]
+##[href^="https://margunnbjornholt.no"]
+##[href^="http://www.margunnbjornholt.no"]
+##[href^="https://www.margunnbjornholt.no"]
+
 ##[href^="http://marketing.dropbox.com"]
 ##[href^="https://marketing.dropbox.com"]
 ##[href^="http://www.marketing.dropbox.com"]
@@ -2655,6 +2830,11 @@
 ##[href^="http://www.megynkelly.us"]
 ##[href^="https://www.megynkelly.us"]
 
+##[href^="http://mentalfloss.com"]
+##[href^="https://mentalfloss.com"]
+##[href^="http://www.mentalfloss.com"]
+##[href^="https://www.mentalfloss.com"]
+
 ##[href^="http://mentor2day.com"]
 ##[href^="https://mentor2day.com"]
 ##[href^="http://www.mentor2day.com"]
@@ -2664,6 +2844,16 @@
 ##[href^="https://metropolitanworlds.com"]
 ##[href^="http://www.metropolitanworlds.com"]
 ##[href^="https://www.metropolitanworlds.com"]
+
+##[href^="http://mic.com"]
+##[href^="https://mic.com"]
+##[href^="http://www.mic.com"]
+##[href^="https://www.mic.com"]
+
+##[href^="http://midiplayer.ehubsoft.net"]
+##[href^="https://midiplayer.ehubsoft.net"]
+##[href^="http://www.midiplayer.ehubsoft.net"]
+##[href^="https://www.midiplayer.ehubsoft.net"]
 
 ##[href^="http://militianews.com"]
 ##[href^="https://militianews.com"]
@@ -2824,6 +3014,11 @@
 ##[href^="https://ncscooper.com"]
 ##[href^="http://www.ncscooper.com"]
 ##[href^="https://www.ncscooper.com"]
+
+##[href^="http://neilgunton.com"]
+##[href^="https://neilgunton.com"]
+##[href^="http://www.neilgunton.com"]
+##[href^="https://www.neilgunton.com"]
 
 ##[href^="http://neonnettle.com"]
 ##[href^="https://neonnettle.com"]
@@ -3195,10 +3390,20 @@
 ##[href^="http://www.orientalreview.org"]
 ##[href^="https://www.orientalreview.org"]
 
+##[href^="http://otakuplan.com"]
+##[href^="https://otakuplan.com"]
+##[href^="http://www.otakuplan.com"]
+##[href^="https://www.otakuplan.com"]
+
 ##[href^="http://other98.com"]
 ##[href^="https://other98.com"]
 ##[href^="http://www.other98.com"]
 ##[href^="https://www.other98.com"]
+
+##[href^="http://ow.ly"]
+##[href^="https://ow.ly"]
+##[href^="http://www.ow.ly"]
+##[href^="https://www.ow.ly"]
 
 ##[href^="http://pakalertpress.com"]
 ##[href^="https://pakalertpress.com"]
@@ -3214,6 +3419,11 @@
 ##[href^="https://pamelageller.com"]
 ##[href^="http://www.pamelageller.com"]
 ##[href^="https://www.pamelageller.com"]
+
+##[href^="http://pastebin.com"]
+##[href^="https://pastebin.com"]
+##[href^="http://www.pastebin.com"]
+##[href^="https://www.pastebin.com"]
 
 ##[href^="http://patdollar.com"]
 ##[href^="https://patdollar.com"]
@@ -3259,6 +3469,16 @@
 ##[href^="https://pcbsd.org"]
 ##[href^="http://www.pcbsd.org"]
 ##[href^="https://www.pcbsd.org"]
+
+##[href^="http://peltiertech.com"]
+##[href^="https://peltiertech.com"]
+##[href^="http://www.peltiertech.com"]
+##[href^="https://www.peltiertech.com"]
+
+##[href^="http://philips.com"]
+##[href^="https://philips.com"]
+##[href^="http://www.philips.com"]
+##[href^="https://www.philips.com"]
 
 ##[href^="http://philnewsportal.com"]
 ##[href^="https://philnewsportal.com"]
@@ -3905,6 +4125,11 @@
 ##[href^="http://www.shoebat.com"]
 ##[href^="https://www.shoebat.com"]
 
+##[href^="http://shoowbiz.ru"]
+##[href^="https://shoowbiz.ru"]
+##[href^="http://www.shoowbiz.ru"]
+##[href^="https://www.shoowbiz.ru"]
+
 ##[href^="http://shtfplan.com"]
 ##[href^="https://shtfplan.com"]
 ##[href^="http://www.shtfplan.com"]
@@ -3945,6 +4170,21 @@
 ##[href^="http://www.skeptiko.com"]
 ##[href^="https://www.skeptiko.com"]
 
+##[href^="http://slack.com"]
+##[href^="https://slack.com"]
+##[href^="http://www.slack.com"]
+##[href^="https://www.slack.com"]
+
+##[href^="http://slashdot.org"]
+##[href^="https://slashdot.org"]
+##[href^="http://www.slashdot.org"]
+##[href^="https://www.slashdot.org"]
+
+##[href^="http://slideshare.net"]
+##[href^="https://slideshare.net"]
+##[href^="http://www.slideshare.net"]
+##[href^="https://www.slideshare.net"]
+
 ##[href^="http://smag31.com"]
 ##[href^="https://smag31.com"]
 ##[href^="http://www.smag31.com"]
@@ -3954,6 +4194,16 @@
 ##[href^="https://smartknowledgeu.com"]
 ##[href^="http://www.smartknowledgeu.com"]
 ##[href^="https://www.smartknowledgeu.com"]
+
+##[href^="http://smithsonianmag.com"]
+##[href^="https://smithsonianmag.com"]
+##[href^="http://www.smithsonianmag.com"]
+##[href^="https://www.smithsonianmag.com"]
+
+##[href^="http://sndcdn.com"]
+##[href^="https://sndcdn.com"]
+##[href^="http://www.sndcdn.com"]
+##[href^="https://www.sndcdn.com"]
 
 ##[href^="http://snopes.com"]
 ##[href^="https://snopes.com"]
@@ -4100,6 +4350,11 @@
 ##[href^="http://www.strategic-culture.org"]
 ##[href^="https://www.strategic-culture.org"]
 
+##[href^="http://stuff.co.nz"]
+##[href^="https://stuff.co.nz"]
+##[href^="http://www.stuff.co.nz"]
+##[href^="https://www.stuff.co.nz"]
+
 ##[href^="http://stuppid.com"]
 ##[href^="https://stuppid.com"]
 ##[href^="http://www.stuppid.com"]
@@ -4160,6 +4415,11 @@
 ##[href^="http://www.szandorblestman.com"]
 ##[href^="https://www.szandorblestman.com"]
 
+##[href^="http://t.co"]
+##[href^="https://t.co"]
+##[href^="http://www.t.co"]
+##[href^="https://www.t.co"]
+
 ##[href^="http://tahonews.com"]
 ##[href^="https://tahonews.com"]
 ##[href^="http://www.tahonews.com"]
@@ -4169,6 +4429,11 @@
 ##[href^="https://tap-news.com"]
 ##[href^="http://www.tap-news.com"]
 ##[href^="https://www.tap-news.com"]
+
+##[href^="http://tapatalk.com"]
+##[href^="https://tapatalk.com"]
+##[href^="http://www.tapatalk.com"]
+##[href^="https://www.tapatalk.com"]
 
 ##[href^="http://tartey.com"]
 ##[href^="https://tartey.com"]
@@ -4204,6 +4469,11 @@
 ##[href^="https://techcrunch.com"]
 ##[href^="http://www.techcrunch.com"]
 ##[href^="https://www.techcrunch.com"]
+
+##[href^="http://technologyreview.com"]
+##[href^="https://technologyreview.com"]
+##[href^="http://www.technologyreview.com"]
+##[href^="https://www.technologyreview.com"]
 
 ##[href^="http://tellmenow.com"]
 ##[href^="https://tellmenow.com"]
@@ -4690,6 +4960,11 @@
 ##[href^="http://www.thestatelyharold.com"]
 ##[href^="https://www.thestatelyharold.com"]
 
+##[href^="http://thestreet.com"]
+##[href^="https://thestreet.com"]
+##[href^="http://www.thestreet.com"]
+##[href^="https://www.thestreet.com"]
+
 ##[href^="http://thesun.co.uk"]
 ##[href^="https://thesun.co.uk"]
 ##[href^="http://www.thesun.co.uk"]
@@ -4699,6 +4974,16 @@
 ##[href^="https://thet1mes.com"]
 ##[href^="http://www.thet1mes.com"]
 ##[href^="https://www.thet1mes.com"]
+
+##[href^="http://thetechreader.com"]
+##[href^="https://thetechreader.com"]
+##[href^="http://www.thetechreader.com"]
+##[href^="https://www.thetechreader.com"]
+
+##[href^="http://thetimes.co.uk"]
+##[href^="https://thetimes.co.uk"]
+##[href^="http://www.thetimes.co.uk"]
+##[href^="https://www.thetimes.co.uk"]
 
 ##[href^="http://thetimesoftheworld.com"]
 ##[href^="https://thetimesoftheworld.com"]
@@ -5075,6 +5360,11 @@
 ##[href^="http://www.twitchy.com"]
 ##[href^="https://www.twitchy.com"]
 
+##[href^="http://twitter.com"]
+##[href^="https://twitter.com"]
+##[href^="http://www.twitter.com"]
+##[href^="https://www.twitter.com"]
+
 ##[href^="http://tylermcginnis.com"]
 ##[href^="https://tylermcginnis.com"]
 ##[href^="http://www.tylermcginnis.com"]
@@ -5390,10 +5680,25 @@
 ##[href^="http://www.usviewer.com"]
 ##[href^="https://www.usviewer.com"]
 
+##[href^="http://variety.com"]
+##[href^="https://variety.com"]
+##[href^="http://www.variety.com"]
+##[href^="https://www.variety.com"]
+
 ##[href^="http://vdare.com"]
 ##[href^="https://vdare.com"]
 ##[href^="http://www.vdare.com"]
 ##[href^="https://www.vdare.com"]
+
+##[href^="http://vdocuments.mx"]
+##[href^="https://vdocuments.mx"]
+##[href^="http://www.vdocuments.mx"]
+##[href^="https://www.vdocuments.mx"]
+
+##[href^="http://vdocuments.site"]
+##[href^="https://vdocuments.site"]
+##[href^="http://www.vdocuments.site"]
+##[href^="https://www.vdocuments.site"]
 
 ##[href^="http://venturebeat.com"]
 ##[href^="https://venturebeat.com"]
@@ -5439,6 +5744,11 @@
 ##[href^="https://voxtribune.com"]
 ##[href^="http://www.voxtribune.com"]
 ##[href^="https://www.voxtribune.com"]
+
+##[href^="http://vyond.com"]
+##[href^="https://vyond.com"]
+##[href^="http://www.vyond.com"]
+##[href^="https://www.vyond.com"]
 
 ##[href^="http://w3schools.com"]
 ##[href^="https://w3schools.com"]
@@ -5494,6 +5804,11 @@
 ##[href^="https://waterfordwhispersnews.com"]
 ##[href^="http://www.waterfordwhispersnews.com"]
 ##[href^="https://www.waterfordwhispersnews.com"]
+
+##[href^="http://wattpad.com"]
+##[href^="https://wattpad.com"]
+##[href^="http://www.wattpad.com"]
+##[href^="https://www.wattpad.com"]
 
 ##[href^="http://wealthcycles.com"]
 ##[href^="https://wealthcycles.com"]
@@ -5615,6 +5930,11 @@
 ##[href^="http://www.witscience.org"]
 ##[href^="https://www.witscience.org"]
 
+##[href^="http://wkyc.com"]
+##[href^="https://wkyc.com"]
+##[href^="http://www.wkyc.com"]
+##[href^="https://www.wkyc.com"]
+
 ##[href^="http://wnd.com"]
 ##[href^="https://wnd.com"]
 ##[href^="http://www.wnd.com"]
@@ -5629,6 +5949,11 @@
 ##[href^="https://wonkie.com"]
 ##[href^="http://www.wonkie.com"]
 ##[href^="https://www.wonkie.com"]
+
+##[href^="http://workersliberty.org"]
+##[href^="https://workersliberty.org"]
+##[href^="http://www.workersliberty.org"]
+##[href^="https://www.workersliberty.org"]
 
 ##[href^="http://world24monitor.com"]
 ##[href^="https://world24monitor.com"]
@@ -5675,6 +6000,11 @@
 ##[href^="http://www.worldstoriestoday.com"]
 ##[href^="https://www.worldstoriestoday.com"]
 
+##[href^="http://worldtribune.com"]
+##[href^="https://worldtribune.com"]
+##[href^="http://www.worldtribune.com"]
+##[href^="https://www.worldtribune.com"]
+
 ##[href^="http://worldtruth.tv"]
 ##[href^="https://worldtruth.tv"]
 ##[href^="http://www.worldtruth.tv"]
@@ -5705,10 +6035,20 @@
 ##[href^="http://www.xolxol.ph"]
 ##[href^="https://www.xolxol.ph"]
 
+##[href^="http://yahoo.co.kr"]
+##[href^="https://yahoo.co.kr"]
+##[href^="http://www.yahoo.co.kr"]
+##[href^="https://www.yahoo.co.kr"]
+
 ##[href^="http://yahoo.com"]
 ##[href^="https://yahoo.com"]
 ##[href^="http://www.yahoo.com"]
 ##[href^="https://www.yahoo.com"]
+
+##[href^="http://yahoo.net"]
+##[href^="https://yahoo.net"]
+##[href^="http://www.yahoo.net"]
+##[href^="https://www.yahoo.net"]
 
 ##[href^="http://yellowhammernews.com"]
 ##[href^="https://yellowhammernews.com"]
@@ -5729,6 +6069,11 @@
 ##[href^="https://yesimright.com"]
 ##[href^="http://www.yesimright.com"]
 ##[href^="https://www.yesimright.com"]
+
+##[href^="http://yimg.com"]
+##[href^="https://yimg.com"]
+##[href^="http://www.yimg.com"]
+##[href^="https://www.yimg.com"]
 
 ##[href^="http://youngcons.com"]
 ##[href^="https://youngcons.com"]
@@ -5755,10 +6100,20 @@
 ##[href^="http://www.yournewswire.com"]
 ##[href^="https://www.yournewswire.com"]
 
+##[href^="http://youtube.com"]
+##[href^="https://youtube.com"]
+##[href^="http://www.youtube.com"]
+##[href^="https://www.youtube.com"]
+
 ##[href^="http://youtube.com/bigpzone"]
 ##[href^="https://youtube.com/bigpzone"]
 ##[href^="http://www.youtube.com/bigpzone"]
 ##[href^="https://www.youtube.com/bigpzone"]
+
+##[href^="http://yuku.com"]
+##[href^="https://yuku.com"]
+##[href^="http://www.yuku.com"]
+##[href^="https://www.yuku.com"]
 
 ##[href^="http://zaytung.com"]
 ##[href^="https://zaytung.com"]
