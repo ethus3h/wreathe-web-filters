@@ -1,4 +1,4 @@
-! Title: Wreathe Web Filters — Hostname Links
+! Title: Wreathe Web Filters — Site-specific cosmetic filters, WWW versions
 ! Version: 20180611.1
 ! Expires: 3 days (update frequency)
 ! Homepage: https://futuramerlin.com/
