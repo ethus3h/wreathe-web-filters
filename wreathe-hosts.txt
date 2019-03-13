@@ -756,7 +756,6 @@ prisonplanet.com
 prisonplanet.tv
 private-eye.co.uk
 privateinternetaccess.com
-privateinternetaccess.com
 prntly.com
 proamericanews.com
 progressivestoday.com
@@ -902,7 +901,6 @@ teaparty.org
 teapartyeconomist.com
 teapartytribune.com
 techcrunch.com
-technologyreview.com
 technologyreview.com
 tellmenow.com
 tenthamendmentcenter.com
@@ -1217,7 +1215,6 @@ wundergroundmusic.com
 x22report.com
 xolxol.ph
 yahoo.co.kr
-yahoo.com
 yahoo.com
 yahoo.net
 yellowhammernews.com
