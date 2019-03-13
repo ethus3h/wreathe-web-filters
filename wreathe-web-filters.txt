@@ -35,6 +35,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.adblockermessage
 ##.ads-left-block
 ##.adStripe2
+##[href^="//"]
 ##.animated.logo
 ##.app-links
 ##.append-content
@@ -3756,3 +3757,4 @@ www.youtube.com##.ytd-mini-channel-renderer
 www.youtube.com##.ytd-page-manager[page-subtype="home"]
 www.zdnet.com##[href^="https://www.zdnet.com/article/"]
 www2.0123movies.org##[href^="//"]
+0123movies.org##[href^="//"]
