@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1552494672329,
+  "timeStamp": 1552496258943,
   "version": "1.18.4",
   "userSettings": {
     "advancedUserEnabled": false,
@@ -10,7 +10,7 @@
     "colorBlindFriendly": false,
     "contextMenuEnabled": false,
     "dynamicFilteringEnabled": false,
-    "externalLists": "https://adb.juvander.net/Finland_adb.txt\nhttps://adguard.com/en/filter-rules.html?id=12\nhttps://adguard.com/en/filter-rules.html?id=4\nhttps://easylist-downloads.adblockplus.org/yt_annoyances_full.txt\nhttps://easylist-downloads.adblockplus.org/yt_annoyances_other.txt\nhttps://github.com/ethus3h/wreathe-web-filters/raw/master/wreathe-web-filters.txt\nhttps://gitlab.com/xuhaiyang1234/AAK-Cont/raw/master/FINAL_BUILD/aak-cont-list-ubo.txt\nhttps://hosts-file.net/ad_servers.txt\nhttps://hosts-file.net/emd.txt\nhttps://hosts-file.net/exp.txt\nhttps://hosts-file.net/fsa.txt\nhttps://hosts-file.net/grm.txt\nhttps://hosts-file.net/hfs.txt\nhttps://hosts-file.net/hjk.txt\nhttps://hosts-file.net/mmt.txt\nhttps://hosts-file.net/pha.txt\nhttps://hosts-file.net/psh.txt\nhttps://hosts-file.net/pup.txt\nhttps://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt\nhttps://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts\nhttps://raw.githubusercontent.com/ethus3h/wreathe-web-filters/master/wreathe-cosmetic-www.txt\nhttps://raw.githubusercontent.com/ethus3h/wreathe-web-filters/master/wreathe-host-links.txt\nhttps://raw.githubusercontent.com/ethus3h/wreathe-web-filters/master/wreathe-hosts.txt\nhttps://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt\nhttps://raw.githubusercontent.com/kano1/Adelina/master/GarudaSpeedUp.txt\nhttps://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fake-news.txt\nhttps://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt\nhttps://ssl.bblck.me/blacklists/ublock-origin.txt\nhttps://www.eff.org/files/effdntlist.txt",
+    "externalLists": "https://adb.juvander.net/Finland_adb.txt\nhttps://adguard.com/en/filter-rules.html?id=4\nhttps://easylist-downloads.adblockplus.org/yt_annoyances_full.txt\nhttps://easylist-downloads.adblockplus.org/yt_annoyances_other.txt\nhttps://github.com/ethus3h/wreathe-web-filters/raw/master/wreathe-web-filters.txt\nhttps://gitlab.com/xuhaiyang1234/AAK-Cont/raw/master/FINAL_BUILD/aak-cont-list-ubo.txt\nhttps://hosts-file.net/ad_servers.txt\nhttps://hosts-file.net/emd.txt\nhttps://hosts-file.net/exp.txt\nhttps://hosts-file.net/fsa.txt\nhttps://hosts-file.net/grm.txt\nhttps://hosts-file.net/hfs.txt\nhttps://hosts-file.net/hjk.txt\nhttps://hosts-file.net/mmt.txt\nhttps://hosts-file.net/pha.txt\nhttps://hosts-file.net/psh.txt\nhttps://hosts-file.net/pup.txt\nhttps://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts\nhttps://raw.githubusercontent.com/ethus3h/wreathe-web-filters/master/wreathe-cosmetic-www.txt\nhttps://raw.githubusercontent.com/ethus3h/wreathe-web-filters/master/wreathe-host-links.txt\nhttps://raw.githubusercontent.com/ethus3h/wreathe-web-filters/master/wreathe-hosts.txt\nhttps://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt\nhttps://raw.githubusercontent.com/kano1/Adelina/master/GarudaSpeedUp.txt\nhttps://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fake-news.txt\nhttps://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt\nhttps://ssl.bblck.me/blacklists/ublock-origin.txt\nhttps://www.eff.org/files/effdntlist.txt",
     "firewallPaneMinimized": true,
     "hyperlinkAuditingDisabled": true,
     "ignoreGenericCosmeticFilters": false,
@@ -51,12 +51,17 @@
     "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts",
     "VIE-1",
     "TUR-0",
+    "THA-0",
+    "SWE-1",
     "SVN-0",
     "spa-0",
     "spa-1",
     "RUS-0",
     "RUS-2",
+    "ROU-1",
+    "POL-2",
     "POL-0",
+    "NOR-0",
     "NLD-0",
     "LVA-0",
     "LTU-0",
@@ -89,6 +94,7 @@
     "fanboy-annoyance",
     "fanboy-cookiemonster",
     "fanboy-thirdparty_social",
+    "adguard-social",
     "adguard-annoyance",
     "spam404-0",
     "malware-1",
@@ -105,6 +111,7 @@
     "ublock-abuse",
     "ublock-privacy",
     "ublock-badware",
+    "ublock-annoyances",
     "ublock-filters",
     "user-filters"
   ],
@@ -130,6 +137,6 @@
   "netWhitelist": "about-scheme\nchrome-extension-scheme\nchrome-scheme\nmoz-extension-scheme\nopera-scheme\nvivaldi-scheme\nweb.archive.org\nwyciwyg-scheme",
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
   "urlFilteringString": "",
-  "hostnameSwitchesString": "no-cosmetic-filtering: bugs.gentoo.org true\nno-cosmetic-filtering: bugzilla.redhat.com true\nno-strict-blocking: myaccount.google.com true\nno-strict-blocking: libgen.io true\nno-cosmetic-filtering: libgen.io true\nno-cosmetic-filtering: dot.kde.org true\nno-cosmetic-filtering: bugs.documentfoundation.org true\nno-cosmetic-filtering: babelstone.blogspot.com true\nno-cosmetic-filtering: skymind.ai true\nno-cosmetic-filtering: docs.skymind.ai false\nno-cosmetic-filtering: 206.nmdprojects.net true\nno-cosmetic-filtering: howlerjs.com true\nno-cosmetic-filtering: www.megamix247.com true\nno-strict-blocking: www.rt.com true\nno-cosmetic-filtering: imrcaccounts.com true\nno-cosmetic-filtering: openlibrary.org true\nno-cosmetic-filtering: www.theinstructional.com true\nno-cosmetic-filtering: accounts.firefox.com true\nno-cosmetic-filtering: console.developers.google.com true\nno-cosmetic-filtering: www.thefirst.com true\nno-cosmetic-filtering: www.treehugger.com true\nno-large-media: behind-the-scene false\nno-scripting: behind-the-scene false\nno-cosmetic-filtering: classroom.google.com true\nno-cosmetic-filtering: nmd345-2018s.slack.com true\nno-cosmetic-filtering: gist.github.com false\nno-cosmetic-filtering: bugs.freedesktop.org true\nno-cosmetic-filtering: gcc.gnu.org true\nno-cosmetic-filtering: sketchfab.com true\nno-cosmetic-filtering: ting.com true\nno-cosmetic-filtering: blog.martin-graesslin.com true\nno-cosmetic-filtering: bugs.kde.org true\nno-cosmetic-filtering: www.scoringnotes.com true\nno-cosmetic-filtering: www.bigagnes.com true\nno-cosmetic-filtering: gitlab.com true\nno-cosmetic-filtering: software.opensuse.org true\nno-cosmetic-filtering: mega.nz true\nno-cosmetic-filtering: webcache.googleusercontent.com true\nno-cosmetic-filtering: www.pinsdaddy.com true\nno-cosmetic-filtering: ask.slashdot.org true\nno-strict-blocking: www.rapidvideo.com true\nno-cosmetic-filtering: www.realmeye.com true\nno-cosmetic-filtering: www.wehuntedthemammoth.com true\nno-cosmetic-filtering: torrentfreak.com true\nno-cosmetic-filtering: www.slideshare.net true\nno-cosmetic-filtering: www.zdnet.com true\nno-cosmetic-filtering: bugs.webkit.org true",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-scripting: behind-the-scene false",
   "userFilters": "||en.wikipedia.org/wiki/Main_Page|$document\n||en.wikipedia.org/wiki/Special:Search?search=&sourceid=Mozilla-search|$document\n||en.wikipedia.org/wiki/Wikipedia:*$document\n"
 }
