@@ -229,7 +229,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.related_post_wrapper
 ##.related_stories
 ##.s-hero
-##.s-hero
 ##.section-more-articles
 ##.share-button
 ##.share.atom
