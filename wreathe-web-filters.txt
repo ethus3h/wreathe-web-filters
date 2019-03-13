@@ -19,6 +19,8 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 @@bb.courses.maine.edu/branding/*.css$first-party
 @@bb.courses.maine.edu/branding/*.js$first-party
 @@js.stripe.com$script,domain=appear.in
+@@rapidvideo.com
+@@||wikipedia.org/w/load.php?*startup$script
 ~github.com##[class^=social]
 ~intel.com##[class$="-cta"].btn
 ~library.umaine.edu##.slick-slider
@@ -104,6 +106,9 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.js-sidebar-nav-tutorial-bg
 ##.js-signUpButton
 ##.l-magazine-promo
+##.logo
+##[href="http://www.adobe.com/go/getflashplayer"]
+##[href="https://support.google.com/youtube/?p=missing_quality"]
 ##.m-gravity-below-article
 ##.mail-border
 ##.mail-chimp-popup
