@@ -1042,11 +1042,6 @@ apple.stackexchange.com##.s-hero
 apple.stackexchange.com##.sidebar-related
 apple.stackexchange.com##.site-header
 archive.org###also-found
-stackexchange.com###js-gdpr-consent-banner
-stackexchange.com###left-sidebar
-stackexchange.com##.s-hero
-stackexchange.com##.sidebar-related
-stackexchange.com##.site-header
 aristake.com###ariChair
 aristake.com###cboxOverlay
 aristake.com###footer
@@ -3008,10 +3003,15 @@ squidboards.com##.premiumBlock
 squidboards.com##.premiumContain
 stackexchange.com###answers > .bottom-notice
 stackexchange.com###herobox
+stackexchange.com###js-gdpr-consent-banner
+stackexchange.com###left-sidebar
 stackexchange.com###post-form
 stackexchange.com###sidebar > .ad-container
 stackexchange.com##.comments-link.js-add-link
 stackexchange.com##.post-menu
+stackexchange.com##.s-hero
+stackexchange.com##.sidebar-related
+stackexchange.com##.site-header
 stackexchange.com##.top-bar
 stackexchange.com##.topbar
 stackexchange.com##.vote-down-off
