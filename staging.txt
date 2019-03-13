@@ -1,967 +1,968 @@
-! 6/15/2018, 12:54:37 AM https://www.nolo.com/legal-encyclopedia/free-books/beat-ticket-book/chapter7-6.html
-www.nolo.com###nolopath-insert
 
-! 6/16/2018, 1:38:00 AM https://ftalphaville.ft.com/2018/06/11/1528712107000/That-crypto-crash-in-full/
-ftalphaville.ft.com##.barrier-wrapper
 
-ft.com
 
-www.youtube.com##.ytd-page-manager[page-subtype="home"]
 
-! 6/16/2018, 3:06:56 PM https://pastebin.com/71gWhsWK
-pastebin.com###content_right > div:nth-of-type(2)
 
-! 6/16/2018, 3:07:02 PM https://pastebin.com/71gWhsWK
-||pastebin.com/i/steadfast_1.png$image
 
-! 6/16/2018, 3:07:09 PM https://pastebin.com/71gWhsWK
-pastebin.com###float-box-frame
 
-! 6/16/2018, 3:15:14 PM https://discourse.mozilla.org/t/could-panorama-feature-be-brought-back-to-firefox/14672?_escaped_fragment_
-discourse.mozilla.org##[href="https://www.discourse.org"]
 
-! 6/16/2018, 3:15:23 PM https://discourse.mozilla.org/t/could-panorama-feature-be-brought-back-to-firefox/14672?_escaped_fragment_
-discourse.mozilla.org##.container
 
-! 6/16/2018, 3:17:48 PM https://myanimelist.net/
-myanimelist.net##.modal-content
 
-! 6/16/2018, 4:57:52 PM https://myanimelist.net/
-||myanimelist.cdn-dena.com/images/manga_store/*$image
 
-! 6/16/2018, 4:58:04 PM https://myanimelist.net/
-myanimelist.net##.index-manga-store-description
 
-! 6/17/2018, 3:21:03 AM http://www.crunchyroll.com/hyouka/episode-11-credit-roll-of-fools-771227
-||static.ak.crunchyroll.com/i/banners/crx_banner_2018.png$image
 
-! 6/17/2018, 3:21:13 AM http://www.crunchyroll.com/hyouka/episode-11-credit-roll-of-fools-771227
-www.crunchyroll.com##[href="http://www.adobe.com/go/getflashplayer"]
 
-||static.ak.crunchyroll.com/i/banners/*.png
 
-##[href="http://www.adobe.com/go/getflashplayer"]
-crunchyroll.com
 
-! 6/17/2018, 3:24:46 AM http://ww5.cartooncrazy.net/watch/hyouka-episode-11-english-dubbed/
-ww5.cartooncrazy.net##[href^="https://www.cloudflare.com/5xx-error-landing"]
 
-! 6/18/2018, 6:05:27 PM https://www.itworld.com/article/2826902/enterprise-software/7-days-using-only-keyboard-shortcuts--no-mouse--no-trackpad--no-problem-.html
-www.itworld.com##[href^="https://www.pluralsight.com/"]
 
-peltiertech.com
-anidb.net
-privateinternetaccess.com
-pastebin.com
 
-! 6/21/2018, 11:23:07 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
-herald-review.com##.breaking
 
-! 6/21/2018, 11:23:25 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
-herald-review.com##.lee-subscription-article-link
 
-! 6/21/2018, 11:23:35 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
-herald-review.com##.main-sidebar-wrap
 
-! 6/21/2018, 11:23:47 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
-herald-review.com###infinite-container
 
-! 6/21/2018, 11:24:20 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
-herald-review.com##.article-share-nav
 
-herald-review.com
 
-! 6/22/2018, 11:01:03 PM https://www.dedoimedo.com/
-www.dedoimedo.com##.divtable11_spec
 
-! 6/24/2018, 2:59:58 PM https://myanimelist.net/anime/225/Dragon_Ball_GT
-||myanimelist.cdn-dena.com/images/*/banner-*$image
 
-! 6/27/2018, 9:23:45 PM https://www.popsci.com/wikipedia-bots-fighting#page-2
-www.popsci.com##.bottom-wrapper
 
-! 6/29/2018, 9:49:55 PM http://www.itnewsafrica.com/2018/02/opera-news-app-hits-1-million-downloads-in-4-weeks/
-www.itnewsafrica.com###simplemodal-overlay
 
-! 6/29/2018, 9:50:00 PM http://www.itnewsafrica.com/2018/02/opera-news-app-hits-1-million-downloads-in-4-weeks/
-www.itnewsafrica.com###simplemodal-container
 
-! 6/30/2018, 11:38:50 PM https://www.htbridge.com/vulnerability/null-pointer-dereference.html
-www.htbridge.com##.static-buttons-block
 
-htbridge.com
 
-disqus.com
-disquscdn.com
 
-! 7/2/2018, 9:21:29 PM http://observer.ug/news/headlines/58064-ugandans-again-run-to-vpn-as-social-media-tax-starts-to-bite.html
-||observer.ug/images/*-728-x90-*.jpg$image
 
-! 7/2/2018, 9:21:41 PM http://observer.ug/news/headlines/58064-ugandans-again-run-to-vpn-as-social-media-tax-starts-to-bite.html
-observer.ug##.obs-latest
 
-! 7/2/2018, 9:21:52 PM http://observer.ug/news/headlines/58064-ugandans-again-run-to-vpn-as-social-media-tax-starts-to-bite.html
-observer.ug###gkSidebarRight
 
-! 7/3/2018, 12:53:28 AM https://www.wsj.com/articles/stop-talking-about-bitcoins-market-cap-1513015626
-www.wsj.com##.wrap
 
-! 7/3/2018, 12:33:26 PM https://robertheaton.com/2017/10/09/tracking-friends-and-strangers-using-whatsapp/
-robertheaton.com##.post > section:nth-of-type(1)
 
-! 7/3/2018, 12:46:29 PM https://robertheaton.com/2017/11/24/identity-graphs-how-online-trackers-follow-you-across-devices/
-robertheaton.com##.blogpost.post > section:nth-of-type(1)
 
-! 7/3/2018, 12:46:41 PM https://robertheaton.com/2017/11/24/identity-graphs-how-online-trackers-follow-you-across-devices/
-robertheaton.com##section:nth-of-type(2)
 
-! 7/3/2018, 6:35:43 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
-www.salon.com##.gpt_in_article
 
-! 7/3/2018, 6:36:02 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
-www.salon.com##.jwplayer
 
-! 7/3/2018, 6:36:08 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
-www.salon.com##.brightcom-widget
 
-! 7/3/2018, 6:36:22 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
-||www.salon.com/stencil/public/img/salon-tv-red.png$image
 
-! 7/3/2018, 6:36:26 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
-www.salon.com###salontv-header
 
-! 7/3/2018, 6:36:41 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
-www.salon.com##.d-lg-none
 
-! 7/3/2018, 11:55:02 PM https://blog.willrobbins.org/my-app-marketing-story-0-to-100k-downloads-96ae80db1504
-blog.willrobbins.org##.butterBar-message
 
-! 7/3/2018, 11:56:33 PM https://blog.willrobbins.org/my-app-marketing-story-0-to-100k-downloads-96ae80db1504
-blog.willrobbins.org##em
 
-! 7/3/2018, 11:56:39 PM https://blog.willrobbins.org/my-app-marketing-story-0-to-100k-downloads-96ae80db1504
-blog.willrobbins.org###\31 66f
 
-! 7/4/2018, 12:02:39 AM https://blog.willrobbins.org/my-app-marketing-story-0-to-100k-downloads-96ae80db1504
-blog.willrobbins.org##strong
 
-! 7/4/2018, 12:05:39 AM https://willrobbins.org/a-clever-malware-tactic-and-why-theres-nothing-you-can-do-about-it/
-willrobbins.org###mc_embed_signup
 
-! 7/5/2018, 3:36:02 PM https://thedailywtf.com/articles/error-logging-vs-crash-reporting
-thedailywtf.com##[src*="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABdwAAALuCAYAAAC0INRMAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4nOy9a3bkOq4u+IGUws6qc++dT0+hh9HzX6t7nTo77ZBI9A8AJEhR8XKEHXYmqnbajpDEh0gQ+PCa/q//+/9h/KW/dCExM4gIzIyUF6S0IuUVzBk5p+ZaIgIAhDAhhhlTnEFECBQB2j7zmciPM2cZY84rYjxgijMAKt8/W9+vof59MjPej/8jn4PAqN8D9Z3KfQEhBLy+/C/5nOV7htw7bitgWd+wLL+ROQMADtMrYjwgxunsfPr+rus7mBnH9TeIAgiEeXrBNB3wP7//X70+4zD/C4f5FwBp/7I2Ao7LPzguvyGLlfFy+DeICDHMX/rumzlIOgdLOwfz/AvM+c79YzDLXBBB230r64AoIob47ffEo8nPj/2eOYM5I6UF63pE5lT2nFEIETFMmOdXEBEI4UfwoI/QaOzMDOaMNR11jxzBnDfzaXMYw4QYIihMiHEq3/3J8/oo8rxrWd+xpiNSWgDInP/Ss4Qobs6d/v35zx/9ntoz4R+YAPN6+C+RacJ0si/2eUorMies6Yh1PcLkiH+9/m/h33/X3V96INX9J7JXyitSOmJNi/LNLY8Muhen+IIYJ4QQTz77mcj6tOoY61gOP2qvVf70G8f1DdDzzssZgOOjIsaBiPAy/0KMM0LYl797fYiZ8Xb8j30pMvbhXxfJnLUvyk+P/wBU+WnmjMQJnFektCCGGTHOOMy/Lnpnhdfq/SLDy1gP8y/M0yNk4+vpo2fKx9ol5JyK3p45Y55eSzs/aW/cnxgAgbksWzC40UlNL/P81M73eXpBjDPiif32p9De+GVNJt3DFV8ayYGmFxlPf9S++UvtOQAQjss/WFbDSCD66fSKaXopMoZ/F8yMzBnBybp2zWf02+Sd4/IGAAgUMM+/ME+vZ88EP4Z/3v6/olPGOCPEiCnMmOLh5J"]
 
-! 7/5/2018, 3:36:17 PM https://thedailywtf.com/articles/error-logging-vs-crash-reporting
-thedailywtf.com##[href^="https://raygun.com/"]
 
-! 7/5/2018, 7:48:47 PM https://www.deviantart.com/ekelen
-www.deviantart.com###aboutme-prompt-pill
 
-www.deviantart.com##.popup2-bluesbar
 
-! 7/5/2018, 11:47:31 PM https://www.deviantart.com/ekelen
-www.deviantart.com##.catbar li.tab:nth-of-type(3)
 
-! 7/6/2018, 1:45:06 AM https://notalwaysright.com/page/27/
-notalwaysright.com##[href^="https://store.notalwaysright.com/"]
 
-! 7/6/2018, 1:45:14 AM https://notalwaysright.com/page/27/
-notalwaysright.com###narstore_menu_mobile_badge
 
-! 7/6/2018, 1:45:19 AM https://notalwaysright.com/page/27/
-notalwaysright.com###narstore_hamburgerbadge_mobile
 
-! 7/7/2018, 3:19:53 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
-www.nytimes.com##.shown
 
-! 7/7/2018, 3:20:36 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
-www.nytimes.com##.bottom-of-article
 
-! 7/7/2018, 3:21:02 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
-www.nytimes.com##[class^=RelatedCoverage]
 
-! 7/7/2018, 3:21:13 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
-www.nytimes.com##.hasLinks
 
-! 7/7/2018, 3:22:03 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
-www.nytimes.com##[class^=InlineMessage]
 
-! 7/7/2018, 3:22:24 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
-www.nytimes.com##li
 
-! 7/7/2018, 11:04:26 PM https://kinsta.com/blog/startups-avoid-stripe/
-kinsta.com##.widget-share
 
-! 7/7/2018, 11:05:00 PM https://kinsta.com/blog/startups-avoid-stripe/
-kinsta.com##[href^="https://kinsta.com/blog/"]
 
-! 7/9/2018, 2:21:13 PM https://grimtech.net/linux-how-to-mount-an-osx-dd-disk-image/
-grimtech.net###sidebar
 
-! 7/10/2018, 11:10:55 PM https://www.telegraph.co.uk/culture/film/film-news/9518320/Disney-threatens-legal-action-against-copycat-DVDs.html
-www.telegraph.co.uk##.oneSixth
 
-! 7/10/2018, 11:11:04 PM https://www.telegraph.co.uk/culture/film/film-news/9518320/Disney-threatens-legal-action-against-copycat-DVDs.html
-www.telegraph.co.uk##.oneThird
 
-! 7/10/2018, 11:15:27 PM http://www.businessinsider.com/disneys-going-after-a-uk-company-for-these-knockoff-films-2012-9
-www.businessinsider.com##.brands
 
-! 7/10/2018, 11:15:48 PM http://www.businessinsider.com/disneys-going-after-a-uk-company-for-these-knockoff-films-2012-9
-www.businessinsider.com##.post-content h2
 
-! 7/11/2018, 2:01:41 AM http://mentalfloss.com/article/55270/20-mockbusters-you-might-confuse-real-movie
-mentalfloss.com###featured-media
 
-! 7/11/2018, 2:01:48 AM http://mentalfloss.com/article/55270/20-mockbusters-you-might-confuse-real-movie
-mentalfloss.com###in-article-video-wrapper
 
-! 7/11/2018, 2:01:54 AM http://mentalfloss.com/article/55270/20-mockbusters-you-might-confuse-real-movie
-mentalfloss.com##.fixed-header-close
 
-! 7/11/2018, 2:19:56 AM http://mentalfloss.com/article/91058/facts-about-blackadder-goes-forth-rowan-atkinson
-mentalfloss.com###article-2
 
-! 7/11/2018, 2:20:22 AM http://mentalfloss.com/article/91058/facts-about-blackadder-goes-forth-rowan-atkinson
-mentalfloss.com##[id^=article-]:not(#article-1)
 
-! 7/11/2018, 2:20:46 AM http://mentalfloss.com/article/91058/facts-about-blackadder-goes-forth-rowan-atkinson
-mentalfloss.com###sections-section
 
-! 7/11/2018, 2:21:01 AM http://mentalfloss.com/article/91058/facts-about-blackadder-goes-forth-rowan-atkinson
-mentalfloss.com##.footer-section-wrapper
 
-mentalfloss.com
 
-! 7/11/2018, 3:29:33 AM http://www.readfileonline.com/
-www.readfileonline.com##form
 
-! 7/11/2018, 3:34:48 AM https://www.emeditor.com/download/
-www.emeditor.com##.iconbox_content
 
-! 7/11/2018, 3:07:18 PM https://www.bbc.co.uk/news/technology-42352606
-www.bbc.co.uk###comp-pattern-library
 
-! 7/11/2018, 3:07:36 PM https://www.bbc.co.uk/news/technology-42352606
-www.bbc.co.uk###comp-elsewhere-on-the-bbc
 
-! 7/11/2018, 3:07:44 PM https://www.bbc.co.uk/news/technology-42352606
-www.bbc.co.uk##.page__foot
 
-! 7/11/2018, 3:07:49 PM https://www.bbc.co.uk/news/technology-42352606
-www.bbc.co.uk###bbc-news-services
 
-! 7/11/2018, 3:07:55 PM https://www.bbc.co.uk/news/technology-42352606
-www.bbc.co.uk###comp-features-and-analysis
 
-! 7/13/2018, 3:37:10 AM https://www.imdb.com/title/tt1981128/reviews?ref_=tt_urv
-www.imdb.com##[id^=floater_]
 
-! 7/13/2018, 3:37:58 AM https://www.imdb.com/title/tt1981128/reviews?ref_=tt_urv
-www.imdb.com###wrapper > img
 
-! 7/13/2018, 9:55:48 PM https://www.scoringnotes.com/reviews/dorico-pro-2-review/
-www.scoringnotes.com##.footer-enjoy
 
-! 7/13/2018, 9:56:01 PM https://www.scoringnotes.com/reviews/dorico-pro-2-review/
-www.scoringnotes.com##.related-posts
 
-! 7/14/2018, 12:09:18 AM https://www.techwalla.com/articles/how-to-rip-streaming-video
-www.techwalla.com###jwplayer-section
 
-! 7/18/2018, 6:07:19 PM http://www.modtitan.com/2017/04/finding-shutdown-causes-in-macos.html
-www.modtitan.com##.related-posts
 
-! 7/18/2018, 6:07:29 PM http://www.modtitan.com/2017/04/finding-shutdown-causes-in-macos.html
-www.modtitan.com##.sidebar-wrapper
 
-! 7/19/2018, 5:16:16 PM https://arstechnica.com/gaming/2017/11/could-disney-finally-give-us-the-remastered-unedited-star-wars-we-want/
-arstechnica.com###article-footer-wrap
 
-! 7/22/2018, 4:41:09 PM https://articles.mercola.com/sites/articles/archive/2013/01/27/soybean-oil.aspx
-articles.mercola.com###mid-optin
 
-! 7/23/2018, 1:25:45 PM https://www.ebony.com/entertainment-culture/kevin-spacey-racist
-www.ebony.com##.giphy-embed
 
-! 7/24/2018, 10:51:17 PM http://latimesblogs.latimes.com/babylonbeyond/2008/10/iran-1.html
-latimesblogs.latimes.com##p:has([href="https://secure.latimes.com/services/site/registration/show-editproducts.register"])
 
-! 7/24/2018, 10:53:21 PM http://www.nydailynews.com/entertainment/gossip/love-interest-leonardo-dicaprio-new-film-fears-exile-iran-article-1.303459
-www.nydailynews.com##.slider
 
-! 7/24/2018, 10:59:58 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
-www.newser.com###carousel_StoryInSection2
 
-! 7/24/2018, 11:00:06 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
-www.newser.com###divRightRail
 
-! 7/24/2018, 11:00:18 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
-www.newser.com###divSocialAndCommentsButtonsTop
 
-! 7/24/2018, 11:00:26 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
-www.newser.com###divSocialAndCommentsButtonsBottom
 
-! 7/24/2018, 11:00:35 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
-www.newser.com###YouMightLike
 
-! 7/24/2018, 11:00:43 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
-www.newser.com###divNextStoryHeadline
 
-! 7/24/2018, 11:04:03 PM https://www.telegraph.co.uk/news/worldnews/middleeast/iran/9406119/Iran-imposes-travel-ban-on-star-actresses.html
-www.telegraph.co.uk###tmg-related-links
 
-! 7/24/2018, 11:50:52 PM https://en.wikivoyage.org/wiki/Si_Phan_Don#Q1319369
-en.wikivoyage.org###centralNotice
 
-! 7/25/2018, 12:44:12 AM https://www.cbsnews.com/news/former-congressman-joe-walsh-explains-how-sacha-baron-cohen-tricked-him-on-new-show/
-www.cbsnews.com###article-entry ul
 
-! 7/25/2018, 5:55:28 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
-deadline.com###carousel
 
-! 7/25/2018, 5:55:39 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
-deadline.com##.below-header
 
-! 7/25/2018, 5:55:49 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
-deadline.com###sidebar
 
-! 7/25/2018, 5:55:58 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
-deadline.com##.related-article
 
-! 7/25/2018, 5:56:37 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
-deadline.com##[id^=adm-inline-article-ad]
 
-! 7/25/2018, 6:04:24 PM https://e.issuu.com/embed.html#33061758/59671315
-e.issuu.com##.header-controls__items
 
-! 7/25/2018, 6:04:39 PM https://e.issuu.com/embed.html#33061758/59671315
-e.issuu.com###branding
 
-! 7/25/2018, 6:04:45 PM https://e.issuu.com/embed.html#33061758/59671315
-e.issuu.com##.controls__read-on-issuu
 
-! 7/25/2018, 6:14:11 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
-deadline.com###comments-loaded
 
-! 7/25/2018, 6:14:38 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
-deadline.com##.textwidget:has([href="http://pages.email.deadline.com/signup"])
 
-! 7/25/2018, 6:14:45 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
-deadline.com###footer
 
-! 7/25/2018, 6:16:00 PM https://mubi.com/notebook/posts/dwayne-johnson-s-new-kind-of-hollywood-masculinity
-mubi.com##.film-sticky
 
-! 7/26/2018, 12:55:05 AM http://www2.0123movies.org/watch/san-andreas-2015-online-123movies.html
-www2.0123movies.org##[href^="//"]
 
-! 7/29/2018, 4:48:23 PM https://translate.google.com/translate?sl=it&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FStrippaggio&edit-text=
-translate.google.com##.gb_Vc
 
-! 7/31/2018, 12:25:30 PM https://www.walldevil.com/phoenix-wallpaper-866660/
-www.walldevil.com##.adb
 
-! 7/31/2018, 10:54:23 PM https://sourceforge.net/projects/mantisbt/files/latest/download?source=files
-sourceforge.net###site-notification
 
-! 8/2/2018, 12:09:27 AM https://sdtimes.com/softwaredev/gitlab-10-8-open-sources-push-mirroring/
-sdtimes.com##.related-posts
 
-! 8/2/2018, 1:36:32 AM https://www.infoworld.com/article/3072886/application-development/gitlab-goes-heavy-on-docker-registry-support-light-on-restrictions.html
-www.infoworld.com##aside.fakesidebar
 
-dailydot.com
 
-! 8/2/2018, 7:25:19 PM https://www.somethingawful.com/movie-reviews/lifes-jungle/
-www.somethingawful.com##.recent_articles
 
-! 8/2/2018, 7:25:26 PM https://www.somethingawful.com/movie-reviews/lifes-jungle/
-www.somethingawful.com##.article_nav
 
-! 8/2/2018, 7:25:42 PM https://www.somethingawful.com/movie-reviews/lifes-jungle/
-www.somethingawful.com##.right
 
-! 8/3/2018, 1:53:31 AM https://www.reddit.com/r/IAmA/comments/1p32dl/im_rl_stine_and_its_my_job_to_terrify_kids_ask_me/ccy8g6h/?context=3
-www.reddit.com###SHORTCUT_FOCUSABLE_DIV > div > div:nth-of-type(1)
 
-! 8/3/2018, 5:32:09 AM https://www.google.com/search?q=life%27s+a+jungle&ei=dJJjW7bpBo7L_QaYi7iwBA&start=10&sa=N&biw=1008&bih=677
-www.google.com##.gb_aa
 
-! 8/5/2018, 6:58:11 PM https://stackoverflow.com/questions/4210042/how-to-exclude-a-directory-in-find-command
-stackoverflow.com###left-sidebar
 
-! 8/5/2018, 6:58:52 PM https://stackoverflow.com/questions/4210042/how-to-exclude-a-directory-in-find-command
-stackoverflow.com##.tag-popup
 
-! 8/6/2018, 1:34:54 PM https://www.orkin.com/ask-the-orkin-man/white-bugs-in-bathroom/
-www.orkin.com###ciq_bbb_fixed_badge
 
-ehubsoft.net
-midiplayer.ehubsoft.net
 
-! 8/10/2018, 12:18:12 PM https://www.online.net/en/dedicated-server
-www.online.net##.Footer__love
 
-! 8/10/2018, 2:26:34 PM https://dokumen.tips/download/link/collected-pdfs-of-why
-dokumen.tips##.header_right_button
 
-! 8/10/2018, 2:27:00 PM https://dokumen.tips/download/link/collected-pdfs-of-why
-dokumen.tips##.content_slide_inside_right
 
-! 8/10/2018, 2:27:16 PM https://dokumen.tips/download/link/collected-pdfs-of-why
-dokumen.tips###box-like
 
-! 8/10/2018, 2:27:42 PM https://dokumen.tips/download/link/collected-pdfs-of-why
-dokumen.tips##.content_download_left p
 
-! 8/10/2018, 2:27:57 PM https://dokumen.tips/download/link/collected-pdfs-of-why
-dokumen.tips##.content_download_left.content_slide_inside_left > div:nth-of-type(3)
 
-! 8/10/2018, 2:41:20 PM https://library.creativecow.net/kaufman_debra/Children-of-Paradise/1
-library.creativecow.net##[href^="https://secure.creativecow.net/account/subscribe"]
 
-! 8/10/2018, 2:42:05 PM https://library.creativecow.net/kaufman_debra/Children-of-Paradise/1
-library.creativecow.net###top
 
-! 8/10/2018, 2:42:21 PM https://library.creativecow.net/kaufman_debra/Children-of-Paradise/1
-library.creativecow.net##.socShareDiv
 
-! 8/10/2018, 2:43:04 PM https://library.creativecow.net/kaufman_debra/Children-of-Paradise/1
-library.creativecow.net###midContent > table:nth-of-type(2)
 
-! 8/10/2018, 4:24:44 PM https://www.wired.com/2014/02/bitcoins-mt-gox-implodes-2/
-www.wired.com##.paywall-container-component
 
-! 8/12/2018, 2:04:41 AM https://www.billboard.com/articles/columns/pop/8005599/ariana-grande-my-everything-stool-meme
-www.billboard.com##.sticky-wrapper
 
-! 8/12/2018, 2:04:59 AM https://www.billboard.com/articles/columns/pop/8005599/ariana-grande-my-everything-stool-meme
-www.billboard.com##.floating
 
-! 8/12/2018, 2:05:20 AM https://www.billboard.com/articles/columns/pop/8005599/ariana-grande-my-everything-stool-meme
-www.billboard.com##.js-floater
 
-! 8/14/2018, 3:55:35 AM https://www.hackerrank.com/challenges/fizzbuzz/problem
-www.hackerrank.com##.modal-wrapper
 
-! 8/14/2018, 3:55:51 AM https://www.hackerrank.com/challenges/fizzbuzz/problem
-www.hackerrank.com##.fab-popup-handle
 
-hackerrank.com
 
-! 8/15/2018, 1:09:19 AM https://www.greatbigstory.com/stories/the-origin-of-the-ubiquitous-air-horn
-www.greatbigstory.com##div.dark-element .playlist-container
 
-! 8/15/2018, 1:09:30 AM https://www.greatbigstory.com/stories/the-origin-of-the-ubiquitous-air-horn
-www.greatbigstory.com##.playlist-container
 
-! 8/15/2018, 1:09:39 AM https://www.greatbigstory.com/stories/the-origin-of-the-ubiquitous-air-horn
-www.greatbigstory.com##.main-footer-wrapper
 
-! 8/15/2018, 3:43:29 AM https://blog.pinboard.in/2014/04/cloudy_snake_oil/
-blog.pinboard.in###right_column
 
-! 8/16/2018, 4:24:41 PM https://math.stackexchange.com/questions/566029/in-a-right-triangle-given-slope-and-length-of-hypotenuse-find-length-of-legs
-math.stackexchange.com##.s-hero
 
-! 8/16/2018, 11:45:57 PM https://www.youtube.com/channel/UC9hJolK5HHJz2zjL4IgntyQ
-www.youtube.com##.ytd-mini-channel-renderer
 
-! 8/18/2018, 2:04:39 AM https://nolanlawson.com/2015/07/05/safari-is-the-new-ie-2-revenge-of-the-linkbait/
-nolanlawson.com##.actnbr-btn
 
-! 8/18/2018, 2:55:14 AM https://nolanlawson.com/2015/07/05/safari-is-the-new-ie-2-revenge-of-the-linkbait/
-nolanlawson.com###actionbar
 
-! 8/19/2018, 1:54:28 AM https://apple.stackexchange.com/questions/310594/what-is-photoanalysisd-and-why-is-it-using-77-of-my-cpu
-apple.stackexchange.com##.s-hero
 
-! 8/19/2018, 1:54:38 AM https://apple.stackexchange.com/questions/310594/what-is-photoanalysisd-and-why-is-it-using-77-of-my-cpu
-apple.stackexchange.com##.site-header
 
-! 8/19/2018, 1:54:49 AM https://apple.stackexchange.com/questions/310594/what-is-photoanalysisd-and-why-is-it-using-77-of-my-cpu
-apple.stackexchange.com###left-sidebar
 
-! 8/19/2018, 1:55:02 AM https://apple.stackexchange.com/questions/310594/what-is-photoanalysisd-and-why-is-it-using-77-of-my-cpu
-apple.stackexchange.com##.sidebar-related
 
-! 8/19/2018, 2:46:57 AM https://krebsonsecurity.com/2018/08/indian-bank-hit-in-13-5m-cyberheist-after-fbi-atm-cashout-warning/
-||krebsonsecurity.com/wp-content/uploads/2014/10/amazon-mid.png$image
 
-! 8/22/2018, 10:18:41 PM https://mp3im.org/song/46873630/Katie_Price_And_Peter_Andre_-_A_Whole_New_World/
-mp3im.org##[class*=cplayer-ui-share-]
 
-! 8/23/2018, 3:26:51 AM https://www.scmagazine.com/ios-devices-dont-have-to-be-jailbroken-for-spyware-sold-by-hacking-team-to-be-installed/article/532609/
-www.scmagazine.com###main-header-navigation
 
-! 8/23/2018, 3:27:49 AM https://www.scmagazine.com/ios-devices-dont-have-to-be-jailbroken-for-spyware-sold-by-hacking-team-to-be-installed/article/532609/
-www.scmagazine.com##.multiple-column-asset
 
-! 8/23/2018, 3:54:50 AM https://nakedsecurity.sophos.com/2016/04/19/how-hacking-team-got-hacked/
-nakedsecurity.sophos.com##.sophos_widget_ad
 
-! 8/26/2018, 11:32:15 PM https://unix.stackexchange.com/questions/263904/split-file-into-multiple-files-based-on-pattern
-unix.stackexchange.com##.s-hero
 
-! 8/26/2018, 11:32:26 PM https://unix.stackexchange.com/questions/263904/split-file-into-multiple-files-based-on-pattern
-unix.stackexchange.com###left-sidebar
 
-! 8/26/2018, 11:44:54 PM https://askubuntu.com/questions/584724/split-contents-of-a-directory-into-multiple-sub-directories
-askubuntu.com###left-sidebar
 
-! 8/26/2018, 11:45:03 PM https://askubuntu.com/questions/584724/split-contents-of-a-directory-into-multiple-sub-directories
-askubuntu.com##.s-hero
 
-! 8/27/2018, 12:48:17 AM https://superuser.com/questions/966116/partition-directories-into-subdirectories-based-on-directory-name
-superuser.com##.s-hero
 
-! 8/27/2018, 12:48:22 AM https://superuser.com/questions/966116/partition-directories-into-subdirectories-based-on-directory-name
-superuser.com###left-sidebar
 
-! 8/27/2018, 5:43:21 PM http://www.vmwareandme.com/2013/10/download-os-x-108-mountain-lion-vmware.html
-www.vmwareandme.com###Moontricksstylepopupdiv
 
-! 8/27/2018, 5:49:43 PM https://io9.gizmodo.com/5938332/how-to-run-mac-os-x-on-any-windows-pc-using-virtualbox
-io9.gizmodo.com##aside
 
-! 8/27/2018, 6:35:52 PM https://olarila.com/forum/viewforum.php?f=27
-olarila.com###phpbb-ads-ab
 
-! 8/28/2018, 5:09:26 PM https://www.mpgh.net/forum/showthread.php?t=178743
-||npcvend.com/about/products.php$subdocument
 
-! 8/29/2018, 12:26:50 AM http://wegotthiscovered.com/music/infected-mushrooms-fields-grey-features-unexpected-vocalist/
-wegotthiscovered.com###vuukle-comments
 
-! 8/29/2018, 12:27:04 AM http://wegotthiscovered.com/music/infected-mushrooms-fields-grey-features-unexpected-vocalist/
-wegotthiscovered.com###sidebar
 
-! 8/29/2018, 12:27:13 AM http://wegotthiscovered.com/music/infected-mushrooms-fields-grey-features-unexpected-vocalist/
-wegotthiscovered.com##.footer
 
-! 8/29/2018, 5:09:15 AM http://library1.ga/_ads/AF9C74E46AB95731F9F6B9FB2EEBA003
-library1.ga###message
 
-! 8/29/2018, 3:55:42 PM https://www.medicalnewstoday.com/articles/321972.php
-www.medicalnewstoday.com##.related_inline
 
-! 8/29/2018, 3:55:51 PM https://www.medicalnewstoday.com/articles/321972.php
-www.medicalnewstoday.com###subnavigation
 
-! 8/29/2018, 3:56:01 PM https://www.medicalnewstoday.com/articles/321972.php
-www.medicalnewstoday.com###navigation
 
-! 8/29/2018, 3:56:10 PM https://www.medicalnewstoday.com/articles/321972.php
-www.medicalnewstoday.com###navigation_scroll
 
-! 9/2/2018, 10:03:28 PM https://www.allposters.com/gallery.asp?startat=%2Fgetthumb.asp&CID=3951767A94EC45B4831103254B21D93A&txtSearch=detail+of+green+falls+baxter&SSK=detail+of+green+falls+baxter&exactMat=yes
-www.allposters.com###lightbox-body-container
 
-! 9/2/2018, 10:19:50 PM https://www.techradar.com/how-to/how-to-get-googles-view-image-link-back
-www.techradar.com##.jw-carousel
 
-! 9/2/2018, 10:20:05 PM https://www.techradar.com/how-to/how-to-get-googles-view-image-link-back
-www.techradar.com##.read-more-container
 
-! 9/2/2018, 10:20:11 PM https://www.techradar.com/how-to/how-to-get-googles-view-image-link-back
-www.techradar.com##.related-articles-block
 
-! 9/2/2018, 11:13:15 PM https://lightonthetrail.com/tag/rivers/
-lightonthetrail.com##.blog-credits
 
-! 9/8/2018, 3:46:36 PM https://nesthq.com/genre-isnt-bad-word
-nesthq.com##.music-player-container
 
-! 9/8/2018, 3:46:49 PM https://nesthq.com/genre-isnt-bad-word
-nesthq.com##.logo
 
-! 9/8/2018, 3:47:17 PM https://nesthq.com/genre-isnt-bad-word
-nesthq.com##.no-margin.button-back
 
-! 9/8/2018, 8:38:28 PM http://www.sun-sentinel.com/local/broward/fl-tesla-crash-friday-20180511-story.html
-www.sun-sentinel.com##.trb_nh
 
-! 9/12/2018, 7:26:04 PM https://merryjane.com/culture/hitunes-willie-nelson-smoke-sesh-urban-legend
-merryjane.com###footerDivId
 
-! 9/12/2018, 7:41:32 PM https://merryjane.com/culture/cannamojo-is-a-thc-infused-sex-pill-that-wants-to-keep-you-high-and-hard
-||/static/images/adblock_placeholder*$image
 
-@@||wikipedia.org/w/load.php?*startup$script
 
-! 9/15/2018, 6:42:08 PM http://www.linuxforums.org/forum/newbie/185268-i-need-maximal-file-length-beyond-255-a.html
-www.linuxforums.org##td > div
 
-! 9/15/2018, 6:42:23 PM http://www.linuxforums.org/forum/newbie/185268-i-need-maximal-file-length-beyond-255-a.html
-www.linuxforums.org###navbar_notice_3
 
-! 9/18/2018, 11:36:53 PM http://mark0.net/onlinetrid.py
-mark0.net##[href^="https://shapeshift.io/shifty.html"]
 
-! 9/18/2018, 11:37:08 PM http://mark0.net/onlinetrid.py
-mark0.net##[href^="bitcoin:"]
 
-! 9/18/2018, 11:37:16 PM http://mark0.net/onlinetrid.py
-mark0.net##[href^="mailto:marcopon+OnLineTrID@gmail.com"]
 
-! 9/20/2018, 4:25:47 AM https://www.link-assistant.com/news/page-rank-2018.html
-www.link-assistant.com##.mobile-share-buttons
 
-link-assistant.com
 
-! 9/20/2018, 4:28:04 AM https://www.link-assistant.com/news/page-rank-2018.html
-www.link-assistant.com##.static-menu
 
-! 9/20/2018, 5:47:05 AM http://ignorethecode.net/blog/2009/11/17/picasas_scrollbars/
-||ignorethecode.net/blog_images/background.jpg$image
 
-! 9/20/2018, 5:47:12 AM http://ignorethecode.net/blog/2009/11/17/picasas_scrollbars/
-||ignorethecode.net/blog_images/designed_for_use_second_edition.jpg$image
 
-! 9/21/2018, 7:16:40 PM http://www.wbur.org/bostonomix/2018/07/10/isle-au-haut-microgrid
-www.wbur.org##span > .section--island
 
-! 9/21/2018, 7:16:51 PM http://www.wbur.org/bostonomix/2018/07/10/isle-au-haut-microgrid
-www.wbur.org##.global-audio-components
 
-! 9/21/2018, 7:21:42 PM http://lib1.org/_ads/783A03BD2F9C83154F0B054AEF985D95
-lib1.org###message
 
-! 9/21/2018, 10:46:36 PM https://priceonomics.com/the-wilhelm-scream-cinemas-most-overused-sound/
-priceonomics.com##.content-extra
 
-! 9/24/2018, 2:53:55 AM http://www.virginislandsdailynews.com/why-is-the-background-music-on-tv-shows-so-loud/article_dbe73dc3-9fec-5182-94d9-85fdc960e10b.html
-www.virginislandsdailynews.com##.hidden-print
 
-! 9/25/2018, 12:22:57 PM https://www.fastcompany.com/40433793/my-company-tried-slack-for-two-years-this-is-whywe-quit
-www.fastcompany.com##[href^="https://www.fastcompany.com/"]
 
-! 9/25/2018, 12:23:21 PM https://www.fastcompany.com/40433793/my-company-tried-slack-for-two-years-this-is-whywe-quit
-www.fastcompany.com##.video-module
 
-! 9/25/2018, 10:35:00 PM https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71
-||cdn-images-1.medium.com/max/2000/1*GPjaPKNNUYHU8EsA3Z0JGA.png$image
 
-! 9/25/2018, 10:35:41 PM https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71
-blog.logrocket.com##[href^="https://logrocket.com/signup"]
 
-! 9/25/2018, 10:51:36 PM https://www.fastly.com/blog/hijacking-control-flow-webassembly
-www.fastly.com##.cards
 
-! 9/25/2018, 10:51:47 PM https://www.fastly.com/blog/hijacking-control-flow-webassembly
-www.fastly.com##.header--main
 
-! 9/28/2018, 11:36:41 AM https://www.g2crowd.com/compare/inkscape-vs-pixelmator
-www.g2crowd.com##.chat-button
 
-! 9/29/2018, 6:04:13 AM https://gizmodo.com/lets-make-the-world-wide-web-a-national-monument-1829306108
-gizmodo.com##.global-nav--scrollback
 
-! 9/30/2018, 7:46:56 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.s-hero
 
-! 9/30/2018, 7:47:07 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.top-bar
 
-! 9/30/2018, 7:47:12 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.site-header
 
-! 9/30/2018, 7:47:17 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com###left-sidebar
 
-! 9/30/2018, 7:47:30 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.vote-up-off
 
-! 9/30/2018, 7:47:37 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.vote-down-off
 
-! 9/30/2018, 7:47:43 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.star-off
 
-! 9/30/2018, 7:47:52 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.suggest-edit-post
 
-! 9/30/2018, 7:48:01 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.short-link
 
-! 9/30/2018, 7:48:10 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.comments-link
 
-! 9/30/2018, 7:48:17 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com###post-form
 
-! 9/30/2018, 7:48:24 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com###sidebar
 
-! 9/30/2018, 7:48:29 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com##.bottom-notice
 
-! 9/30/2018, 7:48:34 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
-serverfault.com###footer
 
-! 9/30/2018, 7:50:32 PM https://www.google.com/search?q=%22video+playback+aborted+due+to+a+network+error%22&client=firefox-b-1-ab&ei=BGGxW9v_KZGY_QaZ2InwDQ&start=30&sa=N&biw=1352&bih=923
-||www.google.com/images/branding/*$image
 
-##[href="https://support.google.com/youtube/?p=missing_quality"]
 
-! 9/30/2018, 8:55:19 PM https://otakuplan.com/blogs/news/best-32-websites-to-watch-and-stream-anime-online-in-2018
-otakuplan.com###shopify-section-header
 
-! 9/30/2018, 8:55:57 PM https://otakuplan.com/blogs/news/best-32-websites-to-watch-and-stream-anime-online-in-2018
-otakuplan.com###someone-purchased
 
-! 9/30/2018, 8:56:10 PM https://otakuplan.com/blogs/news/best-32-websites-to-watch-and-stream-anime-online-in-2018
-otakuplan.com
 
-! 10/3/2018, 10:52:03 AM https://www.youtube.com/watch?v=kVTbVc0Eoa4
-www.youtube.com###merch-shelf
 
-! 10/3/2018, 4:42:06 PM https://genius.com/11483554
-||genius.com/*/apple_music_player$subdocument
 
-! 10/3/2018, 7:58:55 PM https://biznology.com/2017/11/free-version-cloudflare-content-delivery-network-cdn-heals-website-wounds/
-biznology.com##[href="/subscribe/"]
 
-! 10/5/2018, 11:22:33 AM https://www.tvaddons.co/fork-preserve-github/
-www.tvaddons.co###td-header-menu
 
-! 10/5/2018, 11:22:40 AM https://www.tvaddons.co/fork-preserve-github/
-www.tvaddons.co##.td-header-menu-wrap
 
-! 10/5/2018, 2:14:34 PM https://www.zdnet.com/article/cybercriminals-spotted-hiding-cryptocurrency-mining-malware-in-forked-projects-on-github/
-www.zdnet.com##[href^="https://www.zdnet.com/article/"]
 
-technologyreview.com
-thetimes.co.uk
 
-! 10/6/2018, 12:03:27 PM https://collections.vam.ac.uk/item/O126216/salisbury-cathedral-from-the-south-oil-sketch-john-constable/
-collections.vam.ac.uk##.b-modal
 
-! 10/11/2018, 11:51:22 AM https://www.trustedreviews.com/news/new-gmail-3461611
-www.trustedreviews.com###header
 
-! 10/11/2018, 8:18:05 PM https://www.amazon.com/Swan-Prince-Book-Wilderhark-Tales-ebook/dp/B00CZEZS5Q
-||images-na.ssl-images-amazon.com/images/*/subsamazon/merch/*$image
 
-! 10/11/2018, 8:18:43 PM https://www.amazon.com/Swan-Prince-Book-Wilderhark-Tales-ebook/dp/B00CZEZS5Q
-www.amazon.com##[href^="https://www.amazon.com/cr/forteens"]
 
-! 10/13/2018, 11:05:42 PM https://codegolf.stackexchange.com/questions/102370/add-a-language-to-a-polyglot
-codegolf.stackexchange.com##.s-hero
 
-! 10/13/2018, 11:05:51 PM https://codegolf.stackexchange.com/questions/102370/add-a-language-to-a-polyglot
-codegolf.stackexchange.com###left-sidebar
 
-! 10/13/2018, 11:05:57 PM https://codegolf.stackexchange.com/questions/102370/add-a-language-to-a-polyglot
-codegolf.stackexchange.com##.site-header
 
-@@rapidvideo.com
 
-! 10/24/2018, 7:03:22 PM https://www.nbcnews.com/feature/nbc-out/following-backlash-company-stops-selling-caitlyn-jenner-costume-n924071
-www.nbcnews.com##[class^="related___"]
 
-variety.com
 
-! 10/29/2018, 11:44:47 AM http://wiki.bash-hackers.org/syntax/pe
-wiki.bash-hackers.org##[href="http://www.performing-databases.com"]
 
-! 10/29/2018, 5:31:00 PM https://www.imdb.com/user/ur35511274/ratings?sort=date_added%2Cdesc&mode=detail&paginationKey=zfxjlj3fi62aqh65du7o2aoq5574k2ib36wxsotvw2dxztx4knu5kdgrxmbtoc34wjtsruxgtwll7hevdhekkj3yoz2uomqpi5ozfyjf22ivk6usv3hkpws2ootagen62gdlj7upcpxrclpxt657s4rv5yrkbwespcf7nule6uklg7agp5kfp56ye76yxvt2ctabzktqwfblm&lastPosition=100
-www.imdb.com##.wtw-option-standalone
 
-! 11/7/2018, 3:57:42 PM http://time.com/5447619/boeing-737-max-crash/
-time.com##.under-nav
 
-! 11/7/2018, 3:58:00 PM http://time.com/5447619/boeing-737-max-crash/
-time.com##[href^="https://geo-subscription.time.com/storefront/subscribe-to-time/"]
 
-! 11/11/2018, 4:10:38 PM https://gaming.youtube.com/watch?v=xGLXzKFaCdg
-gaming.youtube.com##.ytg-membership-offer-button
 
-! 11/11/2018, 4:58:16 PM https://gaming.youtube.com/watch?v=Rjlcs3kEDPw
-gaming.youtube.com##.ytg-membership-offer-button-0
 
-! 11/11/2018, 5:59:32 PM https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Deltarune
-tvtropes.org##.mobile-ad
 
-! 11/15/2018, 7:32:59 PM https://www.youtube.com/watch?v=mHyYLQ5w6gs
-www.youtube.com###sponsor-button
 
-! 11/18/2018, 4:30:08 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
-cosmosmagazine.com###announcements
 
-! 11/18/2018, 4:30:23 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
-cosmosmagazine.com##.btn-group
 
-! 11/18/2018, 4:30:51 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
-cosmosmagazine.com##.bg-yellow
 
-! 11/18/2018, 4:31:13 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
-cosmosmagazine.com##.section-popular
 
-! 11/18/2018, 4:31:27 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
-cosmosmagazine.com##.section-latest
 
-! 11/18/2018, 4:31:35 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
-cosmosmagazine.com##.section-recommended
 
-! 11/18/2018, 4:31:44 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
-cosmosmagazine.com##.footer-dark
 
-! 11/30/2018, 5:05:59 AM https://www.tor.com/2014/09/09/post-binary-gender-in-sf-congenital-agenesis-of-gender-ideation-by-kn-sirsi-and-sandra-botkin-by-raphael-carter/
-www.tor.com##[href^="http://www.amazon.com/"]
 
-! 12/3/2018, 2:54:08 AM https://thewire.in/history/curation-at-the-cost-of-history-a-tale-of-two-bihar-museums
-thewire.in##.header__subscribe-button
 
-! 12/3/2018, 2:54:28 AM https://thewire.in/history/curation-at-the-cost-of-history-a-tale-of-two-bihar-museums
-thewire.in##.postComplete__orcsnet
 
-mic.com
-slideshare.net
-vdocuments.mx
 
-! 12/10/2018, 2:56:21 PM http://www.paulgraham.com/icad.html
-www.paulgraham.com##[href="http://ycombinator.com/apply.html"]
 
-! 12/10/2018, 7:21:58 PM https://hub.packtpub.com/mozilla-shares-plans-to-bring-desktop-applications-games-to-webassembly-and-make-deeper-inroads-for-the-future-web/
-hub.packtpub.com##.td-header-menu-wrap
 
-independent.ie
-vdocuments.site
 
-wkyc.com
-ksdk.com
-9news.com
 
-discomusic.com
 
-bloomberg.com
-smithsonianmag.com
 
-imgur.com
-kuvat.fi
-technologyreview.com
 
-! 1/7/2019, 2:25:08 PM https://softwareengineering.stackexchange.com/questions/357084/when-do-function-call-costs-still-matter-in-modern-compilers
-softwareengineering.stackexchange.com##.s-hero
 
-! 1/7/2019, 2:25:15 PM https://softwareengineering.stackexchange.com/questions/357084/when-do-function-call-costs-still-matter-in-modern-compilers
-softwareengineering.stackexchange.com###left-sidebar
 
-! 1/7/2019, 2:25:30 PM https://softwareengineering.stackexchange.com/questions/357084/when-do-function-call-costs-still-matter-in-modern-compilers
-softwareengineering.stackexchange.com##.js-vote-up-btn
 
-! 1/7/2019, 2:25:39 PM https://softwareengineering.stackexchange.com/questions/357084/when-do-function-call-costs-still-matter-in-modern-compilers
-softwareengineering.stackexchange.com##.js-vote-down-btn
 
-! 1/9/2019, 4:17:29 PM https://repl.it/repls/DefiantAromaticStartup
-repl.it##.is-logged-out
 
-future-processing.pl
-dropbox.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ! 1/14/2019, 11:07:28 PM http://jsben.ch/QgYAV
-jsben.ch##.right-content.column.wide.eight > div:nth-of-type(5)
-
 ! 1/14/2019, 11:19:55 PM http://2ality.com/2012/03/private-data.html
-2ality.com###adbox
-
 ! 1/14/2019, 11:20:05 PM http://2ality.com/2012/03/private-data.html
-2ality.com###top_row
-
-philips.com
-freepatentsonline.com
-lifehacker.com
-
 ! 1/23/2019, 12:54:30 PM https://mathoverflow.net/questions/34699/approaches-to-riemann-hypothesis-using-methods-outside-number-theory
-mathoverflow.net##.js-dismissable-hero
-
 ! 1/23/2019, 12:54:46 PM https://mathoverflow.net/questions/34699/approaches-to-riemann-hypothesis-using-methods-outside-number-theory
-mathoverflow.net##.top-bar
-
-youtube.com
-thetechreader.com
-
 ! 1/25/2019 https://gamedev.stackexchange.com
-gamedev.stackexchange.com##.js-dismissable-hero
-
-! 1/27/2019 https://github.com
-github.com##.hide-lg
-github.com##.js-header-wrapper li:nth-of-type(4)
-github.com##.header-logo-invertocat
-github.com##.user-status-container
-
-! 1/27/2019 https://english.stackexchange.com
-english.stackexchange.com##.js-dismissable-hero
-
 ! 1/27/2019 http://www.easybib.com
-www.easybib.com###easy-widget
-stuff.co.nz
-
-! 1/31/2019 https://underscorejs.org
-underscorejs.org###sidebar
-
+! 1/27/2019 https://english.stackexchange.com
+! 1/27/2019 https://github.com
 ! 1/31/2019 https://spanish.stackexchange.com
-spanish.stackexchange.com##.js-dismissable-hero
-
-! 2/2/2019 https://www.0123movieshd.com
-www.0123movieshd.com##.dsModal
-
-imdb.com
-||github.com/notifications^|$document
-||github.com^|$document
-||en.wikipedia.org/wiki/Wikipedia:*$document
-||en.wikipedia.org/wiki/Main_Page|$document
-||en.wikipedia.org/wiki/Special:Search?search=&sourceid=Mozilla-search|$document
-margunnbjornholt.no
-
-! 2/5/2019 https://codeburst.io
-codeburst.io##.graf-after--h3.graf--blockquote
-hoehrmann.de
-worldtribune.com
-
-! 2/9/2019 https://www.youtube.com
-www.youtube.com##.notification-button-style-type-default
-www.youtube.com##.notification-button-style-type-conversation-default
-www.youtube.com###menu-container
-neilgunton.com
-fortworthinjuryattorneyblog.com
-
+! 1/31/2019 https://underscorejs.org
+! 1/7/2019, 2:25:08 PM https://softwareengineering.stackexchange.com/questions/357084/when-do-function-call-costs-still-matter-in-modern-compilers
+! 1/7/2019, 2:25:15 PM https://softwareengineering.stackexchange.com/questions/357084/when-do-function-call-costs-still-matter-in-modern-compilers
+! 1/7/2019, 2:25:30 PM https://softwareengineering.stackexchange.com/questions/357084/when-do-function-call-costs-still-matter-in-modern-compilers
+! 1/7/2019, 2:25:39 PM https://softwareengineering.stackexchange.com/questions/357084/when-do-function-call-costs-still-matter-in-modern-compilers
+! 1/9/2019, 4:17:29 PM https://repl.it/repls/DefiantAromaticStartup
+! 10/11/2018, 11:51:22 AM https://www.trustedreviews.com/news/new-gmail-3461611
+! 10/11/2018, 8:18:05 PM https://www.amazon.com/Swan-Prince-Book-Wilderhark-Tales-ebook/dp/B00CZEZS5Q
+! 10/11/2018, 8:18:43 PM https://www.amazon.com/Swan-Prince-Book-Wilderhark-Tales-ebook/dp/B00CZEZS5Q
+! 10/13/2018, 11:05:42 PM https://codegolf.stackexchange.com/questions/102370/add-a-language-to-a-polyglot
+! 10/13/2018, 11:05:51 PM https://codegolf.stackexchange.com/questions/102370/add-a-language-to-a-polyglot
+! 10/13/2018, 11:05:57 PM https://codegolf.stackexchange.com/questions/102370/add-a-language-to-a-polyglot
+! 10/24/2018, 7:03:22 PM https://www.nbcnews.com/feature/nbc-out/following-backlash-company-stops-selling-caitlyn-jenner-costume-n924071
+! 10/29/2018, 11:44:47 AM http://wiki.bash-hackers.org/syntax/pe
+! 10/29/2018, 5:31:00 PM https://www.imdb.com/user/ur35511274/ratings?sort=date_added%2Cdesc&mode=detail&paginationKey=zfxjlj3fi62aqh65du7o2aoq5574k2ib36wxsotvw2dxztx4knu5kdgrxmbtoc34wjtsruxgtwll7hevdhekkj3yoz2uomqpi5ozfyjf22ivk6usv3hkpws2ootagen62gdlj7upcpxrclpxt657s4rv5yrkbwespcf7nule6uklg7agp5kfp56ye76yxvt2ctabzktqwfblm&lastPosition=100
+! 10/3/2018, 10:52:03 AM https://www.youtube.com/watch?v=kVTbVc0Eoa4
+! 10/3/2018, 4:42:06 PM https://genius.com/11483554
+! 10/3/2018, 7:58:55 PM https://biznology.com/2017/11/free-version-cloudflare-content-delivery-network-cdn-heals-website-wounds/
+! 10/5/2018, 11:22:33 AM https://www.tvaddons.co/fork-preserve-github/
+! 10/5/2018, 11:22:40 AM https://www.tvaddons.co/fork-preserve-github/
+! 10/5/2018, 2:14:34 PM https://www.zdnet.com/article/cybercriminals-spotted-hiding-cryptocurrency-mining-malware-in-forked-projects-on-github/
+! 10/6/2018, 12:03:27 PM https://collections.vam.ac.uk/item/O126216/salisbury-cathedral-from-the-south-oil-sketch-john-constable/
+! 11/11/2018, 4:10:38 PM https://gaming.youtube.com/watch?v=xGLXzKFaCdg
+! 11/11/2018, 4:58:16 PM https://gaming.youtube.com/watch?v=Rjlcs3kEDPw
+! 11/11/2018, 5:59:32 PM https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Deltarune
+! 11/15/2018, 7:32:59 PM https://www.youtube.com/watch?v=mHyYLQ5w6gs
+! 11/18/2018, 4:30:08 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
+! 11/18/2018, 4:30:23 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
+! 11/18/2018, 4:30:51 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
+! 11/18/2018, 4:31:13 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
+! 11/18/2018, 4:31:27 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
+! 11/18/2018, 4:31:35 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
+! 11/18/2018, 4:31:44 AM https://cosmosmagazine.com/physics/how-make-superheavy-element
+! 11/30/2018, 5:05:59 AM https://www.tor.com/2014/09/09/post-binary-gender-in-sf-congenital-agenesis-of-gender-ideation-by-kn-sirsi-and-sandra-botkin-by-raphael-carter/
+! 11/7/2018, 3:57:42 PM http://time.com/5447619/boeing-737-max-crash/
+! 11/7/2018, 3:58:00 PM http://time.com/5447619/boeing-737-max-crash/
+! 12/10/2018, 2:56:21 PM http://www.paulgraham.com/icad.html
+! 12/10/2018, 7:21:58 PM https://hub.packtpub.com/mozilla-shares-plans-to-bring-desktop-applications-games-to-webassembly-and-make-deeper-inroads-for-the-future-web/
+! 12/3/2018, 2:54:08 AM https://thewire.in/history/curation-at-the-cost-of-history-a-tale-of-two-bihar-museums
+! 12/3/2018, 2:54:28 AM https://thewire.in/history/curation-at-the-cost-of-history-a-tale-of-two-bihar-museums
 ! 2/14/2019 https://the-eye.eu
-the-eye.eu##div.message
-vyond.com
-corriere.it
-slashdot.org
-yuku.com
-tapatalk.com
-thestreet.com
-
+! 2/2/2019 https://www.0123movieshd.com
+! 2/5/2019 https://codeburst.io
+! 2/9/2019 https://www.youtube.com
+! 3/12/2019 https://snack.expo.io
+! 3/12/2019 https://www.google.com
 ! 3/8/2019 https://chemistry.stackexchange.com
+! 3/9/2019 https://en.wikisource.org
+! 6/15/2018, 12:54:37 AM https://www.nolo.com/legal-encyclopedia/free-books/beat-ticket-book/chapter7-6.html
+! 6/16/2018, 1:38:00 AM https://ftalphaville.ft.com/2018/06/11/1528712107000/That-crypto-crash-in-full/
+! 6/16/2018, 3:06:56 PM https://pastebin.com/71gWhsWK
+! 6/16/2018, 3:07:02 PM https://pastebin.com/71gWhsWK
+! 6/16/2018, 3:07:09 PM https://pastebin.com/71gWhsWK
+! 6/16/2018, 3:15:14 PM https://discourse.mozilla.org/t/could-panorama-feature-be-brought-back-to-firefox/14672?_escaped_fragment_
+! 6/16/2018, 3:15:23 PM https://discourse.mozilla.org/t/could-panorama-feature-be-brought-back-to-firefox/14672?_escaped_fragment_
+! 6/16/2018, 3:17:48 PM https://myanimelist.net/
+! 6/16/2018, 4:57:52 PM https://myanimelist.net/
+! 6/16/2018, 4:58:04 PM https://myanimelist.net/
+! 6/17/2018, 3:21:03 AM http://www.crunchyroll.com/hyouka/episode-11-credit-roll-of-fools-771227
+! 6/17/2018, 3:21:13 AM http://www.crunchyroll.com/hyouka/episode-11-credit-roll-of-fools-771227
+! 6/17/2018, 3:24:46 AM http://ww5.cartooncrazy.net/watch/hyouka-episode-11-english-dubbed/
+! 6/18/2018, 6:05:27 PM https://www.itworld.com/article/2826902/enterprise-software/7-days-using-only-keyboard-shortcuts--no-mouse--no-trackpad--no-problem-.html
+! 6/21/2018, 11:23:07 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
+! 6/21/2018, 11:23:25 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
+! 6/21/2018, 11:23:35 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
+! 6/21/2018, 11:23:47 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
+! 6/21/2018, 11:24:20 PM https://herald-review.com/blogs/decaturade/excerpts-from-simple-english-wikipedia/article_f4bf9e57-b1d5-5e16-bbc1-ecf0920e091d.html
+! 6/22/2018, 11:01:03 PM https://www.dedoimedo.com/
+! 6/24/2018, 2:59:58 PM https://myanimelist.net/anime/225/Dragon_Ball_GT
+! 6/27/2018, 9:23:45 PM https://www.popsci.com/wikipedia-bots-fighting#page-2
+! 6/29/2018, 9:49:55 PM http://www.itnewsafrica.com/2018/02/opera-news-app-hits-1-million-downloads-in-4-weeks/
+! 6/29/2018, 9:50:00 PM http://www.itnewsafrica.com/2018/02/opera-news-app-hits-1-million-downloads-in-4-weeks/
+! 6/30/2018, 11:38:50 PM https://www.htbridge.com/vulnerability/null-pointer-dereference.html
+! 7/10/2018, 11:10:55 PM https://www.telegraph.co.uk/culture/film/film-news/9518320/Disney-threatens-legal-action-against-copycat-DVDs.html
+! 7/10/2018, 11:11:04 PM https://www.telegraph.co.uk/culture/film/film-news/9518320/Disney-threatens-legal-action-against-copycat-DVDs.html
+! 7/10/2018, 11:15:27 PM http://www.businessinsider.com/disneys-going-after-a-uk-company-for-these-knockoff-films-2012-9
+! 7/10/2018, 11:15:48 PM http://www.businessinsider.com/disneys-going-after-a-uk-company-for-these-knockoff-films-2012-9
+! 7/11/2018, 2:01:41 AM http://mentalfloss.com/article/55270/20-mockbusters-you-might-confuse-real-movie
+! 7/11/2018, 2:01:48 AM http://mentalfloss.com/article/55270/20-mockbusters-you-might-confuse-real-movie
+! 7/11/2018, 2:01:54 AM http://mentalfloss.com/article/55270/20-mockbusters-you-might-confuse-real-movie
+! 7/11/2018, 2:19:56 AM http://mentalfloss.com/article/91058/facts-about-blackadder-goes-forth-rowan-atkinson
+! 7/11/2018, 2:20:22 AM http://mentalfloss.com/article/91058/facts-about-blackadder-goes-forth-rowan-atkinson
+! 7/11/2018, 2:20:46 AM http://mentalfloss.com/article/91058/facts-about-blackadder-goes-forth-rowan-atkinson
+! 7/11/2018, 2:21:01 AM http://mentalfloss.com/article/91058/facts-about-blackadder-goes-forth-rowan-atkinson
+! 7/11/2018, 3:07:18 PM https://www.bbc.co.uk/news/technology-42352606
+! 7/11/2018, 3:07:36 PM https://www.bbc.co.uk/news/technology-42352606
+! 7/11/2018, 3:07:44 PM https://www.bbc.co.uk/news/technology-42352606
+! 7/11/2018, 3:07:49 PM https://www.bbc.co.uk/news/technology-42352606
+! 7/11/2018, 3:07:55 PM https://www.bbc.co.uk/news/technology-42352606
+! 7/11/2018, 3:29:33 AM http://www.readfileonline.com/
+! 7/11/2018, 3:34:48 AM https://www.emeditor.com/download/
+! 7/13/2018, 3:37:10 AM https://www.imdb.com/title/tt1981128/reviews?ref_=tt_urv
+! 7/13/2018, 3:37:58 AM https://www.imdb.com/title/tt1981128/reviews?ref_=tt_urv
+! 7/13/2018, 9:55:48 PM https://www.scoringnotes.com/reviews/dorico-pro-2-review/
+! 7/13/2018, 9:56:01 PM https://www.scoringnotes.com/reviews/dorico-pro-2-review/
+! 7/14/2018, 12:09:18 AM https://www.techwalla.com/articles/how-to-rip-streaming-video
+! 7/18/2018, 6:07:19 PM http://www.modtitan.com/2017/04/finding-shutdown-causes-in-macos.html
+! 7/18/2018, 6:07:29 PM http://www.modtitan.com/2017/04/finding-shutdown-causes-in-macos.html
+! 7/19/2018, 5:16:16 PM https://arstechnica.com/gaming/2017/11/could-disney-finally-give-us-the-remastered-unedited-star-wars-we-want/
+! 7/2/2018, 9:21:29 PM http://observer.ug/news/headlines/58064-ugandans-again-run-to-vpn-as-social-media-tax-starts-to-bite.html
+! 7/2/2018, 9:21:41 PM http://observer.ug/news/headlines/58064-ugandans-again-run-to-vpn-as-social-media-tax-starts-to-bite.html
+! 7/2/2018, 9:21:52 PM http://observer.ug/news/headlines/58064-ugandans-again-run-to-vpn-as-social-media-tax-starts-to-bite.html
+! 7/22/2018, 4:41:09 PM https://articles.mercola.com/sites/articles/archive/2013/01/27/soybean-oil.aspx
+! 7/23/2018, 1:25:45 PM https://www.ebony.com/entertainment-culture/kevin-spacey-racist
+! 7/24/2018, 10:51:17 PM http://latimesblogs.latimes.com/babylonbeyond/2008/10/iran-1.html
+! 7/24/2018, 10:53:21 PM http://www.nydailynews.com/entertainment/gossip/love-interest-leonardo-dicaprio-new-film-fears-exile-iran-article-1.303459
+! 7/24/2018, 10:59:58 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
+! 7/24/2018, 11:00:06 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
+! 7/24/2018, 11:00:18 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
+! 7/24/2018, 11:00:26 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
+! 7/24/2018, 11:00:35 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
+! 7/24/2018, 11:00:43 PM http://www.newser.com/story/35424/iran-bars-actress-from-leaving-country.html
+! 7/24/2018, 11:04:03 PM https://www.telegraph.co.uk/news/worldnews/middleeast/iran/9406119/Iran-imposes-travel-ban-on-star-actresses.html
+! 7/24/2018, 11:50:52 PM https://en.wikivoyage.org/wiki/Si_Phan_Don#Q1319369
+! 7/25/2018, 12:44:12 AM https://www.cbsnews.com/news/former-congressman-joe-walsh-explains-how-sacha-baron-cohen-tricked-him-on-new-show/
+! 7/25/2018, 5:55:28 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
+! 7/25/2018, 5:55:39 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
+! 7/25/2018, 5:55:49 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
+! 7/25/2018, 5:55:58 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
+! 7/25/2018, 5:56:37 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
+! 7/25/2018, 6:04:24 PM https://e.issuu.com/embed.html#33061758/59671315
+! 7/25/2018, 6:04:39 PM https://e.issuu.com/embed.html#33061758/59671315
+! 7/25/2018, 6:04:45 PM https://e.issuu.com/embed.html#33061758/59671315
+! 7/25/2018, 6:14:11 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
+! 7/25/2018, 6:14:38 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
+! 7/25/2018, 6:14:45 PM https://deadline.com/2018/07/dwayne-johnson-skyscraper-ant-man-and-the-wasp-hotel-transylvania-3-weekend-box-office-1202426089/
+! 7/25/2018, 6:16:00 PM https://mubi.com/notebook/posts/dwayne-johnson-s-new-kind-of-hollywood-masculinity
+! 7/26/2018, 12:55:05 AM http://www2.0123movies.org/watch/san-andreas-2015-online-123movies.html
+! 7/29/2018, 4:48:23 PM https://translate.google.com/translate?sl=it&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FStrippaggio&edit-text=
+! 7/3/2018, 11:55:02 PM https://blog.willrobbins.org/my-app-marketing-story-0-to-100k-downloads-96ae80db1504
+! 7/3/2018, 11:56:33 PM https://blog.willrobbins.org/my-app-marketing-story-0-to-100k-downloads-96ae80db1504
+! 7/3/2018, 11:56:39 PM https://blog.willrobbins.org/my-app-marketing-story-0-to-100k-downloads-96ae80db1504
+! 7/3/2018, 12:33:26 PM https://robertheaton.com/2017/10/09/tracking-friends-and-strangers-using-whatsapp/
+! 7/3/2018, 12:46:29 PM https://robertheaton.com/2017/11/24/identity-graphs-how-online-trackers-follow-you-across-devices/
+! 7/3/2018, 12:46:41 PM https://robertheaton.com/2017/11/24/identity-graphs-how-online-trackers-follow-you-across-devices/
+! 7/3/2018, 12:53:28 AM https://www.wsj.com/articles/stop-talking-about-bitcoins-market-cap-1513015626
+! 7/3/2018, 6:35:43 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
+! 7/3/2018, 6:36:02 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
+! 7/3/2018, 6:36:08 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
+! 7/3/2018, 6:36:22 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
+! 7/3/2018, 6:36:26 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
+! 7/3/2018, 6:36:41 PM https://www.salon.com/2018/04/22/the-triumph-and-tragedy-of-channel-awesome/
+! 7/31/2018, 10:54:23 PM https://sourceforge.net/projects/mantisbt/files/latest/download?source=files
+! 7/31/2018, 12:25:30 PM https://www.walldevil.com/phoenix-wallpaper-866660/
+! 7/4/2018, 12:02:39 AM https://blog.willrobbins.org/my-app-marketing-story-0-to-100k-downloads-96ae80db1504
+! 7/4/2018, 12:05:39 AM https://willrobbins.org/a-clever-malware-tactic-and-why-theres-nothing-you-can-do-about-it/
+! 7/5/2018, 11:47:31 PM https://www.deviantart.com/ekelen
+! 7/5/2018, 3:36:02 PM https://thedailywtf.com/articles/error-logging-vs-crash-reporting
+! 7/5/2018, 3:36:17 PM https://thedailywtf.com/articles/error-logging-vs-crash-reporting
+! 7/5/2018, 7:48:47 PM https://www.deviantart.com/ekelen
+! 7/6/2018, 1:45:06 AM https://notalwaysright.com/page/27/
+! 7/6/2018, 1:45:14 AM https://notalwaysright.com/page/27/
+! 7/6/2018, 1:45:19 AM https://notalwaysright.com/page/27/
+! 7/7/2018, 11:04:26 PM https://kinsta.com/blog/startups-avoid-stripe/
+! 7/7/2018, 11:05:00 PM https://kinsta.com/blog/startups-avoid-stripe/
+! 7/7/2018, 3:19:53 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
+! 7/7/2018, 3:20:36 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
+! 7/7/2018, 3:21:02 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
+! 7/7/2018, 3:21:13 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
+! 7/7/2018, 3:22:03 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
+! 7/7/2018, 3:22:24 AM https://www.nytimes.com/2018/03/28/nyregion/if-you-see-something-write-something.html
+! 7/9/2018, 2:21:13 PM https://grimtech.net/linux-how-to-mount-an-osx-dd-disk-image/
+! 8/10/2018, 12:18:12 PM https://www.online.net/en/dedicated-server
+! 8/10/2018, 2:26:34 PM https://dokumen.tips/download/link/collected-pdfs-of-why
+! 8/10/2018, 2:27:00 PM https://dokumen.tips/download/link/collected-pdfs-of-why
+! 8/10/2018, 2:27:16 PM https://dokumen.tips/download/link/collected-pdfs-of-why
+! 8/10/2018, 2:27:42 PM https://dokumen.tips/download/link/collected-pdfs-of-why
+! 8/10/2018, 2:27:57 PM https://dokumen.tips/download/link/collected-pdfs-of-why
+! 8/10/2018, 2:41:20 PM https://library.creativecow.net/kaufman_debra/Children-of-Paradise/1
+! 8/10/2018, 2:42:05 PM https://library.creativecow.net/kaufman_debra/Children-of-Paradise/1
+! 8/10/2018, 2:42:21 PM https://library.creativecow.net/kaufman_debra/Children-of-Paradise/1
+! 8/10/2018, 2:43:04 PM https://library.creativecow.net/kaufman_debra/Children-of-Paradise/1
+! 8/10/2018, 4:24:44 PM https://www.wired.com/2014/02/bitcoins-mt-gox-implodes-2/
+! 8/12/2018, 2:04:41 AM https://www.billboard.com/articles/columns/pop/8005599/ariana-grande-my-everything-stool-meme
+! 8/12/2018, 2:04:59 AM https://www.billboard.com/articles/columns/pop/8005599/ariana-grande-my-everything-stool-meme
+! 8/12/2018, 2:05:20 AM https://www.billboard.com/articles/columns/pop/8005599/ariana-grande-my-everything-stool-meme
+! 8/14/2018, 3:55:35 AM https://www.hackerrank.com/challenges/fizzbuzz/problem
+! 8/14/2018, 3:55:51 AM https://www.hackerrank.com/challenges/fizzbuzz/problem
+! 8/15/2018, 1:09:19 AM https://www.greatbigstory.com/stories/the-origin-of-the-ubiquitous-air-horn
+! 8/15/2018, 1:09:30 AM https://www.greatbigstory.com/stories/the-origin-of-the-ubiquitous-air-horn
+! 8/15/2018, 1:09:39 AM https://www.greatbigstory.com/stories/the-origin-of-the-ubiquitous-air-horn
+! 8/15/2018, 3:43:29 AM https://blog.pinboard.in/2014/04/cloudy_snake_oil/
+! 8/16/2018, 11:45:57 PM https://www.youtube.com/channel/UC9hJolK5HHJz2zjL4IgntyQ
+! 8/16/2018, 4:24:41 PM https://math.stackexchange.com/questions/566029/in-a-right-triangle-given-slope-and-length-of-hypotenuse-find-length-of-legs
+! 8/18/2018, 2:04:39 AM https://nolanlawson.com/2015/07/05/safari-is-the-new-ie-2-revenge-of-the-linkbait/
+! 8/18/2018, 2:55:14 AM https://nolanlawson.com/2015/07/05/safari-is-the-new-ie-2-revenge-of-the-linkbait/
+! 8/19/2018, 1:54:28 AM https://apple.stackexchange.com/questions/310594/what-is-photoanalysisd-and-why-is-it-using-77-of-my-cpu
+! 8/19/2018, 1:54:38 AM https://apple.stackexchange.com/questions/310594/what-is-photoanalysisd-and-why-is-it-using-77-of-my-cpu
+! 8/19/2018, 1:54:49 AM https://apple.stackexchange.com/questions/310594/what-is-photoanalysisd-and-why-is-it-using-77-of-my-cpu
+! 8/19/2018, 1:55:02 AM https://apple.stackexchange.com/questions/310594/what-is-photoanalysisd-and-why-is-it-using-77-of-my-cpu
+! 8/19/2018, 2:46:57 AM https://krebsonsecurity.com/2018/08/indian-bank-hit-in-13-5m-cyberheist-after-fbi-atm-cashout-warning/
+! 8/2/2018, 12:09:27 AM https://sdtimes.com/softwaredev/gitlab-10-8-open-sources-push-mirroring/
+! 8/2/2018, 1:36:32 AM https://www.infoworld.com/article/3072886/application-development/gitlab-goes-heavy-on-docker-registry-support-light-on-restrictions.html
+! 8/2/2018, 7:25:19 PM https://www.somethingawful.com/movie-reviews/lifes-jungle/
+! 8/2/2018, 7:25:26 PM https://www.somethingawful.com/movie-reviews/lifes-jungle/
+! 8/2/2018, 7:25:42 PM https://www.somethingawful.com/movie-reviews/lifes-jungle/
+! 8/22/2018, 10:18:41 PM https://mp3im.org/song/46873630/Katie_Price_And_Peter_Andre_-_A_Whole_New_World/
+! 8/23/2018, 3:26:51 AM https://www.scmagazine.com/ios-devices-dont-have-to-be-jailbroken-for-spyware-sold-by-hacking-team-to-be-installed/article/532609/
+! 8/23/2018, 3:27:49 AM https://www.scmagazine.com/ios-devices-dont-have-to-be-jailbroken-for-spyware-sold-by-hacking-team-to-be-installed/article/532609/
+! 8/23/2018, 3:54:50 AM https://nakedsecurity.sophos.com/2016/04/19/how-hacking-team-got-hacked/
+! 8/26/2018, 11:32:15 PM https://unix.stackexchange.com/questions/263904/split-file-into-multiple-files-based-on-pattern
+! 8/26/2018, 11:32:26 PM https://unix.stackexchange.com/questions/263904/split-file-into-multiple-files-based-on-pattern
+! 8/26/2018, 11:44:54 PM https://askubuntu.com/questions/584724/split-contents-of-a-directory-into-multiple-sub-directories
+! 8/26/2018, 11:45:03 PM https://askubuntu.com/questions/584724/split-contents-of-a-directory-into-multiple-sub-directories
+! 8/27/2018, 12:48:17 AM https://superuser.com/questions/966116/partition-directories-into-subdirectories-based-on-directory-name
+! 8/27/2018, 12:48:22 AM https://superuser.com/questions/966116/partition-directories-into-subdirectories-based-on-directory-name
+! 8/27/2018, 5:43:21 PM http://www.vmwareandme.com/2013/10/download-os-x-108-mountain-lion-vmware.html
+! 8/27/2018, 5:49:43 PM https://io9.gizmodo.com/5938332/how-to-run-mac-os-x-on-any-windows-pc-using-virtualbox
+! 8/27/2018, 6:35:52 PM https://olarila.com/forum/viewforum.php?f=27
+! 8/28/2018, 5:09:26 PM https://www.mpgh.net/forum/showthread.php?t=178743
+! 8/29/2018, 12:26:50 AM http://wegotthiscovered.com/music/infected-mushrooms-fields-grey-features-unexpected-vocalist/
+! 8/29/2018, 12:27:04 AM http://wegotthiscovered.com/music/infected-mushrooms-fields-grey-features-unexpected-vocalist/
+! 8/29/2018, 12:27:13 AM http://wegotthiscovered.com/music/infected-mushrooms-fields-grey-features-unexpected-vocalist/
+! 8/29/2018, 3:55:42 PM https://www.medicalnewstoday.com/articles/321972.php
+! 8/29/2018, 3:55:51 PM https://www.medicalnewstoday.com/articles/321972.php
+! 8/29/2018, 3:56:01 PM https://www.medicalnewstoday.com/articles/321972.php
+! 8/29/2018, 3:56:10 PM https://www.medicalnewstoday.com/articles/321972.php
+! 8/29/2018, 5:09:15 AM http://library1.ga/_ads/AF9C74E46AB95731F9F6B9FB2EEBA003
+! 8/3/2018, 1:53:31 AM https://www.reddit.com/r/IAmA/comments/1p32dl/im_rl_stine_and_its_my_job_to_terrify_kids_ask_me/ccy8g6h/?context=3
+! 8/3/2018, 5:32:09 AM https://www.google.com/search?q=life%27s+a+jungle&ei=dJJjW7bpBo7L_QaYi7iwBA&start=10&sa=N&biw=1008&bih=677
+! 8/5/2018, 6:58:11 PM https://stackoverflow.com/questions/4210042/how-to-exclude-a-directory-in-find-command
+! 8/5/2018, 6:58:52 PM https://stackoverflow.com/questions/4210042/how-to-exclude-a-directory-in-find-command
+! 8/6/2018, 1:34:54 PM https://www.orkin.com/ask-the-orkin-man/white-bugs-in-bathroom/
+! 9/12/2018, 7:26:04 PM https://merryjane.com/culture/hitunes-willie-nelson-smoke-sesh-urban-legend
+! 9/12/2018, 7:41:32 PM https://merryjane.com/culture/cannamojo-is-a-thc-infused-sex-pill-that-wants-to-keep-you-high-and-hard
+! 9/15/2018, 6:42:08 PM http://www.linuxforums.org/forum/newbie/185268-i-need-maximal-file-length-beyond-255-a.html
+! 9/15/2018, 6:42:23 PM http://www.linuxforums.org/forum/newbie/185268-i-need-maximal-file-length-beyond-255-a.html
+! 9/18/2018, 11:36:53 PM http://mark0.net/onlinetrid.py
+! 9/18/2018, 11:37:08 PM http://mark0.net/onlinetrid.py
+! 9/18/2018, 11:37:16 PM http://mark0.net/onlinetrid.py
+! 9/2/2018, 10:03:28 PM https://www.allposters.com/gallery.asp?startat=%2Fgetthumb.asp&CID=3951767A94EC45B4831103254B21D93A&txtSearch=detail+of+green+falls+baxter&SSK=detail+of+green+falls+baxter&exactMat=yes
+! 9/2/2018, 10:19:50 PM https://www.techradar.com/how-to/how-to-get-googles-view-image-link-back
+! 9/2/2018, 10:20:05 PM https://www.techradar.com/how-to/how-to-get-googles-view-image-link-back
+! 9/2/2018, 10:20:11 PM https://www.techradar.com/how-to/how-to-get-googles-view-image-link-back
+! 9/2/2018, 11:13:15 PM https://lightonthetrail.com/tag/rivers/
+! 9/20/2018, 4:25:47 AM https://www.link-assistant.com/news/page-rank-2018.html
+! 9/20/2018, 4:28:04 AM https://www.link-assistant.com/news/page-rank-2018.html
+! 9/20/2018, 5:47:05 AM http://ignorethecode.net/blog/2009/11/17/picasas_scrollbars/
+! 9/20/2018, 5:47:12 AM http://ignorethecode.net/blog/2009/11/17/picasas_scrollbars/
+! 9/21/2018, 10:46:36 PM https://priceonomics.com/the-wilhelm-scream-cinemas-most-overused-sound/
+! 9/21/2018, 7:16:40 PM http://www.wbur.org/bostonomix/2018/07/10/isle-au-haut-microgrid
+! 9/21/2018, 7:16:51 PM http://www.wbur.org/bostonomix/2018/07/10/isle-au-haut-microgrid
+! 9/21/2018, 7:21:42 PM http://lib1.org/_ads/783A03BD2F9C83154F0B054AEF985D95
+! 9/24/2018, 2:53:55 AM http://www.virginislandsdailynews.com/why-is-the-background-music-on-tv-shows-so-loud/article_dbe73dc3-9fec-5182-94d9-85fdc960e10b.html
+! 9/25/2018, 10:35:00 PM https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71
+! 9/25/2018, 10:35:41 PM https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71
+! 9/25/2018, 10:51:36 PM https://www.fastly.com/blog/hijacking-control-flow-webassembly
+! 9/25/2018, 10:51:47 PM https://www.fastly.com/blog/hijacking-control-flow-webassembly
+! 9/25/2018, 12:22:57 PM https://www.fastcompany.com/40433793/my-company-tried-slack-for-two-years-this-is-whywe-quit
+! 9/25/2018, 12:23:21 PM https://www.fastcompany.com/40433793/my-company-tried-slack-for-two-years-this-is-whywe-quit
+! 9/28/2018, 11:36:41 AM https://www.g2crowd.com/compare/inkscape-vs-pixelmator
+! 9/29/2018, 6:04:13 AM https://gizmodo.com/lets-make-the-world-wide-web-a-national-monument-1829306108
+! 9/30/2018, 7:46:56 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:47:07 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:47:12 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:47:17 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:47:30 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:47:37 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:47:43 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:47:52 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:48:01 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:48:10 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:48:17 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:48:24 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:48:29 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:48:34 PM https://serverfault.com/questions/421893/webm-html5-videos-lose-connection-with-apache-server
+! 9/30/2018, 7:50:32 PM https://www.google.com/search?q=%22video+playback+aborted+due+to+a+network+error%22&client=firefox-b-1-ab&ei=BGGxW9v_KZGY_QaZ2InwDQ&start=30&sa=N&biw=1352&bih=923
+! 9/30/2018, 8:55:19 PM https://otakuplan.com/blogs/news/best-32-websites-to-watch-and-stream-anime-online-in-2018
+! 9/30/2018, 8:55:57 PM https://otakuplan.com/blogs/news/best-32-websites-to-watch-and-stream-anime-online-in-2018
+! 9/30/2018, 8:56:10 PM https://otakuplan.com/blogs/news/best-32-websites-to-watch-and-stream-anime-online-in-2018
+! 9/8/2018, 3:46:36 PM https://nesthq.com/genre-isnt-bad-word
+! 9/8/2018, 3:46:49 PM https://nesthq.com/genre-isnt-bad-word
+! 9/8/2018, 3:47:17 PM https://nesthq.com/genre-isnt-bad-word
+! 9/8/2018, 8:38:28 PM http://www.sun-sentinel.com/local/broward/fl-tesla-crash-friday-20180511-story.html
+##.logo
+##[href="http://www.adobe.com/go/getflashplayer"]
+##[href="https://support.google.com/youtube/?p=missing_quality"]
+2ality.com###adbox
+2ality.com###top_row
+9news.com
+@@rapidvideo.com
+@@||wikipedia.org/w/load.php?*startup$script
+anidb.net
+apple.stackexchange.com###left-sidebar
+apple.stackexchange.com##.s-hero
+apple.stackexchange.com##.sidebar-related
+apple.stackexchange.com##.site-header
+arstechnica.com###article-footer-wrap
+articles.mercola.com###mid-optin
+askubuntu.com###left-sidebar
+askubuntu.com##.s-hero
+biznology.com##[href="/subscribe/"]
+blog.logrocket.com##[href^="https://logrocket.com/signup"]
+blog.pinboard.in###right_column
+blog.willrobbins.org###\31 66f
+blog.willrobbins.org##.butterBar-message
+blog.willrobbins.org##em
+blog.willrobbins.org##strong
+bloomberg.com
+cdisplayex.com
 chemistry.stackexchange.com##.js-dismissable-hero
 chemistry.stackexchange.com##.site-header
-
-! 3/9/2019 https://en.wikisource.org
+codeburst.io##.graf-after--h3.graf--blockquote
+codegolf.stackexchange.com###left-sidebar
+codegolf.stackexchange.com##.s-hero
+codegolf.stackexchange.com##.site-header
+collections.vam.ac.uk##.b-modal
+corriere.it
+cosmosmagazine.com###announcements
+cosmosmagazine.com##.bg-yellow
+cosmosmagazine.com##.btn-group
+cosmosmagazine.com##.footer-dark
+cosmosmagazine.com##.section-latest
+cosmosmagazine.com##.section-popular
+cosmosmagazine.com##.section-recommended
+crunchyroll.com
+dailydot.com
+deadline.com###carousel
+deadline.com###comments-loaded
+deadline.com###footer
+deadline.com###sidebar
+deadline.com##.below-header
+deadline.com##.related-article
+deadline.com##.textwidget:has([href="http://pages.email.deadline.com/signup"])
+deadline.com##[id^=adm-inline-article-ad]
+discomusic.com
+discourse.mozilla.org##.container
+discourse.mozilla.org##[href="https://www.discourse.org"]
+disqus.com
+disquscdn.com
+dokumen.tips###box-like
+dokumen.tips##.content_download_left p
+dokumen.tips##.content_download_left.content_slide_inside_left > div:nth-of-type(3)
+dokumen.tips##.content_slide_inside_right
+dokumen.tips##.header_right_button
+dropbox.com
+e.issuu.com###branding
+e.issuu.com##.controls__read-on-issuu
+e.issuu.com##.header-controls__items
+ehubsoft.net
 en.wikisource.org##.guider_content
+en.wikivoyage.org###centralNotice
+english.stackexchange.com##.js-dismissable-hero
+fortworthinjuryattorneyblog.com
+freepatentsonline.com
+ft.com
+ftalphaville.ft.com##.barrier-wrapper
+future-processing.pl
+gamedev.stackexchange.com##.js-dismissable-hero
+gaming.youtube.com##.ytg-membership-offer-button
+gaming.youtube.com##.ytg-membership-offer-button-0
+github.com##.header-logo-invertocat
+github.com##.hide-lg
+github.com##.js-header-wrapper li:nth-of-type(4)
+github.com##.user-status-container
+gizmodo.com##.global-nav--scrollback
+grimtech.net###sidebar
+hackerrank.com
+herald-review.com
+herald-review.com###infinite-container
+herald-review.com##.article-share-nav
+herald-review.com##.breaking
+herald-review.com##.lee-subscription-article-link
+herald-review.com##.main-sidebar-wrap
+hoehrmann.de
+htbridge.com
+hub.packtpub.com##.td-header-menu-wrap
+imdb.com
+imgur.com
+independent.ie
+io9.gizmodo.com##aside
 johannburkard.de
-cdisplayex.com
-workersliberty.org
-wattpad.com
+jsben.ch##.right-content.column.wide.eight > div:nth-of-type(5)
+kinsta.com##.widget-share
+kinsta.com##[href^="https://kinsta.com/blog/"]
+ksdk.com
+kuvat.fi
+latimesblogs.latimes.com##p:has([href="https://secure.latimes.com/services/site/registration/show-editproducts.register"])
+lib1.org###message
+library.creativecow.net###midContent > table:nth-of-type(2)
+library.creativecow.net###top
+library.creativecow.net##.socShareDiv
+library.creativecow.net##[href^="https://secure.creativecow.net/account/subscribe"]
+library1.ga###message
+lifehacker.com
+lightonthetrail.com##.blog-credits
+link-assistant.com
+margunnbjornholt.no
+mark0.net##[href^="bitcoin:"]
+mark0.net##[href^="https://shapeshift.io/shifty.html"]
+mark0.net##[href^="mailto:marcopon+OnLineTrID@gmail.com"]
+math.stackexchange.com##.s-hero
+mathoverflow.net##.js-dismissable-hero
+mathoverflow.net##.top-bar
+mentalfloss.com
+mentalfloss.com###article-2
+mentalfloss.com###featured-media
+mentalfloss.com###in-article-video-wrapper
+mentalfloss.com###sections-section
+mentalfloss.com##.fixed-header-close
+mentalfloss.com##.footer-section-wrapper
+mentalfloss.com##[id^=article-]:not(#article-1)
+merryjane.com###footerDivId
+mic.com
+midiplayer.ehubsoft.net
+mp3im.org##[class*=cplayer-ui-share-]
+mubi.com##.film-sticky
+myanimelist.net##.index-manga-store-description
+myanimelist.net##.modal-content
+nakedsecurity.sophos.com##.sophos_widget_ad
+neilgunton.com
+nesthq.com##.logo
+nesthq.com##.music-player-container
+nesthq.com##.no-margin.button-back
+nolanlawson.com###actionbar
+nolanlawson.com##.actnbr-btn
+notalwaysright.com###narstore_hamburgerbadge_mobile
+notalwaysright.com###narstore_menu_mobile_badge
+notalwaysright.com##[href^="https://store.notalwaysright.com/"]
+observer.ug###gkSidebarRight
+observer.ug##.obs-latest
+olarila.com###phpbb-ads-ab
+otakuplan.com
+otakuplan.com###shopify-section-header
+otakuplan.com###someone-purchased
+pastebin.com
+pastebin.com###content_right > div:nth-of-type(2)
+pastebin.com###float-box-frame
+peltiertech.com
+philips.com
+priceonomics.com##.content-extra
+privateinternetaccess.com
+repl.it##.is-logged-out
+robertheaton.com##.blogpost.post > section:nth-of-type(1)
+robertheaton.com##.post > section:nth-of-type(1)
+robertheaton.com##section:nth-of-type(2)
+sdtimes.com##.related-posts
+serverfault.com###footer
+serverfault.com###left-sidebar
+serverfault.com###post-form
+serverfault.com###sidebar
+serverfault.com##.bottom-notice
+serverfault.com##.comments-link
+serverfault.com##.s-hero
+serverfault.com##.short-link
+serverfault.com##.site-header
+serverfault.com##.star-off
+serverfault.com##.suggest-edit-post
+serverfault.com##.top-bar
+serverfault.com##.vote-down-off
+serverfault.com##.vote-up-off
 shoowbiz.ru
-##.logo
-
-! 3/12/2019 https://www.google.com
-www.google.com###searchform
-www.google.com###top_nav
-www.google.com##.sfbgx
-www.google.com###sfcnt
-www.google.com###ataw
-
-! 3/12/2019 https://snack.expo.io
+slashdot.org
+slideshare.net
+smithsonianmag.com
+snack.expo.io##._12to336 > ._wfr1fr6._1fcc8635
 snack.expo.io##._12to336 > div
 snack.expo.io##h3
-snack.expo.io##._12to336 > ._wfr1fr6._1fcc8635
-yahoo.com
+softwareengineering.stackexchange.com###left-sidebar
+softwareengineering.stackexchange.com##.js-vote-down-btn
+softwareengineering.stackexchange.com##.js-vote-up-btn
+softwareengineering.stackexchange.com##.s-hero
+sourceforge.net###site-notification
+spanish.stackexchange.com##.js-dismissable-hero
+stackoverflow.com###left-sidebar
+stackoverflow.com##.tag-popup
+stuff.co.nz
+superuser.com###left-sidebar
+superuser.com##.s-hero
+tapatalk.com
+technologyreview.com
+technologyreview.com
+the-eye.eu##div.message
+thedailywtf.com##[href^="https://raygun.com/"]
+thedailywtf.com##[src*="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABdwAAALuCAYAAAC0INRMAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4nOy9a3bkOq4u+IGUws6qc++dT0+hh9HzX6t7nTo77ZBI9A8AJEhR8XKEHXYmqnbajpDEh0gQ+PCa/q//+/9h/KW/dCExM4gIzIyUF6S0IuUVzBk5p+ZaIgIAhDAhhhlTnEFECBQB2j7zmciPM2cZY84rYjxgijMAKt8/W9+vof59MjPej/8jn4PAqN8D9Z3KfQEhBLy+/C/5nOV7htw7bitgWd+wLL+ROQMADtMrYjwgxunsfPr+rus7mBnH9TeIAgiEeXrBNB3wP7//X70+4zD/C4f5FwBp/7I2Ao7LPzguvyGLlfFy+DeICDHMX/rumzlIOgdLOwfz/AvM+c79YzDLXBBB230r64AoIob47ffEo8nPj/2eOYM5I6UF63pE5lT2nFEIETFMmOdXEBEI4UfwoI/QaOzMDOaMNR11jxzBnDfzaXMYw4QYIihMiHEq3/3J8/oo8rxrWd+xpiNSWgDInP/Ss4Qobs6d/v35zx/9ntoz4R+YAPN6+C+RacJ0si/2eUorMies6Yh1PcLkiH+9/m/h33/X3V96INX9J7JXyitSOmJNi/LNLY8Muhen+IIYJ4QQTz77mcj6tOoY61gOP2qvVf70G8f1DdDzzssZgOOjIsaBiPAy/0KMM0LYl797fYiZ8Xb8j30pMvbhXxfJnLUvyk+P/wBU+WnmjMQJnFektCCGGTHOOMy/Lnpnhdfq/SLDy1gP8y/M0yNk4+vpo2fKx9ol5JyK3p45Y55eSzs/aW/cnxgAgbksWzC40UlNL/P81M73eXpBjDPiif32p9De+GVNJt3DFV8ayYGmFxlPf9S++UvtOQAQjss/WFbDSCD66fSKaXopMoZ/F8yMzBnBybp2zWf02+Sd4/IGAAgUMM+/ME+vZ88EP4Z/3v6/olPGOCPEiCnMmOLh5J"]
+thestreet.com
+thetechreader.com
+thetimes.co.uk
+thewire.in##.header__subscribe-button
+thewire.in##.postComplete__orcsnet
+time.com##.under-nav
+time.com##[href^="https://geo-subscription.time.com/storefront/subscribe-to-time/"]
+translate.google.com##.gb_Vc
+tvtropes.org##.mobile-ad
+underscorejs.org###sidebar
+unix.stackexchange.com###left-sidebar
+unix.stackexchange.com##.s-hero
+variety.com
+vdocuments.mx
+vdocuments.site
+vyond.com
+wattpad.com
+wegotthiscovered.com###sidebar
+wegotthiscovered.com###vuukle-comments
+wegotthiscovered.com##.footer
+wiki.bash-hackers.org##[href="http://www.performing-databases.com"]
+willrobbins.org###mc_embed_signup
+wkyc.com
+workersliberty.org
+worldtribune.com
+ww5.cartooncrazy.net##[href^="https://www.cloudflare.com/5xx-error-landing"]
+www.0123movieshd.com##.dsModal
+www.allposters.com###lightbox-body-container
+www.amazon.com##[href^="https://www.amazon.com/cr/forteens"]
+www.bbc.co.uk###bbc-news-services
+www.bbc.co.uk###comp-elsewhere-on-the-bbc
+www.bbc.co.uk###comp-features-and-analysis
+www.bbc.co.uk###comp-pattern-library
+www.bbc.co.uk##.page__foot
+www.billboard.com##.floating
+www.billboard.com##.js-floater
+www.billboard.com##.sticky-wrapper
+www.businessinsider.com##.brands
+www.businessinsider.com##.post-content h2
+www.cbsnews.com###article-entry ul
+www.crunchyroll.com##[href="http://www.adobe.com/go/getflashplayer"]
+www.dedoimedo.com##.divtable11_spec
+www.deviantart.com###aboutme-prompt-pill
+www.deviantart.com##.catbar li.tab:nth-of-type(3)
+www.deviantart.com##.popup2-bluesbar
+www.easybib.com###easy-widget
+www.ebony.com##.giphy-embed
+www.emeditor.com##.iconbox_content
+www.fastcompany.com##.video-module
+www.fastcompany.com##[href^="https://www.fastcompany.com/"]
+www.fastly.com##.cards
+www.fastly.com##.header--main
+www.g2crowd.com##.chat-button
+www.google.com###ataw
+www.google.com###searchform
+www.google.com###sfcnt
+www.google.com###top_nav
+www.google.com##.gb_aa
+www.google.com##.sfbgx
+www.greatbigstory.com##.main-footer-wrapper
+www.greatbigstory.com##.playlist-container
+www.greatbigstory.com##div.dark-element .playlist-container
+www.hackerrank.com##.fab-popup-handle
+www.hackerrank.com##.modal-wrapper
+www.htbridge.com##.static-buttons-block
+www.imdb.com###wrapper > img
+www.imdb.com##.wtw-option-standalone
+www.imdb.com##[id^=floater_]
+www.infoworld.com##aside.fakesidebar
+www.itnewsafrica.com###simplemodal-container
+www.itnewsafrica.com###simplemodal-overlay
+www.itworld.com##[href^="https://www.pluralsight.com/"]
+www.link-assistant.com##.mobile-share-buttons
+www.link-assistant.com##.static-menu
+www.linuxforums.org###navbar_notice_3
+www.linuxforums.org##td > div
+www.medicalnewstoday.com###navigation
+www.medicalnewstoday.com###navigation_scroll
+www.medicalnewstoday.com###subnavigation
+www.medicalnewstoday.com##.related_inline
+www.modtitan.com##.related-posts
+www.modtitan.com##.sidebar-wrapper
+www.nbcnews.com##[class^="related___"]
+www.newser.com###YouMightLike
+www.newser.com###carousel_StoryInSection2
+www.newser.com###divNextStoryHeadline
+www.newser.com###divRightRail
+www.newser.com###divSocialAndCommentsButtonsBottom
+www.newser.com###divSocialAndCommentsButtonsTop
+www.nolo.com###nolopath-insert
+www.nydailynews.com##.slider
+www.nytimes.com##.bottom-of-article
+www.nytimes.com##.hasLinks
+www.nytimes.com##.shown
+www.nytimes.com##[class^=InlineMessage]
+www.nytimes.com##[class^=RelatedCoverage]
+www.nytimes.com##li
+www.online.net##.Footer__love
+www.orkin.com###ciq_bbb_fixed_badge
+www.paulgraham.com##[href="http://ycombinator.com/apply.html"]
+www.popsci.com##.bottom-wrapper
+www.readfileonline.com##form
+www.reddit.com###SHORTCUT_FOCUSABLE_DIV > div > div:nth-of-type(1)
+www.salon.com###salontv-header
+www.salon.com##.brightcom-widget
+www.salon.com##.d-lg-none
+www.salon.com##.gpt_in_article
+www.salon.com##.jwplayer
+www.scmagazine.com###main-header-navigation
+www.scmagazine.com##.multiple-column-asset
+www.scoringnotes.com##.footer-enjoy
+www.scoringnotes.com##.related-posts
+www.somethingawful.com##.article_nav
+www.somethingawful.com##.recent_articles
+www.somethingawful.com##.right
+www.sun-sentinel.com##.trb_nh
+www.techradar.com##.jw-carousel
+www.techradar.com##.read-more-container
+www.techradar.com##.related-articles-block
+www.techwalla.com###jwplayer-section
+www.telegraph.co.uk###tmg-related-links
+www.telegraph.co.uk##.oneSixth
+www.telegraph.co.uk##.oneThird
+www.tor.com##[href^="http://www.amazon.com/"]
+www.trustedreviews.com###header
+www.tvaddons.co###td-header-menu
+www.tvaddons.co##.td-header-menu-wrap
+www.virginislandsdailynews.com##.hidden-print
+www.vmwareandme.com###Moontricksstylepopupdiv
+www.walldevil.com##.adb
+www.wbur.org##.global-audio-components
+www.wbur.org##span > .section--island
+www.wired.com##.paywall-container-component
+www.wsj.com##.wrap
+www.youtube.com###menu-container
+www.youtube.com###merch-shelf
+www.youtube.com###sponsor-button
+www.youtube.com##.notification-button-style-type-conversation-default
+www.youtube.com##.notification-button-style-type-default
+www.youtube.com##.ytd-mini-channel-renderer
+www.youtube.com##.ytd-page-manager[page-subtype="home"]
+www.zdnet.com##[href^="https://www.zdnet.com/article/"]
+www2.0123movies.org##[href^="//"]
 yahoo.co.kr
-yimg.com
+yahoo.com
 yahoo.net
+yimg.com
+youtube.com
+yuku.com
+||/static/images/adblock_placeholder*$image
+||cdn-images-1.medium.com/max/2000/1*GPjaPKNNUYHU8EsA3Z0JGA.png$image
+||en.wikipedia.org/wiki/Main_Page|$document
+||en.wikipedia.org/wiki/Special:Search?search=&sourceid=Mozilla-search|$document
+||en.wikipedia.org/wiki/Wikipedia:*$document
+||genius.com/*/apple_music_player$subdocument
+||github.com/notifications^|$document
+||github.com^|$document
+||ignorethecode.net/blog_images/background.jpg$image
+||ignorethecode.net/blog_images/designed_for_use_second_edition.jpg$image
+||images-na.ssl-images-amazon.com/images/*/subsamazon/merch/*$image
+||krebsonsecurity.com/wp-content/uploads/2014/10/amazon-mid.png$image
+||myanimelist.cdn-dena.com/images/*/banner-*$image
+||myanimelist.cdn-dena.com/images/manga_store/*$image
+||npcvend.com/about/products.php$subdocument
+||observer.ug/images/*-728-x90-*.jpg$image
+||pastebin.com/i/steadfast_1.png$image
+||static.ak.crunchyroll.com/i/banners/*.png
+||static.ak.crunchyroll.com/i/banners/crx_banner_2018.png$image
+||www.google.com/images/branding/*$image
+||www.salon.com/stencil/public/img/salon-tv-red.png$image
