@@ -577,9 +577,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ||eafyfsuh.net/Webservices/jsParseLinks.aspx$script,third-party
 ||eafyfsuh.net/visitScript/$script,third-party
 ||egmontassets.net/random.js$script,domain=euroman.dk
-||en.wikipedia.org/wiki/Main_Page|$document
-||en.wikipedia.org/wiki/Special:Search?search=&sourceid=Mozilla-search|$document
-||en.wikipedia.org/wiki/Wikipedia:*$document
 ||esprit-click.com/display.php$subdocument,third-party
 ||esprit-click.com/ec-async.js$script,third-party
 ||europacash.com^$third-party,script
