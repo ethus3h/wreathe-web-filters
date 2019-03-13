@@ -60,6 +60,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ###hot-network-questions
 ###inproduct-guide-modal
 ###jp-relatedposts
+###js-gdpr-consent-banner
 ###lightbox_overlay
 ###m-inline-newsletter
 ###mailingListPrompt
@@ -165,6 +166,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.iph-spotlight-bg
 ##.iris_modal
 ##.join-cta
+##.js-dismissable-hero
 ##.js-metabar
 ##.js-most-popular-footer
 ##.js-postFooterPlacements
@@ -219,7 +221,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.related-content
 ##.related-guides-container
 ##.related-in-article-wrapper
-##.js-dismissable-hero
 ##.related-module
 ##.related-stories
 ##.related-stories__container
@@ -227,6 +228,8 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.related__video
 ##.related_post_wrapper
 ##.related_stories
+##.s-hero
+##.s-hero
 ##.section-more-articles
 ##.share-button
 ##.share.atom
@@ -234,6 +237,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.sharetools
 ##.sharetools-menu
 ##.shopsavvy-header
+##.sidebar-related
 ##.signup.wrapper
 ##.site-content .transporter
 ##.site-ftr__signup
@@ -267,9 +271,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.ui-small-carousel
 ##.ui-widget-overlay
 ##.uiScale-caption--regular.uiScale-ui--small
-###js-gdpr-consent-banner
-##.s-hero
-##.sidebar-related
 ##.upgrade
 ##.videoPlaylist.carousel
 ##.videowall-endscreen
@@ -342,7 +343,6 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##[href^="http://www.unix.com/"
 ##[href^="http://www.w3schools.com"]
 ##[href^="http://www.yourfilezone.com/play?lng="]
-##.s-hero
 ##[href^="https://action.metaffiliation.com/trk.php?"]
 ##[href^="https://contribute.publicradio.org/contribute.php"]
 ##[href^="https://graphicriver.net/"]
