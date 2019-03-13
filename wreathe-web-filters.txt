@@ -717,6 +717,8 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ||static.ak.crunchyroll.com/i/banners/crx_banner_2018.png$image
 ||www.google.com/images/branding/*$image
 ||www.salon.com/stencil/public/img/salon-tv-red.png$image
+||google.com/images/branding/*$image
+||salon.com/stencil/public/img/salon-tv-red.png$image
 ||online.wsj.com/javascript/abm.js$script
 ||opensource.org/files/google.png$image
 ||opensource.org/files/twitterlogo.png$image
