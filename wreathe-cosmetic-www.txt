@@ -3,7 +3,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://futuramerlin.com/
 ! Licence: https://github.com/ethus3h/wreathe-web-filters/blob/master/LICENSE.md
-! To build, copy "Site-specific cosmetic filter rules" section from main list and replace ^(.+)$ with www.$1\n
+! To build, copy "Site-specific cosmetic filter rules" section from main list and replace ^(.+)$ with www.\1
 
 ##[href^="http://100percentfedup.com"]
 ##[href^="https://100percentfedup.com"]
