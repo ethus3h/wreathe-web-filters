@@ -268,9 +268,8 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.ui-widget-overlay
 ##.uiScale-caption--regular.uiScale-ui--small
 ###js-gdpr-consent-banner
-stackexchange.com###left-sidebar
-stackexchange.com##.s-hero
-stackexchange.com##.sidebar-related
+##.s-hero
+##.sidebar-related
 ##.upgrade
 ##.videoPlaylist.carousel
 ##.videowall-endscreen
