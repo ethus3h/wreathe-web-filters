@@ -219,6 +219,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.related-content
 ##.related-guides-container
 ##.related-in-article-wrapper
+##.js-dismissable-hero
 ##.related-module
 ##.related-stories
 ##.related-stories__container
@@ -266,6 +267,10 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##.ui-small-carousel
 ##.ui-widget-overlay
 ##.uiScale-caption--regular.uiScale-ui--small
+###js-gdpr-consent-banner
+stackexchange.com###left-sidebar
+stackexchange.com##.s-hero
+stackexchange.com##.sidebar-related
 ##.upgrade
 ##.videoPlaylist.carousel
 ##.videowall-endscreen
@@ -338,6 +343,7 @@ youtube.com##.ytd-playlist-panel-video-renderer #top-level-buttons button:not(.d
 ##[href^="http://www.unix.com/"
 ##[href^="http://www.w3schools.com"]
 ##[href^="http://www.yourfilezone.com/play?lng="]
+##.s-hero
 ##[href^="https://action.metaffiliation.com/trk.php?"]
 ##[href^="https://contribute.publicradio.org/contribute.php"]
 ##[href^="https://graphicriver.net/"]
@@ -1038,6 +1044,11 @@ apple.stackexchange.com##.s-hero
 apple.stackexchange.com##.sidebar-related
 apple.stackexchange.com##.site-header
 archive.org###also-found
+stackexchange.com###js-gdpr-consent-banner
+stackexchange.com###left-sidebar
+stackexchange.com##.s-hero
+stackexchange.com##.sidebar-related
+stackexchange.com##.site-header
 aristake.com###ariChair
 aristake.com###cboxOverlay
 aristake.com###footer
