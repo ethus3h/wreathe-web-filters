@@ -1,5 +1,5 @@
 ! Title: Wreathe Web Filters — Site-specific cosmetic filters, WWW versions
-! Version: 20180611.1
+! Version: 20190313
 ! Expires: 3 days (update frequency)
 ! Homepage: https://futuramerlin.com/
 ! Licence: https://github.com/ethus3h/wreathe-web-filters/blob/master/LICENSE.md
